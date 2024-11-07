@@ -1,0 +1,4076 @@
+{
+  "2022-03-03-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Discuss exploration of LVTF community group"
+      },
+      {
+        "id": "item02",
+        "name": "Do skeleton loaders fall under inactive exemption of 1.4.11 Non-Text Contrast? #2048 <https://github.com/w3c/wcag/issues/2048>"
+      },
+      {
+        "id": "item03",
+        "name": "Clarifying 1.4.11 Understanding: border contrast when labels within input fields #1091 <https://github.com/w3c/wcag/issues/1091>"
+      },
+      {
+        "id": "item04",
+        "name": "Understanding Success Criterion 1.4.11: Non-text Contrast <https://w3c.github.io/wcag/understanding/non-text-contrast.html#figure-focus-inner>"
+      },
+      {
+        "id": "item05",
+        "name": "Can we consider a technique to meet Focus appearance that exposes tooltips? <https://github.com/w3c/wcag/issues/2139>"
+      },
+      {
+        "id": "item06",
+        "name": "What does \"content\" mean in SC 1.4.10 Reflow <https://github.com/w3c/wcag/issues/2073>"
+      },
+      {
+        "id": "item07",
+        "name": "next steps"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Task force agrees that some indication of page/content loading needs to have sufficient contrast but the skeleton itself does not need to",
+        "topic": "Do skeleton loaders fall under inactive exemption of 1.4.11 Non-Text Contrast? #2048 <https://github.com/w3c/wcag/issues/2048>"
+      }
+    ],
+    "href": "/2022/03/03-lvtf-minutes"
+  },
+  "2022-02-17-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Proximity guidance - Content discussion (https://github.com/w3c/low-vision-a11y-tf/discussions/133)"
+      },
+      {
+        "id": "item02",
+        "name": "Alternative Themes guidance - Content discussion (https://github.com/w3c/low-vision-a11y-tf/discussions/139)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/17-lvtf-minutes"
+  },
+  "2022-02-03-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Discuss Alternative Themes - User Needs (https://github.com/w3c/low-vision-a11y-tf/discussions/139)"
+      },
+      {
+        "id": "item02",
+        "name": "Discuss Alternative Themes - What To Do"
+      },
+      {
+        "id": "item03",
+        "name": "Discuss Alternative Themes - How it Helps"
+      },
+      {
+        "id": "item04",
+        "name": "Discuss Alternative Themes - Description"
+      },
+      {
+        "id": "item05",
+        "name": "Discuss Alternative Themes - Getting Started"
+      },
+      {
+        "id": "item06",
+        "name": "Discuss Alternative Themes - Examples"
+      },
+      {
+        "id": "item07",
+        "name": "Discuss Alternative Themes - Support"
+      },
+      {
+        "id": "item08",
+        "name": "Discuss Alternative Themes - Related WCAG"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/03-lvtf-minutes"
+  },
+  "2022-01-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Discussion related to Proximity User Needs (https://github.com/w3c/low-vision-a11y-tf/discussions/13"
+      },
+      {
+        "id": "item02",
+        "name": "When do we introduce important terms?"
+      },
+      {
+        "id": "item03",
+        "name": "Discussion related to Proximity What To D"
+      },
+      {
+        "id": "item04",
+        "name": "open issues"
+      },
+      {
+        "id": "item05",
+        "name": "Support section"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Make this guidance about visual proximity - we may do audio one separate - we should make reference to audio.",
+        "topic": "Discussion related to Proximity User Needs (https://github.com/w3c/low-vision-a11y-tf/discussions/13"
+      },
+      {
+        "id": "resolution02",
+        "content": "For this one we will have a section for important terms like point of regard and leaving open if it needs anything else.",
+        "topic": "When do we introduce important terms?"
+      },
+      {
+        "id": "resolution03",
+        "content": "Try having a section like a quick check section",
+        "topic": "Discussion related to Proximity What To D"
+      },
+      {
+        "id": "resolution04",
+        "content": "include images at the top that relate to and illustrate user needs.",
+        "topic": "open issues"
+      }
+    ],
+    "href": "/2022/01/20-lvtf-minutes"
+  },
+  "2021-12-17-lvtf": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/12/17-lvtf-minutes"
+  },
+  "2021-12-16-lvtf": {
+    "title": "Low Vision Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Brief introduction of the group -- taken up"
+      },
+      {
+        "id": "t02",
+        "name": "IRC, statement on minutes (the meeting will not be recorded) -- taken up"
+      },
+      {
+        "id": "t03",
+        "name": "Short introduction of 2 minutes for each person who has signed up to overview their work before the main presentation -- taken up"
+      },
+      {
+        "id": "t04",
+        "name": "Presentation from Gordon Legge and Yingzi Xiong on simulating low vision -- taken up"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/12/16-lvtf-minutes"
+  },
+  "2021-12-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Proximity https://github.com/w3c/low-vision-a11y-tf/discussions/133"
+      },
+      {
+        "id": "item02",
+        "name": "Alternative themes (high contrast, dark mode) https://github.com/w3c/low-vision-a11y-tf/discussions/139"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/12/02-lvtf-minutes"
+  },
+  "2021-11-18-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Color Vision Deficiency"
+      },
+      {
+        "id": "item02",
+        "name": "Need for more guidance on reflow and web apps/software"
+      },
+      {
+        "id": "item04",
+        "name": "Simulating low vision article"
+      },
+      {
+        "id": "item05",
+        "name": "Update on Supplemental Guidance"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "accept the replacement for colorblind in W3C WAI resources.",
+        "topic": "Color Vision Deficiency"
+      }
+    ],
+    "href": "/2021/11/18-lvtf-minutes"
+  },
+  "2021-11-04-lvtf": {
+    "title": "LVTF",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "logistics"
+      },
+      {
+        "id": "item02",
+        "name": "Process and template - Open issues on template"
+      },
+      {
+        "id": "item03",
+        "name": "Supplemental guidance table (updated document coming later)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/11/04-lvtf-minutes"
+  },
+  "2021-10-21-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "color vision deficiency"
+      },
+      {
+        "id": "item02",
+        "name": "draft Text Guidance https://github.com/w3c/low-vision-a11y-tf/discussions/129"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/10/21-lvtf-minutes"
+  },
+  "2021-10-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/10/20-lvtf-minutes"
+  },
+  "2021-10-07-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Introduction/welcome"
+      },
+      {
+        "id": "item02",
+        "name": "CDV discussion"
+      },
+      {
+        "id": "item03",
+        "name": "Font-x-size"
+      },
+      {
+        "id": "item04",
+        "name": "Supplemental Guidance"
+      },
+      {
+        "id": "item05",
+        "name": "Process for Supplemental Guidance"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/10/07-lvtf-minutes"
+  },
+  "2021-09-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Expectations for group"
+      },
+      {
+        "id": "t02",
+        "name": "Supplemental Guidance"
+      },
+      {
+        "id": "t03",
+        "name": "Next meeting and next steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/09/09-lvtf-minutes"
+  },
+  "2021-08-26-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introductions (Jon ~10 mins)"
+      },
+      {
+        "id": "t02",
+        "name": "Work modes (Jon ~15 mins)"
+      },
+      {
+        "id": "t03",
+        "name": "Past work overview (Chris ~10 mins)"
+      },
+      {
+        "id": "t04",
+        "name": "Current work options (Chris ~15 mins)"
+      },
+      {
+        "id": "t05",
+        "name": "Next steps (Chris ~5 mins)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/08/26-lvtf-minutes"
+  },
+  "2021-03-23-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/03/23-lvtf-minutes"
+  },
+  "2019-12-05-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/12/05-lvtf-minutes"
+  },
+  "2019-10-10-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review Text Spacing Prototype for Silver"
+      },
+      {
+        "id": "item02",
+        "name": "common needs for text spacing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/10-lvtf-minutes"
+  },
+  "2019-09-19-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/09/19-lvtf-minutes"
+  },
+  "2019-09-12-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "operating system settings"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/09/12-lvtf-minutes"
+  },
+  "2019-09-05-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "focus visible - review on 2.2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/09/05-lvtf-minutes"
+  },
+  "2019-08-29-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Typeface"
+      },
+      {
+        "id": "item02",
+        "name": "focus visible - review on 2.2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/08/29-lvtf-minutes"
+  },
+  "2019-08-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/08/15-lvtf-minutes"
+  },
+  "2019-08-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.4.12"
+      },
+      {
+        "id": "item02",
+        "name": "focus visible - review on 2.2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/08/08-lvtf-minutes"
+  },
+  "2019-07-25-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue resolution - Change to normative text of 1.4.12: at least > up to #637"
+      },
+      {
+        "id": "item02",
+        "name": "Do you agree with the change to the normative SC text? (yes/no)"
+      },
+      {
+        "id": "item03",
+        "name": "misunderstanding of authors using SC settings as default"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "leave current 1.4.12 SC test as \"at least\" ... Change the understanding document for 1.4.12 and LVTF will update the doc",
+        "topic": "Do you agree with the change to the normative SC text? (yes/no)"
+      }
+    ],
+    "href": "/2019/07/25-lvtf-minutes"
+  },
+  "2019-07-18-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Personalization Working Drafts updated."
+      },
+      {
+        "id": "item02",
+        "name": "\"Inaccessibility of CAPTCHA\" Draft"
+      },
+      {
+        "id": "item03",
+        "name": "Catchup"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/07/18-lvtf-minutes"
+  },
+  "2019-06-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "AGWG charter review"
+      },
+      {
+        "id": "item02",
+        "name": "WCAG 2.1 techniques https://docs.google.com/spreadsheets/d/15idlBl1qQTNr2SIi4Drzk1Q1vnWAi5L26GCCv6mjD2g/edit#gid=0"
+      },
+      {
+        "id": "item03",
+        "name": "WAI Guide - Update (Shawn)"
+      },
+      {
+        "id": "item04",
+        "name": "Supplemental Guidance Brainstorm"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/06/06-lvtf-minutes"
+  },
+  "2019-05-30-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Google research - non-text contrast"
+      },
+      {
+        "id": "item02",
+        "name": "Review changes to Requirements Document http://htmlpreview.github.io//?https://github.com/w3c/low-vision-a11y-tf/blob/jim-edits/requirements.html"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Use color wheels with black lines and not with white and black lines for reasons discussed.",
+        "topic": "Google research - non-text contrast"
+      }
+    ],
+    "href": "/2019/05/30-lvtf-minutes"
+  },
+  "2019-05-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WCAG 2.2 LV SC https://docs.google.com/spreadsheets/d/1yjrfIP9KLqTn_Jlq6-T1JvsqY924R_5z1WI2YLv3obc/edit#gid=0"
+      },
+      {
+        "id": "item02",
+        "name": "Important Threads on AGWG"
+      },
+      {
+        "id": "item03",
+        "name": "Laura's updated images"
+      },
+      {
+        "id": "item04",
+        "name": "Review changes to Requirements Document http://htmlpreview.github.io//?https://github.com/w3c/low-vision-a11y-tf/blob/jim-edits/requirements.html"
+      },
+      {
+        "id": "item05",
+        "name": "don't rely on color alone."
+      },
+      {
+        "id": "item06",
+        "name": "change rewrap to relow in document"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/05/09-lvtf-minutes"
+  },
+  "2019-05-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "https://github.com/w3c/low-vision-a11y-tf"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/05/02-lvtf-minutes"
+  },
+  "2019-04-25-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "e-mail to AGWG"
+      },
+      {
+        "id": "item02",
+        "name": "what do we need to finish the Requirements doc?"
+      },
+      {
+        "id": "item03",
+        "name": "document the exceptions - provide guidance (e.g. focus visible)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/25-lvtf-minutes"
+  },
+  "2019-04-11-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "EOWG Accessibility Principles"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/11-lvtf-minutes"
+  },
+  "2019-04-04-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Contrast"
+      },
+      {
+        "id": "item02",
+        "name": "Label Proximity"
+      },
+      {
+        "id": "item03",
+        "name": "Erich questions"
+      },
+      {
+        "id": "item04",
+        "name": "WCAG 2.2 SCs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/04-lvtf-minutes"
+  },
+  "2019-03-21-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.4.10 Reflow"
+      },
+      {
+        "id": "item02",
+        "name": "label proximity"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/03/21-lvtf-minutes"
+  },
+  "2019-02-21-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/02/21-lvtf-minutes"
+  },
+  "2019-02-14-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "\"Supplemental Guidance\""
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/02/14-lvtf-minutes"
+  },
+  "2019-02-07-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review new WG process https://www.w3.org/WAI/GL/wiki/WCAG_2.2_working_process"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "LVTF prioritizes focus and control affordance to be a critice SC",
+        "topic": "review new WG process https://www.w3.org/WAI/GL/wiki/WCAG_2.2_working_process"
+      }
+    ],
+    "href": "/2019/02/07-lvtf-minutes"
+  },
+  "2019-01-31-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/01/31-lvtf-minutes"
+  },
+  "2019-01-24-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.4.13 work session"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/24-lvtf-minutes"
+  },
+  "2019-01-17-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Clarify 1.4.13 https://lists.w3.org/Archives/Public/public-low-vision-a11y-tf/2019Jan/0011.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/17-lvtf-minutes"
+  },
+  "2019-01-03-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/01/03-lvtf-minutes"
+  },
+  "2018-12-13-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Gap Analysis/User Requirements- Review 2.1 SCs http://w3c.github.io/low-vision-a11y-tf/user-needs-coverage.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/12/13-lvtf-minutes"
+  },
+  "2018-12-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "overview"
+      },
+      {
+        "id": "item02",
+        "name": "Gap Analysis/User Requirements- Review 2.1 SCs http://w3c.github.io/low-vision-a11y-tf/user-needs-coverage.html"
+      },
+      {
+        "id": "item03",
+        "name": "Non-Text Contrast Updates https://github.com/w3c/wcag/pull/550"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/12/06-lvtf-minutes"
+  },
+  "2018-11-29-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "personalization vocabulary"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/11/29-lvtf-minutes"
+  },
+  "2018-11-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/11/15-lvtf-minutes"
+  },
+  "2018-11-14-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Coordination between LVTF and Personalization"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/11/14-lvtf-minutes"
+  },
+  "2018-11-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/11/08-lvtf-minutes"
+  },
+  "2018-09-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "horizontal scrolling and reflow - thread https://lists.w3.org/Archives/Public/w3c-wai-gl/2018JulSep/0299.html"
+      },
+      {
+        "id": "item02",
+        "name": "Process suvey"
+      },
+      {
+        "id": "item03",
+        "name": "upcoming meeting schedule: https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Main_Page#Meeting_Schedule"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/09/20-lvtf-minutes"
+  },
+  "2018-09-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/09/06-lvtf-minutes"
+  },
+  "2018-08-30-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Techniques - Sticky Header/Footers https://github.com/w3c/wcag/pull/389"
+      },
+      {
+        "id": "item02",
+        "name": "Techniques https://github.com/w3c/wcag/pulls?q=is%3Apr+is%3Aopen+label%3A%22Ready+for+initial+review%22"
+      },
+      {
+        "id": "item03",
+        "name": "Hover"
+      },
+      {
+        "id": "item04",
+        "name": "other"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/30-lvtf-minutes"
+  },
+  "2018-08-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WebAIM Low Vision Survey #2 Draft Review"
+      },
+      {
+        "id": "item02",
+        "name": "primary device"
+      },
+      {
+        "id": "item03",
+        "name": "AT that is used"
+      },
+      {
+        "id": "item04",
+        "name": "primary screen reader"
+      },
+      {
+        "id": "item05",
+        "name": "keyboard"
+      },
+      {
+        "id": "item06",
+        "name": "mobile platform"
+      },
+      {
+        "id": "item07",
+        "name": "Accessibility settings"
+      },
+      {
+        "id": "item08",
+        "name": "voice assistant"
+      },
+      {
+        "id": "item09",
+        "name": "magnification level"
+      },
+      {
+        "id": "item10",
+        "name": "custom styles"
+      },
+      {
+        "id": "item11",
+        "name": "nav by headings"
+      },
+      {
+        "id": "item12",
+        "name": "accessibility feelings"
+      },
+      {
+        "id": "item13",
+        "name": "social media"
+      },
+      {
+        "id": "item14",
+        "name": "custom styles"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/16-lvtf-minutes"
+  },
+  "2018-08-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Please review Reflow Understanding Doc - wording changes https://www.w3.org/WAI/WCAG21/Understanding/reflow.html"
+      },
+      {
+        "id": "item02",
+        "name": "F87, Issue 433 Generated Content - Wayne response - https://drive.google.com/file/d/1TfmTC3U1zFd9Hz8Oankfm-uV30xUjsmw/view?ts=5b6b3bbe"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/09-lvtf-minutes"
+  },
+  "2018-08-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue 433 revise or drop F87: Failure of Success Criterion 1.3.1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/02-lvtf-minutes"
+  },
+  "2018-07-12-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "New Member Jason Grieves, Microsoft Low Vision Coordinator"
+      },
+      {
+        "id": "item02",
+        "name": "Silver request - proposal testing with LV SC that did not make 2.1 (we need to pick)"
+      },
+      {
+        "id": "item03",
+        "name": "Reflow technique - Text spacing override https://rawgit.com/w3c/wcag/tech-spacing-override/techniques/css/spacing-override.html"
+      },
+      {
+        "id": "item04",
+        "name": "Reflow technique - Long URLs https://rawgit.com/allanj-uaag/wcag21/tech-reflow/tech-reflow-url.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/12-lvtf-minutes"
+  },
+  "2018-06-21-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WCAG Techniques"
+      },
+      {
+        "id": "item02",
+        "name": "Low Vision Survey"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/06/21-lvtf-minutes"
+  },
+  "2018-05-31-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.4.11 discuss current wording. Make resolution."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/31-lvtf-minutes"
+  },
+  "2018-05-24-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "rebooting WebAIM low vision survey - Jared Smith"
+      },
+      {
+        "id": "item02",
+        "name": "TPAC October (reminder - complete survey)"
+      },
+      {
+        "id": "item03",
+        "name": "persona quotes updated from EOWG https://docs.google.com/document/d/1pYF6V8_Ce_ZSagb9c7_nj560ned_Vmgd3y7obAWKnk4/edit"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/24-lvtf-minutes"
+  },
+  "2018-05-17-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/05/17-lvtf-minutes"
+  },
+  "2018-05-10-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WebAIM survey"
+      },
+      {
+        "id": "item02",
+        "name": "Understanding Docs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/10-lvtf-minutes"
+  },
+  "2018-04-19-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/04/19-lvtf-minutes"
+  },
+  "2018-04-12-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey to Advance to Proposed Rec"
+      },
+      {
+        "id": "item02",
+        "name": "Understanding Doc Survey https://www.w3.org/2002/09/wbs/35422/Clearing_Understanding"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/04/12-lvtf-minutes"
+  },
+  "2018-03-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "low contrast borders --https://w3c.github.io/wai-intro-accessibility/fundamentals/accessibility-intro/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/15-lvtf-minutes"
+  },
+  "2018-03-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WCAG21 timeline"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/08-lvtf-minutes"
+  },
+  "2018-03-01-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "CR evaluation tool update https://www.w3.org/WAI/GL/WCAG21/CR/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/01-lvtf-minutes"
+  },
+  "2018-02-22-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "InfoGraphics"
+      },
+      {
+        "id": "item02",
+        "name": "reflow"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/22-lvtf-minutes"
+  },
+  "2018-02-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Tracking Implementations - New Tool coming"
+      },
+      {
+        "id": "item02",
+        "name": "EO Review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/15-lvtf-minutes"
+  },
+  "2018-02-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Magnified caption Files https://lists.w3.org/Archives/Public/public-low-vision-a11y-tf/2018Feb/0009.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/08-lvtf-minutes"
+  },
+  "2018-02-01-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Non-Text Contrast Understanding. http://rawgit.com/alastc/wcag21/graphics-contrast-rename/understanding/21/non-text-contrast.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/01-lvtf-minutes"
+  },
+  "2018-01-25-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "At Risk status (testing & definition)"
+      },
+      {
+        "id": "item02",
+        "name": "reflow & zoom"
+      },
+      {
+        "id": "item03",
+        "name": "Adapting text"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/01/25-lvtf-minutes"
+  },
+  "2018-01-18-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Technique Creation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/01/18-lvtf-minutes"
+  },
+  "2018-01-04-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/01/04-lvtf-minutes"
+  },
+  "2017-12-14-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Holiday Schedule"
+      },
+      {
+        "id": "#item02",
+        "name": "Understanding Docs - survey https://www.w3.org/2002/09/wbs/81151/understanding/"
+      },
+      {
+        "id": "item03",
+        "name": "Other Documentation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/12/14-lvtf-minutes"
+  },
+  "2017-12-07-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "EOWG folks & Shadi helping with Understanding Docs"
+      },
+      {
+        "id": "item02",
+        "name": "Understanding Docs Survey - https://www.w3.org/2002/09/wbs/81151/understanding/results"
+      },
+      {
+        "id": "item03",
+        "name": "Zoom"
+      },
+      {
+        "id": "item04",
+        "name": "Hover"
+      },
+      {
+        "id": "item05",
+        "name": "Graphics"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/12/07-lvtf-minutes"
+  },
+  "2017-11-30-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/11/30-lvtf-minutes"
+  },
+  "2017-11-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "content on hover"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/11/09-lvtf-minutes"
+  },
+  "2017-11-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC Agenda & Logistics https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/F2F_TPAC_2017"
+      },
+      {
+        "id": "item02",
+        "name": "Understanding Zoom Content https://rawgit.com/w3c/wcag21/zoom-content/understanding/21/zoom-content.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/11/02-lvtf-minutes"
+  },
+  "2017-10-26-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "techniques for 1.4.10, 1.4.13, 1.4.14"
+      },
+      {
+        "id": "item02",
+        "name": "Review Hover Understanding"
+      },
+      {
+        "id": "item03",
+        "name": "techniques for 1.4.10, 1.4.13, 1.4.14"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/26-lvtf-minutes"
+  },
+  "2017-10-19-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "defending 4.5:1 https://www.w3.org/2002/09/wbs/35422/Oct_17th_agwg/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/19-lvtf-minutes"
+  },
+  "2017-10-12-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "define vicusal indicators"
+      },
+      {
+        "id": "item02",
+        "name": "1.4.12 'essential' and exceptions"
+      },
+      {
+        "id": "item03",
+        "name": "1.4.12 Push for 3:1 graphics contrast https://github.com/w3c/wcag21/issues/251"
+      },
+      {
+        "id": "item04",
+        "name": "Agenda+ icon font technique https://github.com/w3c/wcag21/issues/297"
+      },
+      {
+        "id": "item05",
+        "name": "1.4.11 questions about zoom content (ready to close?) https://github.com/w3c/wcag21/issues/250"
+      },
+      {
+        "id": "item06",
+        "name": "Schedule review of remaining Understanding docs: Zoom, Hover"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/12-lvtf-minutes"
+  },
+  "2017-10-05-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "zoom"
+      },
+      {
+        "id": "item02",
+        "name": "Understanding Graphics Contrast https://www.w3.org/2002/09/wbs/81151/Understanding2/results#xq1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/05-lvtf-minutes"
+  },
+  "2017-09-28-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Schedule review of remaining Understanding docs: Zoom, Graphics Contrast, Hover"
+      },
+      {
+        "id": "item02",
+        "name": "Any other business?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/09/28-lvtf-minutes"
+  },
+  "2017-09-14-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "house keeping"
+      },
+      {
+        "id": "item02",
+        "name": "Content on hover or focus"
+      },
+      {
+        "id": "item03",
+        "name": "3:1 vs 4.5:1 contrast ratio graphics and UI"
+      },
+      {
+        "id": "item04",
+        "name": "Adapting text"
+      },
+      {
+        "id": "item05",
+        "name": "adapting text & PDF"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/09/14-lvtf-minutes"
+  },
+  "2017-09-07-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review SCs not accepted for 2.1 https://docs.google.com/spreadsheets/d/1XShLFX8fxHYYLn8A6avDwu37w9JfnZCGWvAKBpK9Xo4/edit#gid=264773938"
+      },
+      {
+        "id": "item02",
+        "name": "Understanding Docs https://www.w3.org/WAI/GL/wiki/Accepted_WCAG_2.1_SC"
+      },
+      {
+        "id": "item03",
+        "name": "New Comments issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/09/07-lvtf-minutes"
+  },
+  "2017-08-31-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Popup Interference (MetaData on Hover)"
+      },
+      {
+        "id": "item02",
+        "name": "Printing https://github.com/w3c/wcag21/issues/76"
+      },
+      {
+        "id": "item03",
+        "name": "Accessibility Conformance Testing Rules Format (DRAFT)"
+      },
+      {
+        "id": "item04",
+        "name": "Understanding Docs https://www.w3.org/WAI/GL/wiki/Accepted_WCAG_2.1_SC"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/08/31-lvtf-minutes"
+  },
+  "2017-08-24-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Understanding https://github.com/w3c/wcag21/tree/master/understanding/21"
+      },
+      {
+        "id": "item02",
+        "name": "Printing https://github.com/w3c/wcag21/issues/76"
+      },
+      {
+        "id": "item03",
+        "name": "Testing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/08/24-lvtf-minutes"
+  },
+  "2017-08-10-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Popup Interference (MetaData on Hover)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/08/10-lvtf-minutes"
+  },
+  "2017-08-03-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Any issues with any other SCs. Progress on Understanding"
+      },
+      {
+        "id": "item02",
+        "name": "Popup Interference (MetaData on Hover)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/08/03-lvtf-minutes"
+  },
+  "2017-07-27-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Popup Interference (MetaData on Hover)"
+      },
+      {
+        "id": "item02",
+        "name": "Printing https://github.com/w3c/wcag21/issues/76"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept Popup Interference above",
+        "topic": "Popup Interference (MetaData on Hover)"
+      },
+      {
+        "id": "resolution02",
+        "content": "send to AG: \"essential information can be printed with no loss of content\"",
+        "topic": "Printing https://github.com/w3c/wcag21/issues/76"
+      }
+    ],
+    "href": "/2017/07/27-lvtf-minutes"
+  },
+  "2017-07-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Fixed Headers (related to 77 resize content)"
+      },
+      {
+        "id": "item02",
+        "name": "Popup Interference (MetaData on Hover)"
+      },
+      {
+        "id": "item03",
+        "name": "Reflow/linearize"
+      },
+      {
+        "id": "item04",
+        "name": "personalization"
+      },
+      {
+        "id": "item05",
+        "name": "Reflow/Linearize"
+      },
+      {
+        "id": "item06",
+        "name": "Popup Interference (MetaData on Hover)"
+      },
+      {
+        "id": "item07",
+        "name": "printing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/07/20-lvtf-minutes"
+  },
+  "2017-07-13-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/07/13-lvtf-minutes"
+  },
+  "2017-07-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/07/06-lvtf-minutes"
+  },
+  "2017-06-29-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "printing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/06/29-lvtf-minutes"
+  },
+  "2017-06-22-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Recap of Discussion with Dr Arditi"
+      },
+      {
+        "id": "item02",
+        "name": "remaining SCs"
+      },
+      {
+        "id": "item03",
+        "name": "color"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/06/22-lvtf-minutes"
+  },
+  "2017-06-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Prioritize remaining SC for surveys before Aug 22 cutoff"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 10 Interface control Contrast (coming up next week on AG - for sure) - need anything Glenda?"
+      },
+      {
+        "id": "item03",
+        "name": "Letter spacing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/06/15-lvtf-minutes"
+  },
+  "2017-06-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue 77 Resize Content (1-2 minutes"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 10 Interface control Contrast (coming up next week on AG - for sure) - need anything Glenda?"
+      },
+      {
+        "id": "item03",
+        "name": "adapting text - add Font back in discussion"
+      },
+      {
+        "id": "item04",
+        "name": "icon font technique"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/06/08-lvtf-minutes"
+  },
+  "2017-06-01-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Understanding Docs. https://github.com/w3c/wcag21/tree/master/understanding/21"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 10 Interface control Contrast (coming up next week on AG)"
+      },
+      {
+        "id": "item03",
+        "name": "Font width"
+      },
+      {
+        "id": "item04",
+        "name": "icon fonts"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/06/01-lvtf-minutes"
+  },
+  "2017-05-25-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "SC management (surveys, issue status)"
+      },
+      {
+        "id": "item02",
+        "name": "Resize Text."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/05/25-lvtf-minutes"
+  },
+  "2017-05-11-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "no call next week 19 May"
+      },
+      {
+        "id": "item02",
+        "name": "Contrast controls status"
+      },
+      {
+        "id": "item03",
+        "name": "adapting text"
+      },
+      {
+        "id": "item04",
+        "name": "Sprites, backgrounds, icon fonts."
+      },
+      {
+        "id": "item05",
+        "name": "transparancy issue"
+      },
+      {
+        "id": "item06",
+        "name": "html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/05/11-lvtf-minutes"
+  },
+  "2017-05-04-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Contrast Smith-Kettlewell"
+      },
+      {
+        "id": "item02",
+        "name": "Text adaptation user to content requirements https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Text_adaptation_user_to_content_requirements"
+      },
+      {
+        "id": "item03",
+        "name": "Items that are hidden with color become visible"
+      },
+      {
+        "id": "item04",
+        "name": "The author uses transparent images for controls that depend on the pages background color for visibility"
+      },
+      {
+        "id": "item05",
+        "name": "The author uses sprite taken from the background image."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "WE WILL UPDATE ISSUES 9 & 10 WITH TEXT ABOVE",
+        "topic": "Contrast Smith-Kettlewell"
+      },
+      {
+        "id": "resolution02",
+        "content": "WE WILL UPDATE USER NEEDS 2.4.3 WITH TEXT ABOVE",
+        "topic": "Contrast Smith-Kettlewell"
+      }
+    ],
+    "href": "/2017/05/04-lvtf-minutes"
+  },
+  "2017-04-27-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Resize Content"
+      },
+      {
+        "id": "item02",
+        "name": "IDE"
+      },
+      {
+        "id": "item03",
+        "name": "mobile devices and text resize"
+      },
+      {
+        "id": "item04",
+        "name": "Adapting Text - color & font"
+      },
+      {
+        "id": "item05",
+        "name": "Semantics."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "removing font family from Adapting Text SC text, because font width is very similar to letter spacing. we will address spacing and font family in the understanding document.",
+        "topic": "Adapting Text - color & font"
+      }
+    ],
+    "href": "/2017/04/27-lvtf-minutes"
+  },
+  "2017-04-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "reminder Joint LVTF & COGA call Mon 24 April. Topic: personalization"
+      },
+      {
+        "id": "item02",
+        "name": "User Needs Document - publishing timeline, Issues"
+      },
+      {
+        "id": "item03",
+        "name": "interface affordance"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/04/20-lvtf-minutes"
+  },
+  "2017-04-13-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "only 30min today"
+      },
+      {
+        "id": "item02",
+        "name": "w3 process"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/04/13-lvtf-minutes"
+  },
+  "2017-04-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/04/06-lvtf-minutes"
+  },
+  "2017-03-30-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Adapting Text...Add bullet to Adapting text to \"increase spacing between columns\""
+      },
+      {
+        "id": "item02",
+        "name": "Mechanism Language"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Not have the extra bullet for extra spacing between columns.",
+        "topic": "Adapting Text...Add bullet to Adapting text to \"increase spacing between columns\""
+      },
+      {
+        "id": "resolution02",
+        "content": "Not have the extra bullet for extra spacing between columns.",
+        "topic": "Adapting Text...Add bullet to Adapting text to \"increase spacing between columns\""
+      }
+    ],
+    "href": "/2017/03/30-lvtf-minutes"
+  },
+  "2017-03-23-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Adapting Text"
+      },
+      {
+        "id": "item02",
+        "name": "user interface controls contrast"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/23-lvtf-minutes"
+  },
+  "2017-03-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Update from SC managers"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/16-lvtf-minutes"
+  },
+  "2017-03-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "noto Sans font http://htmlpreview.github.io/?https://github.com/w3c/wai-website-design/blob/master/font-check.html"
+      },
+      {
+        "id": "item02",
+        "name": "Alexa/COGA - JohnR"
+      },
+      {
+        "id": "item03",
+        "name": "User interface contrast - on hover or focus, is it covered?"
+      },
+      {
+        "id": "item04",
+        "name": "create LV tools page?"
+      },
+      {
+        "id": "item05",
+        "name": "graphics contrast images"
+      },
+      {
+        "id": "item06",
+        "name": "\"support\" vs \"a mechanism exists\" or other wording"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/09-lvtf-minutes"
+  },
+  "2017-02-23-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "CSUN"
+      },
+      {
+        "id": "item02",
+        "name": "User Agent Switcher - select mobile browser for single column page (i.e. github)"
+      },
+      {
+        "id": "item03",
+        "name": "WCAG 2.1 FPWD https://rawgit.com/w3c/wcag21/FPWD_review/guidelines/index.html"
+      },
+      {
+        "id": "item04",
+        "name": "\"Essential\" in SC"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/23-lvtf-minutes"
+  },
+  "2017-02-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Open AG questionnaires"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/16-lvtf-minutes"
+  },
+  "2017-02-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review SCs from WCAG"
+      },
+      {
+        "id": "item02",
+        "name": "enlargement without word wrapping is not accessibility support"
+      },
+      {
+        "id": "item03",
+        "name": "New SC survey"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Enlargement without word wrapping is not accessibility support.",
+        "topic": "enlargement without word wrapping is not accessibility support"
+      }
+    ],
+    "href": "/2017/02/09-lvtf-minutes"
+  },
+  "2017-02-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review SCs from WCAG"
+      },
+      {
+        "id": "item02",
+        "name": "Web Technology Accessibility Guidelines Checklist http://w3c.github.io/pfwg/wtag/checklist.html"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "The User Interface Component Contrast SC as discussed above is approved with necessary edits.",
+        "topic": "Review SCs from WCAG"
+      }
+    ],
+    "href": "/2017/02/02-lvtf-minutes"
+  },
+  "2017-01-26-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "FPWD of WCAG 2.1 coming up."
+      },
+      {
+        "id": "item02",
+        "name": "Reports from SC Managers"
+      },
+      {
+        "id": "item03",
+        "name": "Printing"
+      },
+      {
+        "id": "item04",
+        "name": "combination of Font, Color, Spacing"
+      },
+      {
+        "id": "item05",
+        "name": "interactive contrast elements"
+      },
+      {
+        "id": "item06",
+        "name": "Informational Graphic Issue 9"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/26-lvtf-minutes"
+  },
+  "2017-01-19-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "User Adaptation SCs and \"a mechanism is available\" (Alistair) https://lists.w3.org/Archives/Public/public-low-vision-a11y-tf/2017Jan/0023.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/19-lvtf-minutes"
+  },
+  "2017-01-12-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "hyphenation"
+      },
+      {
+        "id": "item02",
+        "name": "General discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/12-lvtf-minutes"
+  },
+  "2017-01-05-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Spacing https://github.com/w3c/wcag21/issues/78 (Laura)"
+      },
+      {
+        "id": "item02",
+        "name": "Interactive Element contrast https://github.com/w3c/wcag21/issues/10 (Glenda)"
+      },
+      {
+        "id": "item03",
+        "name": "Color/Contrast - Focus indicator http://www.glendathegood.com/a11y/colorcontrastblackwhite.html (Glenda)"
+      },
+      {
+        "id": "item04",
+        "name": "Combining Line Length(57) and Reflow (58) see row 5"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/05-lvtf-minutes"
+  },
+  "2016-12-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Meeting during next 2 weeks"
+      },
+      {
+        "id": "item02",
+        "name": "Review Current Active SCs"
+      },
+      {
+        "id": "item03",
+        "name": "Informational Graphics Contrast https://github.com/w3c/wcag21/issues/9"
+      },
+      {
+        "id": "item04",
+        "name": "Interactive Element contrast https://github.com/w3c/wcag21/issues/10"
+      },
+      {
+        "id": "item05",
+        "name": "Reflow to single column https://github.com/w3c/wcag21/issues/58"
+      },
+      {
+        "id": "item06",
+        "name": "Resize Content https://github.com/w3c/wcag21/issues/77"
+      },
+      {
+        "id": "item07",
+        "name": "Font Family https://github.com/w3c/wcag21/issues/79"
+      },
+      {
+        "id": "item08",
+        "name": "overlap with coga 36 and LVTF 10 contrast disabled elements"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/12/15-lvtf-minutes"
+  },
+  "2016-12-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "December meetings https://www.w3.org/2002/09/wbs/81151/LVTF-telecons/results"
+      },
+      {
+        "id": "item02",
+        "name": "SC Manager"
+      },
+      {
+        "id": "item03",
+        "name": "WCAG survey New SCs https://www.w3.org/2002/09/wbs/35422/NewSC_20161122/"
+      },
+      {
+        "id": "item04",
+        "name": "Overlaps/reconcilliation between LFTF and COGA"
+      },
+      {
+        "id": "item05",
+        "name": "LVTF FAQs"
+      },
+      {
+        "id": "item06",
+        "name": "Issues 8 and 80"
+      },
+      {
+        "id": "item07",
+        "name": "Close Text Size"
+      },
+      {
+        "id": "item08",
+        "name": "Finish low vision requirements -"
+      },
+      {
+        "id": "item09",
+        "name": "graphics contrast"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Move benefits from Issue 80 to Issue 77 and close Issue 80 - https://github.com/w3c/wcag21/issues/80",
+        "topic": "Issues 8 and 80"
+      },
+      {
+        "id": "resolution02",
+        "content": "Defer any VR SC's to Silver group",
+        "topic": "graphics contrast"
+      }
+    ],
+    "href": "/2016/12/08-lvtf-minutes"
+  },
+  "2016-12-01-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Metadata on Hover"
+      },
+      {
+        "id": "item02",
+        "name": "Text Colors"
+      },
+      {
+        "id": "item03",
+        "name": "Metadata on Hover"
+      },
+      {
+        "id": "item04",
+        "name": "Printing Customized text"
+      },
+      {
+        "id": "item05",
+        "name": "Size of all Content"
+      },
+      {
+        "id": "item06",
+        "name": "Font Family"
+      },
+      {
+        "id": "item07",
+        "name": "seeing all interface elements"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Text Colors https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Text_Colors ready for WCAG 2.1",
+        "topic": "Text Colors"
+      },
+      {
+        "id": "resolution02",
+        "content": "Metadata on Hover is ready for WCAG.",
+        "topic": "Metadata on Hover"
+      },
+      {
+        "id": "resolution03",
+        "content": "Printing Customized Text is ready for WCAG WG",
+        "topic": "Printing Customized text"
+      },
+      {
+        "id": "resolution04",
+        "content": "Resize content https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Size_of_all_elements is ready to go to WCAG",
+        "topic": "Size of all Content"
+      },
+      {
+        "id": "resolution05",
+        "content": "Spacing https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Spacing is ready to go to WCAG",
+        "topic": "Font Family"
+      },
+      {
+        "id": "resolution06",
+        "content": "Font https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Font is ready for WCAG",
+        "topic": "Font Family"
+      },
+      {
+        "id": "resolution07",
+        "content": "Seeing all Interface elements https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Seeing_All_Interface_Element is ready for WCAG",
+        "topic": "seeing all interface elements"
+      }
+    ],
+    "href": "/2016/12/01-lvtf-minutes"
+  },
+  "2016-11-17-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Contrast: Informational Graphics"
+      },
+      {
+        "id": "item02",
+        "name": "Line Length"
+      },
+      {
+        "id": "item03",
+        "name": "Reflow to Single Column"
+      },
+      {
+        "id": "item04",
+        "name": "Text Colors"
+      },
+      {
+        "id": "item05",
+        "name": "Metadata on Hover"
+      },
+      {
+        "id": "item06",
+        "name": "hyphenation"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum) ... https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum) Ready for WCAG."
+      },
+      {
+        "id": "resolution02",
+        "content": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_(Minimum) Ready for WCAG.",
+        "topic": "Contrast: Informational Graphics"
+      },
+      {
+        "id": "resolution03",
+        "content": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Line_Length Ready for WCAG.",
+        "topic": "Line Length"
+      },
+      {
+        "id": "resolution04",
+        "content": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Reflow_to_Single_Column Ready for WCAG.",
+        "topic": "Reflow to Single Column"
+      }
+    ],
+    "href": "/2016/11/17-lvtf-minutes"
+  },
+  "2016-11-10-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Contrast: Interactive Elements"
+      },
+      {
+        "id": "item02",
+        "name": "Contrast: Informational Graphics"
+      },
+      {
+        "id": "item03",
+        "name": "Line Length"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Working Group agrees that Contrast Minimum for Enabled Elements is ready to be sent to WCAG",
+        "topic": "Contrast: Interactive Elements"
+      },
+      {
+        "id": "resolution02",
+        "content": "Working Group agrees that Contrast Minimum for Interactive Elements is ready to be sent to WCAG - https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum)",
+        "topic": "Contrast: Interactive Elements"
+      }
+    ],
+    "href": "/2016/11/10-lvtf-minutes"
+  },
+  "2016-11-03-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Prioritization of what we can do in 4 meetings"
+      },
+      {
+        "id": "item02",
+        "name": "Contrast: Informational Graphics"
+      },
+      {
+        "id": "item03",
+        "name": "interactive contrast https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_%28Minimum%29"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/03-lvtf-minutes"
+  },
+  "2016-10-27-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Tracking_Success_Criteria_Progress"
+      },
+      {
+        "id": "item02",
+        "name": "Reflow test case"
+      },
+      {
+        "id": "item03",
+        "name": "Pre element"
+      },
+      {
+        "id": "item04",
+        "name": "Interactive element contrast minimum"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Need more information and examples on https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Metadata_On_Hover to hone the SC text.",
+        "topic": "https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Tracking_Success_Criteria_Progress"
+      },
+      {
+        "id": "resolution02",
+        "content": "Glenda to integrate a few more comments, e.g. a requirement for an apparent border",
+        "topic": "Interactive element contrast minimum"
+      }
+    ],
+    "href": "/2016/10/27-lvtf-minutes"
+  },
+  "2016-10-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey: https://www.w3.org/2002/09/wbs/81151/20161020/"
+      },
+      {
+        "id": "item02",
+        "name": "Informational Graphic Contrast  4.5:1 or something else?"
+      },
+      {
+        "id": "item03",
+        "name": "Using User Settings  discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/20-lvtf-minutes"
+  },
+  "2016-10-13-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Updates from last weeks call"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/13-lvtf-minutes"
+  },
+  "2016-10-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Text size and Reflow"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/06-lvtf-minutes"
+  },
+  "2016-09-29-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Deadline for proposing NEW SCs Nov 4"
+      },
+      {
+        "id": "item02",
+        "name": "Any Proposals for DEFERRING browser specific SCs from current SC list https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Main_Page"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/29-lvtf-minutes"
+  },
+  "2016-09-15-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Contrast: Informational Graphics <https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Informational_Graphic_Contrast_%28Minimum%29>"
+      },
+      {
+        "id": "item02",
+        "name": "Contrast: Interactive Element <https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_%28Minimum%29>"
+      },
+      {
+        "id": "item03",
+        "name": "Seeing All Interface Elements <https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Seeing_All_Interface_Elements>"
+      },
+      {
+        "id": "item04",
+        "name": "Text Size <https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Text_Size>"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/15-lvtf-minutes"
+  },
+  "2016-09-08-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Contrast(minimum) https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Contrast_(Minimum)"
+      },
+      {
+        "id": "item02",
+        "name": "Action-72 Capitalization SC"
+      },
+      {
+        "id": "item03",
+        "name": "Contrast (minimum)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/08-lvtf-minutes"
+  },
+  "2016-09-01-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "general"
+      },
+      {
+        "id": "item02",
+        "name": "Action-70 Write Font SC"
+      },
+      {
+        "id": "item03",
+        "name": "Action-71 Text Style Wording"
+      },
+      {
+        "id": "item04",
+        "name": "Action-72 Capitalization SC"
+      },
+      {
+        "id": "item05",
+        "name": "Action-73 Size of all elements SC https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Size_of_all_elements"
+      },
+      {
+        "id": "item06",
+        "name": "Action-74 Element level customization SC"
+      },
+      {
+        "id": "item07",
+        "name": "Action-75 update gap analysis - DONE"
+      },
+      {
+        "id": "item08",
+        "name": "Action-76 use case for changing font size"
+      },
+      {
+        "id": "item09",
+        "name": "Action-77 Printing Customized Text SC"
+      },
+      {
+        "id": "item10",
+        "name": "Action-78 research on user settings"
+      },
+      {
+        "id": "item11",
+        "name": "Action-79 write Mobile contrast on Large text research"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/01-lvtf-minutes"
+  },
+  "2016-08-25-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timelines/Milestones - lots to do."
+      },
+      {
+        "id": "item02",
+        "name": "Gap analysis Review items without SCs http://w3c.github.io/low-vision-SC/GapAnalysis-SC.html"
+      },
+      {
+        "id": "item03",
+        "name": "review mobile gap analysis"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/08/25-lvtf-minutes"
+  },
+  "2016-08-18-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Resolution to Accept Icon font techniques"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 3 Minimum contrast of images and icons https://github.com/w3c/low-vision-SC/issues/3"
+      },
+      {
+        "id": "item03",
+        "name": "Gap analysis updated - existing SCs http://w3c.github.io/low-vision-SC/GapAnalysis-SC.html"
+      },
+      {
+        "id": "item04",
+        "name": "Issue 3 Minimum contrast of images and icons https://github.com/w3c/low-vision-SC/issues/3"
+      },
+      {
+        "id": "item05",
+        "name": "SC wiki pages"
+      },
+      {
+        "id": "item06",
+        "name": "testability"
+      },
+      {
+        "id": "item07",
+        "name": "reflow to single column"
+      },
+      {
+        "id": "item08",
+        "name": "Gap analysis updated - existing SCs http://w3c.github.io/low-vision-SC/GapAnalysis-SC.html"
+      },
+      {
+        "id": "item09",
+        "name": "Line Length https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Line_Length"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "LVTF approves the 2 Icon Font Techniques",
+        "topic": "Resolution to Accept Icon font techniques"
+      }
+    ],
+    "href": "/2016/08/18-lvtf-minutes"
+  },
+  "2016-08-04-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Gap analysis updated - existing SCs http://w3c.github.io/low-vision-SC/GapAnalysis-SC.html"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Text Colors: A mechanism is available for users to select foreground and background colors of text from the full range of colors available on the operating system.",
+        "topic": "Gap analysis updated - existing SCs http://w3c.github.io/low-vision-SC/GapAnalysis-SC.html"
+      }
+    ],
+    "href": "/2016/08/04-lvtf-minutes"
+  },
+  "2016-07-28-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review: Techniques needed for Icon Fonts are there implications for LV users?"
+      },
+      {
+        "id": "item02",
+        "name": "aria hidden = true Icon Font"
+      },
+      {
+        "id": "item03",
+        "name": "On screen"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/28-lvtf-minutes"
+  },
+  "2016-07-21-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/07/21-lvtf-minutes"
+  },
+  "2016-07-14-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1100% https://github.com/w3c/low-vision-SC/issues/5"
+      },
+      {
+        "id": "item02",
+        "name": "Review: Techniques needed for Icon Fonts are there implications for LV users?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/14-lvtf-minutes"
+  },
+  "2016-07-07-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Hyphenation https://github.com/w3c/low-vision-SC/issues/8"
+      },
+      {
+        "id": "item02",
+        "name": "Selectable https://github.com/w3c/low-vision-SC/issues/9"
+      },
+      {
+        "id": "item03",
+        "name": "200% vs 1100% https://github.com/w3c/low-vision-SC/issues/5"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept the wording for hyphenation.",
+        "topic": "Hyphenation https://github.com/w3c/low-vision-SC/issues/8"
+      }
+    ],
+    "href": "/2016/07/07-lvtf-minutes"
+  },
+  "2016-06-23-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Modify SC WCAG 1.4.8 item 2 (80 characters) https://github.com/w3c/low-vision-SC/issues/6"
+      },
+      {
+        "id": "item02",
+        "name": "Modify/New SC Reflow to Single Column - WCAG 1.4.8 item 5 or New item https://github.com/w3c/low-vision-SC/issues/7"
+      },
+      {
+        "id": "item03",
+        "name": "single column for all content"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "1.4.8.2 width is user adjustable @@do we need a lower bound",
+        "topic": "Modify SC WCAG 1.4.8 item 2 (80 characters) https://github.com/w3c/low-vision-SC/issues/6"
+      },
+      {
+        "id": "resolution02",
+        "content": "1.4.8.2 width is user adjustable @@do we need a lower bound",
+        "topic": "Modify SC WCAG 1.4.8 item 2 (80 characters) https://github.com/w3c/low-vision-SC/issues/6"
+      }
+    ],
+    "href": "/2016/06/23-lvtf-minutes"
+  },
+  "2016-06-22-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/06/22-lvtf-minutes"
+  },
+  "2016-06-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": " create process for proposing and revising SCs"
+      },
+      {
+        "id": "item02",
+        "name": " review questions to ask about modifying/creating SC"
+      },
+      {
+        "id": "item03",
+        "name": "review SC for User Need 3.1.2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/06/16-lvtf-minutes"
+  },
+  "2016-06-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Section 2.5: Functional Vision https://github.com/w3c/low-vision-a11y-tf/issues/73"
+      },
+      {
+        "id": "item02",
+        "name": "Disclaimer draft (action-58) https://github.com/w3c/low-vision-a11y-tf/issues/67"
+      },
+      {
+        "id": "item03",
+        "name": "User Access to Necessary Customization"
+      },
+      {
+        "id": "item04",
+        "name": "Begin working on SC - acceptance criteria (review), walk the gap analysis (proposed - WCAG needs SC before Dec 2016)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept point 1a",
+        "topic": "Section 2.5: Functional Vision https://github.com/w3c/low-vision-a11y-tf/issues/73"
+      },
+      {
+        "id": "resolution02",
+        "content": "Accept point 1b",
+        "topic": "Section 2.5: Functional Vision https://github.com/w3c/low-vision-a11y-tf/issues/73"
+      },
+      {
+        "id": "resolution03",
+        "content": "We will create or extend a user need regarding clutter.",
+        "topic": "Section 2.5: Functional Vision https://github.com/w3c/low-vision-a11y-tf/issues/73"
+      },
+      {
+        "id": "resolution04",
+        "content": "Adopt disclaimer language above.",
+        "topic": "Disclaimer draft (action-58) https://github.com/w3c/low-vision-a11y-tf/issues/67"
+      }
+    ],
+    "href": "/2016/06/09-lvtf-minutes"
+  },
+  "2016-06-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Password fields"
+      },
+      {
+        "id": "item02",
+        "name": "italics, bold, underline #50 https://github.com/w3c/low-vision-a11y-tf/issues/50"
+      },
+      {
+        "id": "item03",
+        "name": "italics, bold, underline #50"
+      },
+      {
+        "id": "item04",
+        "name": "3.3.4 capitalization - orthography #65 https://github.com/w3c/low-vision-a11y-tf/issues/65"
+      },
+      {
+        "id": "item05",
+        "name": "Editorial: Electronic vs Digital content #66 https://github.com/w3c/low-vision-a11y-tf/issues/66"
+      },
+      {
+        "id": "item06",
+        "name": "Editorial: Language, Jargon #60 https://github.com/w3c/low-vision-a11y-tf/issues/60"
+      },
+      {
+        "id": "item07",
+        "name": "Section 2.4 https://github.com/w3c/low-vision-a11y-tf/issues/68"
+      },
+      {
+        "id": "item08",
+        "name": "visual clutter"
+      },
+      {
+        "id": "item09",
+        "name": "Section 2.4.1 https://github.com/w3c/low-vision-a11y-tf/issues/69"
+      },
+      {
+        "id": "item10",
+        "name": "Section 2.4.3 https://github.com/w3c/low-vision-a11y-tf/issues/71"
+      },
+      {
+        "id": "item11",
+        "name": "Section 2.4.4 https://github.com/w3c/low-vision-a11y-tf/issues/72"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Shawn to write password visibility addition to 3.7.1",
+        "topic": "Password fields"
+      },
+      {
+        "id": "resolution02",
+        "content": "reword 3.3.3 and change intro for 3.5.1 per issue discussion",
+        "topic": "italics, bold, underline #50"
+      },
+      {
+        "id": "resolution03",
+        "content": "current wording is fine, not changing",
+        "topic": "Editorial: Electronic vs Digital content #66 https://github.com/w3c/low-vision-a11y-tf/issues/66"
+      },
+      {
+        "id": "resolution04",
+        "content": "use shawn's comment",
+        "topic": "Editorial: Language, Jargon #60 https://github.com/w3c/low-vision-a11y-tf/issues/60"
+      },
+      {
+        "id": "resolution05",
+        "content": "change wording for intro in section 2.4",
+        "topic": "visual clutter"
+      },
+      {
+        "id": "resolution06",
+        "content": "update document to reflect shawn's wording in the issue",
+        "topic": "Section 2.4.1 https://github.com/w3c/low-vision-a11y-tf/issues/69"
+      },
+      {
+        "id": "resolution07",
+        "content": "change to \"Contrast sensitivity is the ability to detect differences in brightness between objects and their backgrounds, for example, to discern text from its background.",
+        "topic": "Section 2.4.3 https://github.com/w3c/low-vision-a11y-tf/issues/71"
+      },
+      {
+        "id": "resolution08",
+        "content": "2.4.3 change wording \"Contrast sensitivity is the ability to detect differences in brightness, for example, to discern text from its background.\"",
+        "topic": "Section 2.4.4 https://github.com/w3c/low-vision-a11y-tf/issues/72"
+      }
+    ],
+    "href": "/2016/06/02-lvtf-minutes"
+  },
+  "2016-05-26-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC"
+      },
+      {
+        "id": "item02",
+        "name": "Coordination with other TF and WCAG"
+      },
+      {
+        "id": "item03",
+        "name": "Page Regions #64 https://github.com/w3c/low-vision-a11y-tf/issues/64"
+      },
+      {
+        "id": "item04",
+        "name": "issue-64 page regions"
+      },
+      {
+        "id": "item05",
+        "name": "Photos #63 https://github.com/w3c/low-vision-a11y-tf/issues/63"
+      },
+      {
+        "id": "item06",
+        "name": "Photos Issue-63"
+      },
+      {
+        "id": "item07",
+        "name": "Page Regions #64 https://github.com/w3c/low-vision-a11y-tf/issues/64"
+      },
+      {
+        "id": "item08",
+        "name": "Password Fields #59 https://github.com/w3c/low-vision-a11y-tf/issues/59"
+      },
+      {
+        "id": "item09",
+        "name": "password fields issue 59"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "User need: users can get information from images, including photos",
+        "topic": "Photos Issue-63"
+      },
+      {
+        "id": "resolution02",
+        "content": ": User need: users can get information from images, including photos",
+        "topic": "Photos Issue-63"
+      }
+    ],
+    "href": "/2016/05/26-lvtf-minutes"
+  },
+  "2016-05-19-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "item02",
+        "name": "3.4.6 spacing between elements"
+      },
+      {
+        "id": "item03",
+        "name": "3.5.1 element customization"
+      },
+      {
+        "id": "item04",
+        "name": "3.6.1 Maintain Point of Regard"
+      },
+      {
+        "id": "item05",
+        "name": "3.6.2 proximity of related information"
+      },
+      {
+        "id": "item06",
+        "name": "3.7.1 seeing all interface elements"
+      },
+      {
+        "id": "item07",
+        "name": "3.7.2 Printing Customized text"
+      },
+      {
+        "id": "item08",
+        "name": "3.7.3 Using User Setting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "3.3.1 Text Size - GAP WCAG - 1.4.4 & 1.4.8 limits size to 200%, NOGAP UAAG met by 1.4.1 & 1.4.2"
+      },
+      {
+        "id": "resolution02",
+        "content": "3.3.2 Font - GAP WCAG no SC, NOGAP UAAG met by 1.4.1 & 1.4.2"
+      },
+      {
+        "id": "resolution03",
+        "content": "3.3.3 Style - GAP WCAG no SC, NOGAP UAAG met by 1.4.1 & 1.4.2"
+      },
+      {
+        "id": "resolution04",
+        "content": "3.3.4 Capitalization - GAP WCAG no SC, NOGAP UAAG met by 1.4.6"
+      },
+      {
+        "id": "resolution05",
+        "content": "3.4.6 Spacing - GAP WCAG 1.4.8 only covers <p>, NOGAP UAAG met by 1.4.2 and 1.4.3",
+        "topic": "3.4.6 spacing between elements"
+      },
+      {
+        "id": "resolution06",
+        "content": "3.4.6 Spacing - GAP WCAG 1.4.8 only covers <p>, NOGAP UAAG met by 1.4.2 and 1.4.3",
+        "topic": "3.4.6 spacing between elements"
+      },
+      {
+        "id": "resolution07",
+        "content": "No SC in WCAG, UAAG covers in 14.2 and 1.4.6 ... No SC in WCAG, UAAG covers in 14.2 and 1.4.6 ... No SC in WCAG, UAAG covers in 14.2",
+        "topic": "3.5.1 element customization"
+      },
+      {
+        "id": "resolution08",
+        "content": "GAP in WCAG, Covered in 1.8.6 and 1.8.9",
+        "topic": "3.6.1 Maintain Point of Regard"
+      },
+      {
+        "id": "resolution09",
+        "content": "GAP in WCAG, UAAG GAP with partial 1.10.1",
+        "topic": "3.6.2 proximity of related information"
+      },
+      {
+        "id": "resolution10",
+        "content": "GAP in WCAG, UAAG 2.71 covers UA items only, not content elements",
+        "topic": "3.7.1 seeing all interface elements"
+      },
+      {
+        "id": "resolution11",
+        "content": "WCAG partial 1.44 and 1.48, UAAG 2.71 covers UA items only, not content elements",
+        "topic": "3.7.1 seeing all interface elements"
+      },
+      {
+        "id": "resolution12",
+        "content": "GAP in WCAG, Covered in UAAG 1.4.4",
+        "topic": "3.7.2 Printing Customized text"
+      },
+      {
+        "id": "resolution13",
+        "content": "3.7.3 user agents uses OS settings; content uses UA and OS settings",
+        "topic": "3.7.3 Using User Setting"
+      },
+      {
+        "id": "resolution14",
+        "content": "Absent in WCAG; NOGAP UAAG GL 2.6 and 5.1.3",
+        "topic": "3.7.3 Using User Setting"
+      }
+    ],
+    "href": "/2016/05/19-lvtf-minutes"
+  },
+  "2016-05-12-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "3.3.1 Text Size"
+      },
+      {
+        "id": "item02",
+        "name": "3.3.2 Font"
+      },
+      {
+        "id": "item03",
+        "name": "3.3.3 Style"
+      },
+      {
+        "id": "item04",
+        "name": "3.3.4 Capitalization"
+      },
+      {
+        "id": "item05",
+        "name": "3.3.5 Size of all elements"
+      },
+      {
+        "id": "item06",
+        "name": "3.4.1 Leading"
+      },
+      {
+        "id": "item07",
+        "name": "3.4.2 Letter Spacing"
+      },
+      {
+        "id": "item08",
+        "name": "3.4.3 Word spacing"
+      },
+      {
+        "id": "item09",
+        "name": "3.4.4 justification"
+      },
+      {
+        "id": "item10",
+        "name": "2.4.5 Margins and borders"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Gap in LVTF 3.3.5 - UAAG and WCAG only cover text",
+        "topic": "3.3.5 Size of all elements"
+      },
+      {
+        "id": "resolution02",
+        "content": "change 3.4.1 change leading to be \"line spacing (leading)\" eliminate line height",
+        "topic": "3.4.1 Leading"
+      },
+      {
+        "id": "resolution03",
+        "content": "GAP - WCAG - partial, no adjusting, only minimum), UAAG (adjustable - only to 2x, with 3 levels). Note: users may want less than minimuim",
+        "topic": "3.4.1 Leading"
+      },
+      {
+        "id": "resolution04",
+        "content": "GAP not covered by WCAG or UAAG",
+        "topic": "3.4.2 Letter Spacing"
+      },
+      {
+        "id": "resolution05",
+        "content": "GAP - WCAG 1.4.8 partial - no full justifiaction, NO GAP UAAG 1.4.3 blocks of text",
+        "topic": "3.4.4 justification"
+      },
+      {
+        "id": "resolution06",
+        "content": "GAP not covered by WCAG, no gap in UAAG (though border settings not fully expanded)",
+        "topic": "2.4.5 Margins and borders"
+      }
+    ],
+    "href": "/2016/05/12-lvtf-minutes"
+  },
+  "2016-05-04-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Meeting time and dates"
+      },
+      {
+        "id": "item02",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "item03",
+        "name": "3.1.1"
+      },
+      {
+        "id": "item04",
+        "name": "3.1.2"
+      },
+      {
+        "id": "item05",
+        "name": "3.1.3"
+      },
+      {
+        "id": "item06",
+        "name": "3.2.4"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "New meeting time is Thursdays at 8:00-9:30PT/10:00-11:30CT/11:00-12:30ET",
+        "topic": "Meeting time and dates"
+      }
+    ],
+    "href": "/2016/05/04-lvtf-minutes"
+  },
+  "2016-04-27-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Action-51 grid lines, field borders, etc"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 59 Password fields"
+      },
+      {
+        "id": "item03",
+        "name": "Issue 30 label position"
+      },
+      {
+        "id": "item04",
+        "name": "Moving Forward"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/04/27-lvtf-minutes"
+  },
+  "2016-04-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue 49 2.1 Scope - cognitive disabilities"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 49 2.1 Scope"
+      },
+      {
+        "id": "item03",
+        "name": "Issue 50 Italics, bold, underline - how to expand 3.5.1 to cover links, em, strong, span, etc."
+      },
+      {
+        "id": "item04",
+        "name": "Issue 50 Italics, bold, underline"
+      },
+      {
+        "id": "item05",
+        "name": "Issue 54 grid lines, field borders, etc."
+      },
+      {
+        "id": "item06",
+        "name": "Issue 50 Italics, bold, underline - how to expand 3.5.1 to cover links, em, strong, span, etc."
+      },
+      {
+        "id": "item07",
+        "name": "3.3.3 Explanatory text"
+      },
+      {
+        "id": "item08",
+        "name": "Issue 54 grid lines, field borders, etc."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Add clause specifiying dyslexia and learning difficulties and link to the definition in Coga Gap Analysis.",
+        "topic": "Issue 49 2.1 Scope"
+      },
+      {
+        "id": "resolution02",
+        "content": "Accept the wording above for 3.5.1.",
+        "topic": "Issue 50 Italics, bold, underline"
+      },
+      {
+        "id": "resolution03",
+        "content": "Reword explanatory text for 3.3.3 to add: For some people, it is difficult to read blocks of text [link to def] that is all italicized or underlined. For some people, substituting bold text or a different font for italics is easier to read. This applies to blocks of text, not individual words or phrases.",
+        "topic": "3.3.3 Explanatory text"
+      }
+    ],
+    "href": "/2016/04/20-lvtf-minutes"
+  },
+  "2016-04-13-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue 35 Update information on acuity"
+      },
+      {
+        "id": "item02",
+        "name": "Issue 42 3.5.1 - poor example illustration"
+      },
+      {
+        "id": "item03",
+        "name": "Issue 43 figure descriptions"
+      },
+      {
+        "id": "item04",
+        "name": "Issue 45 Note to tool developers not a user need - delete or edit?"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Change intro to: Some low visual acuity can be corrected with glasses, contact lenses, or surgery  and some cannot. Therefore, some people will not see small text or fine details at all.",
+        "topic": "Issue 35 Update information on acuity"
+      },
+      {
+        "id": "resolution02",
+        "content": "Will preface with something to the affect that This a real style sheet used by a person with low vision.",
+        "topic": "Issue 42 3.5.1 - poor example illustration"
+      },
+      {
+        "id": "resolution03",
+        "content": "Will update table, alts and images descriptions - and add appendix with detailed image descriptions.",
+        "topic": "Issue 43 figure descriptions"
+      },
+      {
+        "id": "resolution04",
+        "content": "Will make the editorial change on issue 45 per minutes.",
+        "topic": "Issue 45 Note to tool developers not a user need - delete or edit?"
+      }
+    ],
+    "href": "/2016/04/13-lvtf-minutes"
+  },
+  "2016-04-06-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Availability for Upcoming LVTF Teleconferences <https://www.w3.org/2002/09/wbs/81151/LVTF-telecons/>"
+      },
+      {
+        "id": "item02",
+        "name": "Legibility"
+      },
+      {
+        "id": "item03",
+        "name": "Issue 34: Scope question"
+      },
+      {
+        "id": "item04",
+        "name": "Scope Issue 34"
+      },
+      {
+        "id": "item05",
+        "name": "Issue 38 re-word 3.1.1 brightness vs. contrast"
+      },
+      {
+        "id": "item06",
+        "name": "Issue 39: color wheel images"
+      },
+      {
+        "id": "item07",
+        "name": "3.3.3 Avoid italics Issue 41"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Note and para. after covering legibility approved https://rawgit.com/w3c/low-vision-a11y-tf/user_need-legibility/requirements.html#h-note1",
+        "topic": "Legibility"
+      },
+      {
+        "id": "resolution02",
+        "content": "The group deciided not to define electronic content.",
+        "topic": "Scope Issue 34"
+      },
+      {
+        "id": "resolution03",
+        "content": "Edit 3.1.1 to include brightness.",
+        "topic": "Issue 38 re-word 3.1.1 brightness vs. contrast"
+      },
+      {
+        "id": "resolution04",
+        "content": "Leave the color whels images as is.",
+        "topic": "Issue 39: color wheel images"
+      },
+      {
+        "id": "resolution05",
+        "content": "Leave section 3.3.2 as it and cover specific fonts in best practice.",
+        "topic": "Issue 39: color wheel images"
+      },
+      {
+        "id": "resolution06",
+        "content": "Leave 3.3.3. Cover italics in best practices.",
+        "topic": "3.3.3 Avoid italics Issue 41"
+      }
+    ],
+    "href": "/2016/04/06-lvtf-minutes"
+  },
+  "2016-03-30-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Celebrate publication of FPWD!!!"
+      },
+      {
+        "id": "item02",
+        "name": "Getting word out about review of FPWD"
+      },
+      {
+        "id": "item03",
+        "name": "CSUN review"
+      },
+      {
+        "id": "item04",
+        "name": "Contrast requirements of interactive controls (from WCAG)"
+      },
+      {
+        "id": "item05",
+        "name": "LVTF position on contrast requirements for interactive control states"
+      },
+      {
+        "id": "item06",
+        "name": "Issue 32: Wording of Incidence"
+      },
+      {
+        "id": "item07",
+        "name": "Issue 33: Wording of Causes of Low Vision"
+      },
+      {
+        "id": "item08",
+        "name": "Causes of Low Vision"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "AWK to modify text of TF recommendation on focus and hover state contrast and send to TF mailing list, to be then forwarded to WCAG",
+        "topic": "LVTF position on contrast requirements for interactive control states"
+      }
+    ],
+    "href": "/2016/03/30-lvtf-minutes"
+  },
+  "2016-03-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "CSUN"
+      },
+      {
+        "id": "item02",
+        "name": "legibility"
+      },
+      {
+        "id": "item03",
+        "name": "Legibility and Readability"
+      },
+      {
+        "id": "item04",
+        "name": "lvtf-ACTION-37: Avila to create user need for contrast differences"
+      },
+      {
+        "id": "item05",
+        "name": "lvtf-Action-37 contrast differences"
+      },
+      {
+        "id": "item06",
+        "name": "review Sensory Characteristics"
+      },
+      {
+        "id": "item07",
+        "name": "Sensory Characteristics"
+      },
+      {
+        "id": "item08",
+        "name": "Information from Images - User Need?"
+      },
+      {
+        "id": "item09",
+        "name": "Information from Images - User need"
+      },
+      {
+        "id": "item10",
+        "name": "lvtf-ACTION-38: Review 3.1 contrast/color user needs"
+      },
+      {
+        "id": "item11",
+        "name": "lvtf-Action-38 - contrast/color user needs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/16-lvtf-minutes"
+  },
+  "2016-03-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Daylight savings time (US)"
+      },
+      {
+        "id": "item02",
+        "name": "FPWD approved"
+      },
+      {
+        "id": "item03",
+        "name": "CSUN Plan - who, what sessions, gathering?"
+      },
+      {
+        "id": "item04",
+        "name": "lvtf-ACTION-37: Avila to create user need for contrast differences"
+      },
+      {
+        "id": "item05",
+        "name": "lvtf-ACTION-38: Review 3.1 contrast/color user needs"
+      },
+      {
+        "id": "item06",
+        "name": "lvtf-ACTION-39: Craft user need on obscured perception and operability"
+      },
+      {
+        "id": "item07",
+        "name": "WCAG at TPAC"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "add User Need: Users can see and operate all interface elements that are intended for users to see and operate. This includes when users have changed display settings such as text size, magnification, and cursor.",
+        "topic": "lvtf-ACTION-39: Craft user need on obscured perception and operability"
+      },
+      {
+        "id": "resolution02",
+        "content": "update previous resolution to: Users can see and interact with all content and user interface controls presented visually, including when users have changed display settings such as text size, magnification, and cursor appearance.",
+        "topic": "lvtf-ACTION-39: Craft user need on obscured perception and operability"
+      }
+    ],
+    "href": "/2016/03/09-lvtf-minutes"
+  },
+  "2016-03-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Point of Regard - Others?"
+      },
+      {
+        "id": "item02",
+        "name": "Contrast & Image accessibility"
+      },
+      {
+        "id": "item03",
+        "name": "Work with User Settings"
+      },
+      {
+        "id": "item04",
+        "name": "Point of Regard - Others?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/02-lvtf-minutes"
+  },
+  "2016-02-24-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Long Description for images"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/02/24-lvtf-minutes"
+  },
+  "2016-02-17-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "References"
+      },
+      {
+        "id": "item02",
+        "name": "I18N Script Direction"
+      },
+      {
+        "id": "item03",
+        "name": "Legibility, Readability, etc"
+      },
+      {
+        "id": "item04",
+        "name": "WCAG WG Approval & EOWG Review"
+      },
+      {
+        "id": "item05",
+        "name": "Research & References"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "We will deal with placement of tracking oafter FP'WD justification issue ... We will deal with placement of justification after FPWD"
+      },
+      {
+        "id": "resolution02",
+        "content": "Collecting references in seperate page for now and adding them to the main document later",
+        "topic": "References"
+      },
+      {
+        "id": "resolution03",
+        "content": "add a note, in FPWD add a draft note that we will add a glossary def for this and leave the wikipedia link for now",
+        "topic": "Legibility, Readability, etc"
+      }
+    ],
+    "href": "/2016/02/17-lvtf-minutes"
+  },
+  "2016-02-10-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Color blindness - not include stats? #20 https://github.com/w3c/low-vision-a11y-tf/issues/20"
+      },
+      {
+        "id": "item02",
+        "name": "Change to focus on ICT more broadly #9 https://github.com/w3c/low-vision-a11y-tf/pull/9"
+      },
+      {
+        "id": "item03",
+        "name": "Address JB's comment on international perspective #8 https://github.com/w3c/low-vision-a11y-tf/pull/8"
+      },
+      {
+        "id": "item04",
+        "name": "User Needs - specific settings #21 https://github.com/w3c/low-vision-a11y-tf/pull/21"
+      },
+      {
+        "id": "item05",
+        "name": "Scope and specificity #16 https://github.com/w3c/low-vision-a11y-tf/pull/16"
+      },
+      {
+        "id": "item06",
+        "name": "Change to scope and definition #10 https://github.com/w3c/low-vision-a11y-tf/pull/10"
+      },
+      {
+        "id": "item07",
+        "name": "Separate color from contrast #15 https://github.com/w3c/low-vision-a11y-tf/pull/15"
+      },
+      {
+        "id": "item08",
+        "name": "Brightness #22 https://github.com/w3c/low-vision-a11y-tf/pull/22 (changed from https://github.com/w3c/low-vision-a11y-tf/pull/18)"
+      },
+      {
+        "id": "item09",
+        "name": "Factual Correction #17 https://github.com/w3c/low-vision-a11y-tf/pull/17"
+      },
+      {
+        "id": "item10",
+        "name": "Sending to WCAG WG & EOWG for approval to publish"
+      },
+      {
+        "id": "item11",
+        "name": "Use cases"
+      },
+      {
+        "id": "item12",
+        "name": "Visibility, Legibility, Readability"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "No objections to including the stats",
+        "topic": "Color blindness - not include stats? #20 https://github.com/w3c/low-vision-a11y-tf/issues/20"
+      },
+      {
+        "id": "resolution02",
+        "content": "No objections to Shawns wording",
+        "topic": "Change to focus on ICT more broadly #9 https://github.com/w3c/low-vision-a11y-tf/pull/9"
+      },
+      {
+        "id": "resolution03",
+        "content": "No objections to Shawns wording.",
+        "topic": "Address JB's comment on international perspective #8 https://github.com/w3c/low-vision-a11y-tf/pull/8"
+      },
+      {
+        "id": "resolution04",
+        "content": "No objections to Shawns wording.",
+        "topic": "User Needs - specific settings #21 https://github.com/w3c/low-vision-a11y-tf/pull/21"
+      },
+      {
+        "id": "resolution05",
+        "content": "No objections to Shawns wording.",
+        "topic": "Scope and specificity #16 https://github.com/w3c/low-vision-a11y-tf/pull/16"
+      },
+      {
+        "id": "resolution06",
+        "content": "No objections to Shawns wording.",
+        "topic": "Change to scope and definition #10 https://github.com/w3c/low-vision-a11y-tf/pull/10"
+      },
+      {
+        "id": "resolution07",
+        "content": "No objections to Shawns wording.",
+        "topic": "Separate color from contrast #15 https://github.com/w3c/low-vision-a11y-tf/pull/15"
+      },
+      {
+        "id": "resolution08",
+        "content": "No objections to Shawns wording.",
+        "topic": "Brightness #22 https://github.com/w3c/low-vision-a11y-tf/pull/22 (changed from https://github.com/w3c/low-vision-a11y-tf/pull/18)"
+      },
+      {
+        "id": "resolution09",
+        "content": "No objections to making an explicit note that we are working on this visibility section.",
+        "topic": "Factual Correction #17 https://github.com/w3c/low-vision-a11y-tf/pull/17"
+      },
+      {
+        "id": "resolution10",
+        "content": "Accept sending to WCAG WG & EOWG for approval to publish with understanding completion of minor to dos and notification.",
+        "topic": "Sending to WCAG WG & EOWG for approval to publish"
+      }
+    ],
+    "href": "/2016/02/10-lvtf-minutes"
+  },
+  "2016-02-03-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "update attendance survey"
+      },
+      {
+        "id": "item02",
+        "name": "Survey: https://www.w3.org/2002/09/wbs/81151/LVR_FPWD/"
+      },
+      {
+        "id": "item03",
+        "name": "Survey (only questions 4, 8, and 9): https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results"
+      },
+      {
+        "id": "item04",
+        "name": "7. Terminology: color vision deficiencies"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Follow Jim and Shawn's suggestion in the survey",
+        "topic": "7. Terminology: color vision deficiencies"
+      }
+    ],
+    "href": "/2016/02/03-lvtf-minutes"
+  },
+  "2016-01-27-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "survey Review Requirements https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results"
+      },
+      {
+        "id": "item02",
+        "name": "Who is going to CSUN?"
+      },
+      {
+        "id": "item03",
+        "name": "survey Review Requirements https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results"
+      },
+      {
+        "id": "item04",
+        "name": "User needs vs user requirements <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq2>"
+      },
+      {
+        "id": "item05",
+        "name": "Note title <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq3>"
+      },
+      {
+        "id": "item06",
+        "name": "Do not include additional stats? <https://www.w3.org/2002/09/wbs/81151/LVTF18Jan2016/results#xq2>"
+      },
+      {
+        "id": "item07",
+        "name": "Leave movement? <https://www.w3.org/2002/09/wbs/81151/LVTF18Jan2016/results#xq3>"
+      },
+      {
+        "id": "item08",
+        "name": "Leave hyphenation in tracking? <https://www.w3.org/2002/09/wbs/81151/LVTF18Jan2016/results#xq5>"
+      },
+      {
+        "id": "item09",
+        "name": "Visual Acuity section heading <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq6>"
+      },
+      {
+        "id": "item10",
+        "name": "Field of Vision section heading <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq7>"
+      },
+      {
+        "id": "item11",
+        "name": "corrected terminology <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq5>"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Keep requirements in title and keep user needs in interior sections",
+        "topic": "User needs vs user requirements <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq2>"
+      },
+      {
+        "id": "resolution02",
+        "content": "title Accessibility Requirements for People with Low Vision",
+        "topic": "Note title <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq3>"
+      },
+      {
+        "id": "resolution03",
+        "content": "stick with what we have for low vision incidence - stick with stats we have",
+        "topic": "Do not include additional stats? <https://www.w3.org/2002/09/wbs/81151/LVTF18Jan2016/results#xq2>"
+      },
+      {
+        "id": "resolution04",
+        "content": "Leave movement bullet as is",
+        "topic": "Leave movement? <https://www.w3.org/2002/09/wbs/81151/LVTF18Jan2016/results#xq3>"
+      },
+      {
+        "id": "resolution05",
+        "content": "leave hyphenation in Tracking",
+        "topic": "Leave hyphenation in tracking? <https://www.w3.org/2002/09/wbs/81151/LVTF18Jan2016/results#xq5>"
+      },
+      {
+        "id": "resolution06",
+        "content": "Add in clarity in parenthesis in section on Visual Acuity with editorial permission",
+        "topic": "Field of Vision section heading <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq7>"
+      },
+      {
+        "id": "resolution07",
+        "content": "remove perceptual area parenthetical text when talking about field of vision",
+        "topic": "Field of Vision section heading <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq7>"
+      },
+      {
+        "id": "resolution08",
+        "content": "Go with \"corrected\" terminology",
+        "topic": "corrected terminology <https://www.w3.org/2002/09/wbs/81151/UserNeeds-Jan-27/results#xq5>"
+      }
+    ],
+    "href": "/2016/01/27-lvtf-minutes"
+  },
+  "2016-01-20-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1. Size of All Elements"
+      },
+      {
+        "id": "item02",
+        "name": "2. Seeing All Interface Elements"
+      },
+      {
+        "id": "item03",
+        "name": "3. Proportional text increase"
+      },
+      {
+        "id": "item04",
+        "name": "4. Margins and Borders"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Size of All Elements Keep Together",
+        "topic": "2. Seeing All Interface Elements"
+      },
+      {
+        "id": "resolution02",
+        "content": "352 is adequately covered. Dont need separate point.",
+        "topic": "3. Proportional text increase"
+      }
+    ],
+    "href": "/2016/01/20-lvtf-minutes"
+  },
+  "2016-01-13-lvtf": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline FPWD"
+      },
+      {
+        "id": "item02",
+        "name": "timeline and tasks for First Public Working Draft (FPWD)"
+      },
+      {
+        "id": "item03",
+        "name": "Survey https://www.w3.org/2002/09/wbs/81151/prep-for-fpwd/"
+      },
+      {
+        "id": "item04",
+        "name": "document flow"
+      },
+      {
+        "id": "item05",
+        "name": "survey - Level of Detail"
+      },
+      {
+        "id": "item06",
+        "name": "3.6.4 Scrollbars"
+      },
+      {
+        "id": "item07",
+        "name": "3.6.3 Proximity of related information"
+      },
+      {
+        "id": "item08",
+        "name": "Proximity of related information"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "All ancillary documents supporting the main document will be in separate documents and not in TR space.",
+        "topic": "survey - Level of Detail"
+      }
+    ],
+    "href": "/2016/01/13-lvtf-minutes"
+  },
+  "2016-01-06-lvtf": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review draft of Document Overview and Cause and Effects of Low Vision"
+      },
+      {
+        "id": "item02",
+        "name": "Review of Document Overview"
+      },
+      {
+        "id": "item03",
+        "name": "Review Color Perception"
+      },
+      {
+        "id": "item04",
+        "name": "review light and contrast sensitivity"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/06-lvtf-minutes"
+  },
+  "2015-12-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "FPWD"
+      },
+      {
+        "id": "item02",
+        "name": "survey results"
+      },
+      {
+        "id": "item03",
+        "name": "perceptual area"
+      },
+      {
+        "id": "item04",
+        "name": "Luminance"
+      },
+      {
+        "id": "item05",
+        "name": "Color"
+      },
+      {
+        "id": "item06",
+        "name": "wcag issue#98"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/12/16-lvtf-minutes"
+  },
+  "2015-12-09-lvtf": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Ontology"
+      },
+      {
+        "id": "item02",
+        "name": "Review Perceptual Area of Overview"
+      },
+      {
+        "id": "item03",
+        "name": "review of Clarity in overview"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/12/09-lvtf-minutes"
+  },
+  "2015-12-02-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "scribe"
+      },
+      {
+        "id": "item02",
+        "name": "Framework for requirements document https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Overview_of_Low_Vision#Categories"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/12/02-lvtf-minutes"
+  },
+  "2015-11-18-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Low Visions User Requirements"
+      },
+      {
+        "id": "item02",
+        "name": "discussion of def of med terms"
+      },
+      {
+        "id": "item03",
+        "name": "requirements doc"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Meeting on 25 Nov 2015 cancelled"
+      },
+      {
+        "id": "",
+        "content": "use Font section as sample for platform, OS, author, AT, UA",
+        "topic": "Low Visions User Requirements"
+      }
+    ],
+    "href": "/2015/11/18-lvtf-minutes"
+  },
+  "2015-11-04-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "scribe"
+      },
+      {
+        "id": "item02",
+        "name": "what is purpose/audience of our documents (wiki & others)"
+      },
+      {
+        "id": "item03",
+        "name": "audience"
+      },
+      {
+        "id": "item04",
+        "name": "scope"
+      },
+      {
+        "id": "item05",
+        "name": "content notes"
+      },
+      {
+        "id": "item06",
+        "name": "Title"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/11/04-lvtf-minutes"
+  },
+  "2015-10-28-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/10/28-lvtf-minutes"
+  },
+  "2015-10-21-lvtf": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "scribe"
+      },
+      {
+        "id": "item02",
+        "name": "Review of Use Case"
+      },
+      {
+        "id": "item03",
+        "name": "set a deadline for adding new use cases. Who has more to do/add, when will it be added"
+      },
+      {
+        "id": "item04",
+        "name": "Deadline for finishing use cases"
+      },
+      {
+        "id": "item05",
+        "name": "Big Picture of Use Cases - what do we have, what do we need, where do we go next - evaluation and refining of existing use cases"
+      },
+      {
+        "id": "item06",
+        "name": "Big Picture of use cases"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/10/21-lvtf-minutes"
+  },
+  "2015-10-14-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "volunteers with action items for MORE user cases (5 per category)"
+      },
+      {
+        "id": "item02",
+        "name": "teleconference attendance https://www.w3.org/2002/09/wbs/81151/LVTF-telecons/"
+      },
+      {
+        "id": "item03",
+        "name": "volunteers with action items for MORE user cases (5 per category)"
+      },
+      {
+        "id": "item04",
+        "name": "rewrite use cases"
+      },
+      {
+        "id": "item05",
+        "name": "Review of overview"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/10/14-lvtf-minutes"
+  },
+  "2015-10-07-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "reminder - rejoin WCAG if you haven't already done so"
+      },
+      {
+        "id": "item02",
+        "name": "rejoin WCAG if not already done so."
+      },
+      {
+        "id": "item03",
+        "name": "availability survey"
+      },
+      {
+        "id": "item04",
+        "name": "Availability survey <https://www.w3.org/2002/09/wbs/81151/LVTF-telecons/>"
+      },
+      {
+        "id": "item05",
+        "name": "survey about overview - discussion"
+      },
+      {
+        "id": "item06",
+        "name": "Survey of Overview"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/10/07-lvtf-minutes"
+  },
+  "2015-09-30-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/09/30-lvtf-minutes"
+  },
+  "2015-09-23-lvtf": {
+    "title": "Low Vision Task Force",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "scribe"
+      },
+      {
+        "id": "item02",
+        "name": "review of updates to user needs and categorization"
+      },
+      {
+        "id": "item03",
+        "name": "Announcements"
+      },
+      {
+        "id": "item04",
+        "name": "review of updates to user needs and categorization"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/23-lvtf-minutes"
+  },
+  "2015-09-16-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "scribe"
+      },
+      {
+        "id": "item02",
+        "name": "Overview of Low Vision (10 minutes) - functional limitations"
+      },
+      {
+        "id": "item03",
+        "name": "user needs - (30 minutes)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/16-lvtf-minutes"
+  },
+  "2015-09-09-lvtf": {
+    "title": "Low Vision Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Introductions"
+      },
+      {
+        "id": "item02",
+        "name": "Work Topics - issues collection on the wiki"
+      },
+      {
+        "id": "item03",
+        "name": "Review Work Statement"
+      },
+      {
+        "id": "item04",
+        "name": "Document requirements for low vision users;"
+      },
+      {
+        "id": "item05",
+        "name": "Identify gaps in the above requirements between user needs and how they are met by web sites that conform to WCAG 2.0;"
+      },
+      {
+        "id": "item06",
+        "name": "Document sufficient and advisory techniques and failures for WCAG 2.0 to meet low vision user needs;"
+      },
+      {
+        "id": "item07",
+        "name": "Define low vision use cases which user agents need to support;"
+      },
+      {
+        "id": "item08",
+        "name": "Introductions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/09-lvtf-minutes"
+  }
+}

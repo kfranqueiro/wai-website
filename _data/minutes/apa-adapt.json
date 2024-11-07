@@ -1,0 +1,5714 @@
+{
+  "2024-11-05-adapt": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "50d5",
+        "name": "Introductions. Updates."
+      },
+      {
+        "id": "b649",
+        "name": "Symbols"
+      },
+      {
+        "id": "62d8",
+        "name": "Well Known Destinations"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/05-adapt-minutes"
+  },
+  "2024-10-22-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "ca5e",
+        "name": "Introduction, logistics, updates as needed"
+      },
+      {
+        "id": "973f",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "713a",
+        "name": "Symbols"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/10/22-adapt-minutes"
+  },
+  "2024-09-17-adapt": {
+    "title": "Weekly Teleconference 17-Sep-2024",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introductions. Updates."
+      },
+      {
+        "id": "t02",
+        "name": "TPAC planning"
+      },
+      {
+        "id": "t03",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 240"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/09/17-adapt-minutes"
+  },
+  "2024-09-10-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, logistics. Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Symbols (Issue 240)"
+      },
+      {
+        "id": "t03",
+        "name": "Well Known Destinations"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/09/10-adapt-minutes"
+  },
+  "2024-08-27-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Virtual TPAC submission"
+      },
+      {
+        "id": "t03",
+        "name": "Recruiting"
+      },
+      {
+        "id": "t04",
+        "name": "Virtual TPAC submission"
+      },
+      {
+        "id": "t05",
+        "name": "Github actions and PRs"
+      },
+      {
+        "id": "t06",
+        "name": "Symbols: Issue 240 Way Forward"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/27-adapt-minutes"
+  },
+  "2024-08-13-adapt": {
+    "title": "WAI-Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, logistics. Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC Preps"
+      },
+      {
+        "id": "t03",
+        "name": "Introduction, logistics. Any Updates?"
+      },
+      {
+        "id": "t04",
+        "name": "TPAC Preps"
+      },
+      {
+        "id": "t05",
+        "name": "WKD Github actions and PRs"
+      },
+      {
+        "id": "t06",
+        "name": "Symbols explainer"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/13-adapt-minutes"
+  },
+  "2024-08-06-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, logistics. Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC Preps"
+      },
+      {
+        "id": "t03",
+        "name": "Symbols explainer"
+      },
+      {
+        "id": "t04",
+        "name": "WKD Github actions and PRs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/06-adapt-minutes"
+  },
+  "2024-07-30-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, logistics. Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC Preps"
+      },
+      {
+        "id": "t03",
+        "name": "WKD Github actions and PRs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/07/30-adapt-minutes"
+  },
+  "2024-07-09-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Scheduling, Summer is here"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC Planning"
+      },
+      {
+        "id": "t04",
+        "name": "Recruitment"
+      },
+      {
+        "id": "t05",
+        "name": "Handout for TPAC"
+      },
+      {
+        "id": "t06",
+        "name": "Symbols explainer"
+      },
+      {
+        "id": "t07",
+        "name": "Generalizing Symbols"
+      },
+      {
+        "id": "t08",
+        "name": "Prioritization"
+      },
+      {
+        "id": "t09",
+        "name": "WKD Github actions and PRs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/07/09-adapt-minutes"
+  },
+  "2024-06-25-adapt": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Issue 240 Update"
+      },
+      {
+        "id": "t02",
+        "name": ""
+      },
+      {
+        "id": "t03",
+        "name": "Symbols explainer"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/06/25-adapt-minutes"
+  },
+  "2024-06-18-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introductions. Updates."
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240 Finalizations"
+      },
+      {
+        "id": "t03",
+        "name": "Symbols explainer"
+      },
+      {
+        "id": "t04",
+        "name": "Well known destinations"
+      },
+      {
+        "id": "t05",
+        "name": "Discussing WKD with COGA"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/06/18-adapt-minutes"
+  },
+  "2024-05-21-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Well-known destinations"
+      },
+      {
+        "id": "t02",
+        "name": "Logistics"
+      },
+      {
+        "id": "t03",
+        "name": "Well-known actions :-)"
+      },
+      {
+        "id": "t04",
+        "name": "Symbols"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Next Adapt call will be the 4th of June",
+        "topic": "Logistics"
+      },
+      {
+        "id": "r02",
+        "content": "matatk to respond on issue 240 as discussed",
+        "topic": "Symbols"
+      }
+    ],
+    "href": "/2024/05/21-adapt-minutes"
+  },
+  "2024-05-14-adapt": {
+    "title": "Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "WKD"
+      },
+      {
+        "id": "t02",
+        "name": "Synbols (issue 240)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/05/14-adapt-minutes"
+  },
+  "2024-05-07-adapt": {
+    "title": "Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcome and Announcements"
+      },
+      {
+        "id": "t02",
+        "name": "WKD Options Demo -- Matthew"
+      },
+      {
+        "id": "t03",
+        "name": "Welcome and Announcements"
+      },
+      {
+        "id": "t04",
+        "name": "WKD Requirements Discussion with COGA Representatives"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/05/07-adapt-minutes"
+  },
+  "2024-04-30-adapt": {
+    "title": "WAI-Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240 finalization"
+      },
+      {
+        "id": "t03",
+        "name": "Symbols explainer"
+      },
+      {
+        "id": "t04",
+        "name": "WKD Follow-up from Matt"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/30-adapt-minutes"
+  },
+  "2024-04-23-adapt": {
+    "title": "Adapt Task Force Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "WKD"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/23-adapt-minutes"
+  },
+  "2024-04-16-adapt": {
+    "title": "Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "WKD Follow-up from Matt"
+      },
+      {
+        "id": "t03",
+        "name": "WKD Github actions and PRs"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 240 finalization"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/16-adapt-minutes"
+  },
+  "2024-04-02-adapt": {
+    "title": "Weekly teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Symbols explainer"
+      },
+      {
+        "id": "t02",
+        "name": "WKD Slides for AC Meeting review"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "No telecon next Tuesday 9 April"
+      }
+    ],
+    "href": "/2024/04/02-adapt-minutes"
+  },
+  "2024-03-26-adapt": {
+    "title": "Adapt Weekly Telecon",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introductions. Updates."
+      },
+      {
+        "id": "t02",
+        "name": "WKD Slides for AC Meeting review"
+      },
+      {
+        "id": "t03",
+        "name": "WKD Github actions and PRs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/26-adapt-minutes"
+  },
+  "2024-03-19-adapt": {
+    "title": "Wai Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, updates."
+      },
+      {
+        "id": "t02",
+        "name": "Symbols: Issue 240 Way Forward. Vocabulary."
+      },
+      {
+        "id": "t03",
+        "name": "TPAC presentation report"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/19-adapt-minutes"
+  },
+  "2024-03-12-adapt": {
+    "title": "Exploring making site navigation more accessible, with \"well-known destinations\"",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Pick a scribe"
+      },
+      {
+        "id": "t02",
+        "name": "Reminders: code of conduct, health policies, recorded session policy"
+      },
+      {
+        "id": "t03",
+        "name": "Goal of this session"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/12-adapt-minutes"
+  },
+  "2024-03-05-adapt": {
+    "title": "Weeklt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Virtual TPAC slide review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/05-adapt-minutes"
+  },
+  "2024-02-27-adapt": {
+    "title": "Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, updates."
+      },
+      {
+        "id": "t02",
+        "name": "Upcoming presentations: Virtual TPAC, AC Lightning Talk"
+      },
+      {
+        "id": "t03",
+        "name": "Symbols: Issue 240 Way Forward"
+      },
+      {
+        "id": "t04",
+        "name": "Implementation Opportunities"
+      },
+      {
+        "id": "t05",
+        "name": "Symbols: vocabulary"
+      },
+      {
+        "id": "t06",
+        "name": "Well Known Destination: Github actions and PRs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/27-adapt-minutes"
+  },
+  "2024-02-20-adapt": {
+    "title": "Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Virtual TPAC"
+      },
+      {
+        "id": "t03",
+        "name": "Github actions and PRs"
+      },
+      {
+        "id": "t05",
+        "name": "Issue 240 Way Forward"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/20-adapt-minutes"
+  },
+  "2024-02-13-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Virtual TPAC submission"
+      },
+      {
+        "id": "t03",
+        "name": "Github actions and PRs"
+      },
+      {
+        "id": "t04",
+        "name": "Symbols: Issue 240 Way Forward"
+      },
+      {
+        "id": "t05",
+        "name": "Issues raised in the Well Known Destination/URL Git"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/13-adapt-minutes"
+  },
+  "2024-01-30-adapt": {
+    "title": "Adapt Weekly teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "Well Known Destination"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/01/30-adapt-minutes"
+  },
+  "2024-01-16-adapt": {
+    "title": "Adapt Task Force Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introduction, Any Updates?"
+      },
+      {
+        "id": "t02",
+        "name": "URL Project Vocabulary: Well Known Destination?"
+      },
+      {
+        "id": "t03",
+        "name": "Issues raised in the Well Known Destination/URL Git"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 240 Way Forward"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "TF will not meet in teleconference 24 January",
+        "topic": "Introduction, Any Updates?"
+      },
+      {
+        "id": "r02",
+        "content": "We'll use \"Well Known Destinations\" provisionally as our class category",
+        "topic": "URL Project Vocabulary: Well Known Destination?"
+      }
+    ],
+    "href": "/2024/01/16-adapt-minutes"
+  },
+  "2024-01-09-adapt": {
+    "title": "Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcome to 2024! Administratrivia"
+      },
+      {
+        "id": "t02",
+        "name": "Continue the concept definition discussion"
+      },
+      {
+        "id": "t03",
+        "name": "Concept #2, Our word for 'symbol': adapt-symbol?"
+      },
+      {
+        "id": "t04",
+        "name": "Vocabulary for the WKU scope"
+      },
+      {
+        "id": "t05",
+        "name": "Issue 240 sub-group"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/01/09-adapt-minutes"
+  },
+  "2023-12-12-adapt": {
+    "title": "Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Administratrivia"
+      },
+      {
+        "id": "t02",
+        "name": "WKU for Accessibility Statement"
+      },
+      {
+        "id": "t05",
+        "name": "WKU vs. Destination"
+      },
+      {
+        "id": "t06",
+        "name": "Issue 240"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "We will meet on the 19th of December, and the 9th of January, with holiday in-between."
+      }
+    ],
+    "href": "/2023/12/12-adapt-minutes"
+  },
+  "2023-12-05-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 5 Dec 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "WKU for Accessibility Statement: What does an MVP of this use of WKU look like?  Link: https://github.com/w3c/adapt/blob/add-explainers/explainers/accessibility- meta.mdFuture roadmap for this, Human v Machine readable"
+      },
+      {
+        "id": "t03",
+        "name": "Report on Issue 240 Link: w3c/adapt#240"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/12/05-adapt-minutes"
+  },
+  "2023-11-28-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 28 November 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "WKU for Accessibility Statement: What does an MVP of this use of WKU look like? Link: https://github.com/w3c/adapt/blob/add-explainers/explainers/accessibility-meta.md"
+      },
+      {
+        "id": "t02",
+        "name": "Report of the Issue 240 Link: w3c/adapt#240"
+      },
+      {
+        "id": "t03",
+        "name": "Report of the Issue 240 Link: w3c/adapt#240"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/11/28-adapt-minutes"
+  },
+  "2023-11-21-adapt": {
+    "title": "Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcome, general updates, note on agenda (half Symbols helf Well Known URIs)"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240 discussion (Unicode / Registry)"
+      },
+      {
+        "id": "t05",
+        "name": "well-known URI for accessibility proposal/discuss. include in Gap analysis (Lionel)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/11/21-adapt-minutes"
+  },
+  "2023-11-13-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 13 November 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcome, general updates"
+      },
+      {
+        "id": "t02",
+        "name": "New Meeting Time"
+      },
+      {
+        "id": "t03",
+        "name": "Thanksgiving week meeting yes or no?"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 240 discussion (Unicode / Registry)"
+      },
+      {
+        "id": "t05",
+        "name": "well-known URI for accessibility proposal/discuss. include in Gap analysis (Lionel)https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Task Force weekly teleconference will move to Tuesday 10AM Boston as of next week Nov 21sat",
+        "topic": "New Meeting Time"
+      },
+      {
+        "id": "r02",
+        "content": "Adapt TF shall meet next week on 21-November",
+        "topic": "Thanksgiving week meeting yes or no?"
+      }
+    ],
+    "href": "/2023/11/13-adapt-minutes"
+  },
+  "2023-11-06-adapt": {
+    "title": "Adapt weekly teleconference Monday Nov 6 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcome, general updates"
+      },
+      {
+        "id": "t02",
+        "name": "Meeting time change"
+      },
+      {
+        "id": "t03",
+        "name": "Symbol Module Implementations: One-pager in HTML"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 240 discussion (Unicode / Registry)"
+      },
+      {
+        "id": "t05",
+        "name": "well-known URI for accessibility proposal/discuss. include in Gap analysis (Lionel)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/11/06-adapt-minutes"
+  },
+  "2023-10-30-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 30 October 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "General updates"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240 discussion (Unicode / Registry)"
+      },
+      {
+        "id": "t03",
+        "name": "well-known URI for accessibility proposal/discuss. include in Gap analysis (Lionel)"
+      },
+      {
+        "id": "t04",
+        "name": "A11y4Children follow-ups"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/30-adapt-minutes"
+  },
+  "2023-10-23-adapt": {
+    "title": "WAI Adapt Weekly Teleconference Monday October 23, 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcome, general updates"
+      },
+      {
+        "id": "t02",
+        "name": "Symbol Module Implementations: One-pager in HTML"
+      },
+      {
+        "id": "t03",
+        "name": "Issue 240 discussion (Unicode / Registry)"
+      },
+      {
+        "id": "t04",
+        "name": "well-known URI for accessibility proposal/discuss. include in Gap analysis (Lionel)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/23-adapt-minutes"
+  },
+  "2023-10-16-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 16 October 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Priorities for Fall 2023"
+      },
+      {
+        "id": "t02",
+        "name": "Registry update, Unicode discussion"
+      },
+      {
+        "id": "t03",
+        "name": "Review open issues: issue 240, Unicode/Registry, One-pager in HTML"
+      },
+      {
+        "id": "t04",
+        "name": "Symbol Module Implementations: One-pager in HTML"
+      },
+      {
+        "id": "t05",
+        "name": "Proposal for well-known URI for accessibility"
+      },
+      {
+        "id": "t06",
+        "name": "Gap Analysis, well known URI https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      },
+      {
+        "id": "t07",
+        "name": "A11y4Children follow-ups"
+      },
+      {
+        "id": "t08",
+        "name": "Recruiting"
+      },
+      {
+        "id": "t09",
+        "name": "User Agents and Symbols (e.g. Immersive Reader)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/16-adapt-minutes"
+  },
+  "2023-10-09-adapt": {
+    "title": "Monday 9 October Adapt Task Force Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introductions and New Members"
+      },
+      {
+        "id": "t02",
+        "name": "Review open issues"
+      },
+      {
+        "id": "t03",
+        "name": "Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/09-adapt-minutes"
+  },
+  "2023-09-13-adapt": {
+    "title": "Beyond Text: WAI-Adapt AAC Symbol Specification, for Visual Markup",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2023/09/13-adapt-minutes"
+  },
+  "2023-09-04-adapt": {
+    "title": "Adapt Weekly Teleconference, Monday 4 Sept 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC prep (sub-topics: break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      },
+      {
+        "id": "t02",
+        "name": "Slides Content"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/09/04-adapt-minutes"
+  },
+  "2023-08-28-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 28 August 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC prep (sub-topics: break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      },
+      {
+        "id": "t04",
+        "name": "A11y4Children follow-ups"
+      },
+      {
+        "id": "t05",
+        "name": "Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      },
+      {
+        "id": "t06",
+        "name": "Review open issues, https://github.com/w3c/adapt/issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/28-adapt-minutes"
+  },
+  "2023-08-21-adapt": {
+    "title": "Adapt weekly teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC prep (sub-topics: break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/21-adapt-minutes"
+  },
+  "2023-08-07-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 07 Aug 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC prep (sub-topics: break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/07-adapt-minutes"
+  },
+  "2023-07-31-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 31 July 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC prep (sub-topics: break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      },
+      {
+        "id": "t04",
+        "name": "Review open issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/31-adapt-minutes"
+  },
+  "2023-07-24-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 24 July 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC prep (sub-topics: break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      },
+      {
+        "id": "t02",
+        "name": "Registry update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/24-adapt-minutes"
+  },
+  "2023-07-17-adapt": {
+    "title": "APA WAI-Adapt Task Force Meeting 17 Jul 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Issue 240, w3c/adapt#240"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC prep (break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/17-adapt-minutes"
+  },
+  "2023-07-10-adapt": {
+    "title": "APA WAI-Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Issue 240, w3c/adapt#240"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC prep (break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      },
+      {
+        "id": "t03",
+        "name": "A11y4Children follow-ups"
+      },
+      {
+        "id": "t04",
+        "name": "Demo page that can be printed out as a one-pager"
+      },
+      {
+        "id": "t05",
+        "name": "Track \"Adapt dash\" WHATWG status, https://github.com/whatwg/html/issues/9084agenda+ Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis Lionel_Wolberger]"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/10-adapt-minutes"
+  },
+  "2023-06-26-adapt": {
+    "title": "Adapt Weekly Teleconference Monday 26 June 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Administratrivia"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240, w3c/adapt#240"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC prep (break-out, hand-out, authoring tool) - https://www.w3.org/2023/09/TPAC/"
+      },
+      {
+        "id": "t06",
+        "name": "Issue 240, w3c/adapt#240"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/06/26-adapt-minutes"
+  },
+  "2023-06-19-adapt": {
+    "title": "APA WAI-Adapt Teleconference, 19 Jun 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "A11y4Children follow-up"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/06/19-adapt-minutes"
+  },
+  "2023-06-05-adapt": {
+    "title": "5 June 2023 Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "A11y4Children follow-ups"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240, w3c/adapt#240"
+      },
+      {
+        "id": "t03",
+        "name": "Track \"Adapt dash\" WHATWG status whatwg/html#9084"
+      },
+      {
+        "id": "t04",
+        "name": "Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/06/05-adapt-minutes"
+  },
+  "2023-05-22-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Administrivia: No meeting on Memorial Day (29 May)"
+      },
+      {
+        "id": "t02",
+        "name": "A11y4Children ontology follow-ups"
+      },
+      {
+        "id": "t03",
+        "name": "Issue 240, w3c/adapt#240"
+      },
+      {
+        "id": "t04",
+        "name": "Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      },
+      {
+        "id": "t05",
+        "name": "Review open issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/22-adapt-minutes"
+  },
+  "2023-05-15-adapt": {
+    "title": "Adapt Task Force Monday May 15 Weekly Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Administrivia: Meeting on Memorial Day?"
+      },
+      {
+        "id": "t04",
+        "name": "A11y4Children ontology follow-ups"
+      },
+      {
+        "id": "t05",
+        "name": "Issue 240, w3c/adapt#240"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/15-adapt-minutes"
+  },
+  "2023-05-08-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "A11y4Children ontology follow-ups"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240, w3c/adapt#240"
+      },
+      {
+        "id": "t03",
+        "name": "Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/08-adapt-minutes"
+  },
+  "2023-05-01-adapt": {
+    "title": "Adapt Working Group Weekly Teleconference Monday May 1st 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "A11y4Children follow-ups"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 240 update, \"Could we build symbolic annotations with existing Web standards?\""
+      },
+      {
+        "id": "t03",
+        "name": "A11y4Children follow-ups"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 240 update, \"Could we build symbolic annotations with existing Web standards?\""
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/01-adapt-minutes"
+  },
+  "2023-04-24-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC"
+      },
+      {
+        "id": "t02",
+        "name": "A11y4Children ontology follow-ups"
+      },
+      {
+        "id": "t03",
+        "name": "Gap Analysis, https://github.com/w3c/adapt/wiki/Gap-Analysis"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/04/24-adapt-minutes"
+  },
+  "2023-04-03-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Update on A11y4Children"
+      },
+      {
+        "id": "t02",
+        "name": "Registry meetings and updates"
+      },
+      {
+        "id": "t03",
+        "name": "Update on A11y4Children"
+      },
+      {
+        "id": "t04",
+        "name": "User Agents and Symbols"
+      },
+      {
+        "id": "t05",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "t06",
+        "name": "Symbol Module Implementations"
+      },
+      {
+        "id": "t07",
+        "name": "Test to show rendering symbols do not 'break' existing pages"
+      },
+      {
+        "id": "t08",
+        "name": "Review open issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/04/03-adapt-minutes"
+  },
+  "2023-03-20-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Registry meetings and updates"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/03/20-adapt-minutes"
+  },
+  "2023-03-13-adapt": {
+    "title": "Adapt Task Force Monday March 13, 2023 Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Registry"
+      },
+      {
+        "id": "t02",
+        "name": "Updates on A11y4Children"
+      },
+      {
+        "id": "t03",
+        "name": "User Agents and Symbols (e.g. Immersive Reader)"
+      },
+      {
+        "id": "t04",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "t05",
+        "name": "Symbol Module Implementations"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/03/13-adapt-minutes"
+  },
+  "2023-03-06-adapt": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Registry meetings and updates"
+      },
+      {
+        "id": "t02",
+        "name": "Update on A11y4Children"
+      },
+      {
+        "id": "t03",
+        "name": "Registry meetings and updates"
+      },
+      {
+        "id": "t04",
+        "name": "User-Agent Support for AAC, Microsoft focus"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/03/06-adapt-minutes"
+  },
+  "2023-02-27-adapt": {
+    "title": "Adapt Task Force Monday 27 February Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Recruiting"
+      },
+      {
+        "id": "t02",
+        "name": "Zero Project report, focus on Symbols"
+      },
+      {
+        "id": "t03",
+        "name": "Reader Mode"
+      },
+      {
+        "id": "t04",
+        "name": "updates on A11y4Children"
+      },
+      {
+        "id": "t05",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "t06",
+        "name": "Registries"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/02/27-adapt-minutes"
+  },
+  "2023-02-13-adapt": {
+    "title": "APA Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Accessibility 4 Children"
+      },
+      {
+        "id": "t02",
+        "name": "Adapt wiki: Symbol CR and Registry FPWD are not mentioned"
+      },
+      {
+        "id": "t03",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "t04",
+        "name": "Symbol Module Implementations"
+      },
+      {
+        "id": "t05",
+        "name": "Gap Analysis"
+      },
+      {
+        "id": "t06",
+        "name": "Symbol Module Implementations"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The Adapt TF will take on the development of the AAC Registry.",
+        "topic": "Symbol Module Implementations"
+      }
+    ],
+    "href": "/2023/02/13-adapt-minutes"
+  },
+  "2023-01-30-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Welcomes & introductions"
+      },
+      {
+        "id": "t02",
+        "name": "Accessibility for Children Community Group"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/01/30-adapt-minutes"
+  },
+  "2023-01-23-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Calendar Planning"
+      },
+      {
+        "id": "t02",
+        "name": "Welcomes & Intros (if we have guests)"
+      },
+      {
+        "id": "t03",
+        "name": "Update on recent meetings"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/01/23-adapt-minutes"
+  },
+  "2023-01-09-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Schedule reminder - Jan 16 off (MLK)"
+      },
+      {
+        "id": "t02",
+        "name": "A11y for Children group meeting - January 19, 2023 9:30-10:30 AM Boston time."
+      },
+      {
+        "id": "t03",
+        "name": "Symbol Module Implementations"
+      },
+      {
+        "id": "t04",
+        "name": "Gap Analysis"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/01/09-adapt-minutes"
+  },
+  "2022-12-19-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Holiday schedule reminder"
+      },
+      {
+        "id": "t02",
+        "name": "CR status"
+      },
+      {
+        "id": "t03",
+        "name": "Symbol Module Implementations"
+      },
+      {
+        "id": "t04",
+        "name": "Autocomplete"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Task Force requests publication of Explainer updated working draft",
+        "topic": "CR status"
+      }
+    ],
+    "href": "/2022/12/19-adapt-minutes"
+  },
+  "2022-12-12-adapt": {
+    "title": "Adapt Task Force Monday Teleconference 12 December 2022",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Holiday schedule"
+      },
+      {
+        "id": "t02",
+        "name": "Recruiting"
+      },
+      {
+        "id": "t03",
+        "name": "CR status: Did the CfC conclude, and the draft transitioned to CR? Etc."
+      },
+      {
+        "id": "t04",
+        "name": "Symbol Module Implementations Status (CR)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/12/12-adapt-minutes"
+  },
+  "2022-12-05-adapt": {
+    "title": "Monday 5 Dec 2022 Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Draft CR resolution"
+      },
+      {
+        "id": "t02",
+        "name": "Adapt Symbols Module Status"
+      },
+      {
+        "id": "t03",
+        "name": "Readiness of Explainers"
+      },
+      {
+        "id": "t04",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t05",
+        "name": "Due Diligence regarding our attributes vs existing alternatives (CSS Media Queries, @autocomplete, microformats, DPub, etc.)"
+      },
+      {
+        "id": "t06",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t07",
+        "name": "Due Diligence regarding our attributes vs existing alternatives (CSS Media Queries, @autocomplete, microformats, DPub, etc.)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Subject to the CfC for the AAC Registry's First Public Working Draft (FPWD) being successful, the WAI-Adapt TF will request a transition to Candidate Recommendation (CR) for the Symbols Module 1.0 specification.",
+        "topic": "Draft CR resolution"
+      }
+    ],
+    "href": "/2022/12/05-adapt-minutes"
+  },
+  "2022-11-28-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t02",
+        "name": "CFC launch"
+      },
+      {
+        "id": "t03",
+        "name": "Adapt Symbols Module Status"
+      },
+      {
+        "id": "t04",
+        "name": "Readiness of Explainers"
+      },
+      {
+        "id": "t05",
+        "name": "Due Diligence regarding our attributes vs existing alternatives (CSS Media Queries, @autocomplete, microformats, ePub, etc.)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "WAI-Adapt Task Force requests APA conduct a Call for Consensus to publish the WAI-Adapt Registry as a First Public Working Draft (FPWD) https://github.com/w3c/aac-registry",
+        "topic": "CFC launch"
+      }
+    ],
+    "href": "/2022/11/28-adapt-minutes"
+  },
+  "2022-11-21-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t02",
+        "name": "Commissions Workshop"
+      },
+      {
+        "id": "t03",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t04",
+        "name": "Short name for the module, 'adapt-symbols' or 'adapt-symbol'"
+      },
+      {
+        "id": "t05",
+        "name": "Adapt Symbols Module Status"
+      },
+      {
+        "id": "t06",
+        "name": "Explainers readiness"
+      },
+      {
+        "id": "t07",
+        "name": "CSS (i.e., media-queries), Microformats, @autocomplete (Matthew)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/11/21-adapt-minutes"
+  },
+  "2022-11-14-adapt": {
+    "title": "Adapt Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t02",
+        "name": "Scripting needed for the Bliss registry"
+      },
+      {
+        "id": "t03",
+        "name": "Adapt Symbols Module Status"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/11/14-adapt-minutes"
+  },
+  "2022-11-07-adapt": {
+    "title": "Adapt Task Force Weekly Meeting Monday 7 November",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Adapt Symbols Module Status"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/11/07-adapt-minutes"
+  },
+  "2022-10-31-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TAG explainers (Janina)"
+      },
+      {
+        "id": "t02",
+        "name": "Public explainer examples (Becky)"
+      },
+      {
+        "id": "t03",
+        "name": "CSS (i.e., media-queries), Microformats, auto-complete (Matthew)"
+      },
+      {
+        "id": "t04",
+        "name": "Distraction - Write up use cases that don't touch advertising."
+      },
+      {
+        "id": "t05",
+        "name": "Discuss @rel vs. purpose/destination/action"
+      },
+      {
+        "id": "t06",
+        "name": "WHATWG  reserve adapt- prefix prior to CR"
+      },
+      {
+        "id": "t07",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t08",
+        "name": "open issues"
+      },
+      {
+        "id": "t12",
+        "name": "IRC Actions vs. GitHub"
+      },
+      {
+        "id": "t13",
+        "name": "How do we show TAG the Next billion users."
+      },
+      {
+        "id": "t14",
+        "name": "Respond to issue #203 (Janina)"
+      },
+      {
+        "id": "t15",
+        "name": "Content Module Implementations Status, focus on new candidates"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/31-adapt-minutes"
+  },
+  "2022-10-24-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Distraction - Write up use cases that don't touch advertising."
+      },
+      {
+        "id": "t02",
+        "name": "Discuss @rel vs. purpose/destination/action"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/24-adapt-minutes"
+  },
+  "2022-10-17-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New TAG and public explainers (Janina)"
+      },
+      {
+        "id": "t02",
+        "name": "CR updates for new spec focused only on symbols"
+      },
+      {
+        "id": "t03",
+        "name": "How do we show TAG the Next billion users."
+      },
+      {
+        "id": "t04",
+        "name": "WHATWG  reserve adapt- prefix (Do we go to symbols CR with data- or adapt-?)"
+      },
+      {
+        "id": "t05",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t06",
+        "name": "CSS (i.e., media-queries) & Microformats (Matthew)"
+      },
+      {
+        "id": "t07",
+        "name": "Purpose - Can we add to the list of WCAG auto-complete attributes?"
+      },
+      {
+        "id": "t08",
+        "name": "Distraction - Write up use cases that don't touch advertising."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/17-adapt-minutes"
+  },
+  "2022-10-10-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New TAG and public explainers (Janina)"
+      },
+      {
+        "id": "t02",
+        "name": "CR updates for new spec focused only on symbols"
+      },
+      {
+        "id": "t03",
+        "name": "ARIA-related issues"
+      },
+      {
+        "id": "t04",
+        "name": "CSS (i.e., media-queries)"
+      },
+      {
+        "id": "t05",
+        "name": "Microformats (Matthew)"
+      },
+      {
+        "id": "t06",
+        "name": "Requirements emerging from the work on WCAG3 (Janina)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/10-adapt-minutes"
+  },
+  "2022-10-03-adapt": {
+    "title": "WAI Adapt Task Force Weekly Meeting Oct 3 2022",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CR updates for new spec focused only on symbols"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "We will keep the current name of WAI-ADAPT Content Module while we do the first round of edits",
+        "topic": "CR updates for new spec focused only on symbols"
+      }
+    ],
+    "href": "/2022/10/03-adapt-minutes"
+  },
+  "2022-09-26-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC update"
+      },
+      {
+        "id": "t02",
+        "name": "TAG update"
+      },
+      {
+        "id": "t03",
+        "name": "CR Next steps"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "WAI-Adapt will revise its Content Module draft to focus exclusively on AAC Symbols, as these were seen by TAG as most ready for standardization.",
+        "topic": "CR Next steps"
+      },
+      {
+        "id": "r02",
+        "content": "Moving AAC symbols to CR first also implies we will write a TAG Explainer and a public Explainer expressly for AAC symbols.",
+        "topic": "CR Next steps"
+      },
+      {
+        "id": "r03",
+        "content": "Move expeditiously to formally request \"adapt-\" as a reserved prefix from WHAT-WG.",
+        "topic": "CR Next steps"
+      }
+    ],
+    "href": "/2022/09/26-adapt-minutes"
+  },
+  "2022-08-29-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Reminder: TPAC is here, are you coming? Next meeting 26 Sept. 3 weeks off."
+      },
+      {
+        "id": "t02",
+        "name": "TPAC Prep status (TAG, COGA, others?)"
+      },
+      {
+        "id": "t03",
+        "name": "Conformance RFC 2119 PR"
+      },
+      {
+        "id": "t04",
+        "name": "Explainer regarding @rel vs. purpose/destination/action"
+      },
+      {
+        "id": "t05",
+        "name": "Exit criteria status"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/29-adapt-minutes"
+  },
+  "2022-08-22-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Reminder: Sept, 3 weeks without Adapt TF meetings"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC Prep status"
+      },
+      {
+        "id": "t03",
+        "name": "Exit criteria status & comments"
+      },
+      {
+        "id": "t04",
+        "name": "Discuss @rel vs. purpose/destination/action -- add to the explainer"
+      },
+      {
+        "id": "t05",
+        "name": "TAG Response Resolution - media query test page"
+      },
+      {
+        "id": "t06",
+        "name": "BCI Registry Specification"
+      },
+      {
+        "id": "t07",
+        "name": "Respond to issue #203 (Janina)"
+      },
+      {
+        "id": "t08",
+        "name": "Content Module Implementations Status, focus on new candidates"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/22-adapt-minutes"
+  },
+  "2022-08-15-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Plans for Sept."
+      },
+      {
+        "id": "t02",
+        "name": "TPAC 12-16 September 2022 preparations"
+      },
+      {
+        "id": "t03",
+        "name": "CfC for Content Module 1.0 CR Status"
+      },
+      {
+        "id": "t07",
+        "name": "BCI Registry Implementation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/15-adapt-minutes"
+  },
+  "2022-08-08-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CfC for Content Module 1.0 CR Status, Issues raised by the W3C Director upon their review [1] Exit criteria, [2] TAG Response Resolution [3] BCI Sharon]"
+      },
+      {
+        "id": "t03",
+        "name": "Respond to issue #203 (Janina)"
+      },
+      {
+        "id": "t04",
+        "name": "BCI Registry Implementation"
+      },
+      {
+        "id": "t05",
+        "name": "TPAC 12-16 September 2022 preparations"
+      },
+      {
+        "id": "t06",
+        "name": "Discuss @rel vs. purpose/destination/action -- add to the explainer"
+      },
+      {
+        "id": "t07",
+        "name": "Content Module Implementations Status"
+      },
+      {
+        "id": "t08",
+        "name": "Future meetings"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/08-adapt-minutes"
+  },
+  "2022-08-01-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CfC for Content Module 1.0 CR Status, Issues raised by the W3C Director upon their review [1] Exit criteria (Lionel & Matt), [2] TAG Response Resolution (Sharon research) [3] BCI (Janina communication)"
+      },
+      {
+        "id": "t02",
+        "name": "Janina's action on BCI"
+      },
+      {
+        "id": "t03",
+        "name": "BCI"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/01-adapt-minutes"
+  },
+  "2022-07-25-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CfC for Content Module 1.0 CR Status"
+      },
+      {
+        "id": "t05",
+        "name": "implementation report"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/07/25-adapt-minutes"
+  },
+  "2022-07-18-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CfC for Content Module 1.0 CR status and comments"
+      },
+      {
+        "id": "t02",
+        "name": "Announcement of the Content Module 1.0 CR Status for W3C news - https://www.w3.org/WAI/cc/wiki/WAI_Announcement_Drafts"
+      },
+      {
+        "id": "t03",
+        "name": "Blog post on Content Module 1.0 CR Status (Lionel)"
+      },
+      {
+        "id": "t04",
+        "name": "3.6 edits / Editor's note for symbols (Janina action)"
+      },
+      {
+        "id": "t05",
+        "name": "TPAC 12-16 September 2022"
+      },
+      {
+        "id": "t06",
+        "name": "Disambiguate between HTML @rel and WAI-Adapt specified \"purpose/destination/ action.\"\" (Lionel)"
+      },
+      {
+        "id": "t07",
+        "name": "TPAC 12-16 September 2022"
+      },
+      {
+        "id": "t08",
+        "name": "Disambiguate between HTML @rel and WAI-Adapt specified \"purpose/destination/ action.\"\" (Lionel)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/07/18-adapt-minutes"
+  },
+  "2022-07-11-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Last items before we request APA to move Module 1 to CR status. Spec content ready?"
+      },
+      {
+        "id": "t02",
+        "name": "3.6 edit (see git link) (Janina)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The WAI-Adapt Task Force requests that APA conduct a Call for Consensus to transition WAI-Adapt Content Module 1.0 (https://w3c.github.io/adapt/content/) to Candidate Recommendation.",
+        "topic": "Last items before we request APA to move Module 1 to CR status. Spec content ready?"
+      },
+      {
+        "id": "r02",
+        "content": "The WAI-Adapt Task Force requests updated Working Draft publication of the WAI-Adapt Explainer (https://w3c.github.io/adapt/) as a W3C Group Draft Note.",
+        "topic": "Last items before we request APA to move Module 1 to CR status. Spec content ready?"
+      }
+    ],
+    "href": "/2022/07/11-adapt-minutes"
+  },
+  "2022-06-27-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "3.6 edit (see git link) (Janina)"
+      },
+      {
+        "id": "t02",
+        "name": "Spec content is ready for CR"
+      },
+      {
+        "id": "t03",
+        "name": "3.6 edit (see git link) (Janina)"
+      },
+      {
+        "id": "t04",
+        "name": "Blog post draft ready (Lionel)"
+      },
+      {
+        "id": "t05",
+        "name": "CR Announcement is teed up in the WAI wiki (Sharon)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The group will not meet next week Monday July 4th. Happy holiday to everyone celebrating!"
+      },
+      {
+        "id": "r02",
+        "content": "We agree to merge the PR 209 affecting the text of 3.6",
+        "topic": "3.6 edit (see git link) (Janina)"
+      }
+    ],
+    "href": "/2022/06/27-adapt-minutes"
+  },
+  "2022-06-20-adapt": {
+    "title": "WAI-Adapt Meeting June 20, 2022",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Spec content is ready for CR"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/20-adapt-minutes"
+  },
+  "2022-06-13-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CR Status #1, spec content is ready for sharing https://www.w3.org/TR/adapt-content/ ready for CR publication"
+      },
+      {
+        "id": "t02",
+        "name": "CR Status #2, blog post draft ready to send to Shawn"
+      },
+      {
+        "id": "t03",
+        "name": "BCI Registry Implementation: Next steps"
+      },
+      {
+        "id": "t04",
+        "name": "TPAC 12-16 September 2022"
+      },
+      {
+        "id": "t05",
+        "name": "Rewording for our Sec. 3.6 Symbol - PR 209 https://github.com/w3c/adapt/pull/209/files (Janina)"
+      },
+      {
+        "id": "t06",
+        "name": "Editor's note for symbols (Janina action) https://github.com/w3c/personalization-semantics/issues/203"
+      },
+      {
+        "id": "t07",
+        "name": "Content Module Implementations Status"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/13-adapt-minutes"
+  },
+  "2022-06-06-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on name changes: all done?"
+      },
+      {
+        "id": "t02",
+        "name": "Report on call with Bliss Symbolics representative"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC 12-16 September 2022"
+      },
+      {
+        "id": "t04",
+        "name": "CR Status."
+      },
+      {
+        "id": "t05",
+        "name": "Proofreading the spec,ensuring all Adapt edits are complete"
+      },
+      {
+        "id": "t06",
+        "name": "Editor's note for symbols (Janina action) regarding https://github.com/w3c/personalization-semantics/issues/203"
+      },
+      {
+        "id": "t07",
+        "name": "Content Module Implementations Status"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/06-adapt-minutes"
+  },
+  "2022-05-23-adapt": {
+    "title": "WAI Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Communication and logistics as a result of name change to \"adapt\""
+      },
+      {
+        "id": "t02",
+        "name": "TPAC 12-16 September 2022"
+      },
+      {
+        "id": "t03",
+        "name": "CR Status"
+      },
+      {
+        "id": "t04",
+        "name": "Proofreading the spec following our Adapt edit"
+      },
+      {
+        "id": "t05",
+        "name": "Editor's note for symbols open action"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "WAI-Adapt resolves to update our working draft and Explainer, together with all supporting documents, 5 in all, in order for us to review that we are indeed ready for CR. We will examine these updated documents to validate the proper introduction of our new name, WAI-Adapt.",
+        "topic": "CR Status"
+      }
+    ],
+    "href": "/2022/05/23-adapt-minutes"
+  },
+  "2022-05-17-adapt": {
+    "title": "WAI-Adapt Task Force Weekly meetings",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/05/17-adapt-minutes"
+  },
+  "2022-05-16-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Announce that next meeting will be on IRC Channel 'adapt'"
+      },
+      {
+        "id": "t02",
+        "name": "Inclusive Design 24 (Matthew)"
+      },
+      {
+        "id": "t03",
+        "name": "APA Adapt announcement and messaging - https://lists.w3.org/Archives/Public/public-personalization-tf/2022May/0002.html"
+      },
+      {
+        "id": "t04",
+        "name": "TPAC 12-16 September 2022 - Plan meetings; remind chairs to fill in the form before 31 May:  https://www.w3.org/2002/09/wbs/1/LogisticsTPAC2022/ sharon]"
+      },
+      {
+        "id": "t05",
+        "name": "Adapt chairs, approve the Roy PR regarding renaming specification docs from Personalization to Adapt (and adding the caption) https://github.com/w3c/personalization-semantics/pull/205"
+      },
+      {
+        "id": "t06",
+        "name": "PR status on issues 203 and 204 (merge) - https://github.com/w3c/personalization-semantics/issues/203, https://github.com/w3c/personalization-semantics/issues/204"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/05/16-personalization-minutes"
+  },
+  "2022-05-09-personalization": {
+    "title": "WAI-Adapt",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC 12-16 September 2022 - Plan meetings; remind chairs to fill in the form before 31 May: https://www.w3.org/2002/09/wbs/1/LogisticsTPAC2022/ Lionel_Wolberger]"
+      },
+      {
+        "id": "t02",
+        "name": "Roy follow-up, the task of renaming specification docs from Personalization to Adapt, (and adding the caption)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The short name shall be adapt-content",
+        "topic": "Roy follow-up, the task of renaming specification docs from Personalization to Adapt, (and adding the caption)"
+      }
+    ],
+    "href": "/2022/05/09-personalization-minutes"
+  },
+  "2022-05-02-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC 12-16 September 2022 - Discuss meetings and form needed by 31 May at the latest: https://www.w3.org/2002/09/wbs/1/LogisticsTPAC2022/"
+      },
+      {
+        "id": "t02",
+        "name": "Naming - Next steps and WAI-Adapt Overview (draft) https://deploy-preview-8--wai-personalization-standards.netlify.app/personalization/"
+      },
+      {
+        "id": "t03",
+        "name": "Caption line on WAI-Adapt draft overview https://deploy-preview-8--wai-personalization-standards.netlify.app/personalization/"
+      },
+      {
+        "id": "t04",
+        "name": "Follow-up on i18n issue #144 https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t05",
+        "name": "Implications of issue 203 for the data-symbol attribute - https://github.com/w3c/personalization-semantics/issues/203"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The subtitle (the 'tag line') is \"Enabling users to personalize content presentation\"",
+        "topic": "Caption line on WAI-Adapt draft overview https://deploy-preview-8--wai-personalization-standards.netlify.app/personalization/"
+      },
+      {
+        "id": "r02",
+        "content": "Change the cup of tea sample--currently with three symbols in one attribute, to be a cup of tea sample with one symbol in each attribute.",
+        "topic": "Implications of issue 203 for the data-symbol attribute - https://github.com/w3c/personalization-semantics/issues/203"
+      }
+    ],
+    "href": "/2022/05/02-personalization-minutes"
+  },
+  "2022-04-25-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Naming - Next steps and WAI-Adapt Overview (draft) https://deploy-preview-8--wai-personalization-standards.netlify.app/personalization/ Lionel_Wolberger]"
+      },
+      {
+        "id": "t02",
+        "name": "Content Module Implementations Status"
+      },
+      {
+        "id": "t03",
+        "name": "Implications of issue 203 for the data-symbol attribute - https://github.com/w3c/personalization-semantics/issues/203"
+      },
+      {
+        "id": "t04",
+        "name": "Issue 202 regarding Visible Indicators on 2.2 - https://github.com/w3c/personalization-semantics/issues/202"
+      },
+      {
+        "id": "t05",
+        "name": "Naming - Next steps and WAI-Adapt Overview (draft) https://deploy-preview-8--wai-personalization-standards.netlify.app/personalization/ Lionel_Wolberger]"
+      },
+      {
+        "id": "t06",
+        "name": "Planning future COGA meetings on Our Other Two Modules"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/04/25-personalization-minutes"
+  },
+  "2022-04-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Logistics: Easter/Passover/Ramadan holiday season"
+      },
+      {
+        "id": "t02",
+        "name": "Naming progress https://github.com/w3c/wai-personalization-standards/issues/9"
+      },
+      {
+        "id": "t03",
+        "name": "Content Module Implementations Status"
+      },
+      {
+        "id": "t04",
+        "name": "Implications of issue 203 for the data-symbol attribute (multi-value vs single value) https://github.com/w3c/personalization-semantics/issues/203 sharon]"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "We will meet next week as usual, for those members not attending, have a good vacation.",
+        "topic": "Logistics: Easter/Passover/Ramadan holiday season"
+      }
+    ],
+    "href": "/2022/04/11-personalization-minutes"
+  },
+  "2022-04-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Zoom for APA meetings (Wed)"
+      },
+      {
+        "id": "t02",
+        "name": "Naming progress, status of EO effort"
+      },
+      {
+        "id": "t03",
+        "name": "Content Module Implementations Status (Follow-up on issue #144 and issue #203)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/04/04-personalization-minutes"
+  },
+  "2022-03-28-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Naming progress, status of EO effort - https://github.com/w3c/wai-personalization-standards/issues/9"
+      },
+      {
+        "id": "t02",
+        "name": "Follow-up on i18n issue #144 https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC"
+      },
+      {
+        "id": "t04",
+        "name": "Implementations"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/03/28-personalization-minutes"
+  },
+  "2022-03-21-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Naming progress, status of EO effort"
+      },
+      {
+        "id": "t02",
+        "name": "CSUN debrief"
+      },
+      {
+        "id": "t03",
+        "name": "ERF"
+      },
+      {
+        "id": "t04",
+        "name": "eBRF"
+      },
+      {
+        "id": "t05",
+        "name": "CSUN debrief"
+      },
+      {
+        "id": "t06",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t07",
+        "name": "CSUN feedback"
+      },
+      {
+        "id": "t08",
+        "name": "Naming progress, status of EO effort"
+      },
+      {
+        "id": "t09",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t10",
+        "name": "Naming progress, status of EO effort"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/03/21-personalization-minutes"
+  },
+  "2022-03-07-personalization": {
+    "title": "Personalization Task Force and EOWG",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/03/07-personalization-minutes"
+  },
+  "2022-02-28-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t02",
+        "name": "Branding personalization work (also see https://github.com/w3c/wai-personalization-standards/issues/7)"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC 2022"
+      },
+      {
+        "id": "t04",
+        "name": "Planning COGA meetings on our other 2 modules"
+      },
+      {
+        "id": "t05",
+        "name": "W3C Legal Entity"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/28-personalization-minutes"
+  },
+  "2022-02-14-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t02",
+        "name": "Defining short names for the modules"
+      },
+      {
+        "id": "t03",
+        "name": "Planning COGA January meeting on Our Other Two Modules"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/14-personalization-minutes"
+  },
+  "2022-02-07-personalization": {
+    "title": "Personalization Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t02",
+        "name": "issue 202"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/07-personalization-minutes"
+  },
+  "2022-01-31-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t02",
+        "name": "Defining short names for the modules"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/01/31-personalization-minutes"
+  },
+  "2022-01-24-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t02",
+        "name": "Defining short names for the modules"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/01/24-personalization-minutes"
+  },
+  "2022-01-17-personalization": {
+    "title": "APA Personalization Task Force January 17th Meeting",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Content Module Implementations Status (Follow-up on i18n issue #144)"
+      },
+      {
+        "id": "t02",
+        "name": "Defining shortnames for the modules"
+      },
+      {
+        "id": "t03",
+        "name": "Planning COGA January meeting on Our Other Two Modules"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/01/17-personalization-minutes"
+  },
+  "2022-01-10-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Meeting next Monday? MLK Day?"
+      },
+      {
+        "id": "t02",
+        "name": "Work on the Rendering plug-in (Matthew)"
+      },
+      {
+        "id": "t03",
+        "name": "Work on the Rendering plug-in (Matthew)"
+      },
+      {
+        "id": "t04",
+        "name": "Follow-up on i18n issue #144 https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t05",
+        "name": "A shortname for the modules. The numbering is confusing."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Group agrees to a title scheme \"Personalization * Module\" (with other changes to be discussed).",
+        "topic": "A shortname for the modules. The numbering is confusing."
+      }
+    ],
+    "href": "/2022/01/10-personalization-minutes"
+  },
+  "2022-01-03-personalization": {
+    "title": "APA Personalization Task Force Teleconference - 3 Jan Monday 2022",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on i18n issue #144"
+      },
+      {
+        "id": "t02",
+        "name": "CR draft Status (if #144 is clear)"
+      },
+      {
+        "id": "t03",
+        "name": "Content Module Implementations check-in: LMS Blackboard?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/01/03-personalization-minutes"
+  },
+  "2021-12-13-personalization": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on i18n issue #144"
+      },
+      {
+        "id": "t02",
+        "name": "CR draft Status (if #144 is clear)"
+      },
+      {
+        "id": "t03",
+        "name": "Content Module Implementations check-in"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/12/13-personalization-minutes"
+  },
+  "2021-12-06-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on i18n issue #144 actions - https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t02",
+        "name": "CR draft status"
+      },
+      {
+        "id": "t03",
+        "name": "Help Module - COGA to review requirements and provide use cases"
+      },
+      {
+        "id": "t04",
+        "name": "Progress on getting implementors"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/12/06-personalization-minutes"
+  },
+  "2021-11-30-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on i18n issue #144"
+      },
+      {
+        "id": "t02",
+        "name": "Implementations Update: Who is implementing Module 1? We need two implemenations..."
+      },
+      {
+        "id": "t03",
+        "name": "CR draft Status"
+      },
+      {
+        "id": "t04",
+        "name": "Module 2.0 Updates and Next Steps"
+      },
+      {
+        "id": "t05",
+        "name": "January"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/11/30-personalization-minutes"
+  },
+  "2021-11-15-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on i18n issue #144 actions https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t02",
+        "name": "CR draft that was updated and sent viaemailhttps://lists.w3.org/Archives/Public/public-personalization-tf/2021Nov/0015.html"
+      },
+      {
+        "id": "t03",
+        "name": "Potential rendering considerations associated with Content Module 1.0"
+      },
+      {
+        "id": "t04",
+        "name": "Modules 2.0 issues review and next steps for Help and Support Module"
+      },
+      {
+        "id": "t05",
+        "name": "Ease of Authoring (issue ties in with general A11y and APA)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/11/15-personalization-minutes"
+  },
+  "2021-11-08-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Approve CR draft that was sent in email"
+      },
+      {
+        "id": "t02",
+        "name": "Report on the COGA presentation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/11/08-personalization-minutes"
+  },
+  "2021-11-01-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC feedback and lessons learned"
+      },
+      {
+        "id": "t02",
+        "name": "Follow-up oni18nissue#144 https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t03",
+        "name": "CR template - https://lists.w3.org/Archives/Public/public-personalization-tf/2021Sep/0026.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/11/01-personalization-minutes"
+  },
+  "2021-10-18-personalization": {
+    "title": "APA Personalization Breakout at TPAC 2021",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Personalizing the Web for Better Accessibility"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/10/18-personalization-minutes"
+  },
+  "2021-10-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC scheduling"
+      },
+      {
+        "id": "t02",
+        "name": "Progress on the Personalization deck for TPAC"
+      },
+      {
+        "id": "t03",
+        "name": "Symbols & i18n LTR/RTL Update (Follow-up on i18n issue #144 actions Lionel, Matt, Charles)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/10/11-personalization-minutes"
+  },
+  "2021-10-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up oni18nissue#144 actionshttps://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t02",
+        "name": "TPACschedulingand breakout session filed with APA by Lionel https://www.w3.org/WAI/APA/wiki/Meetings/TPAC_2021"
+      },
+      {
+        "id": "t03",
+        "name": "Progress on the Personalization deck for TPAC (Matt)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/10/04-personalization-minutes"
+  },
+  "2021-09-27-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow-up on i18n issue #144 actions (Lionel, Matt, Charles)"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC scheduling"
+      },
+      {
+        "id": "t03",
+        "name": "Progress on the Personalization deck for TPAC"
+      },
+      {
+        "id": "t04",
+        "name": "Blockers to CR? write up from John on issue #170"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/09/27-personalization-minutes"
+  },
+  "2021-09-20-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC planning"
+      },
+      {
+        "id": "t02",
+        "name": "i18n issue #144"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC planning"
+      },
+      {
+        "id": "t04",
+        "name": "Glossary for Personalization -- do we need one?"
+      },
+      {
+        "id": "t05",
+        "name": "Progress on the Personalization deck for TPAC"
+      },
+      {
+        "id": "t06",
+        "name": "Blockers to CR? write up from John on issue #170"
+      },
+      {
+        "id": "t07",
+        "name": "Update on CR template, first draft done"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/09/20-personalization-minutes"
+  },
+  "2021-09-13-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "i18n issue #144"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/09/13-personalization-minutes"
+  },
+  "2021-08-30-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC planning: meeting owners preparing as per list,https://www.w3.org/WAI/APA/wiki/Meetings/TPAC_2021"
+      },
+      {
+        "id": "t02",
+        "name": "i18n issue #144 - https://github.com/w3c/personalization-semantics/issues/144 (Janina)"
+      },
+      {
+        "id": "t03",
+        "name": "issue #170 - https://github.com/w3c/personalization-semantics/issues/170 (JF)"
+      },
+      {
+        "id": "t04",
+        "name": "Messaging template - https://www.w3.org/wiki/WAI/announcements"
+      },
+      {
+        "id": "t05",
+        "name": "Unlabeled GitHub issues https://github.com/w3c/personalization-semantics/issues/"
+      },
+      {
+        "id": "t06",
+        "name": "Action #89 - Update from JF editorial review of Modules 2.0 and 3.0"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/08/30-personalization-minutes"
+  },
+  "2021-08-23-personalization": {
+    "title": "APA Personalization Task Force 23 Aug 2021",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC planning updates, https://www.w3.org/WAI/APA/wiki/Meetings/TPAC_2021"
+      },
+      {
+        "id": "t02",
+        "name": "Blockers to CR? Summary and review of action items"
+      },
+      {
+        "id": "t03",
+        "name": "Labelling the unlabelled issues in git"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/08/23-personalization-minutes"
+  },
+  "2021-08-16-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Janina to draft a response to [i18n issue #144](https://github.com/w3c/personalization-semantics/issues/144)"
+      },
+      {
+        "id": "t02",
+        "name": "Write up from John on issue #170 - https://github.com/w3c/personalization-semantics/issues/170"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC planning: meeting owners preparing as per list,https://www.w3.org/WAI/APA/wiki/Meetings/TPAC_2021"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/08/16-personalization-minutes"
+  },
+  "2021-08-09-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Reminder, W3C Events Team survey due 20 August 2021"
+      },
+      {
+        "id": "t02",
+        "name": "Check in with 3 TPAC meeting owners that they are on track with their agenda"
+      },
+      {
+        "id": "t03",
+        "name": "Get status from our APA chairs regarding our 3 TPAC meetings"
+      },
+      {
+        "id": "t04",
+        "name": "Blockers to CR? Summary and review of action items (see git for Matt's comments)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/08/09-personalization-minutes"
+  },
+  "2021-08-02-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Verify that TPAC meetings are set by APA"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/08/02-personalization-minutes"
+  },
+  "2021-07-26-personalization": {
+    "title": "APA Personalization Task Force Teleconference - 26 Jul Monday 2021",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Reminder, W3C Events Team survey due 20 August 2021"
+      },
+      {
+        "id": "t02",
+        "name": "Set a owners for each TPAC meeting (COGA, i18n, Overview [silver, EPUB, Low vision])"
+      },
+      {
+        "id": "t03",
+        "name": "Verify that TPAC meetings are set by APA"
+      },
+      {
+        "id": "t04",
+        "name": "Blockers to CR? Summary and review of action items"
+      },
+      {
+        "id": "t05",
+        "name": "How we track actions: review of git, wiki & action tracker"
+      },
+      {
+        "id": "t06",
+        "name": "Issue disambiguation"
+      },
+      {
+        "id": "t07",
+        "name": "Issue disambiguation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/07/26-personalization-minutes"
+  },
+  "2021-07-19-personalization": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "W3C Events Team survey due 20 August 2021"
+      },
+      {
+        "id": "t02",
+        "name": "TPAC planning, prioritize the list"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/07/19-personalization-minutes"
+  },
+  "2021-07-12-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Red-line review of our other 2 modules and overall general structure (John)"
+      },
+      {
+        "id": "t02",
+        "name": "CR Blockers -Summary and review of action items -https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/07/12-personalization-minutes"
+  },
+  "2021-06-28-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Scheduling, meeting July 5th?"
+      },
+      {
+        "id": "t02",
+        "name": "Press release, next steps"
+      },
+      {
+        "id": "t03",
+        "name": "Editor's note (wiki page): accept this wiki page as an accurate presentation of our deliberations."
+      },
+      {
+        "id": "t04",
+        "name": "Editor's note (wiki page): Write the note that points to this page"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Personalization TF shall not meet on July 5th.",
+        "topic": "Scheduling, meeting July 5th?"
+      },
+      {
+        "id": "r02",
+        "content": "To delete the current note that appears in 3.1.1 and 3.2.1",
+        "topic": "Editor's note (wiki page): Write the note that points to this page"
+      },
+      {
+        "id": "r03",
+        "content": "Include the new note language three times, above each relevant attribute. The language is, \"The attributes in this section, \"action\", \"destination\" and \"purpose\", had some alternatives discussed. You can find a detailed overview here, [URL].",
+        "topic": "Editor's note (wiki page): Write the note that points to this page"
+      }
+    ],
+    "href": "/2021/06/28-personalization-minutes"
+  },
+  "2021-06-21-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Editor's note (wiki page) on action-destination-purpose (following Matthew's edit) andname of the wiki page"
+      },
+      {
+        "id": "t02",
+        "name": "Welcome Mike"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC planning"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Document name will be \"Review of approaches for Action, Destination, and Purpose\"",
+        "topic": "Editor's note (wiki page) on action-destination-purpose (following Matthew's edit) andname of the wiki page"
+      }
+    ],
+    "href": "/2021/06/21-personalization-minutes"
+  },
+  "2021-06-14-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Editor's note on action-destination-purpose (Matthew and John) -- Matthew sent the proposed editor's note"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/06/14-personalization-minutes"
+  },
+  "2021-06-07-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Update on the draftdocument for action-destination-purpose that will be referenced with an editors note (Matthew and John)"
+      },
+      {
+        "id": "t02",
+        "name": "i18n issue #144 (Review response) -https://github.com/w3c/personalization-semantics/issues/144"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/06/07-personalization-minutes"
+  },
+  "2021-05-24-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "issues https://github.com/w3c/personalization-semantics/labels/1%29%20content%20module"
+      },
+      {
+        "id": "t02",
+        "name": "johns and matt action"
+      },
+      {
+        "id": "t03",
+        "name": "johns and matt action"
+      },
+      {
+        "id": "t04",
+        "name": "johns and matt action"
+      },
+      {
+        "id": "t05",
+        "name": "matt and johns action"
+      },
+      {
+        "id": "t06",
+        "name": ""
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/05/24-personalization-minutes"
+  },
+  "2021-05-17-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Review updates to the explainer - https://github.com/w3c/personalization-semantics/pull/181"
+      },
+      {
+        "id": "t02",
+        "name": "i18n issue #144 (waiting for a response back) - https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t03",
+        "name": "Open Content module 1 issues https://github.com/w3c/personalization-semantics/issues?q=is%3Aopen+is%3Aissue+label%3A%221%29+content+module%22"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/05/17-personalization-minutes"
+  },
+  "2021-05-10-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "True/False values (John) - https://lists.w3.org/Archives/Public/public-personalization"
+      },
+      {
+        "id": "t02",
+        "name": "Conflict resolution (John) - https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0032.html"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "remove true/false from the explainer"
+      }
+    ],
+    "href": "/2021/05/10-personalization-minutes"
+  },
+  "2021-05-03-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Proposed decision-making process (Lisa)-https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0029.html"
+      },
+      {
+        "id": "t02",
+        "name": "Conflict resolution (John) -https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0032.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/05/03-personalization-minutes"
+  },
+  "2021-04-26-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Mats discussion on attributes @action, @destination _and_ @purpose. see https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0019.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/04/26-personalization-minutes"
+  },
+  "2021-04-19-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Becki drafted a response to i18n issue #144 (no response back) https://github.com/w3c/personalization-semantics/issues/144"
+      },
+      {
+        "id": "t02",
+        "name": "review open issues - https://github.com/w3c/personalization-semantics/issues"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "ok to close #144",
+        "topic": "Becki drafted a response to i18n issue #144 (no response back) https://github.com/w3c/personalization-semantics/issues/144"
+      }
+    ],
+    "href": "/2021/04/19-personalization-minutes"
+  },
+  "2021-04-12-personalization": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "wording for note for internationalization . see thread at https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0008.html"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "add a note to our spec - \"Note: the use of the language token does not mandate the use of BCP47 values: authors can request that or a simple text string.\"",
+        "topic": "wording for note for internationalization . see thread at https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0008.html"
+      },
+      {
+        "id": "r02",
+        "content": "add a note to both the Action and Destination sections - \"Note: Some of these token values can apply to both an Action and a Destination. Content authors should choose the appropriate component in context.\"",
+        "topic": "wording for note for internationalization . see thread at https://lists.w3.org/Archives/Public/public-personalization-tf/2021Apr/0008.html"
+      }
+    ],
+    "href": "/2021/04/12-personalization-minutes"
+  },
+  "2021-03-29-personalization": {
+    "title": "Personalization Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "PR related to Action 79 and the [email sent to list 22 Mar 2021] (John) https://lists.w3.org/Archives/Public/public-personalization-tf/2021Mar/0025.html"
+      },
+      {
+        "id": "t02",
+        "name": "investigate Research @rel versus @action and @destination and report back to tf (Action 78 - John)"
+      },
+      {
+        "id": "t03",
+        "name": "i18n issues 144, 145, 175 - https://github.com/w3c/personalization-semantics/issues/"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "We taking Easter Monday off.",
+        "topic": "i18n issues 144, 145, 175 - https://github.com/w3c/personalization-semantics/issues/"
+      }
+    ],
+    "href": "/2021/03/29-personalization-minutes"
+  },
+  "2021-03-22-personalization": {
+    "title": "APA Personalization TF Teleconference 22 Mar 2021",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Timeline - https://github.com/w3c/personalization-semantics/wiki/Timeline"
+      },
+      {
+        "id": "t02",
+        "name": "New I18N issue #175- https://github.com/w3c/personalization-semantics/issues/175"
+      },
+      {
+        "id": "t03",
+        "name": "Issue 79 - https://lists.w3.org/Archives/Public/public-personalization-tf/2021Mar/0025.html (John)"
+      },
+      {
+        "id": "t04",
+        "name": "2 new values for distractions https://lists.w3.org/Archives/Public/public-personalization-tf/2021Mar/0020.html (John)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/03/22-personalization-minutes"
+  },
+  "2021-03-15-personalization": {
+    "title": "Personalization Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Draft response to I18N issue 144 & 145 (John)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/03/15-personalization-minutes"
+  },
+  "2021-03-08-personalization": {
+    "title": "(MEETING TITLE)",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/03/08-personalization-minutes"
+  },
+  "2021-03-01-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "ednote https://lists.w3.org/Archives/Public/public-personalization-tf/2021Feb/0021.html"
+      },
+      {
+        "id": "t02",
+        "name": "actions from wiki/action https://github.com/w3c/personalization-semantics/wiki/action"
+      },
+      {
+        "id": "t03",
+        "name": "going though ed notes (including glossary"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "should change that to a hyperlink.",
+        "topic": "ednote https://lists.w3.org/Archives/Public/public-personalization-tf/2021Feb/0021.html"
+      }
+    ],
+    "href": "/2021/03/01-personalization-minutes"
+  },
+  "2021-02-22-personalization": {
+    "title": "APA Weekly Personalization Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Draft response to I18N issue 145 https://github.com/w3c/personalization-semantics/issues/145"
+      },
+      {
+        "id": "t02",
+        "name": "Clean up IRC action items https://www.w3.org/WAI/APA/task-forces/personalization/track/actions/open"
+      },
+      {
+        "id": "t03",
+        "name": "Draft response to I18N issue 145 https://github.com/w3c/personalization-semantics/issues/145"
+      },
+      {
+        "id": "t04",
+        "name": "Review Action items wiki - https://github.com/w3c/personalization-semantics/wiki/actions"
+      },
+      {
+        "id": "t05",
+        "name": "New business?"
+      },
+      {
+        "id": "t06",
+        "name": "Issue 160, spoke with R"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/02/22-personalization-minutes"
+  },
+  "2021-02-08-personalization": {
+    "title": "Weekly Meeting",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Becky's Issue #160 response"
+      },
+      {
+        "id": "t02",
+        "name": "Open actions"
+      },
+      {
+        "id": "t03",
+        "name": "Content Module 1 - Distraction values and examples need to be updated #170"
+      },
+      {
+        "id": "t04",
+        "name": "Issue #46"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/02/08-personalization-minutes"
+  },
+  "2021-02-01-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Draft response to issue 76 (John)"
+      },
+      {
+        "id": "t02",
+        "name": "Charterfor APA(due end of the month) - https://raw.githack.com/w3c/apa/charter-2021/charter.html"
+      },
+      {
+        "id": "t03",
+        "name": "Review other remainingActions- https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/02/01-personalization-minutes"
+  },
+  "2021-01-25-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Review remaining Actions, https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/01/25-personalization-minutes"
+  },
+  "2021-01-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Distraction example PR, https://lists.w3.org/Archives/Public/public-personalization-tf/2020Dec/0008.html"
+      },
+      {
+        "id": "t02",
+        "name": "Charter for APA (due end of the month)- Proposed https://lists.w3.org/Archives/Public/public-personalization-tf/2021Jan/0004.html"
+      },
+      {
+        "id": "t03",
+        "name": "WhatWG re: data- ask for a permanent reserved prefix"
+      },
+      {
+        "id": "t04",
+        "name": "Review remaining Actions, https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/01/11-personalization-minutes"
+  },
+  "2021-01-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "go through the actions left to get to CR at actions <https://github.com/w3c/personalization-semantics/wiki/actions>"
+      },
+      {
+        "id": "t02",
+        "name": "do we want to do module 2 etc"
+      },
+      {
+        "id": "t03",
+        "name": "recruiting and implementations"
+      },
+      {
+        "id": "t04",
+        "name": "do we want to do module 2 etc"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/01/04-personalization-minutes"
+  },
+  "2020-12-14-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "APA charter (due end of January)"
+      },
+      {
+        "id": "item02",
+        "name": "data-* vs. new attribute prefix and implementation plan"
+      },
+      {
+        "id": "item03",
+        "name": "Draft response to Alice on media queries and distractions - https://lists.w3.org/Archives/Public/public-personalization-tf/2020Dec/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/12/14-personalization-minutes"
+  },
+  "2020-12-07-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "go over action https://github.com/w3c/personalization-semantics/wiki/actions"
+      },
+      {
+        "id": "item02",
+        "name": "issue 78 https://lists.w3.org/Archives/Public/public-personalization-tf/2020Nov/0024.html"
+      },
+      {
+        "id": "item03",
+        "name": "consider removing :sensory distactions, and expand the others - See issue #170"
+      },
+      {
+        "id": "item04",
+        "name": "new issues"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "will not meet on Dec. 21st or 28th"
+      }
+    ],
+    "href": "/2020/12/07-personalization-minutes"
+  },
+  "2020-11-30-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Explainer red-lining"
+      },
+      {
+        "id": "item02",
+        "name": "Distraction overlap with prefers-reduced-motionmedia query - https://github.com/w3ctag/design-reviews/issues/476"
+      },
+      {
+        "id": "item03",
+        "name": "Explainer red-lining"
+      },
+      {
+        "id": "item04",
+        "name": "Bliss symbol reference in editors note - https://lists.w3.org/Archives/Public/public-personalization-tf/2020Nov/0011.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/11/30-personalization-minutes"
+  },
+  "2020-11-16-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "action review: https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/11/16-personalization-minutes"
+  },
+  "2020-11-09-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Explainer red line and other updates https://github.com/w3c/personalization-semantics/blob/explainer-redline-nov-2020/explainer.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/11/09-personalization-minutes"
+  },
+  "2020-11-02-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "actions review https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/11/02-personalization-minutes"
+  },
+  "2020-10-19-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "tpac and other updates"
+      },
+      {
+        "id": "item02",
+        "name": "review todo list for CR"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "publish new wd of requirments in TR space",
+        "topic": "review todo list for CR"
+      }
+    ],
+    "href": "/2020/10/19-personalization-minutes"
+  },
+  "2020-10-05-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC"
+      },
+      {
+        "id": "item02",
+        "name": "Explainer - https://w3c.github.io/personalization-semantics/"
+      },
+      {
+        "id": "item03",
+        "name": "Requirements - https://raw.githack.com/w3c/personalization-semantics/requirements-punctuation-edits09-29/requirements/index.html"
+      },
+      {
+        "id": "item04",
+        "name": "Tag issue - https://github.com/w3ctag/design-reviews/issues/476"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/10/05-personalization-minutes"
+  },
+  "2020-09-28-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "video"
+      },
+      {
+        "id": "item02",
+        "name": "Explainer - https://raw.githack.com/w3c/personalization-semantics/explainer-compare/explainer.html"
+      },
+      {
+        "id": "item03",
+        "name": "Requirements - https://raw.githack.com/w3c/personalization-semantics/explainer-and-requirments-sep-2020/requirements/index.html"
+      },
+      {
+        "id": "item04",
+        "name": "Review GitHub Issues 155 with Becky's updates for added values - https://raw.githack.com/w3c/personalization-semantics/issue155/content/index.html#values"
+      },
+      {
+        "id": "item05",
+        "name": "Tag explainer - any updates? (Bliss issue and stakeholder feedback section)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/09/28-personalization-minutes"
+  },
+  "2020-09-21-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/09/21-personalization-minutes"
+  },
+  "2020-09-14-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "explainer https://raw.githack.com/w3c/personalization-semantics/explainer-compare/explainer.html"
+      },
+      {
+        "id": "item02",
+        "name": "issue #139 <https://github.com/w3c/personalization-semantics/issues/139>"
+      },
+      {
+        "id": "item03",
+        "name": "tag response, and Janinas comment"
+      },
+      {
+        "id": "item04",
+        "name": "aprouch to what the wg"
+      },
+      {
+        "id": "item05",
+        "name": "video"
+      },
+      {
+        "id": "item06",
+        "name": "issue 159"
+      },
+      {
+        "id": "item07",
+        "name": "action 70"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Request a reserved prefix from WHAT-WG to replace our use of data- in Module 1.",
+        "topic": "aprouch to what the wg"
+      }
+    ],
+    "href": "/2020/09/14-personalization-minutes"
+  },
+  "2020-08-31-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Short TPAC demo video with and without personalization, intro due 9/21"
+      },
+      {
+        "id": "item02",
+        "name": "Explainer https://raw.githack.com/w3c/personalization-semantics/explainer-compare/explainer.html"
+      },
+      {
+        "id": "item03",
+        "name": "Tag comments (Any feedback yet?)"
+      },
+      {
+        "id": "item04",
+        "name": "CR announcement https://lists.w3.org/Archives/Public/public-personalization-tf/2020Aug/0024.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/08/31-personalization-minutes"
+  },
+  "2020-08-24-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "abstract"
+      },
+      {
+        "id": "item02",
+        "name": "explainer https://lists.w3.org/Archives/Public/public-personalization-tf/2020Aug/0016.html"
+      },
+      {
+        "id": "item03",
+        "name": "tag comments"
+      },
+      {
+        "id": "item04",
+        "name": "https://github.com/w3c/personalization-semantics/issues/155"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/08/24-personalization-minutes"
+  },
+  "2020-08-17-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Explainer updates"
+      },
+      {
+        "id": "item02",
+        "name": "Tag response"
+      },
+      {
+        "id": "item03",
+        "name": "Module 1 abstract"
+      },
+      {
+        "id": "item04",
+        "name": "Tag response"
+      },
+      {
+        "id": "item05",
+        "name": "CR announcement messaging"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/08/17-personalization-minutes"
+  },
+  "2020-08-03-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": ", draft ed note from janina see https://lists.w3.org/Archives/Public/public-personalization-tf/2020Aug/0002.html"
+      },
+      {
+        "id": "item02",
+        "name": "tpac"
+      },
+      {
+        "id": "item03",
+        "name": "silver issue"
+      },
+      {
+        "id": "item04",
+        "name": "review f explainers, https://lists.w3.org/Archives/Public/public-personalization-tf/2020Jul/0022.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/08/03-personalization-minutes"
+  },
+  "2020-07-27-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Discuss prefix issue"
+      },
+      {
+        "id": "item02",
+        "name": "Charter items for 2024"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/07/27-personalization-minutes"
+  },
+  "2020-07-20-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Introduction of Content Module"
+      },
+      {
+        "id": "item02",
+        "name": "timelines - see https://github.com/w3c/personalization-semantics/wiki/wish-list-and-priorities-for-2020--2021"
+      },
+      {
+        "id": "item03",
+        "name": "close issue for internationalization"
+      },
+      {
+        "id": "item04",
+        "name": "timelines - see https://github.com/w3c/personalization-semantics/wiki/wish-list-and-priorities-for-2020--2021"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/07/20-personalization-minutes"
+  },
+  "2020-07-13-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "i18n issue (see draft at https://lists.w3.org/Archives/Public/public-personalization-tf/2020Jun/0016.html) [from LisaSeemanKest]"
+      },
+      {
+        "id": "item02",
+        "name": "Proposed timelines - see https://github.com/w3c/personalization-semantics/wiki/wish-list-and-priorities-for-2020--2021"
+      },
+      {
+        "id": "item03",
+        "name": "i18n issue (see draft at https://lists.w3.org/Archives/Public/public-personalization-tf/2020Jun/0016.html)"
+      },
+      {
+        "id": "item04",
+        "name": "i18n issue (see draft at https://lists.w3.org/Archives/Public/public-personalization-tf/2020Jun/0016.html) [from LisaSeemanKest]"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/07/13-personalization-minutes"
+  },
+  "2020-06-29-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "i18n issue"
+      },
+      {
+        "id": "item02",
+        "name": "Review content module"
+      },
+      {
+        "id": "item03",
+        "name": "i18n issue"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/06/29-personalization-minutes"
+  },
+  "2020-06-22-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "i18n issue"
+      },
+      {
+        "id": "item02",
+        "name": "Review introduction - Content Module"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "dump ed note in 3.4.1",
+        "topic": "Review introduction - Content Module"
+      }
+    ],
+    "href": "/2020/06/22-personalization-minutes"
+  },
+  "2020-06-15-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review introduction - Content Module"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/06/15-personalization-minutes"
+  },
+  "2020-06-08-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "changes to the document"
+      },
+      {
+        "id": "item02",
+        "name": "ansewring remaining issues https://github.com/w3c/personalization-semantics/issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/06/08-personalization-minutes"
+  },
+  "2020-06-01-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "next steps"
+      },
+      {
+        "id": "item02",
+        "name": "do we care about speces with the plus sine 9options"
+      },
+      {
+        "id": "item03",
+        "name": "janina's email"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/06/01-personalization-minutes"
+  },
+  "2020-05-18-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "tpac (and i may need to step outside for 5 minuets"
+      },
+      {
+        "id": "item02",
+        "name": "what else do we need for CR"
+      },
+      {
+        "id": "item03",
+        "name": "drfat of answers for issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/05/18-personalization-minutes"
+  },
+  "2020-05-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates with tag"
+      },
+      {
+        "id": "item02",
+        "name": "extra line of instuction for dat-simbol, https://lists.w3.org/Archives/Public/public-personalization-tf/2020May/0009.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/05/11-personalization-minutes"
+  },
+  "2020-05-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "sharons edits to the expliner https://lists.w3.org/Archives/Public/public-personalization-tf/2020May/att-0000/00-part"
+      },
+      {
+        "id": "item02",
+        "name": "i18n issues at https://github.com/w3c/personalization-semantics/issues?q=is%3Aissue+is%3Aopen+label%3Ai18n-needs-resolution"
+      },
+      {
+        "id": "item03",
+        "name": "tpac"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/05/04-personalization-minutes"
+  },
+  "2020-04-27-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "internationalization issues"
+      },
+      {
+        "id": "item02",
+        "name": "update: explainer and requirments drafts"
+      },
+      {
+        "id": "item03",
+        "name": "internationalization issues"
+      },
+      {
+        "id": "item04",
+        "name": "issues from coga"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "The Task Force believes we've already covered this use-case\", close this issue",
+        "topic": "issues from coga"
+      }
+    ],
+    "href": "/2020/04/27-personalization-minutes"
+  },
+  "2020-04-20-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "explainer See https://github.com/w3c/personalization-semantics/wiki/restructure-of-the-explainer"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/04/20-personalization-minutes"
+  },
+  "2020-04-13-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "explainer resuctured https://lists.w3.org/Archives/Public/public-personalization-tf/2020Apr/0003.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/04/13-personalization-minutes"
+  },
+  "2020-04-06-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Becky's issues"
+      },
+      {
+        "id": "item02",
+        "name": "are there new issues to assign https://github.com/w3c/personalization-semantics/issues"
+      },
+      {
+        "id": "item03",
+        "name": "explainer resuctured https://lists.w3.org/Archives/Public/public-personalization-tf/2020Apr/0003.html"
+      },
+      {
+        "id": "item04",
+        "name": "Requirements"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/04/06-personalization-minutes"
+  },
+  "2020-03-30-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "isue 125 https://lists.w3.org/Archives/Public/public-personalization-tf/2020Mar/0022.html"
+      },
+      {
+        "id": "item02",
+        "name": "TAG review"
+      },
+      {
+        "id": "item03",
+        "name": "isue 125 https://lists.w3.org/Archives/Public/public-personalization-tf/2020Mar/0022.html"
+      },
+      {
+        "id": "item04",
+        "name": "issue 1133 https://github.com/w3c/personalization-semantics/issues/133"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/30-personalization-minutes"
+  },
+  "2020-03-23-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issues review and actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/23-personalization-minutes"
+  },
+  "2020-03-16-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TAG response https://github.com/w3ctag/design-reviews/issues/476"
+      },
+      {
+        "id": "item02",
+        "name": "iternationlization https://github.com/w3c/personalization-semantics/issues/133#issuecomment-595502408"
+      },
+      {
+        "id": "item03",
+        "name": "Go through the list of Open issues for Explainer & Module 1 https://github.com/w3c/personalization-semantics/labels/content%20module"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/16-personalization-minutes"
+  },
+  "2020-03-02-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Self Review (I18N) I18N HR request #133"
+      },
+      {
+        "id": "item02",
+        "name": "Go through the list of Open issues for Explainer & Module 1 https://github.com/w3c/personalization-semantics/labels/content%20module"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/02-personalization-minutes"
+  },
+  "2020-02-24-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "internationalization review https://github.com/w3c/personalization-semantics/issues/133"
+      },
+      {
+        "id": "item02",
+        "name": "issue tracking https://github.com/w3c/personalization-semantics/wiki/Draft-issue-responses"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/02/24-personalization-minutes"
+  },
+  "2020-02-10-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "close what we need to do for the TAG review. See our github issue: 1https://github.com/w3c/personalization-semantics/issues/132"
+      },
+      {
+        "id": "item02",
+        "name": "security review https://github.com/w3c/personalization-semantics/issues/133"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/02/10-personalization-minutes"
+  },
+  "2020-02-03-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Wide Review Official (Module 1, Explainer, & Requirements)"
+      },
+      {
+        "id": "item02",
+        "name": "APA - Advance planning priorities - https://www.w3.org/WAI/APA/wiki/APA_priorities_2020"
+      },
+      {
+        "id": "item03",
+        "name": "Internationalization Review Request https://github.com/w3c/personalization-semantics/issues/133"
+      },
+      {
+        "id": "item04",
+        "name": "Tag review request https://github.com/w3c/personalization-semantics/issues/132"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/02/03-personalization-minutes"
+  },
+  "2020-01-27-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/01/27-personalization-minutes"
+  },
+  "2020-01-13-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review the changes to the Explainer that were recently added"
+      },
+      {
+        "id": "item02",
+        "name": "Review the changes to the Requirements document that were recently added (User Stories/Use-cases)"
+      },
+      {
+        "id": "item03",
+        "name": "Blurb for APA Wide Review as a RC"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/01/13-personalization-minutes"
+  },
+  "2020-01-06-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "what we need to do next! https://github.com/w3c/personalization-semantics/wiki#module-1-and-the-explainer"
+      },
+      {
+        "id": "item02",
+        "name": "explainer https://github.com/w3c/personalization-semantics/issues/132"
+      },
+      {
+        "id": "item03",
+        "name": "security review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/01/06-personalization-minutes"
+  },
+  "2019-12-16-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "overlays https://lists.w3.org/Archives/Public/public-personalization-tf/2019Dec/0014.html"
+      },
+      {
+        "id": "item02",
+        "name": "explainer https://lists.w3.org/Archives/Public/public-personalization-tf/2019Dec/0012.html"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Offer: An advertisement or offer for a product, feature or service, or content that is not essential to the user's current task. ... Overlay: Part of an application or content that is displayed over the top of the other content in a secondary window or popup, that blocks user interaction to the parent window. The content of the popup is not essential to the users task and are not intentionally initiated by the user.",
+        "topic": "explainer https://lists.w3.org/Archives/Public/public-personalization-tf/2019Dec/0012.html"
+      }
+    ],
+    "href": "/2019/12/16-personalization-minutes"
+  },
+  "2019-12-09-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Continue distractions (see list thread at https://lists.w3.org/Archives/Public/public-personalization-tf/2019Nov/0011.html)"
+      },
+      {
+        "id": "item02",
+        "name": "explainer\\"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/12/09-personalization-minutes"
+  },
+  "2019-12-02-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "distractions - See thread at https://lists.w3.org/Archives/Public/public-personalization-tf/2019Nov/0011.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/12/02-personalization-minutes"
+  },
+  "2019-11-25-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "distractions"
+      },
+      {
+        "id": "item02",
+        "name": "explainer"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/11/25-personalization-minutes"
+  },
+  "2019-11-18-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "distractions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/11/18-personalization-minutes"
+  },
+  "2019-11-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates and security reviewhttps://w3ctag.github.io/security-questionnaire/#purpose"
+      },
+      {
+        "id": "item02",
+        "name": "distractions (becky's email ) at https://lists.w3.org/Archives/Public/public-personalization-tf/2019Oct/0022.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/11/11-personalization-minutes"
+  },
+  "2019-11-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finish Beckys questions she raised in her email."
+      },
+      {
+        "id": "item02",
+        "name": "Go over all the values already done in Sharons emails"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/11/04-personalization-minutes"
+  },
+  "2019-10-28-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates and time tables https://github.com/w3c/personalization-semantics/wiki#timelines"
+      },
+      {
+        "id": "item02",
+        "name": "https://www.w3.org/WAI/APA/task-forces/personalization/track/actions/13: find more value duplicates from"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/28-personalization-minutes"
+  },
+  "2019-10-21-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Charles: Recap of side meetings had at the Microsoft Accessibility Summit on Personalization"
+      },
+      {
+        "id": "item02",
+        "name": "Sailesh Panchangs email about values (balance, select/deselect)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/21-personalization-minutes"
+  },
+  "2019-10-07-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates, tpac, games, eU other"
+      },
+      {
+        "id": "item02",
+        "name": "what we need to do for wide review of https://www.w3.org/TR/personalization-semantics-content-1.0/"
+      },
+      {
+        "id": "item03",
+        "name": "CSUN"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/07-personalization-minutes"
+  },
+  "2019-09-30-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/09/30-personalization-minutes"
+  },
+  "2019-09-18-personalization": {
+    "title": "TPAC Personalization Breakout - Symbols",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/09/18-personalization-minutes"
+  },
+  "2019-09-09-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "tpac presention https://github.com/w3c/personalization-semantics/wiki/TPAC2019-WebApps-Symbols-Overview#-form-for-tpac-"
+      },
+      {
+        "id": "item02",
+        "name": "tpac APA joint meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/09/09-personalization-minutes"
+  },
+  "2019-08-26-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "BLISS for licensing but we need to follow up to have a URI that Russell gave us on granting us fair use of the BIC reference numbers. Add that to our spec, as well as the public email he sent us."
+      },
+      {
+        "id": "resolution02",
+        "content": ", we should suggest some language for this page, where it says you can use your symbols that you include the BIC numbering as well."
+      }
+    ],
+    "href": "/2019/08/26-personalization-minutes"
+  },
+  "2019-08-19-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "update on editors draft"
+      },
+      {
+        "id": "item02",
+        "name": "TPAC - Should we run a demo based on Symbol in Japan next month"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/08/19-personalization-minutes"
+  },
+  "2019-08-12-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Close on the research project (Peter and Ori joining) User Testing after AAAT (last week in Aug) want them to discuss what the plan is."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/08/12-personalization-minutes"
+  },
+  "2019-08-05-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "closing item values for the first 3 attributes"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "changing comment destination to feedback and change help from feedback to status",
+        "topic": "closing item values for the first 3 attributes"
+      },
+      {
+        "id": "resolution02",
+        "content": "changing comment destination to feedback and change help from feedback to status",
+        "topic": "closing item values for the first 3 attributes"
+      },
+      {
+        "id": "resolution03",
+        "content": "make the action definition for help more specific - opens-in-page-help; difference is that it doesnt take the user to a new destination. and the destitation is chaged to support with defintion that it goes to support or instructions",
+        "topic": "closing item values for the first 3 attributes"
+      }
+    ],
+    "href": "/2019/08/05-personalization-minutes"
+  },
+  "2019-07-29-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC and holidays"
+      },
+      {
+        "id": "item02",
+        "name": "what we agree on symbol and what we can put off to advanced (for a later date)"
+      },
+      {
+        "id": "item03",
+        "name": "Holidays"
+      },
+      {
+        "id": "item04",
+        "name": "TPAC"
+      },
+      {
+        "id": "item05",
+        "name": "what we agree on symbol and what we can put off to advanced (for a later date)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/07/29-personalization-minutes"
+  },
+  "2019-07-22-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "IP potential issues with Bliss Symbols"
+      },
+      {
+        "id": "item02",
+        "name": "Easy Reader implementation prototyping 6 months left of funding"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/07/22-personalization-minutes"
+  },
+  "2019-07-15-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/07/15-personalization-minutes"
+  },
+  "2019-07-08-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/07/08-personalization-minutes"
+  },
+  "2019-06-24-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "reltaed vocablaries"
+      },
+      {
+        "id": "item02",
+        "name": "items for next iteration"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/06/24-personalization-minutes"
+  },
+  "2019-06-17-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Charles will post 48-hour CfC for publishing updated working drafts of 4 docs"
+      }
+    ],
+    "href": "/2019/06/17-personalization-minutes"
+  },
+  "2019-06-10-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "List of pages at https://github.com/w3c/personalization-semantics/wiki"
+      },
+      {
+        "id": "item02",
+        "name": "Missing items on autocomplete (see Charles email)"
+      },
+      {
+        "id": "item03",
+        "name": "prototyping"
+      },
+      {
+        "id": "item04",
+        "name": "Missing items on autocomplete (see Charles email)"
+      },
+      {
+        "id": "item05",
+        "name": "continue going though list"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "include the autocomplete that is missing",
+        "topic": "Missing items on autocomplete (see Charles email)"
+      }
+    ],
+    "href": "/2019/06/10-personalization-minutes"
+  },
+  "2019-06-03-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "value for destination to be changed to email-recipient ... move all attribute values from CamelCase to hyphenated values"
+      },
+      {
+        "id": "resolution02",
+        "content": "Add the other address levels (1, 2, 3, 4) from @autocomplete) ... Add authoring note for city (city, see address-level-2)"
+      },
+      {
+        "id": "resolution03",
+        "content": "FOR DISTRACTION, CHANGE VALUE FROM AD TO ADVERTISEMENT"
+      }
+    ],
+    "href": "/2019/06/03-personalization-minutes"
+  },
+  "2019-05-20-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "captcha"
+      },
+      {
+        "id": "item02",
+        "name": "vocablary checking"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/05/20-personalization-minutes"
+  },
+  "2019-05-06-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "should we pulish a new WD"
+      },
+      {
+        "id": "item02",
+        "name": "demo (If Ori can make it)"
+      },
+      {
+        "id": "item03",
+        "name": "symbol, - talking around the pluses and minuses of using bliss, the bliss refrences number, or mapping to a term"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/05/06-personalization-minutes"
+  },
+  "2019-04-29-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/04/29-personalization-minutes"
+  },
+  "2019-04-22-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Everyone needs to respond to the CFC in email by Tuesday, status update from those already voted"
+      },
+      {
+        "id": "item02",
+        "name": "Invitation: Symbols Explanation by Mats Lundalv"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/22-personalization-minutes"
+  },
+  "2019-04-15-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review survey https://www.w3.org/2002/09/wbs/101569/Data-Dash2019/results"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "do not include alt in the attribute name",
+        "topic": "review survey https://www.w3.org/2002/09/wbs/101569/Data-Dash2019/results"
+      },
+      {
+        "id": "resolution02",
+        "content": "data-purpose, data-action, data-destination",
+        "topic": "review survey https://www.w3.org/2002/09/wbs/101569/Data-Dash2019/results"
+      },
+      {
+        "id": "resolution03",
+        "content": "do not include alt in the attribute name",
+        "topic": "review survey https://www.w3.org/2002/09/wbs/101569/Data-Dash2019/results"
+      },
+      {
+        "id": "resolution04",
+        "content": "data-purpose, data-action, data-destination",
+        "topic": "review survey https://www.w3.org/2002/09/wbs/101569/Data-Dash2019/results"
+      }
+    ],
+    "href": "/2019/04/15-personalization-minutes"
+  },
+  "2019-04-08-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review of Johns https://github.com/w3c/personalization-semantics/wiki/Prototypes-with-data-dash-*-(Take-2)"
+      },
+      {
+        "id": "item02",
+        "name": "https://github.com/w3c/personalization-semantics/wiki/Ideas-for-hackathons May 15 & 16. Project ideas"
+      },
+      {
+        "id": "item03",
+        "name": "Field vs. Purpose"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/08-personalization-minutes"
+  },
+  "2019-04-01-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "action feild and desintion with data dash https://github.com/w3c/personalization-semantics/wiki/Protoypes-with-data-dash"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/01-personalization-minutes"
+  },
+  "2019-03-25-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC 2019 (Will there be enough TF members attending to warrant an in person meeting.)"
+      },
+      {
+        "id": "item02",
+        "name": "soliciting UA prototypes and example content for demonstrating."
+      },
+      {
+        "id": "item03",
+        "name": "review of Roys combination of https://raw.githack.com/w3c/personalization-semantics/rewrite-prototype/content/index.html#values for ease of understanding"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/03/25-personalization-minutes"
+  },
+  "2019-03-18-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/03/18-personalization-minutes"
+  },
+  "2019-03-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review of the W3Cs webpage for Personalization Overview"
+      },
+      {
+        "id": "item02",
+        "name": "Next Meeting on March 18th (after CSUN)"
+      },
+      {
+        "id": "item03",
+        "name": "review of Roys combination of Attribute/Value/Description into one table for ease of understanding"
+      },
+      {
+        "id": "item04",
+        "name": "Look through the prototyping with data- examples"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/03/11-personalization-minutes"
+  },
+  "2019-03-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "time zones"
+      },
+      {
+        "id": "item02",
+        "name": "tpac"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/03/04-personalization-minutes"
+  },
+  "2019-02-25-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "webapps follow up"
+      },
+      {
+        "id": "item02",
+        "name": "tpac"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/02/25-personalization-minutes"
+  },
+  "2019-02-11-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review of implementation use cases"
+      },
+      {
+        "id": "item02",
+        "name": "Path forward"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/02/11-personalization-minutes"
+  },
+  "2019-02-04-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "How we track actions"
+      },
+      {
+        "id": "item02",
+        "name": "time line review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/02/04-personalization-minutes"
+  },
+  "2019-01-14-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "invite those current prototype implementors to a future meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/14-personalization-minutes"
+  },
+  "2019-01-07-personalization": {
+    "title": "Personalization Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/01/07-personalization-minutes"
+  },
+  "2018-12-17-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Web4All Conference in San Francisco May 13-16 with Hackathon focus on Personalization"
+      },
+      {
+        "id": "item02",
+        "name": "Happy holidays, no meetings until Monday January 7th."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/12/17-personalization-minutes"
+  },
+  "2018-12-10-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "How to manage action items, (W3C Tracker, or what is currently done via our https://github.com/w3c/personalization-semantics/wiki/actions)"
+      },
+      {
+        "id": "item02",
+        "name": "to two implentiosn support"
+      },
+      {
+        "id": "item03",
+        "name": "Review our new https://github.com/w3c/personalization-semantics/wiki/Use-cases."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Janina is not sure about this, but look at this after our charter obligations have been met",
+        "topic": "to two implentiosn support"
+      }
+    ],
+    "href": "/2018/12/10-personalization-minutes"
+  },
+  "2018-12-03-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review Michael's (https://rawgit.com/w3c/personalization-semantics/requirements/requirements/index.html)"
+      },
+      {
+        "id": "item02",
+        "name": "Review our new https://github.com/w3c/personalization-semantics/wiki/Use-cases."
+      },
+      {
+        "id": "item03",
+        "name": "Review Michael's (https://rawgit.com/w3c/personalization-semantics/requirements/requirements/index.html)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/12/03-personalization-minutes"
+  },
+  "2018-11-26-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "do we agree on short list https://github.com/w3c/personalization-semantics/wiki/Comparison-of-ways-to-use-vocabulary-in-content"
+      },
+      {
+        "id": "item02",
+        "name": "is the new option doable? https://github.com/w3c/personalization-semantics/wiki/Comparison-of-ways-to-use-vocabulary-in-content#6c"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/11/26-personalization-minutes"
+  },
+  "2018-11-19-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/11/19-personalization-minutes"
+  },
+  "2018-11-12-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Welcome new W3C staff member"
+      },
+      {
+        "id": "item02",
+        "name": "Review of Timeline and recording of Action items"
+      },
+      {
+        "id": "item03",
+        "name": "Possibly change Meeting Day/Time"
+      },
+      {
+        "id": "item04",
+        "name": "TPAC Recap: https://www.w3.org/2018/10/22-apa-minutes.html#item01"
+      },
+      {
+        "id": "item05",
+        "name": "https://www.w3.org/2018/10/22-apa-minutes.html#item06"
+      },
+      {
+        "id": "item06",
+        "name": "https://www.w3.org/2018/10/24-personalization-minutes (Wednesday Open Session)"
+      },
+      {
+        "id": "item07",
+        "name": "Next Steps : Get a single list of all values values (maybe in a wiki or auto included web-page)(Web Platforms requested this)"
+      },
+      {
+        "id": "item08",
+        "name": "3 Attributes (Text, Token, URI)"
+      },
+      {
+        "id": "item09",
+        "name": "trim down short list of what we ruled out (ie. RDFA, micro syntax etc.) and what we text, uri, tokens"
+      },
+      {
+        "id": "item10",
+        "name": "set agenda for next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/11/12-personalization-minutes"
+  },
+  "2018-10-24-personalization": {
+    "title": "24 Oct 2018",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/10/24-personalization-minutes"
+  },
+  "2018-10-15-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "do we meet on the 29th?"
+      },
+      {
+        "id": "item02",
+        "name": "meeting with webapps. do we have talking points?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/10/15-personalization-minutes"
+  },
+  "2018-10-08-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "go over any issues that have come up and all pull requests if any."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/10/08-personalization-minutes"
+  },
+  "2018-10-01-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "jons email https://lists.w3.org/Archives/Public/public-personalization-tf/2018Sep/0028.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/10/01-personalization-minutes"
+  },
+  "2018-09-24-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/09/24-personalization-minutes"
+  },
+  "2018-09-17-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/09/17-personalization-minutes"
+  },
+  "2018-09-10-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "APA Update on TPAC"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/09/10-personalization-minutes"
+  },
+  "2018-08-27-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "https://github.com/w3c/personalization-semantics/wiki/Comparison-of-ways-to-use-vocabulary-in-content"
+      },
+      {
+        "id": "item02",
+        "name": "Merged Pull Request from Becky #86"
+      },
+      {
+        "id": "item03",
+        "name": "Action items from last call"
+      },
+      {
+        "id": "item04",
+        "name": "https://github.com/w3c/personalization-semantics/wiki/Comparison-of-ways-to-use-vocabulary-in-content"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "the api discuion is not needed to work out how put vocablary in content",
+        "topic": "https://github.com/w3c/personalization-semantics/wiki/Comparison-of-ways-to-use-vocabulary-in-content"
+      }
+    ],
+    "href": "/2018/08/27-personalization-minutes"
+  },
+  "2018-08-20-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "APA move"
+      },
+      {
+        "id": "item02",
+        "name": "the move to APA"
+      },
+      {
+        "id": "item03",
+        "name": "holidays"
+      },
+      {
+        "id": "item04",
+        "name": "next publications https://github.com/w3c/personalization-semantics/wiki/actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/20-personalization-minutes"
+  },
+  "2018-08-13-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review each module and decided on the next steps and schedule for the next publications"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/13-personalization-minutes"
+  },
+  "2018-08-06-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "short update on module 3"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/06-personalization-minutes"
+  },
+  "2018-07-30-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Apap"
+      },
+      {
+        "id": "item02",
+        "name": "review of what we are trying to achive today. - do we have enough information. can support more then one implemention for each technology. must support one"
+      },
+      {
+        "id": "item03",
+        "name": "some te rms (usecase) and were to find them"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/30-personalization-minutes"
+  },
+  "2018-07-23-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC (Reminder https://www.w3.org/2018/10/TPAC/Overview.html#registration is July 31st)"
+      },
+      {
+        "id": "item02",
+        "name": "Feedback from https://www.w3.org/2002/09/wbs/101569/mod2alternative/results"
+      },
+      {
+        "id": "item03",
+        "name": "Make the https://w3c.github.io/personalization-semantics/help/index.html#description more defined."
+      },
+      {
+        "id": "item04",
+        "name": "Review anything anyone has recently added or modified"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/23-personalization-minutes"
+  },
+  "2018-07-16-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "vacations?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/16-personalization-minutes"
+  },
+  "2018-07-09-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "3. We also would like to carry on with the help terms (module 2) and module 3."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/09-personalization-minutes"
+  },
+  "2018-07-02-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(If Time) Thaddeus's task associated with privacy last week. Link is below:"
+      },
+      {
+        "id": "item02",
+        "name": "other business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/02-personalization-minutes"
+  },
+  "2018-06-25-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1. https://www.w3.org/2002/09/wbs/101569/mod2alternative/results, (Including Becky's email comments this morning)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/06/25-personalization-minutes"
+  },
+  "2018-06-18-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "module 3 https://rawgit.com/w3c/personalization-semantics/thad-tools/tools/index.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/06/18-personalization-minutes"
+  },
+  "2018-06-11-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "tools module (If ready)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "will separate out the two tables (apologies to Becky) to types of help, accessibility support. Lisa will add an Editor's Note that we are not fully resolved here - this may still be re-merged together or merged with something else",
+        "topic": "tools module (If ready)"
+      }
+    ],
+    "href": "/2018/06/11-personalization-minutes"
+  },
+  "2018-06-04-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates on actions and next steps"
+      },
+      {
+        "id": "item02",
+        "name": "beckys email"
+      },
+      {
+        "id": "item03",
+        "name": "review of implention suggestions wiki"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/06/04-personalization-minutes"
+  },
+  "2018-05-21-personalization": {
+    "title": "Personalization Semantics TF",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "timetable"
+      },
+      {
+        "id": "item02",
+        "name": "thaddues progress"
+      },
+      {
+        "id": "item03",
+        "name": "updates in the implementation issues."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/21-personalization-minutes"
+  },
+  "2018-05-14-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1. Any comments on the https://www.w3.org/2018/03/draft-apa-charter.html as it pertains to this Task Force?"
+      },
+      {
+        "id": "item02",
+        "name": "2. Review Thaddeuss Pull Request and Merge it into the main branch if appropriate"
+      },
+      {
+        "id": "item03",
+        "name": "3. If Becky has anything to share on her section we can discuss"
+      },
+      {
+        "id": "item04",
+        "name": "4. Review any other work done by task force members may have done this week"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/14-personalization-minutes"
+  },
+  "2018-05-07-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Discuss the proposed Timeline for the APA Charter"
+      },
+      {
+        "id": "item02",
+        "name": "Review any updates on Tools & Help"
+      },
+      {
+        "id": "item03",
+        "name": "Go though open issues and assign people to work on them"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/07-personalization-minutes"
+  },
+  "2018-04-30-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Draft Charters of ARIA and APA show Personalization TF moving to APA"
+      },
+      {
+        "id": "item02",
+        "name": "Timeline of Personalization Deliverables for Charter? (yanina)"
+      },
+      {
+        "id": "item03",
+        "name": "Discuss Micheal's Integration Pros/Cons analysis Matrix<https://github.com/w3c/personalization-semantics/wiki/Comparison-of-ways-to-use-vocabulary-in-content>"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/04/30-personalization-minutes"
+  },
+  "2018-04-23-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "looking at help or tools https://w3c.github.io/personalization-semantics/tools/index.html or https://w3c.github.io/personalization-semantics/help/index.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/04/23-personalization-minutes"
+  },
+  "2018-04-16-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates (Homework from 3 weeks ago)"
+      },
+      {
+        "id": "item02",
+        "name": "Whats needed to get the other modules ready for FPWD."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/04/16-personalization-minutes"
+  },
+  "2018-04-09-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Re-Chartering of ARIA and implications for this Personalization TF"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/04/09-personalization-minutes"
+  },
+  "2018-03-26-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Update tpac, wacg, publications"
+      },
+      {
+        "id": "item02",
+        "name": "going though issues"
+      },
+      {
+        "id": "item03",
+        "name": "implemetion sectison"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/26-personalization-minutes"
+  },
+  "2018-03-12-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "logs - edits suggested by Sharon"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "request publication of explainer and content module"
+      }
+    ],
+    "href": "/2018/03/12-personalization-minutes"
+  },
+  "2018-03-05-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/03/05-personalization-minutes"
+  },
+  "2018-02-12-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "aproving sharons edits https://lists.w3.org/Archives/Public/public-personalization-tf/2018Feb/0009.html"
+      },
+      {
+        "id": "item02",
+        "name": "action items https://github.com/w3c/personalization-semantics/wiki?"
+      },
+      {
+        "id": "item03",
+        "name": "aproving sharons edits https://lists.w3.org/Archives/Public/public-personalization-tf/2018Feb/0009.html"
+      },
+      {
+        "id": "item04",
+        "name": "issue on symbol https://github.com/w3c/personalization-semantics/issues/36"
+      },
+      {
+        "id": "item05",
+        "name": "getting started https://github.com/w3c/personalization-semantics/wiki/Getting-started-with-personalization-semantics"
+      },
+      {
+        "id": "item06",
+        "name": "defintions from amihi and lisa https://lists.w3.org/Archives/Public/public-personalization-tf/2018Feb/0011.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/12-personalization-minutes"
+  },
+  "2018-02-05-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates on publication and timline https://github.com/w3c/personalization-semantics/wiki"
+      },
+      {
+        "id": "item02",
+        "name": "document name https://w3c.github.io/personalization-semantics/"
+      },
+      {
+        "id": "item03",
+        "name": "implementions and next versions"
+      },
+      {
+        "id": "item04",
+        "name": "action items https://github.com/w3c/personalization-semantics/wiki?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/05-personalization-minutes"
+  },
+  "2018-01-29-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Updates"
+      },
+      {
+        "id": "item02",
+        "name": "The CFC to move forward with module 1 and the cover document"
+      },
+      {
+        "id": "item03",
+        "name": "Proposals for immature sections in the specification (logs, help types, reminders and alternative content)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/01/29-personalization-minutes"
+  },
+  "2018-01-22-personalization": {
+    "title": "Personalization Task Force Weekly Meeting",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/01/22-personalization-minutes"
+  },
+  "2018-01-15-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "timlines https://github.com/w3c/personalization-semantics/wiki"
+      },
+      {
+        "id": "item02",
+        "name": "survey"
+      },
+      {
+        "id": "item03",
+        "name": "defintions https://lists.w3.org/Archives/Public/public-personalization-tf/2018Jan/0019.html"
+      },
+      {
+        "id": "item04",
+        "name": "survey"
+      },
+      {
+        "id": "item05",
+        "name": "help https://lists.w3.org/Archives/Public/public-personalization-tf/2018Jan/0010.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/01/15-personalization-minutes"
+  },
+  "2018-01-08-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/01/08-personalization-minutes"
+  },
+  "2017-12-11-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finishing last weeks survey https://www.w3.org/2002/09/wbs/101569/newvaluesmodule1/results"
+      },
+      {
+        "id": "item02",
+        "name": "Finishing changes that will affect implementation for action , destination and field for this WD - consensus process"
+      },
+      {
+        "id": "item03",
+        "name": "This weeks survey -distractions and regions https://www.w3.org/2002/09/wbs/101569/distractionsroles/results"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/12/11-personalization-minutes"
+  },
+  "2017-12-04-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Updates from wcag and action items"
+      },
+      {
+        "id": "item02",
+        "name": "Should the proposed roles section be in module 1?"
+      },
+      {
+        "id": "item03",
+        "name": "The new survey (EA and Amihai's suggestions, other suggestion , review of distractions section) ."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/12/04-personalization-minutes"
+  },
+  "2017-11-27-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Time lines readjustments - do we need extra calls this week?"
+      },
+      {
+        "id": "item02",
+        "name": "The survey"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/11/27-personalization-minutes"
+  },
+  "2017-11-13-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Updates from TPAC and others"
+      },
+      {
+        "id": "item02",
+        "name": "The survey results https://www.w3.org/2002/09/wbs/101569/simplificationeasylanglitralnumberfree/results"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/11/13-personalization-minutes"
+  },
+  "2017-10-30-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates, new wiki pages"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/30-personalization-minutes"
+  },
+  "2017-10-23-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "tmetable https://lists.w3.org/Archives/Public/public-personalization-tf/2017Oct/0022.html"
+      },
+      {
+        "id": "item02",
+        "name": "updates. vodaphone and tpac https://github.com/w3c/personalization-semantics/wiki/TPAC2017"
+      },
+      {
+        "id": "item03",
+        "name": "survey https://www.w3.org/2002/09/wbs/101569/2017-10-12_priorities/results"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "draft as a vocabulary for now and Ask the public at the next WD and make the decision by the WD after that"
+      }
+    ],
+    "href": "/2017/10/23-personalization-minutes"
+  },
+  "2017-10-16-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "updates: TPAC,"
+      },
+      {
+        "id": "item02",
+        "name": "what to downgrade in the speck (survey: https://www.w3.org/2002/09/wbs/101569/2017-10-12_priorities/results)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/16-personalization-minutes"
+  },
+  "2017-10-09-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Updates, new wiki pages, TPAC"
+      },
+      {
+        "id": "item02",
+        "name": "How to treat immature sections (see the survey)"
+      },
+      {
+        "id": "item03",
+        "name": "Which sections should we focus on?"
+      },
+      {
+        "id": "item04",
+        "name": "How to treat immature sections (see the survey)"
+      },
+      {
+        "id": "item05",
+        "name": "Which sections should we focus on?"
+      },
+      {
+        "id": "item06",
+        "name": "Do we want it as a vocabulary?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/09-personalization-minutes"
+  },
+  "2017-10-02-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Additional introductions"
+      },
+      {
+        "id": "item02",
+        "name": "Updates (wiki up and running, user needs table and proposed time lines (mature draft before December?) https://github.com/w3c/personalization-semantics/wiki"
+      },
+      {
+        "id": "item03",
+        "name": "Additional introductions"
+      },
+      {
+        "id": "item04",
+        "name": "How often do we want to meet"
+      },
+      {
+        "id": "item05",
+        "name": "Meeting at TPAC"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/02-personalization-minutes"
+  },
+  "2017-09-25-personalization": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Introductions and why we are interested in the work"
+      },
+      {
+        "id": "item02",
+        "name": "Supporting tools options (zakim, github, rssagent or github issues, googledocs, the wiki etc)"
+      },
+      {
+        "id": "item03",
+        "name": "What the dosument could include - (user needs, semantics etc) - see https://w3c.github.io/personalization-semantics/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/09/25-personalization-minutes"
+  }
+}

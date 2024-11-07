@@ -1,0 +1,2112 @@
+{
+  "2024-11-06-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "01cd",
+        "name": "New Business"
+      },
+      {
+        "id": "11d9",
+        "name": "Review Messaging"
+      },
+      {
+        "id": "7731",
+        "name": "Review Use Cases"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/06-maturity-minutes"
+  },
+  "2024-10-23-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "7a52",
+        "name": "New Business"
+      },
+      {
+        "id": "e0b4",
+        "name": "Use Cases Update"
+      },
+      {
+        "id": "61ca",
+        "name": "Scoring Spreadsheet Instructions Follow Up"
+      },
+      {
+        "id": "8c2f",
+        "name": "Github Issue #148 Add information fields for metadata for each dimension"
+      },
+      {
+        "id": "5abc",
+        "name": "Github Issue #157 Section 3.6: proof points should be expanded to take into account evidence of the outcomes of the procurement process."
+      },
+      {
+        "id": "e1d6",
+        "name": "Github Issue #226 Add an explanatory section on dimension goals and metrics"
+      },
+      {
+        "id": "0998",
+        "name": "Github Issue #137 Address the accessibility of entire processes in the Maturity Model."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/10/23-maturity-minutes"
+  },
+  "2024-10-09-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "778d",
+        "name": "New Business"
+      },
+      {
+        "id": "b974",
+        "name": "TPAC Debrief"
+      },
+      {
+        "id": "e3c3",
+        "name": "Publication Next Steps"
+      },
+      {
+        "id": "a67c",
+        "name": "#17 The application of the model to decentralized organizations could be clarified, as could the nature and roles of the valid outputs of applying the model in an evaluation."
+      },
+      {
+        "id": "9e4d",
+        "name": "#46 Requirements in section 3.4 could be clarified."
+      },
+      {
+        "id": "93fd",
+        "name": "#52 Section 2 (and elsewhere, if necessary): broaden the range of standards relevant to the maturity model."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/10/09-maturity-minutes"
+  },
+  "2024-09-04-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "#160 Section 3.1: the accessibility of communications should be distinguished from communication about accessibility."
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #91 Proof points should include measures of the extent to which processes are successful"
+      },
+      {
+        "id": "t04",
+        "name": "GitHub Issue #155 Section 3.4: maturity also depends on how effective the ICT development processes are in producing accessible ICT."
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #157 Section 3.6: proof points should be expanded to take into account evidence of the outcomes of the procurement process."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/09/04-maturity-minutes"
+  },
+  "2024-08-28-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Maturity Model at TPAC"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue GitHub Issue #155 Section 3.4: maturity also depends on how effective the ICT development processes are in producing accessible ICT. - Update"
+      },
+      {
+        "id": "t04",
+        "name": "GitHub Issue #129 Conflict in position Training Knowledge and Skills Vs. DLC"
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #52 Section 2 (and elsewhere, if necessary): broaden the range of standards relevant to the maturity model."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "language approved",
+        "topic": "Github Issue GitHub Issue #155 Section 3.4: maturity also depends on how effective the ICT development processes are in producing accessible ICT. - Update"
+      },
+      {
+        "id": "r02",
+        "content": "closing issue with proposed response",
+        "topic": "GitHub Issue #129 Conflict in position Training Knowledge and Skills Vs. DLC"
+      },
+      {
+        "id": "r03",
+        "content": "closing issue with proposed response",
+        "topic": "GitHub Issue #52 Section 2 (and elsewhere, if necessary): broaden the range of standards relevant to the maturity model."
+      }
+    ],
+    "href": "/2024/08/28-maturity-minutes"
+  },
+  "2024-08-21-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "GitHub Issue #112 Proposing adjusted structure for Outcomes, Proof Points, and Stages (back to previous proposal!)"
+      },
+      {
+        "id": "t03",
+        "name": "GitHub Issue #118 Knowledge and Skills - Proof Point Updates"
+      },
+      {
+        "id": "t04",
+        "name": "GitHub Issue ##130 Where to place \"internal support\" for MSE or dedicated A11Y Team?"
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #155 Section 3.4: maturity also depends on how effective the ICT development processes are in producing accessible ICT."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Thank you, for your comment. We have taken it into consideration, along with other feedback from the public, and significantly revised the document. We believe that we have addressed your concern. If it still persists, please open a new issue, and provide any supporting documentation, you would like",
+        "topic": "GitHub Issue ##130 Where to place \"internal support\" for MSE or dedicated A11Y Team?"
+      }
+    ],
+    "href": "/2024/08/21-maturity-minutes"
+  },
+  "2024-08-14-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "WAI Group Note Messaging review"
+      },
+      {
+        "id": "t03",
+        "name": "GitHub Issue #98 'Stages' or 'levels'?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/14-maturity-minutes"
+  },
+  "2024-08-07-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #35 Stages based on proof points\" not correct"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #37 Inactive is not \"No awareness and recognition of need.\""
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #38 Launch should not be dependent on \"organization-wide.\""
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #95 Assumption made that products are produced accessible, needs small adjustment"
+      },
+      {
+        "id": "t06",
+        "name": "#98 'Stages' or 'levels'?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/07-maturity-minutes"
+  },
+  "2024-07-31-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #189 Missing Dimension information for Communications Tab"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #190 Excel Spreadsheet 3.2 Communication Tab"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #183 New Table column order reversed"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #191 W3C Accessibility Maturity Model Feedback"
+      },
+      {
+        "id": "t06",
+        "name": "Github Issue #144 Overall feature an examples column, stating examples of implementation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/07/31-maturity-minutes"
+  },
+  "2024-07-24-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #87 3.6.1 Proof Points for Procurement Section: Some bullets aren't clear what is needed"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #136 Scoring for Inactive Stage"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #143 communities of practice. Question, communities we serve?"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Definition of Communities of Practice will be added as stated above",
+        "topic": "Github Issue #143 communities of practice. Question, communities we serve?"
+      }
+    ],
+    "href": "/2024/07/24-maturity-minutes"
+  },
+  "2024-07-10-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2024/07/10-maturity-minutes"
+  },
+  "2024-07-03-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "new business"
+      },
+      {
+        "id": "t02",
+        "name": "Maturity Model Scoring Subgroup Update"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #81 Section 3.4.1 Proof Points for ICT Development Lifecycle: Missing planning aspects"
+      },
+      {
+        "id": "t04",
+        "name": "Github #156 Issue Section 3.5: proof points should consider whether people with disabilities actually were included in the workforce as a result of the efforts made."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/07/03-maturity-minutes"
+  },
+  "2024-06-26-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      },
+      {
+        "id": "t02",
+        "name": "New Business"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      },
+      {
+        "id": "t06",
+        "name": "Editors Draft Update"
+      },
+      {
+        "id": "t07",
+        "name": "Github Issue #214 editorial communications communicated"
+      },
+      {
+        "id": "t08",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      },
+      {
+        "id": "t09",
+        "name": "Github Issue 213 Excel spreadsheet - broken link"
+      },
+      {
+        "id": "t10",
+        "name": "Github Issue #81 Section 3.4.1 Proof Points for ICT Development Lifecycle: Missing planning aspects"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/06/26-maturity-minutes"
+  },
+  "2024-06-12-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/06/12-maturity-minutes"
+  },
+  "2024-06-05-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      },
+      {
+        "id": "t03",
+        "name": "Usability document"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/06/05-maturity-minutes"
+  },
+  "2024-05-29-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Maturity model task force APA request updated with current status",
+        "topic": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      }
+    ],
+    "href": "/2024/05/29-maturity-minutes"
+  },
+  "2024-05-22-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring Subgroup Update"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/05/22-maturity-minutes"
+  },
+  "2024-05-15-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Maturity Model Scoring Subgroup Update"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #107 Definition of \"Full maturity\" needs to be adjusted, as there is no need to optimize anymore by then"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #154 Section 3.3.1: can a measure of support effectiveness be included?"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Close issue 107 with comment: A maturity Model is a continuum, there is no end point. The Task Force has decided to keep the term optimize, as it suggests an ongoing effort without an end point.",
+        "topic": "Github Issue #107 Definition of \"Full maturity\" needs to be adjusted, as there is no need to optimize anymore by then"
+      }
+    ],
+    "href": "/2024/05/15-maturity-minutes"
+  },
+  "2024-05-01-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring Subgroup Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/05/01-maturity-minutes"
+  },
+  "2024-04-24-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)  Look at Procurement Dimension"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/24-maturity-minutes"
+  },
+  "2024-04-17-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring Subgroup Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/17-maturity-minutes"
+  },
+  "2024-04-10-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring Subgroup Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/10-maturity-minutes"
+  },
+  "2024-04-03-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #101 What do we mean with 'aspects'? Used in two ways i.c.w. 'dimensions'"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)"
+      },
+      {
+        "id": "t04",
+        "name": "Maturity Model Scoring Subgroup Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/03-maturity-minutes"
+  },
+  "2024-03-27-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Maturity Model Scoring Subgroup Update"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #101 What do we mean with 'aspects'? Used in two ways i.c.w. 'dimensions'"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #107 Definition of \"Full maturity\" needs to be adjusted, as there is no need to optimize anymore by then"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/27-maturity-minutes"
+  },
+  "2024-03-13-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Maturity Model Scoring Subgroup Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/13-maturity-minutes"
+  },
+  "2024-02-28-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 102, 103, 104 (Usability doc feedback)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/28-maturity-minutes"
+  },
+  "2024-02-14-maturity": {
+    "title": "Accessibility Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43, 78, 85, 103, 104 (Usability doc feedback)"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring Subgroup Update"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #103 Where are the \"Outcomes\" in the Maturity Model Structure?"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #102Proof Point definition to be adjusted to fit under an Outcome"
+      },
+      {
+        "id": "t06",
+        "name": "Github Issue #101 What do we mean with 'aspects'? Used in two ways i.c.w. 'dimensions'"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/14-maturity-minutes"
+  },
+  "2024-02-07-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43 and 85 (Usability doc feedback) https://docs.google.com/document/d/1Wrhomdc2gJWIkDPOveiH3_ig1bddTMonEhIDZIzohrc/edit#heading=h.93exgeg396jg"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring Subgroup Update"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #78 3.3.2 Ratings for Evaluation - Support section: why is knowledge and skills mentioned (Update from Charles, stacey)"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #104 Proof points = Written or tangible evidence, according to definition, not an 'or' / 'other' part / sub-section (will usability do address?)"
+      },
+      {
+        "id": "t06",
+        "name": "Github Issue #103 Where are the \"Outcomes\" in the Maturity Model Structure?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/07-maturity-minutes"
+  },
+  "2024-01-31-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issues 43 and 85 (Doc Usability work: Stacey, Jeff, Mark, Susi)"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Scoring"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #78 3.3.2 Ratings for Evaluation - Support section: why is knowledge and skills mentioned"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/01/31-maturity-minutes"
+  },
+  "2024-01-24-maturity": {
+    "title": "MAgenda+ New Business",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issues 43 and 85 (AKA usability issue)"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #89 ICT Development Lifecycle ratings outcomes aren't stated like the outcomes are in Silver"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #78 3.3.2 Ratings for Evaluation - Support section: why is knowledge and skills mentioned"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The Maturity Model is technology and standard agnostic. See section 2.3. If you have specific edits to suggest please provide a PR.",
+        "topic": "Github Issue #89 ICT Development Lifecycle ratings outcomes aren't stated like the outcomes are in Silver"
+      }
+    ],
+    "href": "/2024/01/24-maturity-minutes"
+  },
+  "2024-01-17-maturity": {
+    "title": "Accessibility Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New member introduction"
+      },
+      {
+        "id": "t02",
+        "name": "New Business"
+      },
+      {
+        "id": "t03",
+        "name": "Benetech Presentation"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issues 43 and 85 (Doc Usability work:Stacey, Jeff, Mark, Susi)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/01/17-maturity-minutes"
+  },
+  "2023-12-20-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Discuss timeline for Maturity Model release Candidate, next year or are we just expectations."
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #43 & #83 Usability Update"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #85 Inconsistencies in Inactive ratings for various dimensions"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #89 ICT Development Lifecycle ratings outcomes aren't stated like the outcomes are in Silver"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/12/20-maturity-minutes"
+  },
+  "2023-12-13-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business Agenda+ CSUN (should we meet) Agenda+ Working Draft end of year update Agenda+ Do we cite a particular WCAG profile as a conformance target? It seems reasonable to cite that WCAG profile A would arguably be in (Lionels question) Agenda+ MM Draft usability update (GitHub Issue 43) Agenda+ GitHub Issue #132 (see previous minutes) Agenda+ Github Issue #79 Section 3.3.2 Rating for evalu"
+      },
+      {
+        "id": "t02",
+        "name": "New Business"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #83 Section 3.7.2 Ratings for Evaluation - Culture: proof points vs. ratings mismatch"
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue #85 Inconsistencies in Inactive ratings for various dimensions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/12/13-maturity-minutes"
+  },
+  "2023-12-06-maturity": {
+    "title": "Maturity Model Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "CSUN"
+      },
+      {
+        "id": "t02",
+        "name": "Working Draft EOY update"
+      },
+      {
+        "id": "t03",
+        "name": "WCAG target number?"
+      },
+      {
+        "id": "t04",
+        "name": "issue #132"
+      },
+      {
+        "id": "t05",
+        "name": "Issue 79"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "participants here approve a working draft update publication once the title has been updated.",
+        "topic": "Working Draft EOY update"
+      }
+    ],
+    "href": "/2023/12/06-maturity-minutes"
+  },
+  "2023-11-29-maturity": {
+    "title": "maturity model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "MM Draft usability update"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #79 Section 3.3.2 Rating for evaluation - Support: Outcomes for optimize stage don't align with proof points"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/11/29-maturity-minutes"
+  },
+  "2023-11-15-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t04",
+        "name": "MM Draft usability update"
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #153 The effectiveness of knowledge/skill acquisition should be measured"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "This TF will NOT meet on Wednesday 22 November. Our next telecon will be Wednesday 29 November",
+        "topic": "New Business"
+      },
+      {
+        "id": "r02",
+        "content": "Maturity TF will meet through Wednesday 20 December, and resume on Wednesday 10 January. We will NOT meet on Wednesday 20 or Wednesday 27 December",
+        "topic": "New Business"
+      },
+      {
+        "id": "r03",
+        "content": "We're closing 153 because Integrate and Optimize Outcome Stages include metrics and evaluation of performance",
+        "topic": "GitHub Issue #153 The effectiveness of knowledge/skill acquisition should be measured"
+      }
+    ],
+    "href": "/2023/11/15-maturity-minutes"
+  },
+  "2023-11-01-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "new business"
+      },
+      {
+        "id": "t02",
+        "name": "Equity Considerations Estimate"
+      },
+      {
+        "id": "t03",
+        "name": "MM Draft usability update"
+      },
+      {
+        "id": "t04",
+        "name": "GitHub Issue #145 Linking would make it easier to use"
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #153 The effectiveness of knowledge/skill acquisition should be measured"
+      },
+      {
+        "id": "t06",
+        "name": "Github Issue #83 Section 3.7.2 Ratings for Evaluation - Culture: proof points vs. ratings mismatch"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/11/01-maturity-minutes"
+  },
+  "2023-10-25-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Equity Subgroup Update from Sheri"
+      },
+      {
+        "id": "t02",
+        "name": "General discussion of the term 'proof points'"
+      },
+      {
+        "id": "t03",
+        "name": "New Business"
+      },
+      {
+        "id": "t04",
+        "name": "GitHub Issue #140 Executive sponsor in place vs Executive leadership in place"
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #142 Business strategy includes accessibility as a market differentiator"
+      },
+      {
+        "id": "t06",
+        "name": "GitHub Issue #143 communities of practice. Question, communities we serve"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/25-maturity-minutes"
+  },
+  "2023-10-18-maturity": {
+    "title": "maturity model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Update on Staceys Github Access"
+      },
+      {
+        "id": "t03",
+        "name": "Maturity Model Implementation Feedback - Dr. Keith Newton"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/18-maturity-minutes"
+  },
+  "2023-10-04-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "GitHub Issue 21 Flow of \"A Maturity Model is:\" need a little bit of love"
+      },
+      {
+        "id": "t03",
+        "name": "GitHub Issue #28 No \"Appendix\" present for \"1.3 Existing Research\" (Delete?)"
+      },
+      {
+        "id": "t04",
+        "name": "GitHub Issue #43 Should \"proof points\" and \"ratings for evaluation\" sections be combined for clarity?"
+      },
+      {
+        "id": "t05",
+        "name": "GitHub Issue #45 Would it be better to avoid the overlap between section 3.3 and sections 3.1 and 3.2?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/04-maturity-minutes"
+  },
+  "2023-09-20-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "GitHub Che k In"
+      },
+      {
+        "id": "t03",
+        "name": "TPAC Debrief"
+      },
+      {
+        "id": "t04",
+        "name": "Equity Subgroup"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/09/20-maturity-minutes"
+  },
+  "2023-08-30-maturity": {
+    "title": "Maturity meeting August 30th 2003",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "new Business"
+      },
+      {
+        "id": "t02",
+        "name": "feedback on publication"
+      },
+      {
+        "id": "t03",
+        "name": "new Business"
+      },
+      {
+        "id": "t04",
+        "name": "feedback on publication"
+      },
+      {
+        "id": "t05",
+        "name": "Task Force Page Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/30-maturity-minutes"
+  },
+  "2023-08-23-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "publishing update"
+      },
+      {
+        "id": "t03",
+        "name": "cleanup GitHub issues from 1st publication"
+      },
+      {
+        "id": "t04",
+        "name": "Task Force Page update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/23-maturity-minutes"
+  },
+  "2023-08-16-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Support Dimension"
+      },
+      {
+        "id": "t03",
+        "name": "Discuss TPAC Breakout"
+      },
+      {
+        "id": "t04",
+        "name": "update on GitHub/New Working Draft Readiness"
+      },
+      {
+        "id": "t05",
+        "name": "Follow up on Task Force Page replacing Wiki"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/16-maturity-minutes"
+  },
+  "2023-08-09-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Discuss Publication Update"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Have one file name for the maturity model exell document instead of each having its own date.",
+        "topic": "Discuss Publication Update"
+      }
+    ],
+    "href": "/2023/08/09-maturity-minutes"
+  },
+  "2023-08-02-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Update on Cover Sheet of Changes"
+      },
+      {
+        "id": "t03",
+        "name": "Update on Wiki"
+      },
+      {
+        "id": "t04",
+        "name": "Update on Adding Spreadsheet to Github"
+      },
+      {
+        "id": "t05",
+        "name": "Overall Github Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/08/02-maturity-minutes"
+  },
+  "2023-07-19-maturity": {
+    "title": "Maturity Model Task Force Weekly Teleconference, 19 July 2023",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Filename for the Excel"
+      },
+      {
+        "id": "t02",
+        "name": "coversheet"
+      },
+      {
+        "id": "t03",
+        "name": "Cover sheet"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/19-maturity-minutes"
+  },
+  "2023-07-12-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Debrief on Maturity Model Review with Jeanne Spellman"
+      },
+      {
+        "id": "t02",
+        "name": "New Business"
+      },
+      {
+        "id": "t04",
+        "name": "Debrief on Maturity Model Review with Jeanne Spellman"
+      },
+      {
+        "id": "t05",
+        "name": "Check in on document Updates"
+      },
+      {
+        "id": "t06",
+        "name": "Github Updates"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/12-maturity-minutes"
+  },
+  "2023-07-05-maturity": {
+    "title": "Maturity",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Maturity Model Review With Jeanne Spellman"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/07/05-maturity-minutes"
+  },
+  "2023-06-28-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Use cases and spreadsheet Update"
+      },
+      {
+        "id": "t03",
+        "name": "Support dimension) into the narrative update"
+      },
+      {
+        "id": "t04",
+        "name": "Stakeholder material update"
+      },
+      {
+        "id": "t05",
+        "name": "Spell check and broken link check update"
+      },
+      {
+        "id": "t06",
+        "name": "MMTF Github List"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/06/28-maturity-minutes"
+  },
+  "2023-06-14-maturity": {
+    "title": "Msturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Stakeholder Spreadsheet"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "TO publish stakeholders document as an appendix, with an editor's note",
+        "topic": "Stakeholder Spreadsheet"
+      }
+    ],
+    "href": "/2023/06/14-maturity-minutes"
+  },
+  "2023-06-07-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Spreadsheet Update"
+      },
+      {
+        "id": "t02",
+        "name": "TL;DR Update from Stacey: https://lists.w3.org/Archives/Public/public-maturity/2023Jun/0000.html"
+      },
+      {
+        "id": "t03",
+        "name": "Support Dimension Update https://lists.w3.org/Archives/Public/public-maturity/2023May/0019.html"
+      },
+      {
+        "id": "t04",
+        "name": "Stakeholder Document Update"
+      },
+      {
+        "id": "t05",
+        "name": "Publication Update Update"
+      },
+      {
+        "id": "t06",
+        "name": "support dimension update"
+      },
+      {
+        "id": "t07",
+        "name": "publication update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/06/07-maturity-minutes"
+  },
+  "2023-05-24-maturity": {
+    "title": "W3C Accessibility Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "ghrulhub"
+      },
+      {
+        "id": "t02",
+        "name": "Under 3.4.1.2 Development category of proof points, the examples of Accessible developer implementation resources seem more about information. Where might you consider software and hardware tools that help with accessible development, such as access to screen readers or switches?"
+      },
+      {
+        "id": "t03",
+        "name": "Continue with Susannas updates to Support Dimension https://lists.w3.org/Archives/Public/public-maturity/2023Apr/0013.html"
+      },
+      {
+        "id": "t04",
+        "name": "Continue with Stakeholder Document Update  Lionel, Jeff, and Stacey"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/24-maturity-minutes"
+  },
+  "2023-05-17-maturity": {
+    "title": "Maturity Model Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Stakeholders and tasks"
+      },
+      {
+        "id": "t02",
+        "name": "RevisitSusannas updates to Support Dimensionhttps://lists.w3.org/Archives/Public/public-maturity/2023Apr/0013.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/17-maturity-minutes"
+  },
+  "2023-05-10-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Zoom Changes"
+      },
+      {
+        "id": "t02",
+        "name": "Discuss Publication Update Expectations"
+      },
+      {
+        "id": "t03",
+        "name": "Continue discussion on TLDR https://lists.w3.org/Archives/Public/public-maturity/2023Apr/0007.htmland Use Case https://lists.w3.org/Archives/Public/public-maturity/2023Apr/0019.html Integration"
+      },
+      {
+        "id": "t04",
+        "name": "Merging Stakeholder Information"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/10-maturity-minutes"
+  },
+  "2023-05-03-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Discuss any activities the Task Force might want during TPAC in September. Are there other W3C WG we want to have a joint meeting with? What agenda for those meetings? Note this is NOT about any breakout sessions we might want to hold on Wednesday of TPAC"
+      },
+      {
+        "id": "t02",
+        "name": "Review Susannas updates to Support Dimension https://lists.w3.org/Archives/Public/public-maturity/2023Apr/0013.html"
+      },
+      {
+        "id": "t03",
+        "name": "Some of the design process questions seem to make sense for large organizations where process, templates and checklists are more formal parts of a large organization. Were there discussions of how these might be framed for small organizations? (e.g. not having a formal design review process, but we do have design reviews; is the way forward to become more formal even if the team has three members?)"
+      },
+      {
+        "id": "t04",
+        "name": "Under 3.4.1.2 Development category of proof points, the examples of Accessible developer implementation resources seem more about information. Where might you consider software and hardware tools that help with accessible development, such as access to screen readers or switches?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/05/03-maturity-minutes"
+  },
+  "2023-04-19-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Confirm TLDR and Use Case Integration"
+      },
+      {
+        "id": "t02",
+        "name": "Discuss future publication"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/04/19-maturity-minutes"
+  },
+  "2023-04-12-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Review Sheris Updates To Spreadsheet"
+      },
+      {
+        "id": "t03",
+        "name": "Confirm TLDR document completed from feedback & Next Steps"
+      },
+      {
+        "id": "t04",
+        "name": "Continuation of Maturity Model review discussion with Stacey:"
+      },
+      {
+        "id": "t05",
+        "name": "New business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/04/12-maturity-minutes"
+  },
+  "2023-04-05-maturity": {
+    "title": "Maturity Model TF weekly meeting",
+    "topics": [
+      {
+        "id": "agenda1",
+        "name": "Review Sheris Use Cases"
+      },
+      {
+        "id": "agenda2",
+        "name": "Trackbot: How I Learned to Stop ACTIONing and Start Using Github Issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/04/05-maturity-minutes"
+  },
+  "2023-03-29-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Josh about Github Issues"
+      },
+      {
+        "id": "t02",
+        "name": "Continuation of Maturity Model review discussion with Stacey"
+      },
+      {
+        "id": "t03",
+        "name": "New business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/03/29-maturity-minutes"
+  },
+  "2023-03-22-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Relevant CSUN News/Updates"
+      },
+      {
+        "id": "t02",
+        "name": "Continuation of Maturity Model review discussion with Stacey"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/03/22-maturity-minutes"
+  },
+  "2023-03-01-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New member introductions"
+      },
+      {
+        "id": "t02",
+        "name": "Check in with Josh about Github Issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/03/01-maturity-minutes"
+  },
+  "2023-02-15-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Member Introductions"
+      },
+      {
+        "id": "t02",
+        "name": "Task Force Updates (email archive broken link, Mission Statement Update, etc)"
+      },
+      {
+        "id": "t03",
+        "name": "Check in With Brian on Github Issue #42 w3c/maturity-model#42"
+      },
+      {
+        "id": "t04",
+        "name": "New Business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/02/15-maturity-minutes"
+  },
+  "2023-02-08-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Task Force CFC Update"
+      },
+      {
+        "id": "t02",
+        "name": "New Member Introductions"
+      },
+      {
+        "id": "t03",
+        "name": "Proposed Changes to clarify extensibility of the Maturity Model (see attached word doc)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "We approve Sheri's suggested edits as caputred in https://lists.w3.org/Archives/Public/public-maturity/2023Feb/0010.html relating to equity and to extensibility for multiple business units in an organization/company, etc.",
+        "topic": "Proposed Changes to clarify extensibility of the Maturity Model (see attached word doc)"
+      }
+    ],
+    "href": "/2023/02/08-maturity-minutes"
+  },
+  "2023-01-25-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Task Force CFC Update"
+      },
+      {
+        "id": "t02",
+        "name": "Intersection of Equity SubGroup and Maturity Model"
+      },
+      {
+        "id": "t03",
+        "name": "Prioritizing Jason Whites Issues, Recap of Last Weeks Meeting"
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #42 Section 3.1 (communication) should be clarified."
+      },
+      {
+        "id": "t05",
+        "name": "Github Issue#15 Potentially unfamiliar terms/abbreviations in section 3 should be defined/explained."
+      },
+      {
+        "id": "t06",
+        "name": "Github Issue#17 The application of the model to decentralized organizations could be clarified, as could the nature and roles of the valid outputs of applying the model in an evaluation."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "AMM decides to remain focused on accessibility and extensibility",
+        "topic": "Intersection of Equity SubGroup and Maturity Model"
+      }
+    ],
+    "href": "/2023/01/25-maturity-minutes"
+  },
+  "2023-01-18-maturity": {
+    "title": "Maturity Model Subgroup",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Discussion on Sheris mail Maturity model homework"
+      },
+      {
+        "id": "t02",
+        "name": "Github Issue #18 What's the relationship with ISO/IEC 30071-1:2019?"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #52 Section 2 (and elsewhere, if necessary): broaden the range of standards relevant to the maturity model."
+      },
+      {
+        "id": "t04",
+        "name": "Github Issue #91 Proof points should include measures of the extent to which processes are successful"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Drop #7 https://lists.w3.org/Archives/Public/public-rqtf/2023Jan/0015.html",
+        "topic": "Discussion on Sheris mail Maturity model homework"
+      },
+      {
+        "id": "r02",
+        "content": "Change wording in #5 to say establish and maintain https://lists.w3.org/Archives/Public/public-rqtf/2023Jan/0015.html",
+        "topic": "Discussion on Sheris mail Maturity model homework"
+      }
+    ],
+    "href": "/2023/01/18-maturity-minutes"
+  },
+  "2023-01-11-maturity": {
+    "title": "Maturity Model Subgroup Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Github Issue #136 Scoring for Inactive Stage"
+      },
+      {
+        "id": "t02",
+        "name": "Workstatement"
+      },
+      {
+        "id": "t03",
+        "name": "https://github.com/w3c/maturity-model/issues/136"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/01/11-maturity-minutes"
+  },
+  "2023-01-04-maturity": {
+    "title": "Maturity Model Subgroup",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "2023 Update and Planning"
+      },
+      {
+        "id": "t02",
+        "name": "check in with Jakes updates"
+      },
+      {
+        "id": "t03",
+        "name": "discuss dates to meet with Jason"
+      },
+      {
+        "id": "t04",
+        "name": "new business, questions, comments, concerns"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/01/04-maturity-minutes"
+  },
+  "2022-12-14-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "New Business"
+      },
+      {
+        "id": "t02",
+        "name": "Discuss Task Force Work Statement"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/12/14-maturity-minutes"
+  },
+  "2022-12-07-maturity": {
+    "title": "Maturity Model Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Discuss Task Force Work Statement"
+      },
+      {
+        "id": "t02",
+        "name": "New Business"
+      },
+      {
+        "id": "t03",
+        "name": "Discuss Task Force Statement"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/12/07-maturity-minutes"
+  },
+  "2022-11-30-maturity": {
+    "title": "Maturity Model Teleconference",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Review and address GitHub issues"
+      },
+      {
+        "id": "t02",
+        "name": "#139 Typo, curriculums v curricula"
+      },
+      {
+        "id": "t03",
+        "name": "#140 Executive sponsor in place' vs 'Executive leadership in place"
+      },
+      {
+        "id": "t04",
+        "name": "Business strategy includes accessibility as a market differentiator"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/11/30-maturity-minutes"
+  },
+  "2022-11-16-maturity": {
+    "title": "Maturity Model Subgroup",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Issue 19 Reference to case change"
+      },
+      {
+        "id": "t02",
+        "name": "Issue 28 Proposed \"some models researched\" rather than \"6 models researched\""
+      },
+      {
+        "id": "t03",
+        "name": "issue 21 flow of model needs a little love"
+      },
+      {
+        "id": "t04",
+        "name": "Next meeting 30 November"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/11/16-maturity-minutes"
+  },
+  "2022-11-09-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "group github issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/11/09-maturity-minutes"
+  },
+  "2022-11-02-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/11/02-maturity-minutes"
+  },
+  "2022-10-19-maturity": {
+    "title": "Maturity Model Subgroup",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Retirement Announced"
+      },
+      {
+        "id": "t02",
+        "name": "Review and Group Github Issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/19-maturity-minutes"
+  },
+  "2022-10-12-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Charles on Maturity Model Pilot project."
+      },
+      {
+        "id": "t02",
+        "name": "Continue discussion on whether or not to use Slack to provide feedback on Maturity Model FPWD"
+      },
+      {
+        "id": "t03",
+        "name": "Explore expanding Maturity Model Subgroup into a task force for APA re-chartering next year"
+      },
+      {
+        "id": "t04",
+        "name": "New business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/12-maturity-minutes"
+  },
+  "2022-10-05-maturity": {
+    "title": "Maturity Model Subgroup",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/10/05-maturity-minutes"
+  },
+  "2022-09-28-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "TPAC 2022 review and discussion"
+      },
+      {
+        "id": "t04",
+        "name": "Review and Assign GitHub Issues"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/09/28-maturity-minutes"
+  },
+  "2022-09-07-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/09/07-maturity-minutes"
+  },
+  "2022-08-17-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Review/Approve Announcement"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/17-maturity-minutes"
+  },
+  "2022-08-10-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Discuss FPWD Status"
+      },
+      {
+        "id": "t02",
+        "name": "Discuss TPAC"
+      },
+      {
+        "id": "t03",
+        "name": "New Business"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Move forward with messaging",
+        "topic": "Discuss FPWD Status"
+      }
+    ],
+    "href": "/2022/08/10-maturity-minutes"
+  },
+  "2022-08-03-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "RQTF Meeting Debrief"
+      },
+      {
+        "id": "t02",
+        "name": "Check in on publication announcement"
+      },
+      {
+        "id": "t03",
+        "name": "Update on issues and pull requests"
+      },
+      {
+        "id": "t04",
+        "name": "Check in on publication announcement"
+      },
+      {
+        "id": "t05",
+        "name": "Update on build issues, errors in static HTML"
+      },
+      {
+        "id": "t06",
+        "name": "Update on spreadsheet technology Editors Note"
+      },
+      {
+        "id": "t07",
+        "name": "Discuss approach for upcoming TPAC"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "The Maturity Model Subgroup thanks RQTF for requesting a Call for Consensus from APA on a First Public Working Draft (FPWD) publication of our draft Maturity Model note-track document at https://w3c.github.io/maturity-model/index.html. An Excel spreadsheet that will assist users in implementing the Maturity Model will be attached to the CFC for review.",
+        "topic": "RQTF Meeting Debrief"
+      }
+    ],
+    "href": "/2022/08/03-maturity-minutes"
+  },
+  "2022-07-20-maturity": {
+    "title": "Maturity Model",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "Have the entire spreadsheet downloadable at the top, and each dimension will refer to it's specific tab and the link will be before the table"
+      }
+    ],
+    "href": "/2022/07/20-maturity-minutes"
+  },
+  "2022-06-29-maturity": {
+    "title": "Maturity Model",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/06/29-maturity-minutes"
+  },
+  "2022-06-22-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Janina on publication and next steps"
+      },
+      {
+        "id": "t02",
+        "name": "W3C Note Publication Process"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/22-maturity-minutes"
+  },
+  "2022-06-15-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "check in with Mary Jo on GitHub status Agenda+ Check in with Janina on publication and next steps Agenda+ discuss concerns with the group"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/15-maturity-minutes"
+  },
+  "2022-06-08-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Jeff about generic Proof Point statement about cross-referencing"
+      },
+      {
+        "id": "t02",
+        "name": "Check in with Janina on any pending issues Agenda+ Check in with Jeff on deleting redundant text in Knowledge and skills reconciling his edits Agenda+ review generic K&S statement Agenda+ Check in with Mary Jo on github merger Agenda+ Check in with Jake on his final review"
+      },
+      {
+        "id": "t03",
+        "name": "review generic K&S statement"
+      },
+      {
+        "id": "t04",
+        "name": "Check in with Mary Jo on github merger"
+      },
+      {
+        "id": "t05",
+        "name": "Syncing to ISO 30071"
+      },
+      {
+        "id": "t06",
+        "name": "future of this group"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/08-maturity-minutes"
+  },
+  "2022-06-01-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Janina on any pending issues"
+      },
+      {
+        "id": "t02",
+        "name": "Check in with Jake on his final review of the Draft"
+      },
+      {
+        "id": "t03",
+        "name": "Review unique Dimension Heading Names"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/01-maturity-minutes"
+  },
+  "2022-05-25-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Janina on any pending issues"
+      },
+      {
+        "id": "t02",
+        "name": "discuss final working draft looming questions"
+      },
+      {
+        "id": "t03",
+        "name": "APA CfC on Reporting Announcement"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/05/25-maturity-minutes"
+  },
+  "2022-05-18-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Janina on procedural issues, progress, pressing issues, etc."
+      },
+      {
+        "id": "t02",
+        "name": "Check in on document editing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/05/18-maturity-minutes"
+  },
+  "2022-05-11-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Check in with Jeanne and Janina on sorting out group ID and zoom"
+      },
+      {
+        "id": "t02",
+        "name": "We Check in with Sheri on document language change to US English"
+      },
+      {
+        "id": "t03",
+        "name": "Check in with Mary Jo on grammar review"
+      },
+      {
+        "id": "t04",
+        "name": "Check in with Sheri on adding generic sentence to each dimension Training programs have been established and ongoing to ensure necessary skills for this dimension"
+      },
+      {
+        "id": "t05",
+        "name": "Check in with Mary Jo on capitalization of defined terms"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/05/11-maturity-minutes"
+  },
+  "2022-05-04-maturity": {
+    "title": "Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Training Dimension"
+      },
+      {
+        "id": "t02",
+        "name": "Placement of definitions"
+      },
+      {
+        "id": "t03",
+        "name": "Editing Changes"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/05/04-maturity-minutes"
+  },
+  "2022-04-27-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Review Dimensions Structure and Reconcile Inconsistencies"
+      },
+      {
+        "id": "t02",
+        "name": "Review Any Recent Edits By Group Members"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/04/27-maturity-minutes"
+  },
+  "2022-04-20-maturity": {
+    "title": "W3C Accessibility Maturity Model",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "APA Transition, Future of Our Work, Open Discussion"
+      },
+      {
+        "id": "t02",
+        "name": "Agenda Review & Announcements agenda+ Continuing the transition to APA"
+      },
+      {
+        "id": "t03",
+        "name": "Github Issue #46 Requirements in section 3.4 could be clarified"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/04/20-maturity-minutes"
+  },
+  "2022-04-13-maturity": {
+    "title": "Maturity Model",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/04/13-maturity-minutes"
+  }
+}
