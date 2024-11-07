@@ -1,4 +1,43 @@
 {
+  "2024-11-07-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "0b23",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "2a18",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "f4df",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "cb24",
+        "name": "Consensus needed: Publish a snapshot CR of Core-AAM"
+      },
+      {
+        "id": "4b84",
+        "name": "HTML AAM: how to handle attributes and aria-* on button/selectedoption within a select"
+      },
+      {
+        "id": "7510",
+        "name": "Clarify tables, grids, treegrids"
+      },
+      {
+        "id": "4be1",
+        "name": "Inconsistency in allowed uses of placeholder and aria-placeholder"
+      },
+      {
+        "id": "630b",
+        "name": "add mapping for html focusgroup attribute"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/07-aria-minutes"
+  },
   "2024-10-31-aria": {
     "title": "ARIA WG",
     "topics": [
