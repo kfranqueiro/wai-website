@@ -1,0 +1,6203 @@
+{
+  "2017-04-25-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) ACTION-2135: Updated details on UIA mappings, interfaces, and patterns"
+      },
+      {
+        "id": "item02",
+        "name": "Triage accname actions: https://www.w3.org/WAI/PF/Group/track/products/26"
+      },
+      {
+        "id": "item03",
+        "name": "looking at testable statements"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "close action 2136 and issue 750 nothing needs to change but joanie needs to file a gecko bug",
+        "topic": "Triage accname actions: https://www.w3.org/WAI/PF/Group/track/products/26"
+      }
+    ],
+    "href": "/2017/04/25-aapi-minutes"
+  },
+  "2017-04-18-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(Joanie) AX API mapping issues and testing (weekly checkin)"
+      },
+      {
+        "id": "item02",
+        "name": "Joseph's Departure"
+      },
+      {
+        "id": "item03",
+        "name": "(All) Level of detail in UIA mappings."
+      },
+      {
+        "id": "item04",
+        "name": "(All) Various pull requests for fixes to Core-AAM"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/04/18-aapi-minutes"
+  },
+  "2017-04-11-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Level of detail in UIA mappings."
+      },
+      {
+        "id": "item02",
+        "name": "(Joanie) AX API mapping issues and testing."
+      },
+      {
+        "id": "item03",
+        "name": "PR-545 (ALL) Fix ATK/AT-SPI2 mapping for ARIA listitem role"
+      },
+      {
+        "id": "item04",
+        "name": "PR-548 (All) Update AXSubrole value for group role"
+      },
+      {
+        "id": "item05",
+        "name": "Mapping of listbox"
+      },
+      {
+        "id": "item06",
+        "name": "PR-548 (All) Update AXSubrole value for group role"
+      },
+      {
+        "id": "item07",
+        "name": "Triage accname actions: https://www.w3.org/WAI/ARIA/track/products/26"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/04/11-aapi-minutes"
+  },
+  "2017-04-04-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Level of detail in UIA mappings."
+      },
+      {
+        "id": "item02",
+        "name": "(Joanie) AX API mapping issues and testing."
+      },
+      {
+        "id": "item03",
+        "name": "Triage issues/actions/issues: https://www.w3.org/WAI/ARIA/track/products/23"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-674?"
+      },
+      {
+        "id": "item05",
+        "name": "issue-735"
+      },
+      {
+        "id": "item06",
+        "name": "Triage accname issues/actions: https://www.w3.org/WAI/PF/Group/track/products/26"
+      },
+      {
+        "id": "item07",
+        "name": "issue-542"
+      },
+      {
+        "id": "item08",
+        "name": "issue-609"
+      },
+      {
+        "id": "item09",
+        "name": "issue-626"
+      },
+      {
+        "id": "item10",
+        "name": "issue-751"
+      },
+      {
+        "id": "item11",
+        "name": "Issue-1021"
+      },
+      {
+        "id": "item12",
+        "name": "issue-1044"
+      },
+      {
+        "id": "item13",
+        "name": "ISSUE-750"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/04/04-aapi-minutes"
+  },
+  "2017-03-28-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Level of detail in UIA mappings."
+      },
+      {
+        "id": "item02",
+        "name": "(Joseph, Joanie) Remove RELATION_POPUP_FOR from ATK/AT-SPI mappings of aria-haspopup"
+      },
+      {
+        "id": "item03",
+        "name": "(Joanie) AX API mapping issues and testing."
+      },
+      {
+        "id": "item04",
+        "name": "(All) Joseph post ARIA 1.1"
+      },
+      {
+        "id": "item05",
+        "name": "(Joanie, Joseph) Fix IA2 and ATK mappings for aria-current"
+      },
+      {
+        "id": "item06",
+        "name": "(All) Joseph post ARIA 1.1"
+      },
+      {
+        "id": "item07",
+        "name": "(Joanie, Joseph) Fix IA2 and ATK mappings for aria-current"
+      },
+      {
+        "id": "item08",
+        "name": "Triage actions/issues: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/28-aapi-minutes"
+  },
+  "2017-03-21-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-738 (Bogdan) Verify or provide correct UIA mapping for role=\"heading\"."
+      },
+      {
+        "id": "item02",
+        "name": "(All) Level of detail in UIA mappings."
+      },
+      {
+        "id": "item03",
+        "name": "(Joseph, Joanie) Remove RELATION_POPUP_FOR from ATK/AT-SPI mappings of aria-haspopup"
+      },
+      {
+        "id": "item04",
+        "name": "GH-ISSUE-536 (Joseph, Joanie) Latest AXRoleDescription strings for roles alertdialog and dialog"
+      },
+      {
+        "id": "item05",
+        "name": "Joseph post-ARIA 1.1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/21-aapi-minutes"
+  },
+  "2017-03-14-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Level of detail in UIA mappings."
+      },
+      {
+        "id": "item02",
+        "name": "(Bogdan) Specifying AAPI UIA interface in focus events table, and other mapping tables."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-738 (Bogdan) Verify or provide correct UIA mapping for role=\"heading\"."
+      },
+      {
+        "id": "item04",
+        "name": "(Joanie) AX API mapping issues and testing."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/14-aapi-minutes"
+  },
+  "2017-03-07-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(Joanie) AX API mapping issues and testing"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1732 (Michael, Joseph) Add conformance section to the Core-AAM."
+      },
+      {
+        "id": "item03",
+        "name": "(Bogdan) Specifying AAPI UIA interface in focus events table, and other mapping tables."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-738 (Bogdan) Verify or provide correct UIA mapping for role=\"heading\"."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-1026/ACTION-1694 (James) AX API mapping of aria-errormessage"
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-673: Need standard way to distinguish data tables from layout tables"
+      },
+      {
+        "id": "item07",
+        "name": "Triage actions/issues: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/07-aapi-minutes"
+  },
+  "2017-02-07-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Specifying AAPI UIA interface in focus events table, and other mapping tables."
+      },
+      {
+        "id": "item02",
+        "name": "(Joanie) AX API mapping issues and testing."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1732 (Michael, Joseph) Add conformance section to the Core-AAM."
+      },
+      {
+        "id": "item04",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/07-aapi-minutes"
+  },
+  "2017-01-31-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "GH-ISSUE-513: (All/Joanie) Mapping of role=\"region\" when it doesn't have an accessible name."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1707 (Joseph/All) pending final review."
+      },
+      {
+        "id": "item03",
+        "name": "(All) Specifying AAPI UIA interface in focus events table"
+      },
+      {
+        "id": "item04",
+        "name": "(All) update on AX API GH-ISSUEs"
+      },
+      {
+        "id": "item05",
+        "name": "(All) aria-label and the accname-aam"
+      },
+      {
+        "id": "item06",
+        "name": "(All) aria-labelledby and the accname-aam"
+      },
+      {
+        "id": "item07",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/31-aapi-minutes"
+  },
+  "2017-01-24-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) update on AX API GH-ISSUEs"
+      },
+      {
+        "id": "item02",
+        "name": "GH-ISSUE-513: (All) Mapping of role=\"region\" when it doesn't have an accessible name."
+      },
+      {
+        "id": "item03",
+        "name": "(All) update on AX API GH-ISSUEs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/24-aapi-minutes"
+  },
+  "2017-01-17-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "GH-ISSUE-459: (All) macOS mapping of aria-colindex, -rowindex, -colcount, -rowcount, -rowspan, -colspan"
+      },
+      {
+        "id": "item02",
+        "name": "GH-ISSUE-464: (All) macOS mapping of aria-roledescription."
+      },
+      {
+        "id": "item03",
+        "name": "GH-ISSUE-458: (All) macOS mapping of aria-errormessage."
+      },
+      {
+        "id": "item04",
+        "name": "GH-ISSUE-456: (All) macOS mapping of feed role."
+      },
+      {
+        "id": "item05",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/17-aapi-minutes"
+  },
+  "2017-01-10-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-676: (Joseph) Identifying MSAA+IA2 and ATK/AT-SPI actions, interfaces, and relations in the mappings."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-654/ACTION-2130: (Joanie) Determine if AX API supports description changes."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-739: (Joseph/Bogdan) UIA mapping for role=\"heading\" without aria-level"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1707: (Joseph) AX API mapping for presentation/none in required owned children."
+      },
+      {
+        "id": "item05",
+        "name": "Review of HTML-AAM (All)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/10-aapi-minutes"
+  },
+  "2016-12-13-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Meeting next week (Dec 20)."
+      },
+      {
+        "id": "item02",
+        "name": "UIA mappings (Joseph/Bogdan) Finished and closed."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-2066: (Joseph) Include spec text in 5.6.4 for automatic computation of posinset and setsize for menuitems."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-654/ACTION-2130: (Joanie) Determine if AX API supports description changes."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-618/ACTION-2129: (Rich) Deal with Cynthia's single-selection-changed-event test file."
+      },
+      {
+        "id": "item06",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/12/13-aapi-minutes"
+  },
+  "2016-12-06-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2120: (Joseph/Bogdan) UIA: clean up mapping for aria-haspopup."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2070: (Joseph/Bogdan) Add UIA Range Value Pattern to the range related roles in the role mapping table (e.g., slider)."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1038: (Bogdan) Mappings for feed, figure, term, and UIA in general."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-618: (All) Orphan test file."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-705: (Rich) Harmonize the list of mappings for MSAA, UIA, IA2, and possibly other platforms."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-654: (All) Add label and description changes to change event section."
+      },
+      {
+        "id": "item07",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/12/06-aapi-minutes"
+  },
+  "2016-11-15-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-676/ACTION-2126: (Joseph) Adding MSAA+IA2 action, interface, and relations to role mappings."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2121: (Joseph/Joanie) Correct the ATK/AT-SPI text for single and multiple selection removal."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1038: (Bogdan) Mappings for feed, figure, term, and UIA in general."
+      },
+      {
+        "id": "item04",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/15-aapi-minutes"
+  },
+  "2016-11-08-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-676/ACTION-2126: (Joseph) Adding MSAA+IA2 action, interface, and relations to role mappings."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2121: (Joseph/Joanie) Correct the ATK/AT-SPI text for single and multiple selection removal."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1038: (Bogdan) Mappings for feed, figure, term, and UIA in general."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/08-aapi-minutes"
+  },
+  "2016-11-01-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-676: (Joseph) Adding MSAA+IA2 action, interface, and relations to role mappings."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-1038/ISSUE-1026: (Bogdan, James) Mappings for feed, figure, and term."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-2121: (Joseph/Joanie) Correct the ATK/AT-SPI text for single and multiple selection removal."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/01-aapi-minutes"
+  },
+  "2016-10-25-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2122: (Joseph) Fixed ATK/AT-SPI \"AccessibleValue\" interface - should be \"Value\"."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-1051/ACTION-2125 (Joseph) IA2 object property name for aria-placeholder is \"placeholder-text\"."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-676: (Joseph) Adding MSAA+IA2 action, interface, and relations to role mappings."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/25-aapi-minutes"
+  },
+  "2016-10-18-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-1038/ISSUE-1026: (Bogdan, James) Mappings for feed, figure, and term."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-676/: (Joseph) Adding MSAA+IA2 action, interface, and relations to role mappings."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-2121: (Joanie) Correct the ATK/AT-SPI text for single and multiple selection removal."
+      },
+      {
+        "id": "item04",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/18-aapi-minutes"
+  },
+  "2016-10-11-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2102/ISSUE-1026: (Rich, All) Create mappings based on features in html 5.1 spec."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-1047: (Rich/Joseph) Handle special cases of aria-roledescription."
+      },
+      {
+        "id": "item03",
+        "name": "Github issue-428/ACTION-2120 (Bogdan): clean up UIA mapping of aria-haspopup."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-676/: (Joanie, Joseph) Added RELATION_POPUP_FOR to ATK/AT-SPI aria-haspopup mappings."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-706/ACTION-980 (All) Describe/define aria related states managed by the user agent."
+      },
+      {
+        "id": "item06",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/11-aapi-minutes"
+  },
+  "2016-10-04-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Microsoft"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2102/ISSUE-1026: (Rich, All) Create mappings based on features in html 5.1 spec."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1047: (Rich/Joseph) Handle special cases for aria-roledescription"
+      },
+      {
+        "id": "item04",
+        "name": "Github issue-428 (Cynthia/Joseph): clean up UIA mapping of aria-haspopup"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/04-aapi-minutes"
+  },
+  "2016-09-06-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2102: (Rich, All) Create mappings based on features in html 5.1 spec."
+      },
+      {
+        "id": "item02",
+        "name": "Github issue-428 (Cynthia/Joseph): clean up UIA mapping of aria-haspopup"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1026 (All) Mappings for aria-errormessage"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-676/ACTION-2083: (Joanie, Joseph) Review ATK/AT-SPI states for aria states and properties"
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-663: (Rich) Presentational children of some widgets have doclick actions if make presentational who handles the click"
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-706/ACTION-980 (Cynthia, All) Describe/define aria related states managed by the user agent"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/06-aapi-minutes"
+  },
+  "2016-08-09-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Upcoming meetings"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2102: (Rich, All) Create mappings based on features in html 5.1 spec."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-663: (Rich) Presentational children of some widgets have doclick actions if make presentational who handles the click"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/08/09-aapi-minutes"
+  },
+  "2016-08-02-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2102: (Rich) Create mappings based on features in html 5.1 spec."
+      },
+      {
+        "id": "item02",
+        "name": "Managed States"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-676/ACTION-2083: (Joseph) Review ATK/AT-SPI states for aria states and properties."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-645: (All) remove 'checkable' object attribute requirement from aria-pressed mapping requirements."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-663: (Rich) Presentational children of some widgets have doclick actions if make presentational who handles the click"
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-627: (All) Conflict between aria-autocomplete and HTML5.2 autocomplete."
+      },
+      {
+        "id": "item07",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      },
+      {
+        "id": "item08",
+        "name": "ISSUE-627: (All) Conflict between aria-autocomplete and HTML5.2 autocomplete."
+      },
+      {
+        "id": "item09",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/08/02-aapi-minutes"
+  },
+  "2016-07-26-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-676/ACTION-1739: (Joseph) Identify ATK/AT-SPI interfaces in role mappings. done?"
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-676/ACTION-2083: (Joanie) Review and update ATK/AT-SPI states. - status?"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-583: (Rich) Children elements of ancesstor with aria-activedescendant should not all be focuable. - done?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/26-aapi-minutes"
+  },
+  "2016-07-19-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-1029/ACTION-2089 (Cynthia) Check for value events for splitters in UIA."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-1029/ACTION-2075 (Joanie) Check AXAPI mappings of separator role."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-676/ACTION-2083 (Joanie/Joseph) Identify ATK/AT-SPI states in the mappings"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-540: Section describing AAPI differences."
+      },
+      {
+        "id": "item05",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/19-aapi-minutes"
+  },
+  "2016-07-12-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-1029/ACTION-2089 (Cynthia) Check for value events for splitters in UIA."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-441/ACTION-1373 (Cynthia) Mapping of partially missing aria-posinset and aria-setsize is now an error condition"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE=676 (Joanie/All) Identify MSAA+IA2 and ATK/AT-SPI actions, interfaces, and relations in the mappings"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/12-aapi-minutes"
+  },
+  "2016-07-05-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-1029 (All) Mappings for separator when it is a window-splitter."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-1016 (All) Mappings for aria-keyshortcuts."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-682/ACTION-1745 (Joseph/All) Overriding role of elements with required owned children"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-661 (All) How to map children of table/lists with role presentation."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-677 (All) ATK/AT-SPI mapping of role=\"presentation\" to ROLE_PANEL."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-487 (All) List and define mappings for managed states."
+      },
+      {
+        "id": "item07",
+        "name": "Triage issues/actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/05-aapi-minutes"
+  },
+  "2016-06-28-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-1029 (All) Mappings for separator when it is a window-splitter."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1696 (Joseph/Joanie) ATK/AT-SPI mapping of aria-keyshortcuts."
+      },
+      {
+        "id": "item03",
+        "name": "Meeting next week?"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1696 (Joseph/Joanie) ATK/AT-SPI mapping of aria-keyshortcuts."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1698 (Joanie) Quick update re: AXAPI mapping of aria-keyshortcuts."
+      },
+      {
+        "id": "item06",
+        "name": "Triage actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/06/28-aapi-minutes"
+  },
+  "2016-06-21-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1533 (Joanie) Periodic checkin: Webdriver automated accessibilty testing framework for testing ARIA in ATK/AT-SPI."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1696/ACTION-1698 (Joanie) ATK/AT-SPI, IA2, and AXAPI mappings of aria-keyshortcuts."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1706 (Joseph) Statement regarding deprecation of UIA Express."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-2065 (Joseph/Cynthia) Validation of aria-activedescendant."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1739 (Joseph) Provide all the missing atk/at-spi2 interfaces."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-2022 (Rich) Followup with Alex about IA2_ROLE_LANDMARK (obsolete?)"
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-2056 (Rich/Joseph/Joanie) Mappings for new aria-haspopup values."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/06/21-aapi-minutes"
+  },
+  "2016-06-14-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1533 (Joanie) Periodic checkin: Webdriver automated accessibilty testing framework for testing ARIA in ATK/AT-SPI."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1696 (Joanie) ATK/AT-SPI and IA2 mappings of aria-keyshortcuts."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1698 (Joanie) AXAPI mapping of aria-keyshortcuts."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1706 (Joseph) Statement regarding deprecation of UIA Express."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-2065 (Joseph/Cynthia) Validation of aria-activedescendant."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1739 (Joanie) Provide all the missing atk/at-spi2 interfaces."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-2022 (Rich) Followup with Alex about IA2_ROLE_LANDMARK (obsolete?)"
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-2056 (Rich/Joseph/Joanie) Mappings for new aria-haspopup values."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1732 (Michael) Conformance section for core-aam."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-2076 (Joseph) MSAA+IA2 mapping of separator when it is a splitter widget between panes."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/06/14-aapi-minutes"
+  },
+  "2016-06-07-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1409 (Joanie) Periodic checkin: Add group position interface to ATK/AT-SPI."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1533 (Joanie) Periodic checkin: Webdriver automated accessibilty testing framework for testing ARIA in ATK/AT-SPI."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1697 (Joseph/Joanie) MSAA/IA2 mapping of aria-keyshortcuts (final review)."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1696 (Joanie) ATK/AT-SPI and IA2 mappings of aria-keyshortcuts."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1698 (Joanie) AXAPI mapping of aria-keyshortcuts."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1706 (Michael/Cynthia) Statement regarding deprecation of UIA Express."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-2065 (Joseph/Cynthia) Validation of aria-activedescendant."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1739 (Joanie) Provide all the missing atk/at-spi2 interfaces."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/06/07-aapi-minutes"
+  },
+  "2016-05-31-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1409 (Joanie) Periodic checkin: Add group position interface to ATK/AT-SPI."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1533 (Joanie) Investigate/create minimal javascript at-spi2 listener for automating 1.1 tests."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1695 (Joseph/Cynthia) UIA mapping of aria-keyshortcuts (pending review)."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1696/ACTION-1697 (Joanie) ATK/AT-SPI and IA2 mappings of aria-keyshortcuts"
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1698 (James) AXAPI mapping of aria-keyshortcuts -- reassign to Joanie?"
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1706 (Cynthia) Statement regarding deprecation of UIA Express."
+      },
+      {
+        "id": "item07",
+        "name": "Triage actions: https://www.w3.org/WAI/ARIA/track/products/23 (start with ACTION-1707)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/31-aapi-minutes"
+  },
+  "2016-05-24-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Administration (All) What is new from ARIA meetings that needs addressing here."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2054/ISSUE-1025 (Rich) Coordinate mappings for new enumerated values of aria-haspopup."
+      },
+      {
+        "id": "item03",
+        "name": "UIA Range Pattern"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1409 (Joanie) Periodic checkin: Add group position interface to ATK/AT-SPI."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-980/ISSUE-706 (Cynthia) Section on AAPI managed states."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1533 (Joanie) Investigate/create minimal javascript at-spi2 listener for automating 1.1 tests."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1373 (Cynthia) Test case for aria-posinset/aria-setsize when not explicitly set."
+      },
+      {
+        "id": "item08",
+        "name": "ISSUE-1026 (All) aria-errormessage mappings."
+      },
+      {
+        "id": "item09",
+        "name": "Triage actions: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/24-aapi-minutes"
+  },
+  "2016-05-03-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Administration: Joseph away for the next two weeks -- meeting?"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2043 (Joseph/Cynthia) Review UIA mapping of role=\"status\"."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1025/ACTION-2054 (All) Reminder re: mappings for new values of aria-haspopup."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1569 (Cynthia/Jason/Joseph) Section that describes AAPI differences -- latest suggestions from Jason."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1409 (Joanie) Quick checkin: Add group position interface to ATK/AT-SPI."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1668 (All) Use IA2_ROLE_LANDMARK and ROLE_LANDMARK (ATK) for role=\"form\"."
+      },
+      {
+        "id": "item07",
+        "name": "Triage actions: https://www.w3.org/WAI/ARIA/track/products/23 (start with ACTION-1409)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/03-aapi-minutes"
+  },
+  "2016-04-26-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2043 (Joseph/Cynthia) Review UIA mapping of role=\"status\"."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2055 (All) Mappings for new values of aria-haspopup -- create actions."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1569 (Jason/Joseph) Section that describes AAPI differences -- done?"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1409 (Joanie) Gnome bugzilla re: group position for ATK/AT-SPI."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-2022/ACTION-1668 (All) Add IA2_ROLE_LANDMARK for IA2. Latest developments, including mapping of role=\"form\"."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/04/26-aapi-minutes"
+  },
+  "2016-04-19-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1737 (Joseph/Cynthia/Joanie) Confirm the UIA mappings for table/cell were pulled in correctly, and the AXAPI mappings."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1718 (Cynthia) Review UIA mappings for aria-checked on radio buttons and menuitem radio buttons."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-2032 (Cynthia) Review new UIA example for the AAPI explanatory text."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-2022/ACTION-1668 (All) Add IA2_ROLE_LANDMARK for IA2. Latest developments, including mapping of role=\"form\"."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-2032 (Cynthia) Review new UIA example for the AAPI explanatory text."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-2043 (Joseph/Cynthia) Review UIA mapping of role=\"status\"."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-2022/ACTION-1668 (All) Add IA2_ROLE_LANDMARK for IA2. Latest developments, including mapping of role=\"form\"."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/04/19-aapi-minutes"
+  },
+  "2016-04-12-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2008 (Cynthia/Joseph) Handle concept of description property for UIA - merged, final review."
+      },
+      {
+        "id": "item02",
+        "name": "It's Rich's Birthday"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-2041 (Joseph/Joanie) AXAPI mapping for role=\"application\", new AXWebApplication subrole replaces AXLandmarkApplication."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1541 (Joseph/Joanie) AXAPI mapping for aria-modal property -- review."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1668 (Joseph) Add IA2_ROLE_LANDMARK for IA2."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1686/ACTION-1692/ACTION-1693: (Joanie/All): Propose ATK/AT-SPI2 and MSAA+IA2 mappings for aria-errormessage."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/04/12-aapi-minutes"
+  },
+  "2016-04-05-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2008 (Cynthia/Joseph) Handle concept of description property for UIA - merged, final review."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1569/ACTION-2032/ISSUE-540 (Cynthia/Jason) Section on AAPI differences - merged, final review."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-2012/ACTION-2013 (Joseph, Cynthia) UIA mappings for landmark roles, pull request merged: https://github.com/w3c/aria/pull/272  close?"
+      },
+      {
+        "id": "item04",
+        "name": "agenda+ ACTION-2041 (Joseph/James) AXAPI mapping for role=\"application\", specifically change AXLandmarkApplication subrole."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1668 (Rich/Alex) Add IA2_ROLE_LANDMARK for IA2."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1541 (Joseph/Joanie) AXAPI mapping for aria-modal property -- update progress."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/04/05-aapi-minutes"
+  },
+  "2016-03-29-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2008 (Cynthia/Joseph) Handle concept of description property for UIA."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1681 (All) Clarifying inclusions rules and/or exclusion rules."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/29-aapi-minutes"
+  },
+  "2016-03-15-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1681 (Joseph, Amelia) Editorial change(s) clarifying inclusions rules and/or exclusion rules."
+      },
+      {
+        "id": "item02",
+        "name": "No meeting next week."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/15-aapi-minutes"
+  },
+  "2016-03-08-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Adiministration: Daylight Savings Time for North America (at least) is in effect next week."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2012/ACTION-2013/Action-1667 (Joseph, Cynthia) UIA mappings for landmark roles, pull request merged: https://github.com/w3c/aria/pull/272"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1569/1585/ISSUE-540 (All) Section on AAPI differences - my response to Jason's latest, and including Cynthia's new example."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1541 (Joseph) AXAPI mapping for aria-modal property -- update progress."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-2008: (Cynthia) Handle concept of description property for UIA."
+      },
+      {
+        "id": "item06",
+        "name": "aria-kbdshortcuts"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/08-aapi-minutes"
+  },
+  "2016-03-01-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1569/1585/ISSUE-540 (All) Section on AAPI differences - Jason's latest."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-2012/ACTION-2013/Action-1667 (Cynthia) UIA mappings for landmark roles, pull request: https://github.com/w3c/aria/pull/272"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1593 (Cynthia) Compare implementations of AAPI managed states and look for gaps."
+      },
+      {
+        "id": "item04",
+        "name": "Test file creation"
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1541 (Joanie/Joseph) AXAPI mapping for aria-modal property."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1668 (Rich/Alex) Add IA2_ROLE_LANDMARK for IA2."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/01-aapi-minutes"
+  },
+  "2016-02-23-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1569/1585/ISSUE-540 (Joseph) Add to section on AAPI differences highlighting the features of UIA"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1593 (Cynthia) Compare implementations of AAPI managed states and look for gaps."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1531 (All) IA2 mapping of role=\"text\" -- using ROLE_SYSTEM_STATICTEXT in editor's draft."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1691/ISSUE-1010 (Joseph) UIA mapping for aria-errormessage and role=\"error\"."
+      },
+      {
+        "id": "item05",
+        "name": "Providing feedback and changes on Core AAM mappings"
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1691/ISSUE-1010 (Joseph) UIA mapping for aria-errormessage and role=\"error\"."
+      },
+      {
+        "id": "item07",
+        "name": "Comboboxes"
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1541 (Joseph) AXAPI mapping for aria-modal property."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/02/23-aapi-minutes"
+  },
+  "2016-02-16-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1667 (All) Progress? https://www.w3.org/2016/01/26-aapi-minutes.html#item01"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1531 (All) IA2 mapping of role=\"text\" -- latest from Cynthia/Alex/James Teh."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-1011 (Rich) Bring Rich up to speed."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1569/1585 (Joseph) Add to section on AAPI differences highlighting the features of UIA."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1593 (Cynthia) Compare implementations of AAPI managed states and look for gaps."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1691/ISSUE-1010 (Joseph) UIA mapping for aria-errormessage and role=\"error\"."
+      },
+      {
+        "id": "item07",
+        "name": "Blank Titles in ARIA labels and name computation."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "User Agents will not correct alternative text solutions for elements when the text is blank or empty. It is an author error.",
+        "topic": "Blank Titles in ARIA labels and name computation."
+      }
+    ],
+    "href": "/2016/02/16-aapi-minutes"
+  },
+  "2016-02-02-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-2009 (Cynthia) Update of UIA mapping for role main."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1531 (All) IA2 mapping of role=\"text\" -- latest from Alex."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1569/1585 (Joseph/Cynthia/Jason) Add to section on AAPI differences highlighting the features of UIA."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1593 (Cynthia) Compare implementations of AAPI managed states and look for gaps."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1691/ISSUE-1010 (Cynthia) UIA mapping for aria-errormessage and role=\"error\"."
+      },
+      {
+        "id": "item06",
+        "name": "Triage: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/02/02-aapi-minutes"
+  },
+  "2016-01-26-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1667 (All)"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1531 (All) Bolter to investigate ia2 mapping of role=\"text\""
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1535 (Joseph/James) AXAPI mappings for aria-current (notifications)."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1569/1585 (Joseph/Cynthia/Jason) Add to section on AAPI differences highlighting the features of UIA."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1593 (Cynthia) Compare implementations of AAPI managed states and look for gaps."
+      },
+      {
+        "id": "item06",
+        "name": "Question: need mapping entry for default value of aria-current?"
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1691: (Joseph/Cynthia) Propose UIA mapping for aria-errormessage."
+      },
+      {
+        "id": "item08",
+        "name": "Triage: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Close action-1535 as complete.",
+        "topic": "ACTION-1535 (Joseph/James) AXAPI mappings for aria-current (notifications)."
+      },
+      {
+        "id": "resolution02",
+        "content": "Close action 1661 as complete.",
+        "topic": "Triage: https://www.w3.org/WAI/ARIA/track/products/23"
+      }
+    ],
+    "href": "/2016/01/26-aapi-minutes"
+  },
+  "2016-01-19-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1531 (All) Bolter to investigate ia2 mapping of role=\"text\""
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1533 (Joanie) Possibly create minimal JavaScript AT-SPI listener for automating CR tests."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1535 (Joseph/James) AXAPI mappings for aria-current (notifications)."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1547 (Rich) Update test cases involving rowgroup."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/19-aapi-minutes"
+  },
+  "2016-01-12-aapi": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1104 (Joanie) Monitor progress of ATK bug re: new position, level, and other API."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1528 (All) Bolter to investigate IA2 mapping of aria-current."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1529 (Joseph/Joanie) ATK/AT-SPI mappings of aria-current -- review edits."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1531 (Joseph) Bolter to investigate ia2 mapping of role=\"text\""
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/12-aapi-minutes"
+  },
+  "2015-12-01-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-723 (Cynthia) Check that UIA control type for \"application\" role is Pane."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-730 (Cynthia) Check that UIA localized control type for \"article\" role is article."
+      },
+      {
+        "id": "item03",
+        "name": "(All) Reminder to check the role mappings for Dpub-aam for FPWD. - http://rawgit.com/w3c/aria/master/dpub-aam/dpub-aam.html"
+      },
+      {
+        "id": "item04",
+        "name": "Action/Issue/Bugzilla triage for ARIA 1.1"
+      },
+      {
+        "id": "item05",
+        "name": "Meeting next week"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/12/01-aapi-minutes"
+  },
+  "2015-11-24-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-723 (Cynthia) Check that UIA control type for \"application\" role is Pane."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1737: (All) Mappings for table and cell roles. Review edits."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1741: (All) Fallback role mapping for abstract roles."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/11/24-aapi-minutes"
+  },
+  "2015-11-17-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/11/17-aapi-minutes"
+  },
+  "2015-11-10-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Reminder: check that all new ARIA 1.1 spec have actions for the Core-AAM."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-723 - 734: Updated UIA role mappings (mostly landmarks). Close these issues?"
+      },
+      {
+        "id": "item03",
+        "name": "DPub Mappings"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1527: (Joseph) UIA mapping of aria-current. Review edits."
+      },
+      {
+        "id": "item05",
+        "name": "Cynthia: issues with text alternative calculation."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1737: (Joseph) Mappings for table and cell roles. Review edits."
+      },
+      {
+        "id": "item07",
+        "name": "Reminder: check that all new ARIA 1.1 spec have actions for the Core-AAM."
+      },
+      {
+        "id": "item08",
+        "name": "ISSUE-723 - 734: Updated UIA role mappings (mostly landmarks). Close these issues?"
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1527: (Joseph) UIA mapping of aria-current. Review edits."
+      },
+      {
+        "id": "item10",
+        "name": "Text Alternative Computation"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Close action-1527.",
+        "topic": "ACTION-1527: (Joseph) UIA mapping of aria-current. Review edits."
+      }
+    ],
+    "href": "/2015/11/10-aapi-minutes"
+  },
+  "2015-10-20-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Check that all new ARIA 1.1 spec have actions."
+      },
+      {
+        "id": "item02",
+        "name": "Add interfaces where appropriate, e.g. IAccessibleText"
+      },
+      {
+        "id": "item03",
+        "name": "Check that all new ARIA 1.1 spec have actions."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Close action-842.",
+        "topic": "Check that all new ARIA 1.1 spec have actions."
+      }
+    ],
+    "href": "/2015/10/20-aapi-minutes"
+  },
+  "2015-10-06-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1717: (Joseph) Remove the MSAA plus UIA express column."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1309: (Cynthia) UIA mappings for aria-colindex and aria-rowindex."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1531: (Joseph, Alex, David) IA2 mapping of role=\"text\"."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/10/06-aapi-minutes"
+  },
+  "2015-09-22-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "CR"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1309: (Cynthia) UIA and mappings for aria-colindex and aria-rowindex."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1531: (Alex, David) Bolter to investigate ia2 mapping of role=\"text\"."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/22-aapi-minutes"
+  },
+  "2015-09-15-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/09/15-aapi-minutes"
+  },
+  "2015-09-08-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/09/08-aapi-minutes"
+  },
+  "2015-09-01-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1104: (Cynthia) UIA mapping aria-describedby when element does not exist in a11y tree."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1528: (Alex, David) IA2 mapping for aria-current."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1535: (James) AXAPI mapping for aria-current."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1541: (James) AXAPI mapping for aria-modal."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1104: (Cynthia) UIA mapping aria-describedby when element does not exist in a11y tree."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1309: (Cynthia) UIA and UIA Express mappings for aria-colindex and aria-rowindex."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1373: (Cynthia) Test case for aria-posinset and aria-setsize when provided on only some elements."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1527: (Cynthia) UIA mapping for aria-current."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1547: (Rich) Update test cases for rowgroup within a grid."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-1593: (Cynthia) Gap analysis of AAPI differences for managed states."
+      },
+      {
+        "id": "item11",
+        "name": "ACTION-1661: (Cynthia) UIA and UIA Express mappings for aria-roledescription."
+      },
+      {
+        "id": "item12",
+        "name": "(Bryan) Discuss selected vs checked state of radio buttons on Windows (UIA)"
+      },
+      {
+        "id": "item13",
+        "name": "Action triage for accessible name calculation (https://www.w3.org/WAI/PF/Group/track/products/26)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/01-aapi-minutes"
+  },
+  "2015-08-25-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Test cases for ARIA 1.1 mappings."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1547: (Rich) Update test test cases involving rowgroup."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/08/25-aapi-minutes"
+  },
+  "2015-08-18-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mapping of aria-checked on UIA and UIA Express"
+      },
+      {
+        "id": "item02",
+        "name": "Any thoughts/updates in the past two weeks?"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1526: (All) Propose practices for fallback role of text in authoring guide [Wrong product assignment]."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1529: (Joseph, Joanie) Pending review: ATK/AT-SPI mappings of aria-current."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1528: (Alex) Bolter to investigate the proper IA2 mappings for aria-current."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1531: (Alex) Bolter to investigate ia2 mapping of role=\"text\"."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1533: (Joanie) Investigate and possibly create a minimal/skeleton javascript at-spi2 listener with the aim of automating the 1.1 tests."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1662: (Joseph) Edit pending: IA2 mapping for aria-roledescription."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1667: (Joseph) Update the mappings for aria role region to reflect its landmark inheritance as defined in the aria 1.1 spec."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/08/18-aapi-minutes"
+  },
+  "2015-07-28-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Meeting for the next two weeks."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1680/ACTION-1686: (All) Assign actions for mappings of aria-errormessage"
+      },
+      {
+        "id": "item03",
+        "name": "New: (All) Need actions for mappings of aria-kbdshorcuts"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1625: (Joseph, All) Update re: aria-interactive property."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1660/ISSUE-714 (Joanie) ATK/AT-SPI mapping of aria-roledescription."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1662/ISSUE-714 (Alex) IA2 mapping of aria-roledescription."
+      },
+      {
+        "id": "item07",
+        "name": "Bugzilla-28816 (All) Some ARIA roles lacking explicit a11y API role mappings."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/07/28-aapi-minutes"
+  },
+  "2015-07-21-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/07/21-aapi-minutes"
+  },
+  "2015-07-14-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1625 (Joseph, All) Mappings for aria-interactive property."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1322: (Jon, All) Examples for aria-hidden=\"false\", including live regions."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1541: (James) AXAPI mapping for aria-modal."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1535: (James) AXAPI mapping for aria-current."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1608: (Cynthia) Bring up issue-708 with html-a11y taskforce (conditions for inclusion within a11y tree)."
+      },
+      {
+        "id": "item06",
+        "name": "Bugzilla-28816 (All) Some ARIA roles lacking explicit a11y API role mappings."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Close action-1608",
+        "topic": "ACTION-1608: (Cynthia) Bring up issue-708 with html-a11y taskforce (conditions for inclusion within a11y tree)."
+      }
+    ],
+    "href": "/2015/07/14-aapi-minutes"
+  },
+  "2015-06-30-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Bugzilla-28816 (All) Some ARIA roles lacking explicit a11y API role mappings."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/06/30-aapi-minutes"
+  },
+  "2015-06-23-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Question about noting new ARIA 1.1 features, as is done in the main spec."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-714 (All) Need mapping of aria-roledescription."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1527: (Cynthia) UIA mappings for aria-current."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1529: (Joseph/Joanie) ATK/AT-SPI mapping for aria-current."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1535: (James) AXAPI mapping for aria-current."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1533: (Joanie) Investigate and possibly create a minimal/skeleton javascript at-spi2 listener with the aim of automating the 1.1 tests."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1541: (James) AXAPI mapping for aria-modal."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1547: (Rich) Update test cases for rowgroup."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/06/23-aapi-minutes"
+  },
+  "2015-06-16-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/06/16-aapi-minutes"
+  },
+  "2015-06-09-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-635/ACTION-1546/ACTION-1643: (Joseph, David, Aleax, James) AAPI mappings for role rowgroup."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1620: (Cynthia) Propose UIA Express and UIA mappings for aria-placeholder."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1311: (Joseph) Clarify that presentation role should preserve separation of nodes within table/lists."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1373: (Cynthia) Create a test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1608: (Cynthia) Bring up issue-708 with the html-a11y taskforce."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1623: (Joseph) Confirm with James Craig that the proper AXAPI mapping of aria-placeholder is AXPlaceholderValue."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/06/09-aapi-minutes"
+  },
+  "2015-05-26-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1542: (Joanie) Verify the commit for mozilla bug 1013584 and report the atk role to Joseph."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-635: (Joseph) AAPI mappings for role rowgroup."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1544: (Cynthia) Document rowgroup mappings for ie 11 for both uia express and uia"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1546: (David) Make sure the rowgroup mapping for MSAA/IA2 is accurate."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1620: (Cynthia) Propose UIA Express and UIA mappings for aria-placeholder."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1623: (Joseph) Confirm with James Craig that the proper AXAPI mapping of aria-placeholder is AXPlaceholderValue."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1585: (Cynthia) Add to the section on differences among aapis highlighting the features of uia."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1625: (Joseph) Add mappings for aria-interactive."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Assign action-1542 to Joseph, and modifiy ATK/AT-SPI mapping to include the above statement about descendants (\"For objects that have required owned descendants (e.g., a grid owns gridcells, a list owns listitems), and the descendant is in the a11y tree, expose it as ROLE_SECTION. User agents SHOULD prune empty descendants from the a11y tree\".)",
+        "topic": "ACTION-1542: (Joanie) Verify the commit for mozilla bug 1013584 and report the atk role to Joseph."
+      }
+    ],
+    "href": "/2015/05/26-aapi-minutes"
+  },
+  "2015-05-19-aapi": {
+    "title": "19 May 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1533: (Joanie) Investigate and possibly create a minimal/skeleton javascript at-spi2 listener with the aim of automating the 1.1 tests."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1621: (Joseph) Ask Cynthia if UIA Express will be abandoned, and do we want to keep the UIA Express column in the mapping spec."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Leave the UIA Express mappings in the Core-AAM as they are for ARIA 1.1, with potential bug fixes.",
+        "topic": "ACTION-1621: (Joseph) Ask Cynthia if UIA Express will be abandoned, and do we want to keep the UIA Express column in the mapping spec."
+      }
+    ],
+    "href": "/2015/05/19-aapi-minutes"
+  },
+  "2015-05-12-aapi": {
+    "title": "12 May 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WebEx switch over."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1279 (Joseph) Talk to mobile manufacturers about including their APIs."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1104: (Cynthia) Mapping of aria-describedby when element is not in a11y tree."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1309: (Cynthia, All?) Mapping for aria-colindex and aria-rowindex."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1409: (Joanie) Minimal/skeleton javascript at-spi2 listener for automating the 1.1 tests."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1542: (Joanie) Verify the commit for mozilla bug 1013584 and report the atk role to Joseph."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1585: (Cynthia) Add content for UIA features to (Jason's) section on AAPI differences."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-1621: (Joseph) Ask Cynthia if UIA Express will be abandoned, and do we want to keep the UIA Express column in the mapping spec."
+      },
+      {
+        "id": "item11",
+        "name": "ACTION-1620: (Cynthia) Propose UIA Express and UIA mappings for aria-placeholder."
+      },
+      {
+        "id": "item12",
+        "name": "ISSUE-708/ACTION-1608: (Cynthia) Bring up issue-708 with the html-a11y taskforce."
+      },
+      {
+        "id": "item13",
+        "name": "Actions that came due today (https://www.w3.org/WAI/PF/Group/track/products/23)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/05/12-aapi-minutes"
+  },
+  "2015-04-28-aapi": {
+    "title": "28 Apr 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1279 (Rich, Joseph) Talk to mobile manufacturers about including their APIs."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-700/ACTION-1544/ACTION-1546: (All) Mapping of role rowgroup."
+      },
+      {
+        "id": "item03",
+        "name": "Meeting next week."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1409: (Joanie) Monitor progress of bug against atk in gnome's bugzilla requesting new position, level, and other api be added."
+      },
+      {
+        "id": "item06",
+        "name": "Action-1619"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/28-aapi-minutes"
+  },
+  "2015-04-21-aapi": {
+    "title": "21 Apr 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "All: Create actions for mapping @aria-placeholder."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1279: (Rich) Talk to mobile manufacturers about how to include their apis."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-700/ACTION-1544/ACTION-1546: (Rich, Cynthia, David, Alex) Mapping of role rowgroup."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/21-aapi-minutes"
+  },
+  "2015-04-07-aapi": {
+    "title": "07 Apr 2015",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/04/07-aapi-minutes"
+  },
+  "2015-03-31-aapi": {
+    "title": "31 Mar 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1590: (Joseph/James) Confirm that the AXAPI mapping of aria-owns is AXOwns array."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1279: (All) Talk to mobile manufacturers about how to include their apis."
+      },
+      {
+        "id": "item03",
+        "name": "All: User Agent Implementation face-to-face in Augsut."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-700/ACTION-1544/ACTION-1546: (Rich, Cynthia, David, Alex) Mapping of role rowgroup."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-708: (All) Section 5.1.2: Condition on including elements in the accessibility tree is ambiguous."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/31-aapi-minutes"
+  },
+  "2015-03-24-aapi": {
+    "title": "24 Mar 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-700/ACTION-1544/ACTION-1546: (Rich, Cynthia, David, Alex) Mapping of role rowgroup."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1590: (Joseph/James) Confirm that the AXAPI mapping of aria-owns is AXOwns array."
+      },
+      {
+        "id": "item04",
+        "name": "Placeholder discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/24-aapi-minutes"
+  },
+  "2015-03-17-aapi": {
+    "title": "17 Mar 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-692/ACTION-1554: (Cynthia/Joseph) UIA mapping for role=\"searchbox\" -- confirm edits."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1533: (Joanie) Investigate minimal/skeleton javascript at-spi2 listener with the aim of automating the 1.1 tests."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1542: (Joanie) Verify the commit for mozilla bug 1013584 and report the atk role to Joseph."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-692/ACTION-1554: (Cynthia/Joseph) UIA mapping for role=\"searchbox\" -- confirm edits."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1444: (Joseph) ATK/AT-SPI2 mapping for role presenatation when in tables and lists."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1104: (Cynthia) UIA mapping for aria-describedy when CSS display:none."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1309: (Cynthia) UIA Express and UIA mapping for aria-colindex/aria-rowindex."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item09",
+        "name": "ISSUE-700/ACTION-1544/ACTION-1546: (Rich, Cynthia, David, Alex) Mapping of role rowgroup."
+      },
+      {
+        "id": "item10",
+        "name": "Homework for next week"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/17-aapi-minutes"
+  },
+  "2015-03-10-aapi": {
+    "title": "10 Mar 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-693/ACTION-1563/1564: (Joseph) Mappings for role=\"switch\"."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-692/ACTION-1554/1555/1556: (Joseph) Mappings for role=\"searchbox\"."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1515: (Rich) Discuss issue-678 at the mon aria teleconference (close this?)."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-980: (Rich/David/Alex) Define mappings for managed aria related states."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/10-aapi-minutes"
+  },
+  "2015-02-24-aapi": {
+    "title": "24 Feb 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "No meeting next week due to CSUN. Next meeting Mar 10 (note: daylight savings time in effect in North America)."
+      },
+      {
+        "id": "item02",
+        "name": "Rest of meeting closed"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/02/24-aapi-minutes"
+  },
+  "2015-02-17-aapi": {
+    "title": "17 Feb 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1104: (Cynthia) Define UIA mapping in section 5.5.1 when element does not exist in accessibility tree."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-700/ACTION-1544/ACTION-1546: (Rich, Cynthia, David) Mapping of role rowgroup."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-692/ACTION-1554: (Cynthia) Provide UIA mapping for role=\"searchbox\"."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-692/ACTION-1556: (David) Provide MSAA/IA2 mapping for role=\"searchbox\"."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1564: (David) MSAA/IA2 mapping for role=\"switch\"."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1104: (Cynthia) Define UIA mapping in section 5.5.1 when element does not exist in accessibility tree."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1564: (David) MSAA/IA2 mapping for role=\"switch\"."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1569/ISSUE-540: (Jason) Section of Core-AAM for AAPI differences."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/02/17-aapi-minutes"
+  },
+  "2015-02-10-aapi": {
+    "title": "10 Feb 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item02",
+        "name": "Time frame for 1.1"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-612/ACTION-1409: (Joanie) Status of GNOME bugzilla 727453."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1309: (Cynthia) MSAA+UIA Express and UIA mappings for aria-colindex and aria-rowindex."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1445: (Cynthia) UIA mappings for role presentation in tables and lists."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1546: (David) Make sure the rowgroup mapping for msaa/ia2 is accurate."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1309: (Cynthia) MSAA+UIA Express and UIA mappings for aria-colindex and aria-rowindex."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1445: (Cynthia) UIA mappings for role presentation in tables and lists."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/02/10-aapi-minutes"
+  },
+  "2015-02-03-aapi": {
+    "title": "03 Feb 2015",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/02/03-aapi-minutes"
+  },
+  "2015-01-27-aapi": {
+    "title": "27 Jan 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1569: (Joseph/Jason) Update re: status of section on AAPI differences."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1104: (Cynthia) How to map aria-describedy when CSS display:none."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1546/1544: (David/Cynthia) How to expose rowgroup role for IA2 and UIA."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for aria-posinset with only some explicit aria-setsize."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1553/ISSUE-692: (Joseph) ATK/AT-SPI mapping for role=\"searchbox\"."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1554/ISSUE-692: (Cynthia) UIA mapping for role=\"searchbox\"."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1553/ISSUE-692: (Joseph) ATK/AT-SPI mapping for role=\"searchbox\"."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1556/ISSUE-692: (David) MSAA/IA2 mapping for role=\"searchbox\"."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-1555/ISSUE-692: (James) AX API mapping for role=\"searchbox\""
+      },
+      {
+        "id": "item11",
+        "name": "ACTION-1562/ISSUE-693: (Joseph) ATK/AT-SPI mapping for role=\"switch\"."
+      },
+      {
+        "id": "item12",
+        "name": "ACTION-1564/ISSUE-693: (David) MSAA/IA2 mapping for role=\"switch\"."
+      },
+      {
+        "id": "item13",
+        "name": "ACTION-1563/ISSUE-693: (James) AX API mapping for role=\"switch\"."
+      },
+      {
+        "id": "item14",
+        "name": "Reviewing the SVG mapping document"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/01/27-aapi-minutes"
+  },
+  "2015-01-20-aapi": {
+    "title": "20 Jan 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1408/ISSUE-540: (Joseph) Email Jason Kiss about AAPI differences."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1545: (Joseph) Editors' draft upddated: rowgroup exposed as \"not mapped\" for ATK/AT-SPI."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item04",
+        "name": "Action 1320"
+      },
+      {
+        "id": "item05",
+        "name": "Action 1553"
+      },
+      {
+        "id": "item06",
+        "name": "Action 1562"
+      },
+      {
+        "id": "item07",
+        "name": "Bryan's Email related to native checkboxes and mixed state"
+      },
+      {
+        "id": "item08",
+        "name": "Menus"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Group agrees to close action-1408 and follow-up with Jason. (Which Joseph will do.)",
+        "topic": "ACTION-1408/ISSUE-540: (Joseph) Email Jason Kiss about AAPI differences."
+      }
+    ],
+    "href": "/2015/01/20-aapi-minutes"
+  },
+  "2015-01-13-aapi": {
+    "title": "13 Jan 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1544/1545/1546: (Cynthia/Joanie/David) How to expose rowgroup role."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-842: (Cynthia) Create a diagram to support section 1.2 A11Y vs DOM tree."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1373/ISSUE-441: (Cynthia) Test case for aria-posinset with only some explicit aria-setsize."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1533: (Joanie) Investigate minimal javascript at-spi2 test automation."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1515/ISSUE-678: (Rich) Discuss role=\"group\" at caucus telcon."
+      },
+      {
+        "id": "item07",
+        "name": "Continue with ACTIONs/ISSUEs for core-aam 1.1: https://www.w3.org/WAI/PF/Group/track/products/23"
+      },
+      {
+        "id": "item08",
+        "name": "Action-1320"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/01/13-aapi-minutes"
+  },
+  "2015-01-06-aapi": {
+    "title": "06 Jan 2015",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1542: (Joseph/Joanie) How mozilla exposes presentational tables and lists."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/01/06-aapi-minutes"
+  },
+  "2014-12-16-aapi": {
+    "title": "16 Dec 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1254: (Joseph) Consume/cancel keydown event when keypress is consumed/cancelled."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1542: (Joseph/Joanie) Verify the commit for mozilla bug 1013584 and report the atk role to joseph."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1372: (Cynthia) Create a test case, if there is none, to test the rowgroup role."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1515: (Rich) Discuss issue-678 at the ARIA caucus teleconference."
+      },
+      {
+        "id": "item05",
+        "name": "Continue with ACTIONs/ISSUEs for core-aam 1.1: https://www.w3.org/WAI/PF/Group/track/products/23"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Close action 1254",
+        "topic": "ACTION-1254: (Joseph) Consume/cancel keydown event when keypress is consumed/cancelled."
+      }
+    ],
+    "href": "/2014/12/16-aapi-minutes"
+  },
+  "2014-12-09-aapi": {
+    "title": "09 Dec 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1311/ACTION-1444/ACTION-1445: (Joseph, Cynthia) Clarify that presentation role should preserve separation of nodes within tables/lists."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1254: (Joseph) Consume/cancel keydown event when keypress is consumed/cancelled."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1542: (Joanie) Verify the commit for mozilla bug 1013584 and report the atk role to joseph."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1531/ISSUE-435: (David) investigate ia2 mapping of role=\"text\"."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/12/09-aapi-minutes"
+  },
+  "2014-12-02-aapi": {
+    "title": "02 Dec 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "agenda+ ACTION-1254: (Joseph) Consume/cancel keydown event when keypress is consumed/cancelled."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1396: (Cynthia) UIA mappings for role grid to convey beyond table."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1311/ACTION-1444/ACTION-1445: (Joseph, Cynthia) Clarify that presentation role should preserve separation of nodes within tables/lists."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1531/ISSUE-435: (David) investigate ia2 mapping of role=\"text\"."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/12/02-aapi-minutes"
+  },
+  "2014-11-25-aapi": {
+    "title": "25 Nov 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-568: (All) need actions for mappings or aria-modal for all AAPIs."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1528/ISSUE-587: (David) Investigate the proper ia2 mappings for aria-current."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1531/ISSUE-435: (David) investigate ia2 mapping of role=\"text\"."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1528/ISSUE-587: (David) Investigate the proper ia2 mappings for aria-current."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1531/ISSUE-435: (David) investigate ia2 mapping of role=\"text\"."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1529/ISSUE-587: (Joseph) Investigate the proper atk/at-spi mappings for aria-current."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1528/ISSUE-587: (David) Investigate the proper ia2 mappings for aria-current."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1527ISSUE-587: (Cynthia) Investigate the proper uia mappings for aria-current."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1531/ISSUE-435: (David) investigate ia2 mapping of role=\"text\"."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-1530/ISSUE-435: (Cynthia) investigate ia2 mapping of role=\"text\"."
+      },
+      {
+        "id": "item11",
+        "name": "ACTION-1532/ISSUE-435: (Joseph) investigate atk/at-spi mapping of role=\"text\"."
+      },
+      {
+        "id": "item12",
+        "name": "ACTION-1445/ISSUE-661: (Cynthia) Investigate ideal mapping for role presentation in tables and lists."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/11/25-aapi-minutes"
+  },
+  "2014-11-18-aapi": {
+    "title": "18 Nov 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-587/ACTION-1528: (David) Investigate the proper ia2 mappings for aria-current."
+      },
+      {
+        "id": "item02",
+        "name": "Do we meet next week?"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-587/ACTION-1527: (Cynthia) Investigate the proper uia mappings for aria-current."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-587/ACTION-1529: (Joseph) Investigate the proper atk/at-spi mappings for aria-current."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-587: (All) discuss use of events when aria-current changes."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-587/ACTION-1527: (Cynthia) Investigate the proper uia mappings for aria-current."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "We'll have a meeting next week as usual.",
+        "topic": "Do we meet next week?"
+      }
+    ],
+    "href": "/2014/11/18-aapi-minutes"
+  },
+  "2014-11-11-aapi": {
+    "title": "11 Nov 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1185: (Joseph, Cynthia) Review edits: UIA Express and UIA mappings for role=heading/aria-level using heading paragraph style."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1463: (All) Keep getComputedRole() and getComputedLabel() on radar (methods of Element)."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1442: (All) Mapping for new aria-current: Create and assign action(s) for core-aam."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1391/ISSUE-435: (All) Mapping for new role=\"text\": Create and assign action(s) for core-aam."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1492/ISSUE-671: (Cynthia, Joseph) Review Joseph's solution for widgets re: aria-invalid and its token values."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1509: (Joseph): Document distinction between atk and at-spi and why they are combined in core-aam."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1445/ISSUE-661: (Cynthia) Investigate ideal mapping for role presentation in tables and lists."
+      },
+      {
+        "id": "item08",
+        "name": "Continue with ACTIONs/ISSUEs for core-aam 1.1: https://www.w3.org/WAI/PF/Group/track/products/23"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Close action-1185 as complete.",
+        "topic": "ACTION-1185: (Joseph, Cynthia) Review edits: UIA Express and UIA mappings for role=heading/aria-level using heading paragraph style."
+      }
+    ],
+    "href": "/2014/11/11-aapi-minutes"
+  },
+  "2014-11-04-aapi": {
+    "title": "04 Nov 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Name computation"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1492/ISSUE-671: (David) Review Joseph's solution for widgets re: aria-invalid and its token values."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1515/ISSUE-678: (Rich) Discuss issue-678 at the Mon ARIA teleconference."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "The mapping of aria-invalid=\"unknown value\" for IA2, ATK/AT-SPI2, and AX API are as stated in http://lists.w3.org/Archives/Public/public-pfwg/2014Jul/0081.html.",
+        "topic": "ACTION-1492/ISSUE-671: (David) Review Joseph's solution for widgets re: aria-invalid and its token values."
+      }
+    ],
+    "href": "/2014/11/04-aapi-minutes"
+  },
+  "2014-10-21-aapi": {
+    "title": "21 Oct 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states with reference to section 5.5, item 1."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1185: (Cynthia) Look into UIA Express and UIA mappings for role=heading to check for heading paragraph style."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/10/21-aapi-minutes"
+  },
+  "2014-10-07-aapi": {
+    "title": "07 Oct 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: ISSUE-541: (All) Change to wording in name/description document re: host language \"value\" attribute."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-542: (All) Use of fall back text attribute for CSS image content rules."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/10/07-aapi-minutes"
+  },
+  "2014-09-30-aapi": {
+    "title": "30 Sep 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1444: (Joanie) Investigate the ideal atk/at-spi2 mapping for role presentation in tables and lists. (Done?)"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1372: (Cynthia) Create a test case, if there is none, to test the rowgroup role."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1373: (Cynthia) Create a test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1396: (Cynthia) MSAA+UIAExpress mapping of grid role."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1444: (Joanie) Investigate the ideal atk/at-spi2 mapping for role presentation in tables and lists. (Done?)"
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1445: (Cynthia) Investigate the ideal uai mapping for role presentation in tables and lists"
+      },
+      {
+        "id": "item07",
+        "name": "Reminder, heartbeat draft"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/09/30-aapi-minutes"
+  },
+  "2014-09-23-aapi": {
+    "title": "23 Sep 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: Heart-beat working draft in time for TPAC."
+      },
+      {
+        "id": "item02",
+        "name": "News: ACTION-1506 Stand-alone document for accessible name computation."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1396: (Cynthia) MSAA+UIAExpress mapping of grid role."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1311: (Joseph) Clarify that presentation role should preserve separation of nodes within tables/lists."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1372: (Cynthia) Create a test case, if there is none, to test the rowgroup role."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1373: (Cynthia) Create a test case for when aria-posinset and aria-setsize are provided explicitly on some but not all elements."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1409 : (Joanie) Progress on ATK API for position, level, etc."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1445: (Cynthia) Investigate the ideal uai mapping for role presentation in tables and lists"
+      },
+      {
+        "id": "item09",
+        "name": "Processing issues/actions:https://www.w3.org/WAI/PF/Group/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/09/23-aapi-minutes"
+  },
+  "2014-09-16-aapi": {
+    "title": "16 Sep 2014",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/09/16-aapi-minutes"
+  },
+  "2014-09-09-aapi": {
+    "title": "09 Sep 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: ACTION-1506:(All) Joseph to create editors draft of name/description computation document in github."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item03",
+        "name": "Request from Rich: Discuss when to expose SVG objects in the absence of ARIA attributes."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/09/09-aapi-minutes"
+  },
+  "2014-09-02-aapi": {
+    "title": "02 Sep 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1396: (Cynthia) MSAA+UIAExpress mapping of grid role."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item03",
+        "name": "SVG"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/09/02-aapi-minutes"
+  },
+  "2014-08-26-aapi": {
+    "title": "26 Aug 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1199: (All) Browsers SHOULD note errors on console for missing required attributes -- review edits."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-514/ACTION-1341: (All) Spec says that aria-required is propagated to descendants in grid/treegrid. Verbiage needed in Core-AAM?"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1396: (All) Role grid maps to table role in AAPIs; need to also convey it is an interactive grid."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/08/26-aapi-minutes"
+  },
+  "2014-08-20-aapi": {
+    "title": "20 Aug 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: ISSUE-657/ACTION-1498: (All) New role=\"term\" to associate with role=\"definition\"."
+      },
+      {
+        "id": "item02",
+        "name": "(Cynthia) Name computation."
+      },
+      {
+        "id": "item03",
+        "name": "News: ISSUE-657/ACTION-1498: (All) New role=\"term\" to associate with role=\"definition\"."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1199: (All) Browsers SHOULD throw errors for missing required attributes."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/08/20-aapi-minutes"
+  },
+  "2014-07-29-aapi": {
+    "title": "29 Jul 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: ISSUE-651/ISSUE-669: (All) Mechanisms to better indicate invalid inputs."
+      },
+      {
+        "id": "item02",
+        "name": "News: First version of SVG2 and HTML mapping guides now on github."
+      },
+      {
+        "id": "item03",
+        "name": "News: ISSUE-651/ISSUE-669: (All) Mechanisms to better indicate invalid inputs."
+      },
+      {
+        "id": "item04",
+        "name": "SVG accessibility"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/07/29-aapi-minutes"
+  },
+  "2014-07-22-aapi": {
+    "title": "22 Jul 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: ACTION-1457: (All) New test plan tracker product for ARIA 1.1."
+      },
+      {
+        "id": "item02",
+        "name": "News: ISSUE-397: (All) Need a way to specify an indeterminate set size."
+      },
+      {
+        "id": "item03",
+        "name": "News: ISSUE-610: (All) Comboboxes should allow complex children elements."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1115/ACTION-1478: (All) Cynthia confirms that MS engineers do not object to \"SHOULD NOT\"."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1104: (Cynthia) UIA mapping for aria-describedby in 5.5.1 table where referenced accessible is not in the a11y tree."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1372: (Cynthia) Create test case for rowgroup role."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1373: (Cynthia): Create test case for explicit/implicit mix of aria-posinset and aria-setsize."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1445: (Cynthia) UIA mapping for role presentation in tables and lists."
+      },
+      {
+        "id": "item09",
+        "name": "Processing actions/issues: https://www.w3.org/WAI/PF/Group/track/products/23"
+      },
+      {
+        "id": "item10",
+        "name": "be done."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/07/22-aapi-minutes"
+  },
+  "2014-07-08-aapi": {
+    "title": "08 Jul 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1115: (All) Review new text: MUST NOT expose custom role in MSAA."
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-980: (David) Define mappings for managed aria related states."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1450 (Joseph): Provide link to UIA Express in section 3 of caam."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1115: (All) Review new text: MUST NOT expose custom role in MSAA."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1104: (Cynthia) UIA mapping for aria-describedby in 5.5.1 table where referenced accessible is not in the a11y tree."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1372: (Cynthia) Create test case for rowgroup role."
+      },
+      {
+        "id": "item07",
+        "name": "Action 967"
+      },
+      {
+        "id": "item08",
+        "name": "Action 1280"
+      },
+      {
+        "id": "item09",
+        "name": "Other burning issues?"
+      },
+      {
+        "id": "item10",
+        "name": "Alex will take over for Pete Brunet as IA2 maintainer."
+      },
+      {
+        "id": "item11",
+        "name": "Why is there no checked state for radios in IE?"
+      },
+      {
+        "id": "item12",
+        "name": "Tab index value"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/07/08-aapi-minutes"
+  },
+  "2014-06-24-aapi": {
+    "title": "24 Jun 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Reminder: no meeting next week (Jun 30)."
+      },
+      {
+        "id": "item02",
+        "name": "News: ACTION-1463/ISSUE-427 (All) Buy in from UA vendors for read-access to ARIA info."
+      },
+      {
+        "id": "item03",
+        "name": "Reminder: no meeting next week (Jun 30)."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-654: Label/description events (All) Need to assign actions."
+      },
+      {
+        "id": "item05",
+        "name": "aria-activedescendant and IE (Bryan): http://lists.w3.org/Archives/Public/public-pfwg/2014Jun/0059.html"
+      },
+      {
+        "id": "item06",
+        "name": "aria-describedby and IE (Bryan): http://lists.w3.org/Archives/Public/public-pfwg/2014Jun/0036.html"
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1115: (Joseph, Cynthia) MSAA reference regarding not using role strings when role value outside of enumerated set."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1372 (Cynthia): Test case for rowgroup (if none exits)."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1373 (Cynthia): Test case for aria-posinset/aria-setsize."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-1409 (Joanie): Progress of ATK bugzilla for position, level, etc."
+      },
+      {
+        "id": "item11",
+        "name": "be done."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/06/24-aapi-minutes"
+  },
+  "2014-06-17-aapi": {
+    "title": "17 Jun 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: Heart beat publication released last Thu (Jun 12)."
+      },
+      {
+        "id": "item02",
+        "name": "News: aria-hasannotation and aria-annotatedby (https://www.w3.org/Bugs/Public/show_bug.cgi?id=26106)."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1371/ISSUE-618 (Cynthia): IE and single selection container when item becomes unselected."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-980 (David): Define mappings for managed aria related states."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1408 (Joseph): Email jason kiss to ask him if he could write a section that describes api differences."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1409 (Joanie): Monitor progress of new position/level API."
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1419 (Joanie): Validity of aria-pressed=\"mixed\"."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1448 (Joanie): Listbox selection independent of checkbox state."
+      },
+      {
+        "id": "item09",
+        "name": "ACTION-1450 (Joseph): Provide link to uia express for accessibility api reference in section 3 of caam."
+      },
+      {
+        "id": "item10",
+        "name": "Bryan's question re: activedescendant and IE: http://lists.w3.org/Archives/Public/public-pfwg/2014Jun/0059.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/06/17-aapi-minutes"
+  },
+  "2014-06-03-aapi": {
+    "title": "03 Jun 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "News: Heart beat publication aiming for Jun 12."
+      },
+      {
+        "id": "item02",
+        "name": "ATK/AT-SPI new role mappings for 1.1 (Joseph, Joanie)."
+      },
+      {
+        "id": "item03",
+        "name": "Address html5.1 mappings in this meeting."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1371/ISSUE-618 (Cynthia): IE and single selection container when item becomes unselected."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1409 (Joanie): Monitor progress of new position/level API."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/06/03-aapi-minutes"
+  },
+  "2014-05-27-aapi": {
+    "title": "27 May 2014",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/05/27-aapi-minutes"
+  },
+  "2014-05-20-aapi": {
+    "title": "20 May 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Any new issues or edits for heart beat draft?"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1434 (David): Contact Matt King regarding issue-481, especially regarding multi-process."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-481/ACTION-1368 (Cynthia): Investigate IE implementation of aria-live region events."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUES and ACTIONS triage: (All) https://www.w3.org/WAI/PF/Group/track/products/23. Start with ACTION-1306"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/05/20-aapi-minutes"
+  },
+  "2014-05-06-aapi": {
+    "title": "06 May 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "No meeting next week. Think about what edits (issues/actions) are most important for next heart beat draft."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-481/ACTION-1368 (Cynthia): Investigate IE implementation of aria-live region events."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1408 (Joseph): Email Jason Kiss followup re: AAPI that describes API differences."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-594: (David, Joanie): tablist has implicit live region mapping in UIA guide (IA2, ATK)."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1371/ISSUE-618 (Cynthia): Test case for IE selection on a single selection container when item becomes unselected."
+      },
+      {
+        "id": "item06",
+        "name": "1.1 ISSUES and ACTIONS: (All) Start with ACTION-842, https://www.w3.org/WAI/PF/Group/track/actions/842"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/05/06-aapi-minutes"
+  },
+  "2014-04-22-aapi": {
+    "title": "22 Apr 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Future meetings while Joseph is away."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE/590/ACTION-1422 (All) Update: Label role and aria-labelfor."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-481/ACTION-1368/ACTION-1369 (Cynthia, David): Investigate IE/FF implementation of aria-live region events."
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1408 (Joseph): Email from Jason Kiss re: AAPI that describes API differences."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-583/ISSUE-653: (Joseph): Update regarding status; new wrinkle due to ref-by-selector."
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1102 (David): Possible to change \"SHOULD expose\" to \"expose\"?"
+      },
+      {
+        "id": "item07",
+        "name": "ISSUE-628 (Cynthia): Forward compatibility for states and properties with respect to browsers."
+      },
+      {
+        "id": "item08",
+        "name": "ACTION-1371/ISSUE-618 (Cynthia): Test case for IE selection on a single selection container when item becomes unselected."
+      },
+      {
+        "id": "item09",
+        "name": "ISSUE-628 (Cynthia): Forward compatibility for states and properties with respect to browsers."
+      },
+      {
+        "id": "item10",
+        "name": "ACTION-1371/ISSUE-618 (Cynthia): Test case for IE selection on a single selection container when item becomes unselected."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/04/22-aapi-minutes"
+  },
+  "2014-04-01-aapi": {
+    "title": "01 Apr 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "(All) Update re: relevant aria-* attributes using selectors for referencing other nodes: http://lists.w3.org/Archives/Public/public-pfwg/2014Mar/0091.html"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1369 (David): Investigate FF implementation of aria-live removal events (see also ISSUE-481)."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1408 (Joseph): Email Jason Kiss re: AAPI that describes API differences."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-583 (Joseph): Update regarding status."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1409 (Joanie): File a bug against ATK re: adding position, level, and other API."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-645 (All): Remove 'checkable' object attribute from aria-pressed mappings."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/04/01-aapi-minutes"
+  },
+  "2014-03-25-aapi": {
+    "title": "25 Mar 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Now have a 1.1 version of the UAIG (Joseph)."
+      },
+      {
+        "id": "item02",
+        "name": "agenda+ ACTION-1369 (David): Investigate FF implementation of aria-live removal events (see also ISSUE-481)."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1399 /ISSUE-644: (All) Updated mappings of aria-hidden=\"true\" to reflect elements should not be exposed/mapped -- please review."
+      },
+      {
+        "id": "item04",
+        "name": "1.1 ISSUES and ACTIONS: (All) Start with ISSUE-540, https://www.w3.org/WAI/PF/Group/track/products/23 agenda+ be done."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/03/25-aapi-minutes"
+  },
+  "2014-03-11-aapi": {
+    "title": "11 Mar 2014",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/03/11-aapi-minutes"
+  },
+  "2014-03-04-aapi": {
+    "title": "04 Mar 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Note that DST for Canada/US comes into effect by next meeting (Mar 11)."
+      },
+      {
+        "id": "item02",
+        "name": "Progress on refactoring UAIG and starting on edits for UAIG 1.1."
+      },
+      {
+        "id": "item03",
+        "name": "Addition of table role(s) to ARIA 1.1. ISSUE-423/ACTION-1395."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-481/ACTION-1368/ACTION-1369: (David, Cynthia) aria-live removal events should/must happen before object removal."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-441/ACTION-1372: (Cynthia) Test case for incomplete use of aria-posinset/aria-setsize."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-618/ACTION-1371: (Cynthia) Investigate how IE implements item de-selection in single selection container."
+      },
+      {
+        "id": "item07",
+        "name": "ISSUE-635/ACTION-1372: (Cynthia) Create test case for rowgroup role."
+      },
+      {
+        "id": "item08",
+        "name": "ISSUE-644: (All) Update ATK/AT-SPI mapping for aria-hidden=\"true\" to reflect elements should not be exposed/mapped."
+      },
+      {
+        "id": "item09",
+        "name": "1.1 ISSUES and ACTIONS: (All) Start with ISSUE-540, https://www.w3.org/WAI/PF/Group/track/products/23"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/03/04-aapi-minutes"
+  },
+  "2014-02-25-aapi": {
+    "title": "25 Feb 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Having a core UAIG, one specific to HTML, and one to SVG. Also, when to start edits to the UAIG 1.1 core document."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/25-aapi-minutes"
+  },
+  "2014-02-18-aapi": {
+    "title": "18 Feb 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1383: (All) Implications for UAIG re: role 'none'."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-481/ACTION-1368/ACTION-1369: (David, Cynthia) aria-live removal events should/must happen before object removal."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-612/ACTION-1370: (David) Add text back for implicit aria-level computation via aria-owns hierarchy."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-441/ACTION-1372: (Cynthia) Test case for incomplete use of aria-posinset/aria-setsize."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-618/ACTION-1371: (Cynthia) Investigate how IE implements item de-selection in single selection container."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-635/ACTION-1372: (Cynthia) Create test case for rowgroup role."
+      },
+      {
+        "id": "item07",
+        "name": "ISSUE-644: (All) Update ATK/AT-SPI mapping for aria-hidden=\"true\" to reflect elements should not be exposed/mapped."
+      },
+      {
+        "id": "item08",
+        "name": "1.1 ISSUES and ACTIONS: (All) Start with ISSUE-540, https://www.w3.org/WAI/PF/Group/track/products/23"
+      },
+      {
+        "id": "item09",
+        "name": "be done."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/18-aapi-minutes"
+  },
+  "2014-02-11-aapi": {
+    "title": "11 Feb 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-618/ACTION-1371: (Cynthia) Investigate how IE implements item de-selection in single selection container."
+      },
+      {
+        "id": "item02",
+        "name": "Finalize discussion of meeting time."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1383: (All) Add role none to ARIA spec."
+      },
+      {
+        "id": "item04",
+        "name": "Finalize discussion of meeting time."
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-441/ACTION-1372: (Cynthia) Test case for incomplete use of aria-posinset/aria-setsize."
+      },
+      {
+        "id": "item06",
+        "name": "ISSUE-481/ACTION-1368/ACTION-1369: (David, Cynthia) aria-live removal events should/must happen before object removal."
+      },
+      {
+        "id": "item07",
+        "name": "ISSUE-612/ACTION-1370: (Joseph) Add text back for implicit aria-level computation via aria-owns hierarchy."
+      },
+      {
+        "id": "item08",
+        "name": "ISSUE-618/ACTION-1371: (Cynthia) Investigate how IE implements item de-selection in single selection container."
+      },
+      {
+        "id": "item09",
+        "name": "ISSUE-481/ACTION-1368/ACTION-1369: (David, Cynthia) aria-live removal events should/must happen before object removal."
+      },
+      {
+        "id": "item10",
+        "name": "ISSUE-612/ACTION-1370: (Joseph) Add text back for implicit aria-level computation via aria-owns hierarchy."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/11-aapi-minutes"
+  },
+  "2014-02-04-aapi": {
+    "title": "04 Feb 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Meeting time"
+      },
+      {
+        "id": "item02",
+        "name": "1.1 ISSUES and ACTIONS: https://www.w3.org/WAI/PF/Group/track/products/23"
+      },
+      {
+        "id": "item03",
+        "name": "issue-481"
+      },
+      {
+        "id": "item04",
+        "name": "issue-532"
+      },
+      {
+        "id": "item05",
+        "name": "issue-583"
+      },
+      {
+        "id": "item06",
+        "name": "issue-612"
+      },
+      {
+        "id": "item07",
+        "name": "issue-618"
+      },
+      {
+        "id": "item08",
+        "name": "issue-635"
+      },
+      {
+        "id": "item09",
+        "name": "issue-441"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/04-aapi-minutes"
+  },
+  "2014-01-14-aapi": {
+    "title": "14 Jan 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1320: Consider implementing above using \"offscreen\" in AAPI."
+      },
+      {
+        "id": "item02",
+        "name": "Agenda for next week's face-to-face: http://www.w3.org/WAI/PF/meetings/2014-01-ftf#agenda"
+      },
+      {
+        "id": "item03",
+        "name": "Update re: PF decision HTMl5 @hidden plus aria-hidden='false'"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1320: Consider implementing above using \"offscreen\" in AAPI."
+      },
+      {
+        "id": "item05",
+        "name": "Agenda for next week's face-to-face: http://www.w3.org/WAI/PF/meetings/2014-01-ftf#agenda"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/01/14-aapi-minutes"
+  },
+  "2014-01-07-aapi": {
+    "title": "07 Jan 2014",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "UAIG 1.1 issues/actions (all): https://www.w3.org/WAI/PF/Group/track/products/23"
+      },
+      {
+        "id": "item02",
+        "name": "action-847"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/01/07-aapi-minutes"
+  },
+  "2013-12-17-aapi": {
+    "title": "17 Dec 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Remaining 1.0 UAIG issues/actions"
+      },
+      {
+        "id": "item02",
+        "name": "issue-486"
+      },
+      {
+        "id": "item03",
+        "name": "Issue-551."
+      },
+      {
+        "id": "item04",
+        "name": "629"
+      },
+      {
+        "id": "item05",
+        "name": "CR publication of UAIG."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/12/17-aapi-minutes"
+  },
+  "2013-12-10-aapi": {
+    "title": "10 Dec 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Brief update re: GNOME A11y Comments on UAIG"
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-629 (Cynthia) - Progress on Menu event testing in IE11."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1311 (All) - Tables and role=\"presentation\". (See also"
+      },
+      {
+        "id": "item04",
+        "name": "Splitting up the UAIG into core and module documents (All)."
+      },
+      {
+        "id": "item05",
+        "name": "ARIA 1.1 UAIG issues/actions:"
+      },
+      {
+        "id": "item06",
+        "name": "ARIA 1.1 issues/actions:"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/12/10-aapi-minutes"
+  },
+  "2013-12-03-aapi": {
+    "title": "03 Dec 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue-629"
+      },
+      {
+        "id": "item02",
+        "name": "Other At Risk Items"
+      },
+      {
+        "id": "item03",
+        "name": "GNOME Comments"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Mark the table \"at risk,\" but insure it appears in the first Editor's Draft of ARIA-1.1",
+        "topic": "Issue-629"
+      }
+    ],
+    "href": "/2013/12/03-aapi-minutes"
+  },
+  "2013-11-19-aapi": {
+    "title": "19 Nov 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue-398"
+      },
+      {
+        "id": "item02",
+        "name": "Issue-483, aria-labelledby for toolbars."
+      },
+      {
+        "id": "item03",
+        "name": "UAIG 1.1 Organization Approach"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/11/19-aapi-minutes"
+  },
+  "2013-11-05-aapi": {
+    "title": "05 Nov 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issues/Actions"
+      },
+      {
+        "id": "item02",
+        "name": "Bugzillas."
+      },
+      {
+        "id": "item03",
+        "name": "1.1. Issues and Actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/11/05-aapi-minutes"
+  },
+  "2013-10-29-aapi": {
+    "title": "29 Oct 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1275, ACTION-1276, ACTION-1277 (All) Test cases for"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1263: (All) WebKit has replaced AXARIABusy with"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1285: (Cynthia) MSAA+UIA and UIA mapping of aria-posinset"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1275, ACTION-1276, ACTION-1277 (All) Test cases for"
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1285: (Cynthia) MSAA+UIA and UIA mapping of aria-posinset"
+      },
+      {
+        "id": "item06",
+        "name": "test case 74"
+      },
+      {
+        "id": "item07",
+        "name": "test 92"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/10/29-aapi-minutes"
+  },
+  "2013-10-22-aapi": {
+    "title": "22 Oct 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issue-612"
+      },
+      {
+        "id": "item02",
+        "name": "Issue-616"
+      },
+      {
+        "id": "item03",
+        "name": "test cases"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Remove this sentence beginning: \"If ARIA-Level is not provided ...\"",
+        "topic": "Issue-612"
+      }
+    ],
+    "href": "/2013/10/22-aapi-minutes"
+  },
+  "2013-10-15-aapi": {
+    "title": "15 Oct 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issues/Actions:"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1255 (Cynthia) Look into toggle patterns and how that"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-612 (David) Review ia2/atk rule in group position. Should"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1262 (All) Review edits."
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1269 (All) Review edits."
+      },
+      {
+        "id": "item06",
+        "name": "UAIG testable statements (All):"
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1175/ISSUE-564 (David) Status of ROLE_SYSTEM_TEXT in"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/10/15-aapi-minutes"
+  },
+  "2013-10-08-aapi": {
+    "title": "08 Oct 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-612"
+      },
+      {
+        "id": "item02",
+        "name": "Action 1219"
+      },
+      {
+        "id": "item03",
+        "name": "issue 616"
+      },
+      {
+        "id": "item04",
+        "name": "action-1255"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/10/08-aapi-minutes"
+  },
+  "2013-10-01-aapi": {
+    "title": "01 Oct 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1255"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1257"
+      },
+      {
+        "id": "item03",
+        "name": "action-1269"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/10/01-aapi-minutes"
+  },
+  "2013-09-24-aapi": {
+    "title": "24 Sep 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-612"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1255"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1257"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1262"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/09/24-aapi-minutes"
+  },
+  "2013-09-17-aapi": {
+    "title": "17 Sep 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issue-612"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1262"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-616"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1255"
+      },
+      {
+        "id": "item05",
+        "name": "ACTION-1257"
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1198"
+      },
+      {
+        "id": "item07",
+        "name": "ACTION-1256"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/09/17-aapi-minutes"
+  },
+  "2013-09-10-aapi": {
+    "title": "10 Sep 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Actions triage."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/09/10-aapi-minutes"
+  },
+  "2013-09-03-aapi": {
+    "title": "03 Sep 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1255"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1256"
+      },
+      {
+        "id": "item03",
+        "name": "outstanding action items."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/09/03-aapi-minutes"
+  },
+  "2013-08-27-aapi": {
+    "title": "27 Aug 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Test case 344"
+      },
+      {
+        "id": "item02",
+        "name": "issue-595"
+      },
+      {
+        "id": "item03",
+        "name": "action-842"
+      },
+      {
+        "id": "item04",
+        "name": "action-973"
+      },
+      {
+        "id": "item05",
+        "name": "action-982"
+      },
+      {
+        "id": "item06",
+        "name": "action-1104"
+      },
+      {
+        "id": "item07",
+        "name": "action-1115"
+      },
+      {
+        "id": "item08",
+        "name": "action-1210"
+      },
+      {
+        "id": "item09",
+        "name": "action-1255"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/08/27-aapi-minutes"
+  },
+  "2013-08-20-aapi": {
+    "title": "20 Aug 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-595"
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-596"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-607"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-604"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/08/20-aapi-minutes"
+  },
+  "2013-07-30-aapi": {
+    "title": "30 Jul 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Meeting for next two weeks while Joseph is away."
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-596"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-595"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-597"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/07/30-aapi-minutes"
+  },
+  "2013-07-23-aapi": {
+    "title": "23 Jul 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Cynthia and RIch's meeting."
+      },
+      {
+        "id": "item02",
+        "name": "aria-checked is undefined."
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-583"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/07/23-aapi-minutes"
+  },
+  "2013-07-16-aapi": {
+    "title": "16 Jul 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "action-1200"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/07/16-aapi-minutes"
+  },
+  "2013-07-11-aapi": {
+    "title": "W3C WAI-PF UAIG Meeting",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2013/07/11-aapi-minutes"
+  },
+  "2013-06-20-aapi": {
+    "title": "20 Jun 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1200"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1221"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1222"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/06/20-aapi-minutes"
+  },
+  "2013-06-13-aapi": {
+    "title": "13 Jun 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Last call for UAIG"
+      },
+      {
+        "id": "item02",
+        "name": "bug 19772."
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1200"
+      },
+      {
+        "id": "item04",
+        "name": "Last call for UAIG."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/06/13-aapi-minutes"
+  },
+  "2013-05-30-aapi": {
+    "title": "30 May 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1200"
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-550"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1221"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1222"
+      },
+      {
+        "id": "item05",
+        "name": "remaining issues"
+      },
+      {
+        "id": "item06",
+        "name": "551"
+      },
+      {
+        "id": "item07",
+        "name": "issue-550"
+      },
+      {
+        "id": "item08",
+        "name": "560"
+      },
+      {
+        "id": "item09",
+        "name": "issue-564"
+      },
+      {
+        "id": "item10",
+        "name": "issue-566"
+      },
+      {
+        "id": "item11",
+        "name": "issue-570"
+      },
+      {
+        "id": "item12",
+        "name": "issue-582"
+      },
+      {
+        "id": "item13",
+        "name": "583"
+      },
+      {
+        "id": "item14",
+        "name": "issue-584"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/05/30-aapi-minutes"
+  },
+  "2013-05-16-aapi": {
+    "title": "16 May 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "action-1200"
+      },
+      {
+        "id": "item02",
+        "name": "issue-550"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-1221"
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-582"
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-584"
+      },
+      {
+        "id": "item06",
+        "name": "actions-818"
+      },
+      {
+        "id": "item07",
+        "name": "action-973"
+      },
+      {
+        "id": "item08",
+        "name": "action-982"
+      },
+      {
+        "id": "item09",
+        "name": "action-1104"
+      },
+      {
+        "id": "item10",
+        "name": "action-1210"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/05/16-aapi-minutes"
+  },
+  "2013-05-09-aapi": {
+    "title": "09 May 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1200"
+      },
+      {
+        "id": "item02",
+        "name": "action-851"
+      },
+      {
+        "id": "item03",
+        "name": "Issue-550"
+      },
+      {
+        "id": "item04",
+        "name": "outstanding issues and actions."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/05/09-aapi-minutes"
+  },
+  "2013-05-02-aapi": {
+    "title": "02 May 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1200"
+      },
+      {
+        "id": "item02",
+        "name": "bugzilla 19772"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-851"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-1175"
+      },
+      {
+        "id": "item05",
+        "name": "ISSUE-550"
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1203"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/05/02-aapi-minutes"
+  },
+  "2013-04-18-aapi": {
+    "title": "18 Apr 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "UAIG default values for author errors"
+      },
+      {
+        "id": "item02",
+        "name": "Add STATE_SELECTABLE to AT-SPI cells for aria-selected?"
+      },
+      {
+        "id": "item03",
+        "name": "Expose listbox of combobox as menu?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/04/18-aapi-minutes"
+  },
+  "2013-04-11-aapi": {
+    "title": "11 Apr 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issue-566"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/04/11-aapi-minutes"
+  },
+  "2013-03-28-aapi": {
+    "title": "28 Mar 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issue-558"
+      },
+      {
+        "id": "item02",
+        "name": "issue-550"
+      },
+      {
+        "id": "item03",
+        "name": "action-1185"
+      },
+      {
+        "id": "item04",
+        "name": "action 851"
+      },
+      {
+        "id": "item05",
+        "name": "action-1152"
+      },
+      {
+        "id": "item06",
+        "name": "issue-556"
+      },
+      {
+        "id": "item07",
+        "name": "issue-558"
+      },
+      {
+        "id": "item08",
+        "name": "556"
+      },
+      {
+        "id": "item09",
+        "name": "bugzilla19772"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/03/28-aapi-minutes"
+  },
+  "2013-03-21-aapi": {
+    "title": "21 Mar 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1175"
+      },
+      {
+        "id": "item02",
+        "name": "action-1183"
+      },
+      {
+        "id": "item03",
+        "name": "issue-550"
+      },
+      {
+        "id": "item04",
+        "name": "action-1152?"
+      },
+      {
+        "id": "item05",
+        "name": "document freeze"
+      },
+      {
+        "id": "item06",
+        "name": "Bugzilla 19772"
+      },
+      {
+        "id": "item07",
+        "name": "action-1157?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/03/21-aapi-minutes"
+  },
+  "2013-03-14-aapi": {
+    "title": "WAI PF UAIG Teleconferen",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2013/03/14-aapi-minutes"
+  },
+  "2013-03-07-aapi": {
+    "title": "07 Mar 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1173"
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-550"
+      },
+      {
+        "id": "item03",
+        "name": "bug 19780"
+      },
+      {
+        "id": "item04",
+        "name": "19772"
+      },
+      {
+        "id": "item05",
+        "name": "action-1173"
+      },
+      {
+        "id": "item06",
+        "name": "ACTION-1171"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/03/07-aapi-minutes"
+  },
+  "2013-02-21-aapi": {
+    "title": "21 Feb 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Group position explanatory note in UAIG."
+      },
+      {
+        "id": "item02",
+        "name": "Container:live property on live containers."
+      },
+      {
+        "id": "item03",
+        "name": "Reviews issues/actions for prep for last call."
+      },
+      {
+        "id": "item04",
+        "name": "Drop Effect"
+      },
+      {
+        "id": "item05",
+        "name": "Mapping role \"note\"."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Joseph to edit UAIG according to notes in action-1156",
+        "topic": "Group position explanatory note in UAIG."
+      },
+      {
+        "id": "",
+        "content": "Joseph to make the change that RIch suggests in the action.",
+        "topic": "Container:live property on live containers."
+      }
+    ],
+    "href": "/2013/02/21-aapi-minutes"
+  },
+  "2013-02-14-aapi": {
+    "title": "14 Feb 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-550"
+      },
+      {
+        "id": "item02",
+        "name": "aria-level and MSAA/IA2 column"
+      },
+      {
+        "id": "item03",
+        "name": "ISSUE-550"
+      },
+      {
+        "id": "item04",
+        "name": "action-1152"
+      },
+      {
+        "id": "item05",
+        "name": "bugzilla 19780"
+      },
+      {
+        "id": "item06",
+        "name": "bugzilla 19786"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/02/14-aapi-minutes"
+  },
+  "2013-02-07-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-1156"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-1159"
+      },
+      {
+        "id": "item03",
+        "name": "Preparing for last call draft -- review items tracked in ISSUE-550."
+      },
+      {
+        "id": "item04",
+        "name": "ISSUE-552"
+      },
+      {
+        "id": "item05",
+        "name": "aria-checked=\"mixed\" on a radio button."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/02/07-aapi-minutes"
+  },
+  "2013-01-31-aapi": {
+    "title": "31 Jan 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Document freeze date."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/01/31-aapi-minutes"
+  },
+  "2013-01-24-aapi": {
+    "title": "24 Jan 2013",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Prep for last call"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/01/24-aapi-minutes"
+  },
+  "2013-01-17-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference: UAIG",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "action-891"
+      },
+      {
+        "id": "item02",
+        "name": "issue-546"
+      },
+      {
+        "id": "item03",
+        "name": "Edit freeze date"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/01/17-aapi-minutes"
+  },
+  "2013-01-10-aapi": {
+    "title": "Protocols and Formats Working Group Teleconference: UAIG",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "keep the \"Controlling focus with tabindex\" secition in the UAIG, and write test cases for it when the UAIG is in CR. They will most likely pass."
+      }
+    ],
+    "href": "/2013/01/10-aapi-minutes"
+  },
+  "2012-12-20-aapi": {
+    "title": "20 Dec 2012",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issues and actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/12/20-aapi-minutes"
+  },
+  "2012-12-13-aapi": {
+    "title": "13 Dec 2012",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issues and Actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/12/13-aapi-minutes"
+  },
+  "2012-11-27-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2012/11/27-aapi-minutes"
+  },
+  "2012-10-09-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issue of MUST NOT map abstract roles using the standard role mechanism"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/10/09-aapi-minutes"
+  },
+  "2012-10-02-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2012/10/02-aapi-minutes"
+  },
+  "2012-09-25-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2012/09/25-aapi-minutes"
+  },
+  "2012-07-24-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-527"
+      },
+      {
+        "id": "item02",
+        "name": "SHOULD statements in Role Mapping table"
+      },
+      {
+        "id": "item03",
+        "name": "https://www.w3.org/Bugs/Public/show_bug.cgi?id=17489"
+      },
+      {
+        "id": "item04",
+        "name": "https://www.w3.org/Bugs/Public/show_bug.cgi?id=17716"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/07/24-aapi-minutes"
+  },
+  "2012-07-10-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "<input aria-required=\"true\">"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/07/10-aapi-minutes"
+  },
+  "2012-05-24-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Actions"
+      },
+      {
+        "id": "item02",
+        "name": "Matt King's comments on the re-write of section 5.1.1 and 5.1.2"
+      },
+      {
+        "id": "item03",
+        "name": "text equivalent discussion on the XTECH mailing list beginning March 21st"
+      },
+      {
+        "id": "item04",
+        "name": "Bug 16652 https://www.w3.org/Bugs/Public/show_bug.cgi?id=16652"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/05/24-aapi-minutes"
+  },
+  "2012-05-01-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-983"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-990"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/05/01-aapi-minutes"
+  },
+  "2012-04-25-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Issues and Actions: https://www.w3.org/WAI/PF/Group/track/products/10"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/04/25-aapi-minutes"
+  },
+  "2012-04-10-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "text equivalent computation algorithm discussion on the mailing list"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/04/10-aapi-minutes"
+  },
+  "2012-04-03-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Action-983"
+      },
+      {
+        "id": "item02",
+        "name": "draft re-write of section 5.1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/04/03-aapi-minutes"
+  },
+  "2012-03-27-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2012/03/27-aapi-minutes"
+  },
+  "2012-03-21-aapi": {
+    "title": "HTML AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2012/03/21-aapi-minutes"
+  },
+  "2012-03-20-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review Action Items"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/03/20-aapi-minutes"
+  },
+  "2012-03-06-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Current behaviour of NVDA and JAWS with links as first descendent node of a push button, and using aria-pressed in addition to role=button on <summary> to signify a toggle button instead of push button"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/03/06-aapi-minutes"
+  },
+  "2012-02-21-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Action Item Review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/02/21-aapi-minutes"
+  },
+  "2012-02-14-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "layout issues on overview"
+      },
+      {
+        "id": "item02",
+        "name": "Discuss Bug Entered into Bug Tracker"
+      },
+      {
+        "id": "item03",
+        "name": "Action Item Review"
+      },
+      {
+        "id": "item04",
+        "name": "Formulating Questions for Implementors"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/02/14-aapi-minutes"
+  },
+  "2012-02-07-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Recap Action Items"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/02/07-aapi-minutes"
+  },
+  "2012-01-31-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "HTML to Platform Accessibility APIs Implementation Guide (http://dvcs.w3.org/hg/html-api-map/raw-file/tip/Overview.html)"
+      },
+      {
+        "id": "item02",
+        "name": "Recap Action Items"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/01/31-aapi-minutes"
+  },
+  "2012-01-24-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Overview"
+      },
+      {
+        "id": "item02",
+        "name": "Structures that don't match one-to-one"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/01/24-aapi-minutes"
+  },
+  "2012-01-17-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2012/01/17-aapi-minutes"
+  },
+  "2012-01-10-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "testing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2012/01/10-aapi-minutes"
+  },
+  "2011-12-13-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-925"
+      },
+      {
+        "id": "item02",
+        "name": "ISSUE-466"
+      },
+      {
+        "id": "item03",
+        "name": "Meeting the next two weeks?"
+      },
+      {
+        "id": "item04",
+        "name": "Status Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/12/13-aapi-minutes"
+  },
+  "2011-12-06-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ISSUE-466"
+      },
+      {
+        "id": "item02",
+        "name": "ACTION-925"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/12/06-aapi-minutes"
+  },
+  "2011-11-29-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 13258"
+      },
+      {
+        "id": "item02",
+        "name": "issue 466 https://www.w3.org/WAI/PF/Group/track/issues/466"
+      },
+      {
+        "id": "item03",
+        "name": "ACTION-925 https://www.w3.org/2011/11/14-pf-minutes.html#item02"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/11/29-aapi-minutes"
+  },
+  "2011-11-08-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ACTION-846"
+      },
+      {
+        "id": "item02",
+        "name": "bug 13258"
+      },
+      {
+        "id": "item03",
+        "name": "bug 14320"
+      },
+      {
+        "id": "item04",
+        "name": "ACTION-925"
+      },
+      {
+        "id": "item05",
+        "name": "bug 14563"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/11/08-aapi-minutes"
+  },
+  "2011-10-25-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC meeting next week"
+      },
+      {
+        "id": "item02",
+        "name": "bugs"
+      },
+      {
+        "id": "item03",
+        "name": "rescheduling next week's meeting"
+      },
+      {
+        "id": "item04",
+        "name": "actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/10/25-aapi-minutes"
+  },
+  "2011-10-18-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 13214 http://www.w3.org/Bugs/Public/show_bug.cgi?id=13214"
+      },
+      {
+        "id": "item02",
+        "name": "bug 13258"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/10/18-aapi-minutes"
+  },
+  "2011-10-11-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 11811"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/10/11-aapi-minutes"
+  },
+  "2011-10-04-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 11811"
+      },
+      {
+        "id": "item02",
+        "name": "bug 13205 http://www.w3.org/Bugs/Public/show_bug.cgi?id=13205"
+      },
+      {
+        "id": "item03",
+        "name": "13208 http://www.w3.org/Bugs/Public/show_bug.cgi?id=13208"
+      },
+      {
+        "id": "item04",
+        "name": "http://www.w3.org/Bugs/Public/show_bug.cgi?id=13288"
+      },
+      {
+        "id": "item05",
+        "name": "bug 14295 http://www.w3.org/Bugs/Public/show_bug.cgi?id=14295"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/10/04-aapi-minutes"
+  },
+  "2011-09-29-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "meeting time"
+      },
+      {
+        "id": "item02",
+        "name": "bug 13207: http://www.w3.org/Bugs/Public/show_bug.cgi?id=13207"
+      },
+      {
+        "id": "item03",
+        "name": "bug 13208"
+      },
+      {
+        "id": "item04",
+        "name": "bug 14295: http://www.w3.org/Bugs/Public/show_bug.cgi?id=14295"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/09/29-aapi-minutes"
+  },
+  "2011-09-15-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 13246"
+      },
+      {
+        "id": "item02",
+        "name": "Issues and Action"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/09/15-aapi-minutes"
+  },
+  "2011-08-10-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 13206"
+      },
+      {
+        "id": "item02",
+        "name": "issues http://www.w3.org/WAI/PF/Group/track/products/10"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/08/10-aapi-minutes"
+  },
+  "2011-08-04-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issue-444"
+      },
+      {
+        "id": "item02",
+        "name": "skip to main content"
+      },
+      {
+        "id": "item03",
+        "name": "back to issue-444"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/08/04-aapi-minutes"
+  },
+  "2011-07-28-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 9656"
+      },
+      {
+        "id": "item02",
+        "name": "bug 11514"
+      },
+      {
+        "id": "item03",
+        "name": "issue 444"
+      },
+      {
+        "id": "item04",
+        "name": "bug 13258"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/07/28-aapi-minutes"
+  },
+  "2011-07-21-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 11514"
+      },
+      {
+        "id": "item02",
+        "name": "action-861"
+      },
+      {
+        "id": "item03",
+        "name": "bug 13258"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/07/21-aapi-minutes"
+  },
+  "2011-07-14-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Bug 13205"
+      },
+      {
+        "id": "item02",
+        "name": "Bug 12683"
+      },
+      {
+        "id": "item03",
+        "name": "bug 13214"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/07/14-aapi-minutes"
+  },
+  "2011-07-07-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Action items from walkthrough"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/07/07-aapi-minutes"
+  },
+  "2011-06-09-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Changes to live regions"
+      },
+      {
+        "id": "item02",
+        "name": "Cynthia's comments on the UAIG"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/06/09-aapi-minutes"
+  },
+  "2011-06-02-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2011/06/02-aapi-minutes"
+  },
+  "2011-05-19-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2011/05/19-aapi-minutes"
+  },
+  "2011-05-12-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "new Actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/05/12-aapi-minutes"
+  },
+  "2011-05-05-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "aria-activedescendant"
+      },
+      {
+        "id": "item02",
+        "name": "bug 9656"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/05/05-aapi-minutes"
+  },
+  "2011-04-28-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "aria-activedescendant"
+      },
+      {
+        "id": "item02",
+        "name": "bugs"
+      },
+      {
+        "id": "item03",
+        "name": "errors in frames and iframe handling text"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/04/28-aapi-minutes"
+  },
+  "2011-04-21-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WAI-ARIA test suites"
+      },
+      {
+        "id": "item02",
+        "name": "Bugs"
+      },
+      {
+        "id": "item03",
+        "name": "HTML mapping"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/04/21-aapi-minutes"
+  },
+  "2011-04-14-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "aria-activedescendant issue"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/04/14-aapi-minutes"
+  },
+  "2011-04-07-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bugs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/04/07-aapi-minutes"
+  },
+  "2011-03-31-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Recap of where we are"
+      },
+      {
+        "id": "item02",
+        "name": "bugs: http://www.w3.org/Bugs/Public/buglist.cgi?product=ARIA"
+      },
+      {
+        "id": "item03",
+        "name": "Tracker Actions: http://www.w3.org/WAI/PF/Group/track/products/10"
+      },
+      {
+        "id": "item04",
+        "name": "New Business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/03/31-aapi-minutes"
+  },
+  "2011-02-17-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "role=\"presentation\""
+      },
+      {
+        "id": "item02",
+        "name": "bug 11805"
+      },
+      {
+        "id": "item03",
+        "name": "bug 11510"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/02/17-aapi-minutes"
+  },
+  "2011-01-06-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 11513 http://www.w3.org/Bugs/Public/show_bug.cgi?id=11513"
+      },
+      {
+        "id": "item02",
+        "name": "new schedule"
+      },
+      {
+        "id": "item03",
+        "name": "bug 11515 http://www.w3.org/Bugs/Public/show_bug.cgi?id=11515"
+      },
+      {
+        "id": "item04",
+        "name": "bug 11512 http://www.w3.org/Bugs/Public/show_bug.cgi?id=11512"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2011/01/06-aapi-minutes"
+  },
+  "2010-12-09-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 6883"
+      },
+      {
+        "id": "item02",
+        "name": "open ARIA 2.0 issue on control patterns"
+      },
+      {
+        "id": "item03",
+        "name": "bug 7634"
+      },
+      {
+        "id": "item04",
+        "name": "bug 10288"
+      },
+      {
+        "id": "item05",
+        "name": "bug 8319"
+      },
+      {
+        "id": "item06",
+        "name": "bug 9656"
+      },
+      {
+        "id": "item07",
+        "name": "action 503"
+      },
+      {
+        "id": "item08",
+        "name": "action 666"
+      },
+      {
+        "id": "item09",
+        "name": "tracker Actions"
+      },
+      {
+        "id": "item10",
+        "name": "e-mail questions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/12/09-aapi-minutes"
+  },
+  "2010-12-02-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Action items from last week"
+      },
+      {
+        "id": "item02",
+        "name": "HTML and non-ARIA specific sections, should they really be normative?"
+      },
+      {
+        "id": "item03",
+        "name": "Section 3.1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/12/02-aapi-minutes"
+  },
+  "2010-11-18-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 9656"
+      },
+      {
+        "id": "item02",
+        "name": "bug 10288"
+      },
+      {
+        "id": "item03",
+        "name": "bug 7128"
+      },
+      {
+        "id": "item04",
+        "name": "bug 9656"
+      },
+      {
+        "id": "item05",
+        "name": "bug 7128"
+      },
+      {
+        "id": "item06",
+        "name": "action 166 http://www.w3.org/WAI/PF/Group/track/actions/166"
+      },
+      {
+        "id": "item07",
+        "name": "Action 248 http://www.w3.org/WAI/PF/Group/track/actions/248"
+      },
+      {
+        "id": "item08",
+        "name": "action 442 http://www.w3.org/WAI/PF/Group/track/actions/442"
+      },
+      {
+        "id": "item09",
+        "name": "action 443 http://www.w3.org/WAI/PF/Group/track/actions/443"
+      },
+      {
+        "id": "item10",
+        "name": "action 493 http://www.w3.org/WAI/PF/Group/track/actions/493"
+      },
+      {
+        "id": "item11",
+        "name": "action 494 http://www.w3.org/WAI/PF/Group/track/actions/494"
+      },
+      {
+        "id": "item12",
+        "name": "action 503 http://www.w3.org/WAI/PF/Group/track/actions/503"
+      },
+      {
+        "id": "item13",
+        "name": "action 562 http://www.w3.org/WAI/PF/Group/track/actions/562"
+      },
+      {
+        "id": "item14",
+        "name": "action 632 http://www.w3.org/WAI/PF/Group/track/actions/632"
+      },
+      {
+        "id": "item15",
+        "name": "action 666"
+      },
+      {
+        "id": "item16",
+        "name": "action 667 http://www.w3.org/WAI/PF/Group/track/actions/667"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/11/18-aapi-minutes"
+  },
+  "2010-11-11-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2010/11/11-aapi-minutes"
+  },
+  "2010-10-28-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Events and Actions"
+      },
+      {
+        "id": "item02",
+        "name": "bugs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/10/28-aapi-minutes"
+  },
+  "2010-10-21-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 6883"
+      },
+      {
+        "id": "item02",
+        "name": "bug 7020"
+      },
+      {
+        "id": "item03",
+        "name": "bug 7044"
+      },
+      {
+        "id": "item04",
+        "name": "bug 8441"
+      },
+      {
+        "id": "item05",
+        "name": "agenda for next meeting"
+      },
+      {
+        "id": "item06",
+        "name": "UAIG Last CAll"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/10/21-aapi-minutes"
+  },
+  "2010-07-13-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Events table in events.doc that Cynthia sent out"
+      },
+      {
+        "id": "item02",
+        "name": "bug 7019"
+      },
+      {
+        "id": "item03",
+        "name": "prep for Monday's call - what can others help us with?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/07/13-aapi-minutes"
+  },
+  "2010-07-06-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 7066 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7066"
+      },
+      {
+        "id": "item02",
+        "name": "bug 7115 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7115"
+      },
+      {
+        "id": "item03",
+        "name": "bug 7218 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7218"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/07/06-aapi-minutes"
+  },
+  "2010-06-29-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2010/06/29-aapi-minutes"
+  },
+  "2010-06-15-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "issue 395"
+      },
+      {
+        "id": "item02",
+        "name": "issue 383"
+      },
+      {
+        "id": "item03",
+        "name": "actions and next week's meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/06/15-aapi-minutes"
+  },
+  "2010-06-08-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "events.doc document"
+      },
+      {
+        "id": "item02",
+        "name": "bug 7118 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7118"
+      },
+      {
+        "id": "item03",
+        "name": "bug 7119 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7119"
+      },
+      {
+        "id": "item04",
+        "name": "Tracker Actions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/06/08-aapi-minutes"
+  },
+  "2010-05-25-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2010/05/25-aapi-minutes"
+  },
+  "2010-05-18-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2010/05/18-aapi-minutes"
+  },
+  "2010-05-04-aapi": {
+    "title": "AAPI",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2010/05/04-aapi-minutes"
+  },
+  "2010-04-13-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2010/04/13-aapi-minutes"
+  },
+  "2010-03-30-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 7101 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7101"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/03/30-aapi-minutes"
+  },
+  "2010-03-09-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "frames/iframes"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/03/09-aapi-minutes"
+  },
+  "2010-03-02-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/03/02-aapi-minutes"
+  },
+  "2010-02-09-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "goals and schedule for next draft"
+      },
+      {
+        "id": "item02",
+        "name": "Open issues: http://www.w3.org/WAI/PF/Group/track/products/10"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/02/09-aapi-minutes"
+  },
+  "2010-02-02-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Tracker Issues and Actions http://www.w3.org/WAI/PF/Group/track/products/10"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/02/02-aapi-minutes"
+  },
+  "2010-01-19-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 7134 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7134"
+      },
+      {
+        "id": "item02",
+        "name": "bug 7182 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7182"
+      },
+      {
+        "id": "item03",
+        "name": "bug 7218 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=7218"
+      },
+      {
+        "id": "item04",
+        "name": "bug 7223 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=7223"
+      },
+      {
+        "id": "item05",
+        "name": "bug 7240 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=7240"
+      },
+      {
+        "id": "item06",
+        "name": "bug 7634 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=7634"
+      },
+      {
+        "id": "item07",
+        "name": "bug 7666 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=7666"
+      },
+      {
+        "id": "item08",
+        "name": "bug 8318 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=8318"
+      },
+      {
+        "id": "item09",
+        "name": "bug 8497 - http://www.w3.org/Bugs/Public/show_bug.cgi?id=8497"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/01/19-aapi-minutes"
+  },
+  "2010-01-12-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 7066 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7066"
+      },
+      {
+        "id": "item02",
+        "name": "HTML mapping table"
+      },
+      {
+        "id": "item03",
+        "name": "7100 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7100"
+      },
+      {
+        "id": "item04",
+        "name": "7101 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7101"
+      },
+      {
+        "id": "item05",
+        "name": "Don't want a child to be a parent of itself - makes tree walking take forever."
+      },
+      {
+        "id": "item06",
+        "name": "http://www.w3.org/Bugs/Public/show_bug.cgi?id=7115"
+      },
+      {
+        "id": "item07",
+        "name": "bug 7119 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7119 and 7120 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7120"
+      },
+      {
+        "id": "item08",
+        "name": "bug 7129 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7129"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/01/12-aapi-minutes"
+  },
+  "2010-01-05-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bug 6653"
+      },
+      {
+        "id": "item02",
+        "name": "bug 6757 http://www.w3.org/Bugs/Public/show_bug.cgi?id=6757"
+      },
+      {
+        "id": "item03",
+        "name": "bug 6880 http://www.w3.org/Bugs/Public/show_bug.cgi?id=6880"
+      },
+      {
+        "id": "item04",
+        "name": "bug 6881 http://www.w3.org/Bugs/Public/show_bug.cgi?id=6881"
+      },
+      {
+        "id": "item05",
+        "name": "bug 6883 http://www.w3.org/Bugs/Public/show_bug.cgi?id=6883"
+      },
+      {
+        "id": "item06",
+        "name": "bug 6891"
+      },
+      {
+        "id": "item07",
+        "name": "bug 6912 http://www.w3.org/Bugs/Public/show_bug.cgi?id=6912"
+      },
+      {
+        "id": "item08",
+        "name": "7017"
+      },
+      {
+        "id": "item09",
+        "name": "bug 7019 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7019"
+      },
+      {
+        "id": "item10",
+        "name": "7020 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7020"
+      },
+      {
+        "id": "item11",
+        "name": "bug 7024"
+      },
+      {
+        "id": "item12",
+        "name": "bug 7027 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7027"
+      },
+      {
+        "id": "item13",
+        "name": "bug 7042 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7042"
+      },
+      {
+        "id": "item14",
+        "name": "bug 7043 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7043"
+      },
+      {
+        "id": "item15",
+        "name": "bug 7044 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7044"
+      },
+      {
+        "id": "item16",
+        "name": "bug 7046 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7046"
+      },
+      {
+        "id": "item17",
+        "name": "7047 http://www.w3.org/Bugs/Public/show_bug.cgi?id=7047"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2010/01/05-aapi-minutes"
+  },
+  "2009-11-17-aapi": {
+    "title": "AAPI Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Roles"
+      },
+      {
+        "id": "item02",
+        "name": "navigation and note - use string mapping"
+      },
+      {
+        "id": "item03",
+        "name": "Scroll bar"
+      },
+      {
+        "id": "item04",
+        "name": "Timer"
+      },
+      {
+        "id": "item05",
+        "name": "Relations"
+      },
+      {
+        "id": "item06",
+        "name": "IDREF"
+      },
+      {
+        "id": "item07",
+        "name": "Group Position"
+      },
+      {
+        "id": "item08",
+        "name": "Actions Table"
+      },
+      {
+        "id": "item09",
+        "name": "Section 5.3"
+      },
+      {
+        "id": "item10",
+        "name": "Section 6"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/11/17-aapi-minutes"
+  },
+  "2009-11-05-aapi": {
+    "title": "ARIA/HTML5 breakout session, Santa Clara, California",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Intros"
+      },
+      {
+        "id": "item02",
+        "name": "ARIA and HTML, semantics and overrides"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/11/05-aapi-minutes"
+  },
+  "2009-10-27-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Strong Native Semantics, mapping in HTML and ARIA"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/10/27-aapi-minutes"
+  },
+  "2009-10-20-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "comment 203"
+      },
+      {
+        "id": "item02",
+        "name": "comment 210 http://www.w3.org/WAI/PF/Group/comments/details?comment_id=210"
+      },
+      {
+        "id": "item03",
+        "name": "Role Mapping http://www.w3.org/WAI/PF/Group/comments/details?comment_id=210"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/10/20-aapi-minutes"
+  },
+  "2009-10-13-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "3.4 Role Mapping"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/10/13-aapi-minutes"
+  },
+  "2009-10-06-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2009/10/06-aapi-minutes"
+  },
+  "2009-09-29-aapi": {
+    "title": "AAPI",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "schedule"
+      },
+      {
+        "id": "item02",
+        "name": "action items"
+      },
+      {
+        "id": "item03",
+        "name": "Section 5"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/09/29-aapi-minutes"
+  },
+  "2009-09-22-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "bugs"
+      },
+      {
+        "id": "item02",
+        "name": "Introduction to the UAI TF for Simon"
+      },
+      {
+        "id": "item03",
+        "name": "Next editor's draft"
+      },
+      {
+        "id": "item04",
+        "name": "Next Working Draft"
+      },
+      {
+        "id": "item05",
+        "name": "Work items for next week"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/09/22-aapi-minutes"
+  },
+  "2009-09-08-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "HTML mapping"
+      },
+      {
+        "id": "item02",
+        "name": "Bugs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/09/08-aapi-minutes"
+  },
+  "2009-09-04-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "schedule review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/09/04-aapi-minutes"
+  },
+  "2009-08-28-aapi": {
+    "title": "User Agent Implementation Task Force",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2009/08/28-aapi-minutes"
+  },
+  "2009-08-14-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "as-built browser table"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/08/14-aapi-minutes"
+  },
+  "2009-07-31-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Next draft"
+      },
+      {
+        "id": "item02",
+        "name": "HTML mapping"
+      },
+      {
+        "id": "item03",
+        "name": "Working draft"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/07/31-aapi-minutes"
+  },
+  "2009-07-17-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "section 6.1 - move terms to glossary"
+      },
+      {
+        "id": "item02",
+        "name": "section 6.2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/07/17-aapi-minutes"
+  },
+  "2009-07-11-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "5.2 CSS selectors"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/07/11-aapi-minutes"
+  },
+  "2009-07-10-aapi": {
+    "title": "ARIA User Agent Implementation Caucus",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "4.1 Exposing supplemental interfaces"
+      },
+      {
+        "id": "item02",
+        "name": "4.4 Selection"
+      },
+      {
+        "id": "item03",
+        "name": "4.5 Menus in MSAA/IAccessible2"
+      },
+      {
+        "id": "item04",
+        "name": "4 Managed States"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/07/10-aapi-minutes"
+  },
+  "2009-06-26-aapi": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2009/06/26-aapi-minutes"
+  },
+  "2009-06-19-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2009/06/19-aapi-minutes"
+  },
+  "2009-06-12-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Section 1.1"
+      },
+      {
+        "id": "item02",
+        "name": "section 2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/06/12-aapi-minutes"
+  },
+  "2009-05-08-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2009/05/08-aapi-minutes"
+  },
+  "2009-02-27-aapi": {
+    "title": "ARIA User Agent Implementation Task Force",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Deliverables"
+      },
+      {
+        "id": "item02",
+        "name": "Meetings"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2009/02/27-aapi-minutes"
+  }
+}

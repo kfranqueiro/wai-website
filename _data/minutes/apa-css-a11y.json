@@ -1,0 +1,39 @@
+{
+  "2017-01-31-css-a11y": {
+    "title": "CSS A11Y TF Inaugural Call",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "introductions"
+      },
+      {
+        "id": "item02",
+        "name": "Round of introductions"
+      },
+      {
+        "id": "item03",
+        "name": "Scope of our work"
+      },
+      {
+        "id": "item04",
+        "name": "How and where will we work"
+      },
+      {
+        "id": "item05",
+        "name": "speak property"
+      },
+      {
+        "id": "item06",
+        "name": "Next steps"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "create css-a11y repo as primary repo for this TF",
+        "topic": "How and where will we work"
+      }
+    ],
+    "href": "/2017/01/31-css-a11y-minutes"
+  }
+}

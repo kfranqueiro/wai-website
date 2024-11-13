@@ -1,0 +1,3253 @@
+{
+  "2021-04-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/04/01-mobile-a11y-minutes"
+  },
+  "2021-03-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/03/25-mobile-a11y-minutes"
+  },
+  "2021-03-18-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/03/18-mobile-a11y-minutes"
+  },
+  "2021-03-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/03/11-mobile-a11y-minutes"
+  },
+  "2021-03-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/03/04-mobile-a11y-minutes"
+  },
+  "2021-01-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2021/01/21-mobile-a11y-minutes"
+  },
+  "2020-10-29-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/10/29-mobile-a11y-minutes"
+  },
+  "2020-10-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Touch Target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/10/01-mobile-a11y-minutes"
+  },
+  "2020-09-24-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target feedback"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/09/24-mobile-a11y-minutes"
+  },
+  "2020-09-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target spacing feedback"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/09/17-mobile-a11y-minutes"
+  },
+  "2020-09-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "target spacing comments"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/09/10-mobile-a11y-minutes"
+  },
+  "2020-08-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/08/20-mobile-a11y-minutes"
+  },
+  "2020-07-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/07/30-mobile-a11y-minutes"
+  },
+  "2020-06-18-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/06/18-mobile-a11y-minutes"
+  },
+  "2020-06-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Touch target spacing"
+      },
+      {
+        "id": "item02",
+        "name": "dragging"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/06/04-mobile-a11y-minutes"
+  },
+  "2020-04-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/04/30-mobile-a11y-minutes"
+  },
+  "2020-04-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/04/23-mobile-a11y-minutes"
+  },
+  "2020-04-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/04/09-mobile-a11y-minutes"
+  },
+  "2020-04-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/04/02-mobile-a11y-minutes"
+  },
+  "2020-03-26-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.2 spacing between touch targets comments"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/26-mobile-a11y-minutes"
+  },
+  "2020-03-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/03/19-mobile-a11y-minutes"
+  },
+  "2020-03-05-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Quick look at touch target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/05-mobile-a11y-minutes"
+  },
+  "2020-02-27-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/02/27-mobile-a11y-minutes"
+  },
+  "2020-02-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Dragging alternatives"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/02/20-mobile-a11y-minutes"
+  },
+  "2020-02-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/02/13-mobile-a11y-minutes"
+  },
+  "2020-01-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "multi-input discussion"
+      },
+      {
+        "id": "item02",
+        "name": "target size"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/01/30-mobile-a11y-minutes"
+  },
+  "2020-01-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Techniques"
+      },
+      {
+        "id": "item02",
+        "name": "multi input discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/01/23-mobile-a11y-minutes"
+  },
+  "2020-01-16-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/01/16-mobile-a11y-minutes"
+  },
+  "2020-01-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2020/01/09-mobile-a11y-minutes"
+  },
+  "2019-12-12-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "interactive interactions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/12/12-mobile-a11y-minutes"
+  },
+  "2019-12-05-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/12/05-mobile-a11y-minutes"
+  },
+  "2019-11-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/11/21-mobile-a11y-minutes"
+  },
+  "2019-11-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/11/14-mobile-a11y-minutes"
+  },
+  "2019-11-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/11/07-mobile-a11y-minutes"
+  },
+  "2019-10-31-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/10/31-mobile-a11y-minutes"
+  },
+  "2019-10-24-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/24-mobile-a11y-minutes"
+  },
+  "2019-10-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/17-mobile-a11y-minutes"
+  },
+  "2019-10-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/10/10-mobile-a11y-minutes"
+  },
+  "2019-10-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/10/03-mobile-a11y-minutes"
+  },
+  "2019-09-05-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/09/05-mobile-a11y-minutes"
+  },
+  "2019-07-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.2 SC proposal dragging alternatives"
+      },
+      {
+        "id": "item02",
+        "name": "WCAG comments"
+      },
+      {
+        "id": "item03",
+        "name": "gesture instructions comments"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/07/25-mobile-a11y-minutes"
+  },
+  "2019-06-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target spacing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/06/20-mobile-a11y-minutes"
+  },
+  "2019-06-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "instructions for Gestures or movement"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/06/13-mobile-a11y-minutes"
+  },
+  "2019-05-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/05/30-mobile-a11y-minutes"
+  },
+  "2019-05-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Proximity of related"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/05/23-mobile-a11y-minutes"
+  },
+  "2019-05-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/05/02-mobile-a11y-minutes"
+  },
+  "2019-04-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "indication of gestures"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/25-mobile-a11y-minutes"
+  },
+  "2019-04-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/04/11-mobile-a11y-minutes"
+  },
+  "2019-04-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch targets draft"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/04-mobile-a11y-minutes"
+  },
+  "2019-03-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/03/28-mobile-a11y-minutes"
+  },
+  "2019-03-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/03/07-mobile-a11y-minutes"
+  },
+  "2019-02-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/02/28-mobile-a11y-minutes"
+  },
+  "2019-02-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/02/21-mobile-a11y-minutes"
+  },
+  "2019-02-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "minimum spacing"
+      },
+      {
+        "id": "item02",
+        "name": "Landscape and portrait mode"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/02/07-mobile-a11y-minutes"
+  },
+  "2019-01-31-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target thoughts"
+      },
+      {
+        "id": "item02",
+        "name": "combining focus element and the one below it"
+      },
+      {
+        "id": "item03",
+        "name": "states discernible"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/31-mobile-a11y-minutes"
+  },
+  "2019-01-24-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "spacing between touch targets"
+      },
+      {
+        "id": "item02",
+        "name": "Custom Gestures (line 7)"
+      },
+      {
+        "id": "item03",
+        "name": "biometrics (line 8)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/24-mobile-a11y-minutes"
+  },
+  "2019-01-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2019/01/17-mobile-a11y-minutes"
+  },
+  "2019-01-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "spacing between touch targets"
+      },
+      {
+        "id": "item02",
+        "name": "Portrait - Landscape content"
+      },
+      {
+        "id": "item03",
+        "name": "indication of gestures"
+      },
+      {
+        "id": "item04",
+        "name": "Focus disappearing under sticky element"
+      },
+      {
+        "id": "item05",
+        "name": "focus Management"
+      },
+      {
+        "id": "item06",
+        "name": "Custom gestures"
+      },
+      {
+        "id": "item07",
+        "name": "Low Vision, proximity of related information"
+      },
+      {
+        "id": "item08",
+        "name": "LV - proximity of related information"
+      },
+      {
+        "id": "item09",
+        "name": "justification"
+      },
+      {
+        "id": "item10",
+        "name": "visual affordancee"
+      },
+      {
+        "id": "item11",
+        "name": "page refresh"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/10-mobile-a11y-minutes"
+  },
+  "2018-12-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "spreadsheet line 5 Gestures"
+      },
+      {
+        "id": "item02",
+        "name": "Spreadsheet line 20 technique grouping of content"
+      },
+      {
+        "id": "item03",
+        "name": "spreadsheet line 21 techniques: instructions for custom components and carousel"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/12/20-mobile-a11y-minutes"
+  },
+  "2018-12-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/12/13-mobile-a11y-minutes"
+  },
+  "2018-12-06-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "concurrent mechanisms at AAA"
+      },
+      {
+        "id": "item02",
+        "name": "biometrics"
+      },
+      {
+        "id": "item03",
+        "name": "Next Steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/12/06-mobile-a11y-minutes"
+  },
+  "2018-11-29-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/11/29-mobile-a11y-minutes"
+  },
+  "2018-11-15-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/11/15-mobile-a11y-minutes"
+  },
+  "2018-11-08-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/11/08-mobile-a11y-minutes"
+  },
+  "2018-09-06-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/09/06-mobile-a11y-minutes"
+  },
+  "2018-06-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/06/21-mobile-a11y-minutes"
+  },
+  "2018-05-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "techniques logistics"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/05/17-mobile-a11y-minutes"
+  },
+  "2018-03-29-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Logistics"
+      },
+      {
+        "id": "item02",
+        "name": "Techniques"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/29-mobile-a11y-minutes"
+  },
+  "2018-03-15-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "character key shortcuts"
+      },
+      {
+        "id": "item02",
+        "name": "Orientation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/15-mobile-a11y-minutes"
+  },
+  "2018-03-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "orientation"
+      },
+      {
+        "id": "item02",
+        "name": "Accessible Name"
+      },
+      {
+        "id": "item03",
+        "name": "Status Changes"
+      },
+      {
+        "id": "item04",
+        "name": "Pointer Cancellation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/01-mobile-a11y-minutes"
+  },
+  "2018-02-22-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "https://rawgit.com/w3c/wcag21/label-in-name/understanding/21/label-in-name.html"
+      },
+      {
+        "id": "item02",
+        "name": "Pointer Cancellation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/22-mobile-a11y-minutes"
+  },
+  "2018-02-15-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review understanding"
+      },
+      {
+        "id": "item02",
+        "name": "review understanding Concurrent Input Mechanisms"
+      },
+      {
+        "id": "item03",
+        "name": "Pointer gestures understanding"
+      },
+      {
+        "id": "item04",
+        "name": "Additional Sensor Inputs understanding"
+      },
+      {
+        "id": "item05",
+        "name": "label in name"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/15-mobile-a11y-minutes"
+  },
+  "2018-02-08-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Logistics"
+      },
+      {
+        "id": "item02",
+        "name": "Assignments"
+      },
+      {
+        "id": "item03",
+        "name": "touch target understanding"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/08-mobile-a11y-minutes"
+  },
+  "2018-02-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "what constitutes a sentence"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/01-mobile-a11y-minutes"
+  },
+  "2018-01-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "candidate recommendation"
+      },
+      {
+        "id": "item02",
+        "name": "target size understanding"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/01/25-mobile-a11y-minutes"
+  },
+  "2018-01-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/01/11-mobile-a11y-minutes"
+  },
+  "2017-12-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.5.2 Pointer Cancellation"
+      },
+      {
+        "id": "item02",
+        "name": "2.5.3 Target Size (No understanding in linked document)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/12/14-mobile-a11y-minutes"
+  },
+  "2017-10-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/10/19-mobile-a11y-minutes"
+  },
+  "2017-10-12-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Device sensors"
+      },
+      {
+        "id": "item02",
+        "name": "concurrent input mechanisms"
+      },
+      {
+        "id": "item03",
+        "name": "Orientation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/12-mobile-a11y-minutes"
+  },
+  "2017-09-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/09/14-mobile-a11y-minutes"
+  },
+  "2017-09-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/09/07-mobile-a11y-minutes"
+  },
+  "2017-08-31-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Situation definition"
+      },
+      {
+        "id": "item02",
+        "name": "Github editing"
+      },
+      {
+        "id": "item03",
+        "name": "moving forward"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/08/31-mobile-a11y-minutes"
+  },
+  "2017-08-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/08/03-mobile-a11y-minutes"
+  },
+  "2017-07-27-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Understanding Documentation and Techniques: Target Size"
+      },
+      {
+        "id": "item02",
+        "name": "next steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/07/27-mobile-a11y-minutes"
+  },
+  "2017-06-29-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/06/29-mobile-a11y-minutes"
+  },
+  "2017-03-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "touch target size"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/30-mobile-a11y-minutes"
+  },
+  "2017-03-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/03/09-mobile-a11y-minutes"
+  },
+  "2017-02-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "where we are with the draft"
+      },
+      {
+        "id": "item02",
+        "name": "extension document"
+      },
+      {
+        "id": "item03",
+        "name": "touchscreen"
+      },
+      {
+        "id": "item04",
+        "name": "Kathy: add under 2.4.2"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "have no additional techniques for 3.3.2, just add an example to the understanding documents, write the example that Patrick just did on the fly for G 131",
+        "topic": "touchscreen"
+      }
+    ],
+    "href": "/2017/02/23-mobile-a11y-minutes"
+  },
+  "2017-02-16-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "proposal about SCs and editors draft"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/16-mobile-a11y-minutes"
+  },
+  "2017-02-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2017/02/09-mobile-a11y-minutes"
+  },
+  "2017-02-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.3"
+      },
+      {
+        "id": "item02",
+        "name": "2.4"
+      },
+      {
+        "id": "item03",
+        "name": "3.1"
+      },
+      {
+        "id": "item04",
+        "name": "3.2"
+      },
+      {
+        "id": "item05",
+        "name": "3.3"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/02-mobile-a11y-minutes"
+  },
+  "2017-01-26-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "current status"
+      },
+      {
+        "id": "item02",
+        "name": "Technique development for existing SCs"
+      },
+      {
+        "id": "item03",
+        "name": "next steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/26-mobile-a11y-minutes"
+  },
+  "2016-12-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/12/01-mobile-a11y-minutes"
+  },
+  "2016-11-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "M11"
+      },
+      {
+        "id": "item02",
+        "name": "M9"
+      },
+      {
+        "id": "item03",
+        "name": "M 16"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept changed language for success criteria, submit to working group with a note to email thread about SC 3.3.2 and 1.3.1 for working group evaluation",
+        "topic": "M11"
+      },
+      {
+        "id": "resolution02",
+        "content": "submit M9 as modified",
+        "topic": "M9"
+      },
+      {
+        "id": "resolution03",
+        "content": "submit M16 as modified",
+        "topic": "M 16"
+      }
+    ],
+    "href": "/2016/11/17-mobile-a11y-minutes"
+  },
+  "2016-11-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/11/10-mobile-a11y-minutes"
+  },
+  "2016-11-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "M14"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/03-mobile-a11y-minutes"
+  },
+  "2016-10-27-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "M13 Orientation"
+      },
+      {
+        "id": "item02",
+        "name": "focus trap"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "this is been reviewed by task force and is now ready for working group review",
+        "topic": "M13 Orientation"
+      },
+      {
+        "id": "resolution02",
+        "content": "drop M7 No Focus Trap for 2.1",
+        "topic": "focus trap"
+      }
+    ],
+    "href": "/2016/10/27-mobile-a11y-minutes"
+  },
+  "2016-10-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "success criteria submission requirements"
+      },
+      {
+        "id": "item02",
+        "name": "M6"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Patrick to make final edits and ready for working group",
+        "topic": "M6"
+      }
+    ],
+    "href": "/2016/10/20-mobile-a11y-minutes"
+  },
+  "2016-10-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/10/13-mobile-a11y-minutes"
+  },
+  "2016-10-06-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Next steps and schedule"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/06-mobile-a11y-minutes"
+  },
+  "2016-09-29-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "will accept M15 Programmatic Notifications and submit to working group"
+      }
+    ],
+    "href": "/2016/09/29-mobile-a11y-minutes"
+  },
+  "2016-09-15-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "TPAC"
+      },
+      {
+        "id": "item02",
+        "name": "M1"
+      },
+      {
+        "id": "item03",
+        "name": "M3 https://github.com/w3c/Mobile-A11y-Extension/blob/gh-pages/SCs/m3.md"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/15-mobile-a11y-minutes"
+  },
+  "2016-09-08-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Accidental Activation (finalize) - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_2.5.3"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "remove first SC, beef up second and third SC",
+        "topic": "Accidental Activation (finalize) - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_2.5.3"
+      },
+      {
+        "id": "resolution02",
+        "content": "remove first SC, make further editorial changes to 2nd/3rd SC, send 3rd to COGA for sync",
+        "topic": "Accidental Activation (finalize) - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_2.5.3"
+      }
+    ],
+    "href": "/2016/09/08-mobile-a11y-minutes"
+  },
+  "2016-09-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "target size is 48 and 24 px"
+      },
+      {
+        "id": "resolution02",
+        "content": "SC Target Size is accepted"
+      }
+    ],
+    "href": "/2016/09/01-mobile-a11y-minutes"
+  },
+  "2016-08-18-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "SC Pointer with Assistive Technology - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_SC_Pointer_with_Assistive_Technology#SC_Shortname"
+      },
+      {
+        "id": "item02",
+        "name": "Accidental Activation - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_2.5.3"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_SC_Pointer_with_Assistive_Technology#Benefits ready for WCAG",
+        "topic": "SC Pointer with Assistive Technology - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_SC_Pointer_with_Assistive_Technology#SC_Shortname"
+      }
+    ],
+    "href": "/2016/08/18-mobile-a11y-minutes"
+  },
+  "2016-08-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Touch and other input methods proposal (Patrick, Detlev & Chris) https://gist.github.com/patrickhlauke/96110b10547770021e58f5098dd31087"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/08/11-mobile-a11y-minutes"
+  },
+  "2016-07-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Patrick's pull requests"
+      },
+      {
+        "id": "item02",
+        "name": "Patrick's Comments on the note"
+      },
+      {
+        "id": "item03",
+        "name": "Touch and other input methods proposal (Patrick, Detlev & Chris)"
+      },
+      {
+        "id": "item04",
+        "name": "look at all the success criteria that we had suggested for mobile and identify any other gaps that were missing or other concerns that you may have, then we can get those scheduled to talk about"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/28-mobile-a11y-minutes"
+  },
+  "2016-07-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/07/21-mobile-a11y-minutes"
+  },
+  "2016-07-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/07/14-mobile-a11y-minutes"
+  },
+  "2016-07-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/07/07-mobile-a11y-minutes"
+  },
+  "2016-06-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/06/30-mobile-a11y-minutes"
+  },
+  "2016-06-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey"
+      },
+      {
+        "id": "item02",
+        "name": "feedback from WCAG working group"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "add pointer definition to glossary and reference this definition where we generally mean pointing device",
+        "topic": "feedback from WCAG working group"
+      }
+    ],
+    "href": "/2016/06/23-mobile-a11y-minutes"
+  },
+  "2016-06-16-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/06/16-mobile-a11y-minutes"
+  },
+  "2016-06-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finish 2.6.1 https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Guideline_2.6:_Make_it_easier_to_use_the_physical_features_of_the_phone."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "further discussion needed to write clear definition of pressure-sensitive input, to come up with use cases (easy and hard ones). see survey that will come on mailing list",
+        "topic": "Finish 2.6.1 https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Guideline_2.6:_Make_it_easier_to_use_the_physical_features_of_the_phone."
+      }
+    ],
+    "href": "/2016/06/09-mobile-a11y-minutes"
+  },
+  "2016-06-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "remove force touch and touch from definition of device manipulation"
+      }
+    ],
+    "href": "/2016/06/02-mobile-a11y-minutes"
+  },
+  "2016-05-26-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finalizing Guideline 3.4 - Orientation https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_3.4.1"
+      },
+      {
+        "id": "item02",
+        "name": "Discussion on Guideline 2.6  Make it easier to use the physical features of the phone"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/26-mobile-a11y-minutes"
+  },
+  "2016-05-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finalizing Guideline 3.4 - Orientation https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_3.4.1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/19-mobile-a11y-minutes"
+  },
+  "2016-05-12-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Update on W3C call"
+      },
+      {
+        "id": "item02",
+        "name": "Continue discussion on orientation https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_3.4.1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/12-mobile-a11y-minutes"
+  },
+  "2016-05-05-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Status Mobile Touch & Pointer guideline and success criteria"
+      },
+      {
+        "id": "item02",
+        "name": "Review of next steps  mobile guidelines: 2.6, 2.7, 3.4, 3.5"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/05-mobile-a11y-minutes"
+  },
+  "2016-04-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/04/28-mobile-a11y-minutes"
+  },
+  "2016-04-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review changes to Touch and Pointer"
+      },
+      {
+        "id": "item02",
+        "name": "Finalizing Mobile Touch & Pointer guideline and success criteria"
+      },
+      {
+        "id": "item03",
+        "name": "Understanding of 2.5"
+      },
+      {
+        "id": "item04",
+        "name": "2.5.1"
+      },
+      {
+        "id": "item05",
+        "name": "2.5.2"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept the proposal as amended above (in wiki) for submission to WCAG WG.",
+        "topic": "review changes to Touch and Pointer"
+      }
+    ],
+    "href": "/2016/04/21-mobile-a11y-minutes"
+  },
+  "2016-04-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/04/14-mobile-a11y-minutes"
+  },
+  "2016-04-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2016/04/07-mobile-a11y-minutes"
+  },
+  "2016-03-31-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "CSUN recap"
+      },
+      {
+        "id": "item02",
+        "name": "Updates on Mobile Extension"
+      },
+      {
+        "id": "item03",
+        "name": "Mobile touch & pointer timeline"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/31-mobile-a11y-minutes"
+  },
+  "2016-03-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review assignments http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Technique_Development_Assignments"
+      },
+      {
+        "id": "item02",
+        "name": "Revisions to 2.5.3 and related failures"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/17-mobile-a11y-minutes"
+  },
+  "2016-03-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Brief wiki tour https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Main_Page"
+      },
+      {
+        "id": "item02",
+        "name": "Review assignments http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Technique_Development_Assignments"
+      },
+      {
+        "id": "item03",
+        "name": "Proposed text for introduction"
+      },
+      {
+        "id": "item04",
+        "name": "Revisions to 2.5.3, M029 - https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Proposed_revision_of_2.5.3 https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/M029"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/10-mobile-a11y-minutes"
+  },
+  "2016-03-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review assignments http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Technique_Development_Assignments"
+      },
+      {
+        "id": "item02",
+        "name": "2.5.2 proposed Understanding text https://w3c.github.io/Mobile-A11y-Extension/#swipe-trap"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "revised Understanding text and to the Success Criteria of 2.5.2 No Swipe Trap to No Touch Trap ... Understanding text and to the Success Criteria/Understanding text and to the Success Criteria of 2.5.2 No Swipe Trap to No Touch Trap",
+        "topic": "2.5.2 proposed Understanding text https://w3c.github.io/Mobile-A11y-Extension/#swipe-trap"
+      }
+    ],
+    "href": "/2016/03/03-mobile-a11y-minutes"
+  },
+  "2016-02-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Review assignments http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Technique_Development_Assignments"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/02/25-mobile-a11y-minutes"
+  },
+  "2016-02-18-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finish 2.5.3 - https://w3c.github.io/Mobile-A11y-Extension/#touch-and-pointer"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "accept Intent for 2.5.2",
+        "topic": "Finish 2.5.3 - https://w3c.github.io/Mobile-A11y-Extension/#touch-and-pointer"
+      },
+      {
+        "id": "resolution02",
+        "content": "accept Understanding for 2.5.2",
+        "topic": "Finish 2.5.3 - https://w3c.github.io/Mobile-A11y-Extension/#touch-and-pointer"
+      }
+    ],
+    "href": "/2016/02/18-mobile-a11y-minutes"
+  },
+  "2016-02-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Revisions to 2.5.3 Failure from Jonathan https://lists.w3.org/Archives/Public/public-mobile-a11y-tf/2016Feb/0008.html"
+      },
+      {
+        "id": "item02",
+        "name": "Continue through SC's - https://w3c.github.io/Mobile-A11y-Extension/#touch-and-pointer"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept updates to the FM001 Failure of 2.5.3",
+        "topic": "Revisions to 2.5.3 Failure from Jonathan https://lists.w3.org/Archives/Public/public-mobile-a11y-tf/2016Feb/0008.html"
+      }
+    ],
+    "href": "/2016/02/11-mobile-a11y-minutes"
+  },
+  "2016-02-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "failure 2.5.3"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/02/04-mobile-a11y-minutes"
+  },
+  "2016-01-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "any other techniques or failures"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/28-mobile-a11y-minutes"
+  },
+  "2016-01-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.5, 2.1.1 Understanding"
+      },
+      {
+        "id": "item02",
+        "name": "Assignments"
+      },
+      {
+        "id": "item03",
+        "name": "2.5.5 touch clearance"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/21-mobile-a11y-minutes"
+  },
+  "2016-01-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "continue touch discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/14-mobile-a11y-minutes"
+  },
+  "2016-01-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Github demo"
+      },
+      {
+        "id": "item02",
+        "name": "Review technique assignments"
+      },
+      {
+        "id": "item03",
+        "name": "Resuming Touch Size discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/07-mobile-a11y-minutes"
+  },
+  "2015-12-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Questions on existing techniques"
+      },
+      {
+        "id": "item02",
+        "name": "2.5.3"
+      },
+      {
+        "id": "item03",
+        "name": "2.5.4"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/12/10-mobile-a11y-minutes"
+  },
+  "2015-12-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline"
+      },
+      {
+        "id": "item02",
+        "name": "2.5.2"
+      },
+      {
+        "id": "item03",
+        "name": "2.5.3"
+      },
+      {
+        "id": "item04",
+        "name": "Logistics"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/12/03-mobile-a11y-minutes"
+  },
+  "2015-11-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/11/19-mobile-a11y-minutes"
+  },
+  "2015-11-12-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.5.2"
+      },
+      {
+        "id": "item02",
+        "name": "face-to-face meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/11/12-mobile-a11y-minutes"
+  },
+  "2015-11-05-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/11/05-mobile-a11y-minutes"
+  },
+  "2015-10-15-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Continuation of the Discussion of Touch Proposal"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/10/15-mobile-a11y-minutes"
+  },
+  "2015-10-08-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/10/08-mobile-a11y-minutes"
+  },
+  "2015-10-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile Techniques"
+      },
+      {
+        "id": "item02",
+        "name": "Discussion of Touch Proposal"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/10/01-mobile-a11y-minutes"
+  },
+  "2015-09-24-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2.5.1 Touch"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/24-mobile-a11y-minutes"
+  },
+  "2015-09-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/09/17-mobile-a11y-minutes"
+  },
+  "2015-09-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2. Discussion of Davids Success Criteria"
+      },
+      {
+        "id": "item02",
+        "name": "1. Questions on techniques in progress"
+      },
+      {
+        "id": "item03",
+        "name": "2. Discussion of Davids Success Criteria"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/10-mobile-a11y-minutes"
+  },
+  "2015-09-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "questions on techniques and progress"
+      },
+      {
+        "id": "item02",
+        "name": "discussion of Davids Success Criteria http://w3c.github.io/Mobile-A11y-TF-Note/TouchProposal_Discussion.html"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/09/03-mobile-a11y-minutes"
+  },
+  "2015-08-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "questions on techniques and progress"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/08/20-mobile-a11y-minutes"
+  },
+  "2015-08-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Questions on techniques and progress"
+      },
+      {
+        "id": "item02",
+        "name": "Continuation of discussion on touch https://lists.w3.org/Archives/Public/public-mobile-a11y-tf/2015Jul/thread.html)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/08/13-mobile-a11y-minutes"
+  },
+  "2015-08-06-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/08/06-mobile-a11y-minutes"
+  },
+  "2015-07-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Continuation of the Survey Discussion- https://www.w3.org/2002/09/wbs/66524/20150717_survey/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/07/23-mobile-a11y-minutes"
+  },
+  "2015-06-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/06/25-mobile-a11y-minutes"
+  },
+  "2015-06-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1. Finish Best Practices - Robust http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Robust_Techniques"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/06/11-mobile-a11y-minutes"
+  },
+  "2015-06-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Best Practices - Robust http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Robust_Techniques"
+      },
+      {
+        "id": "item02",
+        "name": "set data entry to type of keyboard required"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/06/04-mobile-a11y-minutes"
+  },
+  "2015-05-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Best Practices - Understandable"
+      },
+      {
+        "id": "item02",
+        "name": "3.6 Provide instructions for custom touchscreen and device manipulation gestures"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/05/28-mobile-a11y-minutes"
+  },
+  "2015-05-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Technique assignments"
+      },
+      {
+        "id": "item02",
+        "name": "Understandable Technique"
+      },
+      {
+        "id": "item03",
+        "name": "Best Practices - understandable"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/05/21-mobile-a11y-minutes"
+  },
+  "2015-05-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Perceivable Best Practices - nonlinear and screen layout"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/05/14-mobile-a11y-minutes"
+  },
+  "2015-05-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Perceivable Best Practices"
+      },
+      {
+        "id": "item02",
+        "name": "Provide a way for users to change the font size"
+      },
+      {
+        "id": "item03",
+        "name": "ensure snap scrolling does not prevent access to content resize of text"
+      },
+      {
+        "id": "item04",
+        "name": "ensure fixed position content does not prevent access to content when text is resized"
+      },
+      {
+        "id": "item05",
+        "name": "contrast"
+      },
+      {
+        "id": "item06",
+        "name": "WebEx Information"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/05/07-mobile-a11y-minutes"
+  },
+  "2015-04-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Perceivable Best Practices"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/30-mobile-a11y-minutes"
+  },
+  "2015-04-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile checker  Jeanne"
+      },
+      {
+        "id": "item02",
+        "name": "Comments on 3.1 keyboard control https://github.com/w3c/Mobile-A11y-TF-Note/issues/4"
+      },
+      {
+        "id": "item03",
+        "name": "Best Practices assignments"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/23-mobile-a11y-minutes"
+  },
+  "2015-04-16-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Jan proposal http://www.w3.org/mid/0B1EB1C972BCB740B522ACBCD5F48DEB01C6D3B7F3@ocadmail-maildb.ocad.ca"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/16-mobile-a11y-minutes"
+  },
+  "2015-04-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey starting at #4"
+      },
+      {
+        "id": "item02",
+        "name": "New techniques procedure"
+      },
+      {
+        "id": "item03",
+        "name": "Survey starting at #4"
+      },
+      {
+        "id": "item04",
+        "name": "New techniques procedure"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/09-mobile-a11y-minutes"
+  },
+  "2015-04-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "New time for meeting"
+      },
+      {
+        "id": "item02",
+        "name": "Survey"
+      },
+      {
+        "id": "item03",
+        "name": "Touch Target Size and Spacing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/04/02-mobile-a11y-minutes"
+  },
+  "2015-03-26-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Comments on note http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Comments_on_Mobile_Accessibility_Note_20150226"
+      },
+      {
+        "id": "item02",
+        "name": "Use Cases http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Mobile_Accessibility_Use_Cases"
+      },
+      {
+        "id": "item03",
+        "name": "New work on input methods"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/26-mobile-a11y-minutes"
+  },
+  "2015-03-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/03/19-mobile-a11y-minutes"
+  },
+  "2015-03-12-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WAI charters"
+      },
+      {
+        "id": "item02",
+        "name": "CSUN debrief"
+      },
+      {
+        "id": "item03",
+        "name": "Comments on note (changes will be included in a future version of the note)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/12-mobile-a11y-minutes"
+  },
+  "2015-03-03-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Input methods"
+      },
+      {
+        "id": "item02",
+        "name": "Platform Characteristics"
+      },
+      {
+        "id": "item03",
+        "name": "Readability"
+      },
+      {
+        "id": "item04",
+        "name": "Design, sceen orientation, indicate actionable elements"
+      },
+      {
+        "id": "item05",
+        "name": "What are the other things we should think about?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/03/03-mobile-a11y-minutes"
+  },
+  "2015-02-26-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Comments received (changes will be included in a future version of"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/02/26-mobile-a11y-minutes"
+  },
+  "2015-02-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "consensus to publish FPWD of Note: Mobile Accessibility"
+      },
+      {
+        "id": "item02",
+        "name": "comments from EOWG (changes will be included in a future version of the note)"
+      },
+      {
+        "id": "item03",
+        "name": "consensus to publish FPWD of Note: Mobile Accessibility"
+      },
+      {
+        "id": "item04",
+        "name": "Status of the Document questions"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Take Marc's suggestion above top amend 1.1",
+        "topic": "comments from EOWG (changes will be included in a future version of the note)"
+      },
+      {
+        "id": "",
+        "content": "Note published as first public working draft",
+        "topic": "consensus to publish FPWD of Note: Mobile Accessibility"
+      }
+    ],
+    "href": "/2015/02/19-mobile-a11y-minutes"
+  },
+  "2015-02-05-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/02/05-mobile-a11y-minutes"
+  },
+  "2015-01-29-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile Accessibility Note  survey https://www.w3.org/2002/09/wbs/66524/20150126_survey/"
+      },
+      {
+        "id": "item02",
+        "name": "A2 Zoom"
+      },
+      {
+        "id": "item03",
+        "name": "section B"
+      },
+      {
+        "id": "item04",
+        "name": "C3"
+      },
+      {
+        "id": "item05",
+        "name": "C4 Grouping operable elements that perform the same action"
+      },
+      {
+        "id": "item06",
+        "name": "C6"
+      },
+      {
+        "id": "item07",
+        "name": "C7"
+      },
+      {
+        "id": "item08",
+        "name": "D1"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/01/29-mobile-a11y-minutes"
+  },
+  "2015-01-22-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Note Review - please fill out the survey: https://www.w3.org/2002/09/wbs/66524/20150112_survey/"
+      },
+      {
+        "id": "item02",
+        "name": "Note introduction"
+      },
+      {
+        "id": "item03",
+        "name": "A1 small screen size"
+      },
+      {
+        "id": "item04",
+        "name": "A3 color contrast and glare"
+      },
+      {
+        "id": "item05",
+        "name": "B1"
+      },
+      {
+        "id": "item06",
+        "name": "B2"
+      },
+      {
+        "id": "item07",
+        "name": "B3"
+      },
+      {
+        "id": "item08",
+        "name": "B4"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/01/22-mobile-a11y-minutes"
+  },
+  "2015-01-15-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2015/01/15-mobile-a11y-minutes"
+  },
+  "2015-01-08-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mockup of Appendix A"
+      },
+      {
+        "id": "item02",
+        "name": "Status of the Note"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2015/01/08-mobile-a11y-minutes"
+  },
+  "2014-12-18-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/12/18-mobile-a11y-minutes"
+  },
+  "2014-12-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/12/11-mobile-a11y-minutes"
+  },
+  "2014-12-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Platform capabilities discussion"
+      },
+      {
+        "id": "item02",
+        "name": "Section discussion: Keyboard Control on Mobile Devices"
+      },
+      {
+        "id": "item03",
+        "name": "Providing media metadata"
+      },
+      {
+        "id": "item04",
+        "name": "Allowing users to interact using device buttons"
+      },
+      {
+        "id": "item05",
+        "name": "Including shortcuts to allow users to jump to sections of the page"
+      },
+      {
+        "id": "item06",
+        "name": "2.6 Providing a way for users to see what page they are on"
+      },
+      {
+        "id": "item07",
+        "name": "Including shortcuts to allow users to jump to sections of the page"
+      },
+      {
+        "id": "item08",
+        "name": "Provide instructions for custom functions and gestures"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/12/04-mobile-a11y-minutes"
+  },
+  "2014-11-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Q&A Note assignments / status"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/11/20-mobile-a11y-minutes"
+  },
+  "2014-11-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/11/13-mobile-a11y-minutes"
+  },
+  "2014-11-06-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Q&A / Status of Technique Assignments"
+      },
+      {
+        "id": "item02",
+        "name": "Reframing the existing WCAG 2.0 techniques"
+      },
+      {
+        "id": "item03",
+        "name": "Survey: https://www.w3.org/2002/09/wbs/66524/20141103_survey/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/11/06-mobile-a11y-minutes"
+  },
+  "2014-10-23-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Q&A"
+      },
+      {
+        "id": "item02",
+        "name": "82"
+      },
+      {
+        "id": "item03",
+        "name": "G 162"
+      },
+      {
+        "id": "item04",
+        "name": "M2"
+      },
+      {
+        "id": "item05",
+        "name": "G 162"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "send G162 to working group",
+        "topic": "G 162"
+      }
+    ],
+    "href": "/2014/10/23-mobile-a11y-minutes"
+  },
+  "2014-10-16-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "15 minute discussion to talk about techniques people are working on."
+      },
+      {
+        "id": "item02",
+        "name": "Technique Assignments"
+      },
+      {
+        "id": "item03",
+        "name": "Technique Survey (#3  G90) - https://www.w3.org/2002/09/wbs/66524/20141007_survey/results"
+      },
+      {
+        "id": "item04",
+        "name": "Technique Survey 3- G90"
+      },
+      {
+        "id": "item05",
+        "name": "Existing techniques reviewed by Kim to discuss"
+      },
+      {
+        "id": "item06",
+        "name": "G107, clicking on a link should mention touch."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "G90, Accepted as Amended",
+        "topic": "Technique Survey 3- G90"
+      }
+    ],
+    "href": "/2014/10/16-mobile-a11y-minutes"
+  },
+  "2014-10-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "15 minute discussion to talk about techniques people are working on."
+      },
+      {
+        "id": "item02",
+        "name": "Technique Survey (#3  6) - https://www.w3.org/2002/09/wbs/66524/20140929_survey/"
+      },
+      {
+        "id": "item03",
+        "name": "G85"
+      },
+      {
+        "id": "item04",
+        "name": "SCR37"
+      },
+      {
+        "id": "item05",
+        "name": "NEW survey https://www.w3.org/2002/09/wbs/66524/20141007_survey/"
+      },
+      {
+        "id": "item06",
+        "name": "G61"
+      },
+      {
+        "id": "item07",
+        "name": "G53"
+      },
+      {
+        "id": "item08",
+        "name": "G82"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Accept G60 as proposed",
+        "topic": "Technique Survey (#3  6) - https://www.w3.org/2002/09/wbs/66524/20140929_survey/"
+      },
+      {
+        "id": "",
+        "content": "G61 is accepted as proposed.",
+        "topic": "G61"
+      },
+      {
+        "id": "",
+        "content": "G53 accepted as amended.",
+        "topic": "G53"
+      }
+    ],
+    "href": "/2014/10/09-mobile-a11y-minutes"
+  },
+  "2014-10-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "15 minute discussion to talk about techniques people are working on."
+      },
+      {
+        "id": "item02",
+        "name": "Technique Survey - https://www.w3.org/2002/09/wbs/66524/20140916_survey/. This survey includes the suggested revisions to G9 from the WCAG Working Group."
+      },
+      {
+        "id": "item03",
+        "name": "NEW survey https://www.w3.org/2002/09/wbs/66524/20140929_survey/"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/10/02-mobile-a11y-minutes"
+  },
+  "2014-09-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/09/25-mobile-a11y-minutes"
+  },
+  "2014-09-18-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "15 minute discussion to talk about techniques people are working on."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/09/18-mobile-a11y-minutes"
+  },
+  "2014-09-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Q&A"
+      },
+      {
+        "id": "item02",
+        "name": "Format of the updates"
+      },
+      {
+        "id": "item03",
+        "name": "Technique assignments / status"
+      },
+      {
+        "id": "item04",
+        "name": "Survey from last week #5: https://www.w3.org/2002/09/wbs/66524/20140901_survey/results#xq5"
+      },
+      {
+        "id": "item05",
+        "name": "New Survey: please fill out before the call on Thursday: https://www.w3.org/2002/09/wbs/66524/20140908_survey/"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "pass on updates that are not mobile-related to WCAG WG (Andrew) so they can decide how to handle this",
+        "topic": "New Survey: please fill out before the call on Thursday: https://www.w3.org/2002/09/wbs/66524/20140908_survey/"
+      },
+      {
+        "id": "",
+        "content": "G83 and G84 passed on to WCAG WG",
+        "topic": "New Survey: please fill out before the call on Thursday: https://www.w3.org/2002/09/wbs/66524/20140908_survey/"
+      }
+    ],
+    "href": "/2014/09/11-mobile-a11y-minutes"
+  },
+  "2014-09-04-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey results"
+      },
+      {
+        "id": "item02",
+        "name": "Survey item #1. New Mobile techniques"
+      },
+      {
+        "id": "item03",
+        "name": "Survey item #2 G4"
+      },
+      {
+        "id": "item04",
+        "name": "Survey item #3 G9"
+      },
+      {
+        "id": "item05",
+        "name": "Survey item #4: g53"
+      },
+      {
+        "id": "item06",
+        "name": "Survey item #6: SRC37"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "G4 Accepted as propposed",
+        "topic": "Survey item #2 G4"
+      },
+      {
+        "id": "",
+        "content": "Accepted as ammended",
+        "topic": "Survey item #3 G9"
+      },
+      {
+        "id": "",
+        "content": "leave open and continue work on it",
+        "topic": "Survey item #4: g53"
+      },
+      {
+        "id": "",
+        "content": "leave open",
+        "topic": "Survey item #6: SRC37"
+      }
+    ],
+    "href": "/2014/09/04-mobile-a11y-minutes"
+  },
+  "2014-08-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Techniques resources review:"
+      },
+      {
+        "id": "item02",
+        "name": "Techniques review: G9, G53"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/08/28-mobile-a11y-minutes"
+  },
+  "2014-08-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Techniques resources review: http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Techniques_Resources"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/08/21-mobile-a11y-minutes"
+  },
+  "2014-08-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Writing techniques introduction (Jeanne)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/08/14-mobile-a11y-minutes"
+  },
+  "2014-08-08-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/08/08-mobile-a11y-minutes"
+  },
+  "2014-08-01-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "New Mobile WCAG Techniques & Best Practices survey  continue to review survey"
+      },
+      {
+        "id": "item02",
+        "name": "Survey #29 Touch Target sizes"
+      },
+      {
+        "id": "item03",
+        "name": "Survey #30 Inactive Space around active elements"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "An advisory technique for not supressing the platform behavior of links and other actionable elements; and modify the Technique for 1.3.1 about not relying on color; and look at a new Technique for identifying available swiping gestures",
+        "topic": "New Mobile WCAG Techniques & Best Practices survey  continue to review survey"
+      },
+      {
+        "id": "",
+        "content": "Mark this as a new possible WCAG success criteria as sufficient, and temporarily as an Advisory under 1.4.4 Resize Text.",
+        "topic": "Survey #29 Touch Target sizes"
+      },
+      {
+        "id": "",
+        "content": "to drop #30 in favor of #29",
+        "topic": "Survey #30 Inactive Space around active elements"
+      }
+    ],
+    "href": "/2014/08/01-mobile-a11y-minutes"
+  },
+  "2014-07-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "2. Research on minimum text sizes on different displays (Jan)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/07/25-mobile-a11y-minutes"
+  },
+  "2014-07-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "25. Provide the open/closed state information in the menu icon"
+      },
+      {
+        "id": "item02",
+        "name": "27. Ensure that menu can be zoomed to 200%"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/07/11-mobile-a11y-minutes"
+  },
+  "2014-06-27-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Number 20 in Survey - support for physical keyboard"
+      },
+      {
+        "id": "item02",
+        "name": "Different Screen Sizes, #21"
+      },
+      {
+        "id": "item03",
+        "name": "Users can see what page they are on #22"
+      },
+      {
+        "id": "item04",
+        "name": "Use Vertical Navigation #23"
+      },
+      {
+        "id": "item05",
+        "name": "Links with the page contents to key pages #24"
+      },
+      {
+        "id": "item06",
+        "name": "Provide Open/Closed state in information in menu icon #25"
+      },
+      {
+        "id": "item07",
+        "name": "Menu can be zoomed to 200%"
+      },
+      {
+        "id": "item08",
+        "name": "Links and actionalbe elements must be clearly distinguishable"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "22 as a Sufficient technique under SC 2.4.8 AAA and fix the wording when we work on it.",
+        "topic": "Users can see what page they are on #22"
+      },
+      {
+        "id": "",
+        "content": "drop #23",
+        "topic": "Use Vertical Navigation #23"
+      },
+      {
+        "id": "",
+        "content": "Sufficient technique already covered under 2.4.5",
+        "topic": "Links with the page contents to key pages #24"
+      },
+      {
+        "id": "",
+        "content": "#25 as a sufficient technique under 4.1.2 and 1.3.1 ... #26 is a duplicate",
+        "topic": "Provide Open/Closed state in information in menu icon #25"
+      },
+      {
+        "id": "",
+        "content": "Sufficient technique under 1.4.4",
+        "topic": "Menu can be zoomed to 200%"
+      },
+      {
+        "id": "",
+        "content": "Change wording of #13 to match #28 and consider them duplicates.",
+        "topic": "Links and actionalbe elements must be clearly distinguishable"
+      }
+    ],
+    "href": "/2014/06/27-mobile-a11y-minutes"
+  },
+  "2014-06-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "15. Use simple navigation concepts with consistent interaction patterns"
+      },
+      {
+        "id": "item02",
+        "name": "#16 Allow users to interact with hardware device buttons."
+      },
+      {
+        "id": "item03",
+        "name": "#17 ensure interface can be used with bluetooth keyboard."
+      },
+      {
+        "id": "item04",
+        "name": "#18 Add shortcuts to allow users to jump to sections of page."
+      },
+      {
+        "id": "item05",
+        "name": "#19 Provide a way for users to change font."
+      },
+      {
+        "id": "item06",
+        "name": "#20 provide support for alternative mechanisms for devices that do not have or support a physical or equivalent keyboard"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "#15 is that we would map to 3.2.3 and 2.4.5. Put in mobile note on consistency within a viewport size. No new technique, we can incoporate into other techniques",
+        "topic": "15. Use simple navigation concepts with consistent interaction patterns"
+      },
+      {
+        "id": "",
+        "content": "Advisory technique under 2.1.1",
+        "topic": "#16 Allow users to interact with hardware device buttons."
+      },
+      {
+        "id": "",
+        "content": "Add note to g202 about other external devices. Add in notes about support for device or bluetooth device.",
+        "topic": "#17 ensure interface can be used with bluetooth keyboard."
+      },
+      {
+        "id": "",
+        "content": "Advisory technique to 2.1.1",
+        "topic": "#18 Add shortcuts to allow users to jump to sections of page."
+      },
+      {
+        "id": "",
+        "content": "advisory technique for 1.4.4 or 1.4.8 to adjust visual presentation on mobile through a style switcher",
+        "topic": "#19 Provide a way for users to change font."
+      }
+    ],
+    "href": "/2014/06/20-mobile-a11y-minutes"
+  },
+  "2014-06-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/06/13-mobile-a11y-minutes"
+  },
+  "2014-06-06-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "4. Specify input type for numerical or character data"
+      },
+      {
+        "id": "item02",
+        "name": "#5 support characteristic properties for the platforms (font, etc.)"
+      },
+      {
+        "id": "item03",
+        "name": "6. Set the virtual keyboard to the type of data entry required (e.g. date picker, email keyboard with @ sign)"
+      },
+      {
+        "id": "item04",
+        "name": "7. Position important elements before the page scroll."
+      },
+      {
+        "id": "item05",
+        "name": "8 group elements that go together."
+      },
+      {
+        "id": "item06",
+        "name": "#9 Keep the page banner short to avoid unnecessary scrolling"
+      },
+      {
+        "id": "item07",
+        "name": "10 place buttons where they are easy to access."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "",
+        "content": "Modify item #13 from survey text and name and reference UAAG and be a ST under 1.3.1"
+      },
+      {
+        "id": "",
+        "content": "would be to very and make sure we have this covered under current ST and add a mobile example to those.",
+        "topic": "8 group elements that go together."
+      }
+    ],
+    "href": "/2014/06/06-mobile-a11y-minutes"
+  },
+  "2014-06-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Make Clickable Objects appear clickable"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/06/02-mobile-a11y-minutes"
+  },
+  "2014-05-30-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "New Mobile WCAG Techniques & Best Practices survey  continue to review survey"
+      },
+      {
+        "id": "item02",
+        "name": "11 position form fields labels above the field - already advisory for SC 3.3.2 and covered by G162."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/05/30-mobile-a11y-minutes"
+  },
+  "2014-05-16-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey Q1"
+      },
+      {
+        "id": "item02",
+        "name": "Survey Q2"
+      },
+      {
+        "id": "item03",
+        "name": "3. Provide instructions for custom functions and gestures"
+      },
+      {
+        "id": "item04",
+        "name": "next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/05/16-mobile-a11y-minutes"
+  },
+  "2014-05-09-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile techniques"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/05/09-mobile-a11y-minutes"
+  },
+  "2014-05-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2014/05/02-mobile-a11y-minutes"
+  },
+  "2014-04-25-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Jan will take us through his analysis of the BBC guidelines"
+      },
+      {
+        "id": "item02",
+        "name": "Brainstorm on responsive design"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/04/25-mobile-a11y-minutes"
+  },
+  "2014-04-11-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Jan will take us through his analysis of the BBC guidelines"
+      },
+      {
+        "id": "item02",
+        "name": "Other guidelines"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/04/11-mobile-a11y-minutes"
+  },
+  "2014-03-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Update from WCAG 2.0 meeting at CSUN regarding technique development"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/03/28-mobile-a11y-minutes"
+  },
+  "2014-03-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Keyboard Access & Mobile"
+      },
+      {
+        "id": "item02",
+        "name": "Next Steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/03/14-mobile-a11y-minutes"
+  },
+  "2014-03-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WCAG 2.0 Techniques & Understanding Documents"
+      },
+      {
+        "id": "item02",
+        "name": "Survey Results"
+      },
+      {
+        "id": "item03",
+        "name": "Gap Analysis with external mobile guidelines"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/03/07-mobile-a11y-minutes"
+  },
+  "2014-02-28-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "WCAG 2.0 Techniques & Understanding Documents"
+      },
+      {
+        "id": "item02",
+        "name": "What is missing from WCAG 2.0 for Mobile Web and Mobile Apps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/28-mobile-a11y-minutes"
+  },
+  "2014-02-21-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "New member introduction"
+      },
+      {
+        "id": "item02",
+        "name": "Survey email from Kathleen and Jan"
+      },
+      {
+        "id": "item03",
+        "name": "Survey goals discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/21-mobile-a11y-minutes"
+  },
+  "2014-02-14-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Survey Questions"
+      },
+      {
+        "id": "item02",
+        "name": "item #2 os on device"
+      },
+      {
+        "id": "item03",
+        "name": "How frequently do you do updates 1.2"
+      },
+      {
+        "id": "item04",
+        "name": "more granular than every day 1.4"
+      },
+      {
+        "id": "item05",
+        "name": "1.7-8 accessibility settings"
+      },
+      {
+        "id": "item06",
+        "name": "Preferences section"
+      },
+      {
+        "id": "item07",
+        "name": "Suggestions"
+      },
+      {
+        "id": "item08",
+        "name": "Demographics"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/14-mobile-a11y-minutes"
+  },
+  "2014-02-07-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Personas Survey Questions"
+      },
+      {
+        "id": "item02",
+        "name": "Mobile Accessibility Techniques Status"
+      },
+      {
+        "id": "item03",
+        "name": "Mobile Resources"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/02/07-mobile-a11y-minutes"
+  },
+  "2014-01-31-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile Accessibility Techniques"
+      },
+      {
+        "id": "item02",
+        "name": "How wide to we cast the net?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/01/31-mobile-a11y-minutes"
+  },
+  "2014-01-24-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Techniques Status"
+      },
+      {
+        "id": "item02",
+        "name": "Personas"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/01/24-mobile-a11y-minutes"
+  },
+  "2014-01-17-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "MATF Deliverables discussion starting with survey"
+      },
+      {
+        "id": "item02",
+        "name": "Discussion on Mobile Accessibility Techniques"
+      },
+      {
+        "id": "item03",
+        "name": "Resource List - what should we do to get this ready for publication?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/01/17-mobile-a11y-minutes"
+  },
+  "2014-01-10-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile Resources"
+      },
+      {
+        "id": "item02",
+        "name": "Review Mobile Challenges"
+      },
+      {
+        "id": "item03",
+        "name": "Review List of Mobile Assisitve Technologies"
+      },
+      {
+        "id": "item04",
+        "name": "Deliverables - Recap deliverables discussion, brainstorm ideas, and finalize deliverables"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2014/01/10-mobile-a11y-minutes"
+  },
+  "2013-12-20-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Mobile Resources and list of mobile assistive technologies"
+      },
+      {
+        "id": "item02",
+        "name": "Mobile Challenges"
+      },
+      {
+        "id": "item03",
+        "name": "Taskforce Deliverables"
+      },
+      {
+        "id": "item04",
+        "name": "Using Trackbot for Action Tracking  Jeanne"
+      },
+      {
+        "id": "item05",
+        "name": "Next Steps  next meeting will be Friday January 10"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/12/20-mobile-a11y-minutes"
+  },
+  "2013-12-13-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "review resources on wiki"
+      },
+      {
+        "id": "item02",
+        "name": "Discussion on mobile accessibility challenges"
+      },
+      {
+        "id": "item03",
+        "name": "http://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Mobile_Accessibility_Challenges"
+      },
+      {
+        "id": "item04",
+        "name": "Next Steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2013/12/13-mobile-a11y-minutes"
+  },
+  "2013-12-02-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force Teleconference",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2013/12/02-mobile-a11y-minutes"
+  },
+  "2013-11-19-mobile-a11y": {
+    "title": "Mobile Accessibility Task Force",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2013/11/19-mobile-a11y-minutes"
+  },
+  "2013-10-15-mobile-a11y": {
+    "title": "SV_MEETING_TITLE",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2013/10/15-mobile-a11y-minutes"
+  }
+}

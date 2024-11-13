@@ -1,0 +1,3015 @@
+{
+  "2024-11-12-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "2dda",
+        "name": "[new-ish] aria#2338 - PR on wiki archiving"
+      },
+      {
+        "id": "ac9f",
+        "name": "[ready?] aria #2312 / #2318 / PR #2321: PR naming/labelling convention"
+      },
+      {
+        "id": "8475",
+        "name": "aria #2238 / PR #2288: Fix commit log for specs with monorepo"
+      },
+      {
+        "id": "4c2f",
+        "name": "[rahim] aria #2287: Add ReSpec aliasing clarity in README.me's \"Editorial Documentation\" section"
+      },
+      {
+        "id": "4072",
+        "name": "[peter] aria #2231: turn on automatic prettier formatting for ARIA spec"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/12-aria-editors-minutes"
+  },
+  "2024-10-28-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "33e9",
+        "name": "[new] aria#2357 create repository for PDF-AAM work"
+      },
+      {
+        "id": "6646",
+        "name": "[needs reviews] aria #2133: respec dark mode"
+      },
+      {
+        "id": "1ce2",
+        "name": "[needs reviews] aria #2312 / #2318 / PR #2321: PR naming/labelling convention"
+      },
+      {
+        "id": "a7a0",
+        "name": "aria #2238 / PR #2288: Fix commit log for specs with monorepo"
+      },
+      {
+        "id": "456d",
+        "name": "[merge?] aria #2294 / PR #2307: Prettier throws errors on PRs opened from forks"
+      },
+      {
+        "id": "8a4b",
+        "name": "aria #2287: Add ReSpec aliasing clarity in README.me's \"Editorial Documentation\" section"
+      },
+      {
+        "id": "f18f",
+        "name": "aria #2286: Prettier removed a line break from a pre-formatted code example"
+      },
+      {
+        "id": "cd71",
+        "name": "aria #2231: [peter] turn on automatic prettier formatting for ARIA spec"
+      },
+      {
+        "id": "2e1b",
+        "name": "[status?] aria #2242: Netlify to replace pr-review"
+      },
+      {
+        "id": "d664",
+        "name": "[1 to go] aria #2228: re-direct \"moved\" PRs after merge (html-aam left with 1 PRs)"
+      },
+      {
+        "id": "fb22",
+        "name": "aria PR #2136 [james] Remove abbr elements"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/10/28-aria-editors-minutes"
+  },
+  "2024-10-14-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "8206",
+        "name": "Prettier support"
+      },
+      {
+        "id": "b6eb",
+        "name": "Dark Mode"
+      },
+      {
+        "id": "089d",
+        "name": "PR naming labeling conventions"
+      },
+      {
+        "id": "1daa",
+        "name": "Fix commit logs for specs with monorepo"
+      },
+      {
+        "id": "d508",
+        "name": "Add ReSpec aliasing clarity in README.me's \"Editorial Documentation\" section"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/10/14-aria-editors-minutes"
+  },
+  "2024-09-16-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2024/09/16-aria-editors-minutes"
+  },
+  "2024-08-19-aria-editors": {
+    "title": "ARIA Editors Meeting",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "aria #2312: Decide on PR naming/labelling convention"
+      },
+      {
+        "id": "t02",
+        "name": "aria #2238 / PR #2288: Fix commit log for specs with monorepo"
+      },
+      {
+        "id": "t03",
+        "name": "aria #2294 / PR #2307: Prettier throws errors on PRs opened from forks"
+      },
+      {
+        "id": "t04",
+        "name": "aria #2287: Add ReSpec aliasing clarity in README.me's \"Editorial Documentation\" section"
+      },
+      {
+        "id": "t05",
+        "name": "aria #2286: Prettier removed a line break from a pre-formatted code example"
+      },
+      {
+        "id": "t06",
+        "name": "[continue] monorepo"
+      },
+      {
+        "id": "t07",
+        "name": "[revisit] Remove abbr elements aria PR #2136"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/19-aria-editors-minutes"
+  },
+  "2024-08-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "AccName white space issues"
+      },
+      {
+        "id": "t02",
+        "name": "API Mappings for CSS"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/08/05-aria-editors-minutes"
+  },
+  "2024-07-08-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[continue] monorepo"
+      },
+      {
+        "id": "t02",
+        "name": "[continue] Remove abbr elements aria PR #2136"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/07/08-aria-editors-minutes"
+  },
+  "2024-05-13-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[new] css-aam (via aria #2155)"
+      },
+      {
+        "id": "t02",
+        "name": "[continue] monorepo hackathon"
+      },
+      {
+        "id": "t03",
+        "name": "[continue] review stale github issues (aria #2151)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/05/13-aria-editors-minutes"
+  },
+  "2024-04-15-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[new] review stale github issues (aria #2151)"
+      },
+      {
+        "id": "t02",
+        "name": "[continue] monorepo aria-common #110 // PR/Merge process (aria #2055)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/04/15-aria-editors-minutes"
+  },
+  "2024-03-04-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[new] respec dark mode (aria #2133 etc)"
+      },
+      {
+        "id": "t02",
+        "name": "[continue] aria-common #109 remove/replace aria-wg-active.md and"
+      },
+      {
+        "id": "t03",
+        "name": "[continue] modernizing aria.js (aria-common #104 & PR #106)"
+      },
+      {
+        "id": "t04",
+        "name": "[continue] PR/Merge process - async meeting? (aria #2055)"
+      },
+      {
+        "id": "t05",
+        "name": "[on Hold] aria #2113 Remove abbr elements (etc)"
+      },
+      {
+        "id": "t06",
+        "name": "[on Hold] roll out prettier setup - tracked via aria-common#99"
+      },
+      {
+        "id": "t07",
+        "name": "[on Hold] spec markup for advice for AT (jnurthen)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/03/04-aria-editors-minutes"
+  },
+  "2024-02-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[continue] aria-common #109 remove/replace aria-wg-active.md and"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/02/05-aria-editors-minutes"
+  },
+  "2024-01-22-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[new] aria-common #109 remove/replace aria-wg-active.md and"
+      },
+      {
+        "id": "t02",
+        "name": "[new] refs to HTML terms aria #1876"
+      },
+      {
+        "id": "t03",
+        "name": "[continue] automation and synonyms (via aria #2073)"
+      },
+      {
+        "id": "t04",
+        "name": "[continue] modernizing aria.js (aria-common #104 & PR #106)"
+      },
+      {
+        "id": "t05",
+        "name": "[continue] PR/Merge process - next steps after deep dive? (aria #2055)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/01/22-aria-editors-minutes"
+  },
+  "2023-12-11-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[continue] automation and synonyms (via aria#2073)"
+      },
+      {
+        "id": "t02",
+        "name": "[continue] modernizing aria.js (aria-common#104)"
+      },
+      {
+        "id": "t03",
+        "name": "[continue] PR/Merge process - next steps after deep dive?"
+      },
+      {
+        "id": "t04",
+        "name": "[continue] roll out prettier setup - tracked via aria-common#99"
+      },
+      {
+        "id": "t05",
+        "name": "[continue] retiring contributors.md across specs - tracked via aria-common#103)"
+      },
+      {
+        "id": "t06",
+        "name": "[on Hold] spec markup for advice for AT (jnurthen)"
+      },
+      {
+        "id": "t07",
+        "name": "what do we need to complete for 1.3 FPWD"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/12/11-aria-editors-minutes"
+  },
+  "2023-11-27-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "synonyms"
+      },
+      {
+        "id": "t02",
+        "name": "PR/Merge process - next steps after deep dive?"
+      },
+      {
+        "id": "t03",
+        "name": "roll out prettier setup - tracked via aria-common#99"
+      },
+      {
+        "id": "t04",
+        "name": "retiring contributors.md across specs - tracked via aria-common#103)"
+      },
+      {
+        "id": "t05",
+        "name": "spec markup for advice for AT (jnurthen)"
+      },
+      {
+        "id": "t06",
+        "name": "modernizing aria.js (aria-common#104)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/11/27-aria-editors-minutes"
+  },
+  "2023-10-30-aria-editors": {
+    "title": "ARIA Editors Meeting",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "[new] AccName#221 Ambiguous but normative requirement about hidden nodes is hidden by default in AccName w3c/accname#211 dmontalvo]"
+      },
+      {
+        "id": "t02",
+        "name": "[continue] roll out prettier setup to not just graphics-aria"
+      },
+      {
+        "id": "t03",
+        "name": "[continue] aria#1993 quo vadis contributors.md w3c/aria#1993"
+      },
+      {
+        "id": "t04",
+        "name": "[on Hold] spec markup for advice for AT (jnurthen)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/30-aria-editors-minutes"
+  },
+  "2023-10-16-aria-editors": {
+    "title": "ARIA Editors Meeting",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "* aria #2055 merging process blocking tests, implementors"
+      },
+      {
+        "id": "t02",
+        "name": "aria #2055 merging process blocking tests, implementors"
+      },
+      {
+        "id": "t03",
+        "name": "core-aam PR #193 blue tables"
+      },
+      {
+        "id": "t04",
+        "name": "aria-common - removing mapping tables code aria-common#101 [now merged]"
+      },
+      {
+        "id": "t05",
+        "name": "organizing ARIA 1.4 prioritization"
+      },
+      {
+        "id": "t06",
+        "name": "graphics-aria#10 prettier experiment (pkra)"
+      },
+      {
+        "id": "t07",
+        "name": "[continue] spec markup for advice for AT (jnurthen)"
+      },
+      {
+        "id": "t08",
+        "name": "[continue] following aria#1993 - quo vadis contributors.md w3c/aria#1993"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2023/10/16-aria-editors-minutes"
+  },
+  "2023-08-07-aria-editors": {
+    "title": "(MEETING TITLE)",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2023/08/07-aria-editors-minutes"
+  },
+  "2022-12-09-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2022/12/09-aria-editors-minutes"
+  },
+  "2022-10-28-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "WAI transitions update"
+      },
+      {
+        "id": "t02",
+        "name": "Testing check-in"
+      },
+      {
+        "id": "t03",
+        "name": "Security / privacy sections for AAMs"
+      },
+      {
+        "id": "t04",
+        "name": "Continue discussion of process"
+      },
+      {
+        "id": "t05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/28-aria-editors-minutes"
+  },
+  "2022-10-14-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Core-AAM update"
+      },
+      {
+        "id": "t02",
+        "name": "Editors group and calendar"
+      },
+      {
+        "id": "t03",
+        "name": "Testing check-in"
+      },
+      {
+        "id": "t04",
+        "name": "OpenUI liaising"
+      },
+      {
+        "id": "t05",
+        "name": "Editors discussion of process"
+      },
+      {
+        "id": "t06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/10/14-aria-editors-minutes"
+  },
+  "2022-08-19-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Follow up on Evergreen questions"
+      },
+      {
+        "id": "t02",
+        "name": "Updating workflow process for living standards"
+      },
+      {
+        "id": "t03",
+        "name": "Testing check-in -- taken up"
+      },
+      {
+        "id": "t04",
+        "name": "OpenUI liaising"
+      },
+      {
+        "id": "t05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/08/19-aria-editors-minutes"
+  },
+  "2022-08-03-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Testing update"
+      },
+      {
+        "id": "t02",
+        "name": "Accname checkin"
+      },
+      {
+        "id": "t03",
+        "name": "Term exports - repos checked for PRs and issues?"
+      },
+      {
+        "id": "t04",
+        "name": "OpenUI liaising"
+      },
+      {
+        "id": "t05",
+        "name": "Updating workflow process for living standards"
+      },
+      {
+        "id": "t06",
+        "name": "Publications for 2022"
+      },
+      {
+        "id": "t07",
+        "name": "Call time"
+      },
+      {
+        "id": "t08",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "r01",
+        "content": "new call time is Fridays at noon Boston time",
+        "topic": "Call time"
+      }
+    ],
+    "href": "/2022/08/03-aria-editors-minutes"
+  },
+  "2022-06-22-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Accname checkin"
+      },
+      {
+        "id": "t02",
+        "name": "Term exports check-in"
+      },
+      {
+        "id": "t03",
+        "name": "APG migration status -- taken up"
+      },
+      {
+        "id": "t04",
+        "name": "Translating APG"
+      },
+      {
+        "id": "t05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/06/22-aria-editors-minutes"
+  },
+  "2022-05-25-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Dangling APG migration tasks"
+      },
+      {
+        "id": "t02",
+        "name": "WAI site editing"
+      },
+      {
+        "id": "t03",
+        "name": "Automated change log <https://github.com/w3c/aria/pull/1695>"
+      },
+      {
+        "id": "t04",
+        "name": "Respec"
+      },
+      {
+        "id": "t05",
+        "name": "1.2 transition planning"
+      },
+      {
+        "id": "t06",
+        "name": "Plan to set up living standards for AAMs"
+      },
+      {
+        "id": "t07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/05/25-aria-editors-minutes"
+  },
+  "2022-04-27-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Update on APG migration"
+      },
+      {
+        "id": "t02",
+        "name": "1.2 transition planning"
+      },
+      {
+        "id": "t03",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/04/27-aria-editors-minutes"
+  },
+  "2022-03-30-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Update on APG migration"
+      },
+      {
+        "id": "t02",
+        "name": "Accname checkin"
+      },
+      {
+        "id": "t03",
+        "name": "Timelines checkin <https://www.w3.org/WAI/ARIA/project>"
+      },
+      {
+        "id": "t04",
+        "name": "Mapping tables issue checkin"
+      },
+      {
+        "id": "t05",
+        "name": "TPAC"
+      },
+      {
+        "id": "t06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/03/30-aria-editors-minutes"
+  },
+  "2022-02-16-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Mapping tables issue <https://github.com/w3c/core-aam/pull/105> checkin"
+      },
+      {
+        "id": "t02",
+        "name": "Towards retiring aria-common"
+      },
+      {
+        "id": "t03",
+        "name": "Cleaning up terms list to essentials"
+      },
+      {
+        "id": "t04",
+        "name": "Mapping tables issue <https://github.com/w3c/core-aam/pull/105> checkin"
+      },
+      {
+        "id": "t05",
+        "name": "Towards retiring aria-common"
+      },
+      {
+        "id": "t06",
+        "name": "Learning ARIA test framework"
+      },
+      {
+        "id": "t07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/16-aria-editors-minutes"
+  },
+  "2022-02-02-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Source code maintenance tools <https://github.com/w3c/aria/issues/1106>"
+      },
+      {
+        "id": "t02",
+        "name": "Accname checkin"
+      },
+      {
+        "id": "t03",
+        "name": "Mapping tables issue <https://github.com/w3c/core-aam/pull/105>"
+      },
+      {
+        "id": "t04",
+        "name": "Towards retiring aria-common"
+      },
+      {
+        "id": "t05",
+        "name": "Cleaning up terms list to essentials"
+      },
+      {
+        "id": "t06",
+        "name": "Learning ARIA test framework"
+      },
+      {
+        "id": "t07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2022/02/02-aria-editors-minutes"
+  },
+  "2021-12-08-aria-editors": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Moving APG to W3C site"
+      },
+      {
+        "id": "t02",
+        "name": "Accname checkin"
+      },
+      {
+        "id": "t03",
+        "name": "spec-prod GitHub action replacing Travis"
+      },
+      {
+        "id": "t04",
+        "name": "Respec bug"
+      },
+      {
+        "id": "t05",
+        "name": "JQuery vulnerability"
+      },
+      {
+        "id": "t06",
+        "name": "Mapping tables bug"
+      },
+      {
+        "id": "t07",
+        "name": "Call time"
+      },
+      {
+        "id": "t08",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/12/08-aria-editors-minutes"
+  },
+  "2021-10-13-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Autopublishing"
+      },
+      {
+        "id": "t02",
+        "name": "Glossary project"
+      },
+      {
+        "id": "t03",
+        "name": "License"
+      },
+      {
+        "id": "t04",
+        "name": "APG Status"
+      },
+      {
+        "id": "t05",
+        "name": "1.2 Status"
+      },
+      {
+        "id": "t06",
+        "name": "1.3 Status"
+      },
+      {
+        "id": "t07",
+        "name": "DPub-ARIA status"
+      },
+      {
+        "id": "t08",
+        "name": "MDN documentation opportunities"
+      },
+      {
+        "id": "t09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/10/13-aria-editors-minutes"
+  },
+  "2021-07-21-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/07/21-aria-editors-minutes"
+  },
+  "2021-04-28-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Next steps on AccName"
+      },
+      {
+        "id": "t02",
+        "name": "Check in on moving APG to W3C site"
+      },
+      {
+        "id": "t03",
+        "name": "1.2 CR status"
+      },
+      {
+        "id": "t04",
+        "name": "Continue exploring testing changes"
+      },
+      {
+        "id": "t05",
+        "name": "Respec updates"
+      },
+      {
+        "id": "t06",
+        "name": "Onboarding check-in"
+      },
+      {
+        "id": "t07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/04/28-aria-editors-minutes"
+  },
+  "2021-04-14-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Stable branch in AccName"
+      },
+      {
+        "id": "t02",
+        "name": "Implementer attention"
+      },
+      {
+        "id": "t03",
+        "name": "Next steps on AccName"
+      },
+      {
+        "id": "t04",
+        "name": "Check in on moving APG to W3C site"
+      },
+      {
+        "id": "t05",
+        "name": "1.2 CR status"
+      },
+      {
+        "id": "t06",
+        "name": "Continue exploring testing changes"
+      },
+      {
+        "id": "t07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/04/14-aria-editors-minutes"
+  },
+  "2021-03-31-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Stable branch in AccName"
+      },
+      {
+        "id": "t02",
+        "name": "Next steps on AccName"
+      },
+      {
+        "id": "t03",
+        "name": "1.2 CR status"
+      },
+      {
+        "id": "t04",
+        "name": "Testing - WPT or other platforms, sharing the load"
+      },
+      {
+        "id": "t05",
+        "name": "Moving to latest version of respec"
+      },
+      {
+        "id": "t06",
+        "name": "Check in on moving abstract roles out of spec"
+      },
+      {
+        "id": "t07",
+        "name": "W3C Calendaring check-in"
+      },
+      {
+        "id": "t08",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/03/31-aria-editors-minutes"
+  },
+  "2021-03-17-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "Introducing Melanie Sumner"
+      },
+      {
+        "id": "t02",
+        "name": "Next steps on AccName"
+      },
+      {
+        "id": "t03",
+        "name": "1.2 CR"
+      },
+      {
+        "id": "t04",
+        "name": "1.3 FPWD"
+      },
+      {
+        "id": "t05",
+        "name": "Calendaring"
+      },
+      {
+        "id": "t06",
+        "name": "onboarding"
+      },
+      {
+        "id": "t07",
+        "name": "Abstract roles"
+      },
+      {
+        "id": "t08",
+        "name": "Code quality maintenance"
+      },
+      {
+        "id": "t09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/03/17-aria-editors-minutes"
+  },
+  "2021-03-03-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "ARIA 1.3 FPWD prep"
+      },
+      {
+        "id": "t02",
+        "name": "APG main branch renaming"
+      },
+      {
+        "id": "t03",
+        "name": "Topic from 11 Feb?"
+      },
+      {
+        "id": "t04",
+        "name": "Practices in non-TR incarnation"
+      },
+      {
+        "id": "t05",
+        "name": "Update to latest respec features"
+      },
+      {
+        "id": "t06",
+        "name": "Practices in non-TR incarnation"
+      },
+      {
+        "id": "t07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/03/03-aria-editors-minutes"
+  },
+  "2021-02-17-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "t01",
+        "name": "ARIA 1.2 check in"
+      },
+      {
+        "id": "t02",
+        "name": "ARIA 1.3 check in"
+      },
+      {
+        "id": "t03",
+        "name": "Maintainer for Practices repo"
+      },
+      {
+        "id": "t04",
+        "name": "APG transition repo"
+      },
+      {
+        "id": "t05",
+        "name": "respec-w3c profile"
+      },
+      {
+        "id": "t06",
+        "name": "GitHub discussions"
+      },
+      {
+        "id": "t07",
+        "name": "Main branch renaming"
+      },
+      {
+        "id": "t08",
+        "name": "Host access to Zoom"
+      },
+      {
+        "id": "t09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2021/02/17-aria-editors-minutes"
+  },
+  "2020-12-09-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Pull requests and aria-common"
+      },
+      {
+        "id": "item02",
+        "name": "Diagram in 5.3 need fixing or removing"
+      },
+      {
+        "id": "item03",
+        "name": "ARIA 1.2 update"
+      },
+      {
+        "id": "item04",
+        "name": "Publishing Practices on WAI site update"
+      },
+      {
+        "id": "item05",
+        "name": "aria-at update"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/12/09-aria-editors-minutes"
+  },
+  "2020-09-30-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "APG redesign project"
+      },
+      {
+        "id": "item02",
+        "name": "ARIA-AT status"
+      },
+      {
+        "id": "item03",
+        "name": "1.2 CR update"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/09/30-aria-editors-minutes"
+  },
+  "2020-09-02-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.2 and 1.3 publication status"
+      },
+      {
+        "id": "item02",
+        "name": "Changing to \"main\" branch"
+      },
+      {
+        "id": "item03",
+        "name": "PF wiki content"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/09/02-aria-editors-minutes"
+  },
+  "2020-08-19-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.2 and 1.3 publication status"
+      },
+      {
+        "id": "item02",
+        "name": "Migrating aria-at-app repo"
+      },
+      {
+        "id": "item03",
+        "name": "TPAC lightning talks"
+      },
+      {
+        "id": "item04",
+        "name": "TPAC"
+      },
+      {
+        "id": "item05",
+        "name": "Repository branch rename"
+      },
+      {
+        "id": "item06",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/08/19-aria-editors-minutes"
+  },
+  "2020-07-22-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Exporting definitions for aria-common"
+      },
+      {
+        "id": "item02",
+        "name": "Neutral language in specs"
+      },
+      {
+        "id": "item03",
+        "name": "New aria-at-app repo?"
+      },
+      {
+        "id": "item04",
+        "name": "1.2 CR"
+      },
+      {
+        "id": "item05",
+        "name": "Publication schedules"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/07/22-aria-editors-minutes"
+  },
+  "2020-06-10-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "synchronized pull requests"
+      },
+      {
+        "id": "item02",
+        "name": "aria-at demo"
+      },
+      {
+        "id": "item03",
+        "name": "aria-at boilerplate"
+      },
+      {
+        "id": "item04",
+        "name": "synchronized pull requests"
+      },
+      {
+        "id": "item05",
+        "name": "Code repo for aria-at"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/06/10-aria-editors-minutes"
+  },
+  "2020-05-27-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/05/27-aria-editors-minutes"
+  },
+  "2020-05-13-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.2 status"
+      },
+      {
+        "id": "item02",
+        "name": "aria-at status"
+      },
+      {
+        "id": "item03",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/05/13-aria-editors-minutes"
+  },
+  "2020-04-29-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Linear commit history"
+      },
+      {
+        "id": "item02",
+        "name": "Horizontal review labels"
+      },
+      {
+        "id": "item03",
+        "name": "Archive aria-annotation repo?"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/04/29-aria-editors-minutes"
+  },
+  "2020-04-15-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Respec validator https://github.com/marcoscaceres/respec-validator"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 ARIA references 1.1 APG"
+      },
+      {
+        "id": "item03",
+        "name": "pr-preview"
+      },
+      {
+        "id": "item04",
+        "name": "Respec training"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/04/15-aria-editors-minutes"
+  },
+  "2020-03-18-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "FYI broken Travis builds"
+      },
+      {
+        "id": "item02",
+        "name": "ARIA-AT hosting"
+      },
+      {
+        "id": "item03",
+        "name": "1.3 FPWD"
+      },
+      {
+        "id": "item04",
+        "name": "1.2 CR"
+      },
+      {
+        "id": "item05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/03/18-aria-editors-minutes"
+  },
+  "2020-01-22-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Zakim, start meeting"
+      },
+      {
+        "id": "item02",
+        "name": "Automatic review assignments"
+      },
+      {
+        "id": "item03",
+        "name": "Systematizing versioned cross references"
+      },
+      {
+        "id": "item04",
+        "name": "Automatic TR publication"
+      },
+      {
+        "id": "item05",
+        "name": "Status of moving APG off TR"
+      },
+      {
+        "id": "item06",
+        "name": "Stumbling on old versions"
+      },
+      {
+        "id": "item07",
+        "name": "Removing old editors drafts"
+      },
+      {
+        "id": "item08",
+        "name": "Adding \"outdated\" note to ARIA 1.0 Recommendation?"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2020/01/22-aria-editors-minutes"
+  },
+  "2019-12-11-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.2 publication status"
+      },
+      {
+        "id": "item02",
+        "name": "1.3 ramp-up"
+      },
+      {
+        "id": "item03",
+        "name": "Moving APG off TR"
+      },
+      {
+        "id": "item04",
+        "name": "1.3 ramp-up"
+      },
+      {
+        "id": "item05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/12/11-aria-editors-minutes"
+  },
+  "2019-11-13-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.3 publication"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 Publication status"
+      },
+      {
+        "id": "item03",
+        "name": "APG 1.2 r3"
+      },
+      {
+        "id": "item04",
+        "name": "Superseding UAIG"
+      },
+      {
+        "id": "item05",
+        "name": "MDN spec links https://w3c.github.io/mdn-spec-links/"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/11/13-aria-editors-minutes"
+  },
+  "2019-09-04-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "1.2 Publication Planning"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 completion tail"
+      },
+      {
+        "id": "item03",
+        "name": "APG 1.1r4 Announcements"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "1.2 Feature Complete is October 25",
+        "topic": "1.2 completion tail"
+      }
+    ],
+    "href": "/2019/09/04-aria-editors-minutes"
+  },
+  "2019-06-26-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "HTML 5 references"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 Publication planning"
+      },
+      {
+        "id": "item03",
+        "name": "APG 1.1 r4"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/06/26-aria-editors-minutes"
+  },
+  "2019-06-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Stale bot https://github.com/organizations/w3c/settings/installations/861735"
+      },
+      {
+        "id": "item02",
+        "name": "Travis-CI migrated to .com"
+      },
+      {
+        "id": "item03",
+        "name": "1.2 Publication planning"
+      },
+      {
+        "id": "item04",
+        "name": "APG 1.1 r 4"
+      },
+      {
+        "id": "item05",
+        "name": "Editors call schedule"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "change to every other Wednesday, starting 26 June",
+        "topic": "Editors call schedule"
+      }
+    ],
+    "href": "/2019/06/05-aria-editors-minutes"
+  },
+  "2019-04-03-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Publication planning"
+      },
+      {
+        "id": "item02",
+        "name": "FtF planning"
+      },
+      {
+        "id": "item03",
+        "name": "AOB"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/04/03-aria-editors-minutes"
+  },
+  "2019-03-06-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Process 2019"
+      },
+      {
+        "id": "item02",
+        "name": "Process for busy people"
+      },
+      {
+        "id": "item03",
+        "name": "Draft pull requests feature"
+      },
+      {
+        "id": "item04",
+        "name": "Mins2Issue tool"
+      },
+      {
+        "id": "item05",
+        "name": "Acknowledgements changes"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/03/06-aria-editors-minutes"
+  },
+  "2019-01-16-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "RFC2119 paragraph"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 publication before CSUN"
+      },
+      {
+        "id": "item03",
+        "name": "Acknowledgements"
+      },
+      {
+        "id": "item04",
+        "name": "Tools"
+      },
+      {
+        "id": "item05",
+        "name": "APG 1.1 updated Note"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/16-aria-editors-minutes"
+  },
+  "2019-01-02-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Keeping change logs up to date"
+      },
+      {
+        "id": "item02",
+        "name": "Branches to copy aria-common into"
+      },
+      {
+        "id": "item03",
+        "name": "Acknowledgements and authors"
+      },
+      {
+        "id": "item04",
+        "name": "APG 1.1 updated Note"
+      },
+      {
+        "id": "item05",
+        "name": "Next 1.2 round"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2019/01/02-aria-editors-minutes"
+  },
+  "2018-12-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Introducing Jemma, Practices TF co-facilitator"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 WDs"
+      },
+      {
+        "id": "item03",
+        "name": "Community group for aria-at https://www.w3.org/community/aria-at/"
+      },
+      {
+        "id": "item04",
+        "name": "APG index of examples, separate file or not?"
+      },
+      {
+        "id": "item05",
+        "name": "APG 1.1 republication"
+      },
+      {
+        "id": "item06",
+        "name": "APG index of examples, separate file or not?"
+      },
+      {
+        "id": "item07",
+        "name": "Open issues in aria-common https://github.com/w3c/aria-common/issues"
+      },
+      {
+        "id": "item08",
+        "name": "AOB"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "publish 1.2 second WD round",
+        "topic": "1.2 WDs"
+      }
+    ],
+    "href": "/2018/12/05-aria-editors-minutes"
+  },
+  "2018-11-07-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Charter update"
+      },
+      {
+        "id": "item02",
+        "name": "1.2 WDs"
+      },
+      {
+        "id": "item03",
+        "name": "Community group for aria-at"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/11/07-aria-editors-minutes"
+  },
+  "2018-10-03-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Charter update"
+      },
+      {
+        "id": "item02",
+        "name": "AccName PR"
+      },
+      {
+        "id": "item03",
+        "name": "1.2 WDs"
+      },
+      {
+        "id": "item04",
+        "name": "Check on GitHub / Travis usage"
+      },
+      {
+        "id": "item05",
+        "name": "Renaming aria-practices.html"
+      },
+      {
+        "id": "item06",
+        "name": "APG examples quality check"
+      },
+      {
+        "id": "item07",
+        "name": "AOB"
+      },
+      {
+        "id": "item08",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/10/03-aria-editors-minutes"
+  },
+  "2018-09-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Charter update"
+      },
+      {
+        "id": "item02",
+        "name": "Publication plans update"
+      },
+      {
+        "id": "item03",
+        "name": "GitHub Checks API and Travis Integration with GitHub Apps"
+      },
+      {
+        "id": "item04",
+        "name": "Scribe.js"
+      },
+      {
+        "id": "item05",
+        "name": "/scripts"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/09/05-aria-editors-minutes"
+  },
+  "2018-08-01-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Using Continuous Integration for automated quality checks"
+      },
+      {
+        "id": "item02",
+        "name": "Location of APG examples"
+      },
+      {
+        "id": "item03",
+        "name": "Merging into stable branches"
+      },
+      {
+        "id": "item04",
+        "name": "Editors' draft URIs"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/08/01-aria-editors-minutes"
+  },
+  "2018-07-18-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Making sure the right stuff goes into stable after being merged into master"
+      },
+      {
+        "id": "item02",
+        "name": "Editors draft URI for 1.2"
+      },
+      {
+        "id": "item03",
+        "name": "References format"
+      },
+      {
+        "id": "item04",
+        "name": "Change log for FPWD"
+      },
+      {
+        "id": "item05",
+        "name": "prevRecURI"
+      },
+      {
+        "id": "item06",
+        "name": "APG 1.1 publication"
+      },
+      {
+        "id": "item07",
+        "name": "AOB"
+      },
+      {
+        "id": "item08",
+        "name": "ARIA Practices filename"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/07/18-aria-editors-minutes"
+  },
+  "2018-05-16-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "FormerEditors option in respec"
+      },
+      {
+        "id": "item02",
+        "name": "Versioned vs unversioned references"
+      },
+      {
+        "id": "item03",
+        "name": "Unused GitHub Teams"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "ARIA specs should use versioned cross references, please update specs",
+        "topic": "Versioned vs unversioned references"
+      },
+      {
+        "id": "resolution02",
+        "content": "merge ARIA and ARIA Contributors team, delete ARIA Practives Guide",
+        "topic": "Unused GitHub Teams"
+      }
+    ],
+    "href": "/2018/05/16-aria-editors-minutes"
+  },
+  "2018-04-18-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/04/18-aria-editors-minutes"
+  },
+  "2018-04-04-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2018/04/04-aria-editors-minutes"
+  },
+  "2018-03-07-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Travis builds issue"
+      },
+      {
+        "id": "item02",
+        "name": "Deliverables for new charter"
+      },
+      {
+        "id": "item03",
+        "name": "ARIA-AT project"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/03/07-aria-editors-minutes"
+  },
+  "2018-02-21-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Shared acknowledgements file vs multiple sub-groups"
+      },
+      {
+        "id": "item02",
+        "name": "Biblio.js changes"
+      },
+      {
+        "id": "item03",
+        "name": "Stale branches in ARIA repo"
+      },
+      {
+        "id": "item04",
+        "name": "Editors, authors, platform maintainers, other credits"
+      },
+      {
+        "id": "item05",
+        "name": "Protected branches and options"
+      },
+      {
+        "id": "item06",
+        "name": "Repo manager and pr-preview"
+      },
+      {
+        "id": "item07",
+        "name": "Using projects for workflow"
+      },
+      {
+        "id": "item08",
+        "name": "AOB"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/02/21-aria-editors-minutes"
+  },
+  "2018-01-17-aria-editors": {
+    "title": "ARIA Editor",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Repo split update"
+      },
+      {
+        "id": "item02",
+        "name": "Branch cleanup, additional branch migration?"
+      },
+      {
+        "id": "item03",
+        "name": "Protected branches"
+      },
+      {
+        "id": "item04",
+        "name": "License change error"
+      },
+      {
+        "id": "item05",
+        "name": "Dealing with respec problems"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Editing methodology and branches"
+      },
+      {
+        "id": "item08",
+        "name": "AOB"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2018/01/17-aria-editors-minutes"
+  },
+  "2017-10-04-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Preparing for Proposed Recommendation: ARIA, Core-AAM, Dpub-ARIA, DPub-AAM"
+      },
+      {
+        "id": "item02",
+        "name": "Repository manager https://github.com/w3c/ash-nazg/"
+      },
+      {
+        "id": "item03",
+        "name": "Back to repo split plans"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/10/04-aria-editors-minutes"
+  },
+  "2017-06-21-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "APG license and contribution"
+      },
+      {
+        "id": "item02",
+        "name": "APG June publication"
+      },
+      {
+        "id": "item03",
+        "name": "AOB"
+      },
+      {
+        "id": "item04",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/06/21-aria-editors-minutes"
+  },
+  "2017-05-17-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Status of testing"
+      },
+      {
+        "id": "item02",
+        "name": "Status of DPub-AAM"
+      },
+      {
+        "id": "item03",
+        "name": "Status of APG"
+      },
+      {
+        "id": "item04",
+        "name": "Document License vs Document and Software License"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/05/17-aria-editors-minutes"
+  },
+  "2017-04-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "ariaChild and roleInfo should move from aria to common?"
+      },
+      {
+        "id": "item02",
+        "name": "Add property support to ariachild?"
+      },
+      {
+        "id": "item03",
+        "name": "How can editors support testing?"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/04/05-aria-editors-minutes"
+  },
+  "2017-03-15-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "DPub-AAM CR status"
+      },
+      {
+        "id": "item02",
+        "name": "Core-AAM and AccName-AAM CR readiness"
+      },
+      {
+        "id": "item03",
+        "name": "pr-preview tool https://lists.w3.org/Archives/Public/spec-prod/2017JanMar/0047.html"
+      },
+      {
+        "id": "item04",
+        "name": "ARIA editors meeting frequency"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/03/15-aria-editors-minutes"
+  },
+  "2017-02-15-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project and publication"
+      },
+      {
+        "id": "item02",
+        "name": "Testing update"
+      },
+      {
+        "id": "item03",
+        "name": "CSUN check"
+      },
+      {
+        "id": "item04",
+        "name": "TR versioning https://www.w3.org/2017/02/tr-versioning/"
+      },
+      {
+        "id": "item05",
+        "name": "Repo split update"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/15-aria-editors-minutes"
+  },
+  "2017-02-01-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Practices go to multi-page?"
+      },
+      {
+        "id": "item03",
+        "name": "Repo split update"
+      },
+      {
+        "id": "item04",
+        "name": "Testing update"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/02/01-aria-editors-minutes"
+  },
+  "2017-01-04-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Repo split"
+      },
+      {
+        "id": "item03",
+        "name": "Testing update"
+      },
+      {
+        "id": "item04",
+        "name": "Respec"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2017/01/04-aria-editors-minutes"
+  },
+  "2016-12-07-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Upcoming holidays, work plan"
+      },
+      {
+        "id": "item03",
+        "name": "Update on common resources"
+      },
+      {
+        "id": "item04",
+        "name": "Branch protection"
+      },
+      {
+        "id": "item05",
+        "name": "Testing update"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/12/07-aria-editors-minutes"
+  },
+  "2016-11-16-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Difficulties using Respec"
+      },
+      {
+        "id": "item03",
+        "name": "Travis-CI build failures"
+      },
+      {
+        "id": "item04",
+        "name": "Respec a11y"
+      },
+      {
+        "id": "item05",
+        "name": "Update on common files repository"
+      },
+      {
+        "id": "item06",
+        "name": "Cleanup stuff migrated from repo"
+      },
+      {
+        "id": "item07",
+        "name": "AOB"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/16-aria-editors-minutes"
+  },
+  "2016-11-02-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Revisit approach to common files after repository split"
+      },
+      {
+        "id": "item03",
+        "name": "Use of releases in GitHub"
+      },
+      {
+        "id": "item04",
+        "name": "Use of milestones in GitHub"
+      },
+      {
+        "id": "item05",
+        "name": "Labels"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/11/02-aria-editors-minutes"
+  },
+  "2016-10-19-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Approach to common files after repository split https://lists.w3.org/Archives/Public/public-aria-editors/2016Oct/0008.html"
+      },
+      {
+        "id": "item03",
+        "name": "Integration with automated tests"
+      },
+      {
+        "id": "item04",
+        "name": "Issues with common tools check-in"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "take up option 1",
+        "topic": "Approach to common files after repository split https://lists.w3.org/Archives/Public/public-aria-editors/2016Oct/0008.html"
+      }
+    ],
+    "href": "/2016/10/19-aria-editors-minutes"
+  },
+  "2016-10-05-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check http://www.w3.org/WAI/ARIA/project"
+      },
+      {
+        "id": "item02",
+        "name": "Repository split progress and next steps"
+      },
+      {
+        "id": "item03",
+        "name": "Copyright for code samples"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/10/05-aria-editors-minutes"
+  },
+  "2016-09-07-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "Repository split update"
+      },
+      {
+        "id": "item03",
+        "name": "Inactive branch checkin"
+      },
+      {
+        "id": "item04",
+        "name": "Editorial practices after repository split"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/09/07-aria-editors-minutes"
+  },
+  "2016-08-03-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "HTTPS now required for TR links"
+      },
+      {
+        "id": "item03",
+        "name": "New Pubrules https://www.w3.org/pubrules/"
+      },
+      {
+        "id": "item04",
+        "name": "Repository split check-in"
+      },
+      {
+        "id": "item05",
+        "name": "Archiving inactive branches"
+      },
+      {
+        "id": "item06",
+        "name": "Towards publishing with Echidna"
+      },
+      {
+        "id": "item07",
+        "name": "AOB"
+      },
+      {
+        "id": "item08",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/08/03-aria-editors-minutes"
+  },
+  "2016-07-20-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "Branch cleanup ahead of repository split"
+      },
+      {
+        "id": "item03",
+        "name": "Archiving inactive branches"
+      },
+      {
+        "id": "item04",
+        "name": "CSS-AAM first repository split?"
+      },
+      {
+        "id": "item05",
+        "name": "Assigning issues to people who don't have commit access"
+      },
+      {
+        "id": "item06",
+        "name": "Respec Lint"
+      },
+      {
+        "id": "item07",
+        "name": "Security and Privacy sections?"
+      },
+      {
+        "id": "item08",
+        "name": "ARIA Roadmap retire"
+      },
+      {
+        "id": "item09",
+        "name": "Practices examples and references"
+      },
+      {
+        "id": "item10",
+        "name": "AOB"
+      },
+      {
+        "id": "item11",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "set up a team with non-commit access for all the ARIA repositories",
+        "topic": "Assigning issues to people who don't have commit access"
+      },
+      {
+        "id": "resolution02",
+        "content": "Retire ARIA Roadmap, after LC of 1.1",
+        "topic": "ARIA Roadmap retire"
+      }
+    ],
+    "href": "/2016/07/20-aria-editors-minutes"
+  },
+  "2016-07-06-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "Squashing on merge approaches"
+      },
+      {
+        "id": "item03",
+        "name": "Branch cleanup ahead of repository split"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/07/06-aria-editors-minutes"
+  },
+  "2016-06-15-aria-editors": {
+    "title": "ARIA editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "Commit history after branch merge"
+      },
+      {
+        "id": "item03",
+        "name": "When to remove editorial notes"
+      },
+      {
+        "id": "item04",
+        "name": "Changes to AXAPI names in mapping table https://github.com/w3c/aria/issues/399#issuecomment-225467723"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "editors should clear editorial notes when they see the need. Publishing contact will clear at PR and Rec. ... no requirement to date ednotes, but allowed. Ideal to have common format.",
+        "topic": "When to remove editorial notes"
+      }
+    ],
+    "href": "/2016/06/15-aria-editors-minutes"
+  },
+  "2016-06-01-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Respec / script issues still open?"
+      },
+      {
+        "id": "item02",
+        "name": "Check in on version branching vs repository split and publication timeline"
+      },
+      {
+        "id": "item03",
+        "name": "Timeline check"
+      },
+      {
+        "id": "item04",
+        "name": "AOB"
+      },
+      {
+        "id": "item05",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/06/01-aria-editors-minutes"
+  },
+  "2016-05-18-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Cross references after repository split"
+      },
+      {
+        "id": "item02",
+        "name": "1.0 Primer and Practices publication status"
+      },
+      {
+        "id": "item03",
+        "name": "TR HTTPS proposal https://lists.w3.org/Archives/Public/spec-prod/2016AprJun/0024.html"
+      },
+      {
+        "id": "item04",
+        "name": "Implementation readiness in Practices"
+      },
+      {
+        "id": "item05",
+        "name": "Timeline check for June publications"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/18-aria-editors-minutes"
+  },
+  "2016-05-04-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Script versions and central script repository update"
+      },
+      {
+        "id": "item02",
+        "name": "Repository split plan https://lists.w3.org/Archives/Public/public-aria-editors/2016May/0003.html"
+      },
+      {
+        "id": "item03",
+        "name": "Automated editors' draft https://lists.w3.org/Archives/Public/public-aria-editors/2016May/0004.html"
+      },
+      {
+        "id": "item04",
+        "name": "CSS-AAM https://github.com/w3c/aria/blob/master/css-aam/css-aam.html"
+      },
+      {
+        "id": "item05",
+        "name": "How should Respec handle headings"
+      },
+      {
+        "id": "item06",
+        "name": "Password role"
+      },
+      {
+        "id": "item07",
+        "name": "Next Meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/05/04-aria-editors-minutes"
+  },
+  "2016-04-20-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Version branching"
+      },
+      {
+        "id": "item02",
+        "name": "How should Respec handle headings"
+      },
+      {
+        "id": "item03",
+        "name": "Script versions and central repository update"
+      },
+      {
+        "id": "item04",
+        "name": "Repository split update"
+      },
+      {
+        "id": "item05",
+        "name": "Gh-Pages"
+      },
+      {
+        "id": "item06",
+        "name": "Absolute vs relative URIs"
+      },
+      {
+        "id": "item07",
+        "name": "Possible telecon pages"
+      },
+      {
+        "id": "item08",
+        "name": "AOB"
+      },
+      {
+        "id": "item09",
+        "name": "Status sections"
+      },
+      {
+        "id": "item10",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/04/20-aria-editors-minutes"
+  },
+  "2016-04-06-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Finishing current round of publications"
+      },
+      {
+        "id": "item02",
+        "name": "Timeline for next round of publications"
+      },
+      {
+        "id": "item03",
+        "name": "Pubfixes pull request https://github.com/w3c/aria/pull/301"
+      },
+      {
+        "id": "item04",
+        "name": "Impact of TR style redesign"
+      },
+      {
+        "id": "item05",
+        "name": "Central scripts repository https://www.w3.org/scripts/"
+      },
+      {
+        "id": "item06",
+        "name": "someone wanted a respec / aria JS fix for something but I can t remember what"
+      },
+      {
+        "id": "item07",
+        "name": "Repository split"
+      },
+      {
+        "id": "item08",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "ARIA 1.1 pseudo-LC in June, Core and AccName to follow a little after, everything else on its own timeline",
+        "topic": "Timeline for next round of publications"
+      }
+    ],
+    "href": "/2016/04/06-aria-editors-minutes"
+  },
+  "2016-03-16-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/03/16-aria-editors-minutes"
+  },
+  "2016-03-02-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Publication timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "scroll-to-fragID issue https://github.com/w3c/aria/pull/256"
+      },
+      {
+        "id": "item03",
+        "name": "new styles and respec broken"
+      },
+      {
+        "id": "item04",
+        "name": "scroll-to-fragID issue https://github.com/w3c/aria/pull/256"
+      },
+      {
+        "id": "item05",
+        "name": "Error recovery procedures"
+      },
+      {
+        "id": "item06",
+        "name": "Cleaning old branches, starting with merged branches in https://github.com/w3c/aria/branches/stale"
+      },
+      {
+        "id": "item07",
+        "name": "Migrate to submodules at version change? https://www.git-scm.com/book/en/v2/Git-Tools-Submodules"
+      },
+      {
+        "id": "item08",
+        "name": "AOB"
+      },
+      {
+        "id": "item09",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "accept Josephs pull request",
+        "topic": "scroll-to-fragID issue https://github.com/w3c/aria/pull/256"
+      },
+      {
+        "id": "resolution02",
+        "content": "editor gets to clear branches after merging them into master - authors, expect this! ... authors should use working branches for one item only. Create separate branches for separate actions.",
+        "topic": "Cleaning old branches, starting with merged branches in https://github.com/w3c/aria/branches/stale"
+      }
+    ],
+    "href": "/2016/03/02-aria-editors-minutes"
+  },
+  "2016-02-17-aria-editors": {
+    "title": "ARIA editors",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Publication timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "Primer https://github.com/w3c/aria/issues/249"
+      },
+      {
+        "id": "item03",
+        "name": "Documentation issues https://github.com/w3c/aria/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation"
+      },
+      {
+        "id": "item04",
+        "name": "Horizontal rules cleanup done? https://www.w3.org/2016/02/03-aria-editors-minutes.html#item05"
+      },
+      {
+        "id": "item05",
+        "name": "Document practices for pull requests http://www.w3.org/WAI/ARIA/track/actions/1754"
+      },
+      {
+        "id": "item06",
+        "name": "Old references"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      },
+      {
+        "id": "item08",
+        "name": "autopublish"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "publish ARIA primer and practices 1.0 as abandoned, strip content, redirect shortnames if possible",
+        "topic": "Primer https://github.com/w3c/aria/issues/249"
+      }
+    ],
+    "href": "/2016/02/17-aria-editors-minutes"
+  },
+  "2016-02-03-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Publication timeline check"
+      },
+      {
+        "id": "item02",
+        "name": "Restructuring repository repeat (see https://www.w3.org/2015/12/16-pf-editors-minutes.html#item01)"
+      },
+      {
+        "id": "item03",
+        "name": "Glossary stuff https://github.com/w3c/aria/issues/106 and https://github.com/w3c/aria/issues/76"
+      },
+      {
+        "id": "item04",
+        "name": "Pull request vs branch"
+      },
+      {
+        "id": "item05",
+        "name": "Horizontal rules between sections https://github.com/w3c/aria/issues/228"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/02/03-aria-editors-minutes"
+  },
+  "2016-01-20-aria-editors": {
+    "title": "Accessible Rich Internet Applications Working Group\n  Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Migration update"
+      },
+      {
+        "id": "item02",
+        "name": "Publication timeline check"
+      },
+      {
+        "id": "item03",
+        "name": "GitHub Issue Dashboard https://www.w3.org/Tools/gh-dashboard/"
+      },
+      {
+        "id": "item04",
+        "name": "Automated proofing"
+      },
+      {
+        "id": "item05",
+        "name": "AOB"
+      },
+      {
+        "id": "item06",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/20-aria-editors-minutes"
+  },
+  "2016-01-06-aria-editors": {
+    "title": "Protocols and Formats Working Group Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Migration update"
+      },
+      {
+        "id": "item02",
+        "name": "Test planning"
+      },
+      {
+        "id": "item03",
+        "name": "Publication timeline check"
+      },
+      {
+        "id": "item04",
+        "name": "Adopt an editorconfig? https://github.com/w3c/aria/issues/131"
+      },
+      {
+        "id": "item05",
+        "name": "Other source code style proposals"
+      },
+      {
+        "id": "item06",
+        "name": "AOB"
+      },
+      {
+        "id": "item07",
+        "name": "Next meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2016/01/06-aria-editors-minutes"
+  }
+}
