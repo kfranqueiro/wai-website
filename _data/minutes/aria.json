@@ -1,4 +1,43 @@
 {
+  "2024-11-14-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "ffff",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "1b49",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "ec3b",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "d450",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "5604",
+        "name": "Feature: Braille only regions for student testing"
+      },
+      {
+        "id": "d8ca",
+        "name": "Stop automatically exposing details relation for figure -> figcaption"
+      },
+      {
+        "id": "6f5f",
+        "name": "[AriaNotify] Is ariaNotify the best name for the new notification API?"
+      },
+      {
+        "id": "8070",
+        "name": "w3c/aria#2362"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/14-aria-minutes"
+  },
   "2024-11-07-aria": {
     "title": "ARIA WG",
     "topics": [

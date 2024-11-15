@@ -1,4 +1,33 @@
 {
+  "2024-11-14-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "dfe9",
+        "name": "Announcements"
+      },
+      {
+        "id": "214e",
+        "name": "Phase 2 of WCAG2ICT update"
+      },
+      {
+        "id": "913b",
+        "name": "WCAG2ICT work statement"
+      },
+      {
+        "id": "429d",
+        "name": "Part 2  Proposed outline for the WCAG2ICT explainer"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "747c",
+        "content": "The proposed WCAG2ICT Explainer outline is ready to send to the AG WG for review, as-is.",
+        "topic": "Part 2  Proposed outline for the WCAG2ICT explainer"
+      }
+    ],
+    "href": "/2024/11/14-wcag2ict-minutes"
+  },
   "2024-11-07-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [
