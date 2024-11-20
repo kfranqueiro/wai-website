@@ -1,4 +1,35 @@
 {
+  "2024-11-19-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "fa04",
+        "name": "Agenda for November 19, 2024"
+      },
+      {
+        "id": "9783",
+        "name": "Publication planning"
+      },
+      {
+        "id": "028a",
+        "name": "Issue 3174 - Multi-Thumb Slider missing top of thumb slider's ring on hover"
+      },
+      {
+        "id": "3e84",
+        "name": "Issue 3159 - Tooltip placement"
+      },
+      {
+        "id": "2ba2",
+        "name": "Issue 3154 - Developing a Keyboard Interface for charts and interactive graphics"
+      },
+      {
+        "id": "9c3c",
+        "name": "Issue 3153 - Request for design requirements in button pattern"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/19-aria-apg-minutes"
+  },
   "2024-11-12-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

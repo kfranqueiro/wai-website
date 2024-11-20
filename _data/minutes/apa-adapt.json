@@ -1,4 +1,23 @@
 {
+  "2024-11-19-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "eb31",
+        "name": "Introduction, logistics, updates as needed"
+      },
+      {
+        "id": "9758",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "ac40",
+        "name": "Symbols (Issue 240)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/19-adapt-minutes"
+  },
   "2024-11-12-adapt": {
     "title": "WAI-Adapt Teleconference",
     "topics": [

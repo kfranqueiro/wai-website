@@ -1,4 +1,70 @@
 {
+  "2024-11-19-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "ef77",
+        "name": "Intros and Annoucements"
+      },
+      {
+        "id": "3593",
+        "name": "Keyboard wrap-up briefing"
+      },
+      {
+        "id": "5fbd",
+        "name": "Intros and Annoucements"
+      },
+      {
+        "id": "a3a9",
+        "name": "Issue 2296 https://github.com/w3c/wcag/pull/2296/files"
+      },
+      {
+        "id": "aa46",
+        "name": "EN 301 549 Tool https://labs.etsi.org/rep/HF/en301549/-/issues/219"
+      },
+      {
+        "id": "c7eb",
+        "name": "Keyboard wrap-up briefing"
+      },
+      {
+        "id": "f965",
+        "name": "Issue 2296 https://github.com/w3c/wcag/pull/2296/files"
+      },
+      {
+        "id": "ad38",
+        "name": "WCAG 3 w3c/wcag3#129"
+      },
+      {
+        "id": "e387",
+        "name": "WCAG3 - check acknowledgements"
+      },
+      {
+        "id": "19ac",
+        "name": "WCAG3 - definitions"
+      },
+      {
+        "id": "9ac9",
+        "name": "WCAG3 - numbering"
+      },
+      {
+        "id": "1273",
+        "name": "WCAG3 - scope (to web)"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "9afe",
+        "content": "accept PR 2296 to update the Background section of WCAG 2.2 and 2.1",
+        "topic": "Issue 2296 https://github.com/w3c/wcag/pull/2296/files"
+      },
+      {
+        "id": "0088",
+        "content": "Approval for merging the changes into the Editors draft in preparation for CFC for publication",
+        "topic": "WCAG3 - scope (to web)"
+      }
+    ],
+    "href": "/2024/11/19-ag-minutes"
+  },
   "2024-11-12-ag": {
     "title": "AGWG-2024-11-12",
     "topics": [
