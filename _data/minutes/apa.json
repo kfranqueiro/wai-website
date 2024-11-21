@@ -1,4 +1,31 @@
 {
+  "2024-11-20-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "48c9",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "e63e",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "728d",
+        "name": "Comment review requests"
+      },
+      {
+        "id": "4248",
+        "name": "Actions check-in"
+      },
+      {
+        "id": "4f2f",
+        "name": "Other business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/20-apa-minutes"
+  },
   "2024-11-13-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [
