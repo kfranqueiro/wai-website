@@ -1,4 +1,38 @@
 {
+  "2024-11-21-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "1d1b",
+        "name": "Announcements"
+      },
+      {
+        "id": "2f29",
+        "name": "WCAG2ICT work statement update"
+      },
+      {
+        "id": "76bc",
+        "name": "Results of joint AG WG and WCAG2ICT TF leadership meeting"
+      },
+      {
+        "id": "b298",
+        "name": "Working session: Update the work statement PR"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "c402",
+        "content": "Remove bullet on \"providing a determination...\" from out of scope to add phil's suggested language (above in minutes) to the in-scope list.",
+        "topic": "Working session: Update the work statement PR"
+      },
+      {
+        "id": "f10a",
+        "content": "Move Level AAA to its own in-scope bullet and put it at the bottom of the list",
+        "topic": "Working session: Update the work statement PR"
+      }
+    ],
+    "href": "/2024/11/21-wcag2ict-minutes"
+  },
   "2024-11-14-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [

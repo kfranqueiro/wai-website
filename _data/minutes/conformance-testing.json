@@ -1,4 +1,27 @@
 {
+  "2024-11-21-wcag-act": {
+    "title": "Accessibility Conformance Testing Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Rule Reviews"
+      },
+      {
+        "id": "item02",
+        "name": "Outcome definition"
+      },
+      {
+        "id": "item03",
+        "name": "Secondary Requirement in Background"
+      },
+      {
+        "id": "item04",
+        "name": "External definitions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/21-wcag-act-minutes"
+  },
   "2024-11-07-wcag-act": {
     "title": "Accessibility Conformance Testing Teleconference",
     "topics": [

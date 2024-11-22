@@ -1,4 +1,39 @@
 {
+  "2024-11-21-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "2a5e",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "19c4",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "bd79",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "0959",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "07f5",
+        "name": "add mapping for html focusgroup attribute"
+      },
+      {
+        "id": "0bee",
+        "name": "Needs assignment: Spec for menu/menuitem does not provide enough author guidance for structure"
+      },
+      {
+        "id": "bae2",
+        "name": "WebKit does not fall back to 'nameFrom: contents'"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/21-aria-minutes"
+  },
   "2024-11-14-aria": {
     "title": "ARIA WG",
     "topics": [
