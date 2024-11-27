@@ -1,4 +1,35 @@
 {
+  "2024-11-26-ag": {
+    "title": "AGWG-2024-11-25",
+    "topics": [
+      {
+        "id": "3828",
+        "name": "Introduction to FPWD Guidance on Applying WCAG 2.2 to Mobile (WCAG2Mobile)(JJ)"
+      },
+      {
+        "id": "bc59",
+        "name": "Discussions of issues with publication"
+      },
+      {
+        "id": "0692",
+        "name": "Communications"
+      },
+      {
+        "id": "8b56",
+        "name": "Content Related Definitions (text, image, content, interactive component, etc.)"
+      },
+      {
+        "id": "c236",
+        "name": "Subgroup working sessions"
+      },
+      {
+        "id": "f8a0",
+        "name": "Keyboard feedback"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/11/26-ag-minutes"
+  },
   "2024-11-19-ag": {
     "title": "AGWG Teleconference",
     "topics": [
