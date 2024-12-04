@@ -1,4 +1,37 @@
 {
+  "2024-12-03-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "4d03",
+        "name": "Introductions and Annoucements"
+      },
+      {
+        "id": "3b6c",
+        "name": "WCAG 3 publication discussion https://w3c.github.io/wcag3/guidelines/"
+      },
+      {
+        "id": "f027",
+        "name": "Content Related Definitions (text, image, content, interactive component, etc.) https://github.com/w3c/wcag3/discussions/140"
+      },
+      {
+        "id": "3563",
+        "name": "WCAG 2.2 review of updates https://lists.w3.org/Archives/Public/public-wcag2-issues/2024Nov/0012.html"
+      },
+      {
+        "id": "4ede",
+        "name": "Sub-group working"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "f96f",
+        "content": "Approve PR 2858 to create an errata for Target Size Enhanced.",
+        "topic": "WCAG 2.2 review of updates https://lists.w3.org/Archives/Public/public-wcag2-issues/2024Nov/0012.html"
+      }
+    ],
+    "href": "/2024/12/03-ag-minutes"
+  },
   "2024-11-26-ag": {
     "title": "AGWG-2024-11-25",
     "topics": [

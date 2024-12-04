@@ -1,4 +1,27 @@
 {
+  "2024-12-03-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "868a",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "fc7a",
+        "name": "Publication planning"
+      },
+      {
+        "id": "a91b",
+        "name": "PR 2991 - Practice Page for Supporting High Contrast"
+      },
+      {
+        "id": "1ab5",
+        "name": "Issue 3154 - Developing a Keyboard Interface for charts and interactive graphics"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/03-aria-apg-minutes"
+  },
   "2024-11-19-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [
