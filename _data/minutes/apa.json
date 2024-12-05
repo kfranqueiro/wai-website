@@ -1,4 +1,43 @@
 {
+  "2024-12-04-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "4373",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "bb5b",
+        "name": "New on TR"
+      },
+      {
+        "id": "1489",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "0b0a",
+        "name": "Comment review requests"
+      },
+      {
+        "id": "ae4b",
+        "name": "CSS Update (Paul)"
+      },
+      {
+        "id": "7c7c",
+        "name": "Actions check-in"
+      },
+      {
+        "id": "da23",
+        "name": "Other business"
+      },
+      {
+        "id": "019d",
+        "name": "Be done"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/04-apa-minutes"
+  },
   "2024-11-20-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [

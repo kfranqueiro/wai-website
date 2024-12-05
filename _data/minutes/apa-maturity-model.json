@@ -1,4 +1,43 @@
 {
+  "2024-12-04-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "51e6",
+        "name": "New Business"
+      },
+      {
+        "id": "6c48",
+        "name": "Github Issue #233 2.4 Assessment Template Needs Correcting"
+      },
+      {
+        "id": "fae0",
+        "name": "Github Issue #234 2.4.1 Maturity Model Excel Spreadsheet Should be Deleted"
+      },
+      {
+        "id": "68ec",
+        "name": "Github Issue #232 Dimension Evaluation Instructions Are Problematic"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "eabf",
+        "content": "new wording to 2.4 is: The Maturity Model assessment template is a detailed prototype designed to track the accessibility maturity evaluation process outlined in this publication. Currently, it is available in Excel format. The future version is expected to be in HTML and may also be offered in other accessible, downloadable formats.",
+        "topic": "Github Issue #233 2.4 Assessment Template Needs Correcting"
+      },
+      {
+        "id": "edc7",
+        "content": "will delete 2.4.1",
+        "topic": "Github Issue #234 2.4.1 Maturity Model Excel Spreadsheet Should be Deleted"
+      },
+      {
+        "id": "434f",
+        "content": "change the wording to match the suggested text.",
+        "topic": "Github Issue #232 Dimension Evaluation Instructions Are Problematic"
+      }
+    ],
+    "href": "/2024/12/04-maturity-minutes"
+  },
   "2024-11-20-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [

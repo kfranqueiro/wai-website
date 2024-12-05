@@ -1,4 +1,23 @@
 {
+  "2024-12-04-rqtf": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "a790",
+        "name": "Accessibility of machine learning and generative AI."
+      },
+      {
+        "id": "cdfb",
+        "name": "Collaboration Tools Accessibility User Requirements."
+      },
+      {
+        "id": "6f49",
+        "name": "Miscellaneous topics."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/04-rqtf-minutes"
+  },
   "2024-11-20-rqtf": {
     "title": "(MEETING TITLE)",
     "topics": [
