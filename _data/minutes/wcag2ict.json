@@ -1,4 +1,31 @@
 {
+  "2024-12-05-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "50fb",
+        "name": "Announcements"
+      },
+      {
+        "id": "cde3",
+        "name": "Phase 2 of WCAG2ICT update - work statement"
+      },
+      {
+        "id": "4698",
+        "name": "Explainer for WCAG2ICT - Google Doc"
+      },
+      {
+        "id": "321f",
+        "name": "Level AAA Success Criteria"
+      },
+      {
+        "id": "94f2",
+        "name": "Availability for December 12th meeting?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/05-wcag2ict-minutes"
+  },
   "2024-11-21-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [

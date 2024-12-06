@@ -1,4 +1,39 @@
 {
+  "2024-12-05-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "1b0c",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "de8a",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "529b",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "8f32",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "8ad9",
+        "name": "[html-aam] Make HTML img accname use title text if alt is empty"
+      },
+      {
+        "id": "4b53",
+        "name": "Consider allowing aria-valuetext for combobox role"
+      },
+      {
+        "id": "8798",
+        "name": "WebKit does not fall back to 'nameFrom: contents' on aria-describedby reference when referenced element contains role=\"status\" thus not announcing content via VoiceOver"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/05-aria-minutes"
+  },
   "2024-11-21-aria": {
     "title": "ARIA WG",
     "topics": [

@@ -1,4 +1,29 @@
 {
+  "2024-12-05-wcag-act": {
+    "title": "Accessibility Conformance Testing Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Annual Rule Reviews"
+      },
+      {
+        "id": "item02",
+        "name": "Add note to glossary"
+      },
+      {
+        "id": "item03",
+        "name": "Cancelling December 26, January 2nd"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "PR 580 approved",
+        "topic": "Add note to glossary"
+      }
+    ],
+    "href": "/2024/12/05-wcag-act-minutes"
+  },
   "2024-11-21-wcag-act": {
     "title": "Accessibility Conformance Testing Teleconference",
     "topics": [
