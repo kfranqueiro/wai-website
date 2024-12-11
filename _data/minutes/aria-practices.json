@@ -1,4 +1,35 @@
 {
+  "2024-12-10-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "f0ed",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "83a1",
+        "name": "Publication planning"
+      },
+      {
+        "id": "fb59",
+        "name": "PR 2991 - Practice Page for Supporting High Contrast"
+      },
+      {
+        "id": "227b",
+        "name": "Announcement of releases"
+      },
+      {
+        "id": "1629",
+        "name": "Issue 3145 - Mailing list question about disclosures and pattern choice"
+      },
+      {
+        "id": "4986",
+        "name": "Issue 3146 - Mailing list question about select drop downs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/10-aria-apg-minutes"
+  },
   "2024-12-03-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

@@ -1,4 +1,27 @@
 {
+  "2024-12-10-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "2c5a",
+        "name": "Introduction, logistics, updates as needed"
+      },
+      {
+        "id": "377f",
+        "name": "Email from COGA"
+      },
+      {
+        "id": "fd41",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "397f",
+        "name": "Symbols (Issue 240)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/10-adapt-minutes"
+  },
   "2024-11-19-adapt": {
     "title": "WAI-Adapt Teleconference",
     "topics": [

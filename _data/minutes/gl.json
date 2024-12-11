@@ -1,4 +1,23 @@
 {
+  "2024-12-10-ag": {
+    "title": "AGWG-2024-12-10",
+    "topics": [
+      {
+        "id": "851d",
+        "name": "Publishing First Public Working Draft (FPWD) of Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile https://w3c.github.io/matf/"
+      },
+      {
+        "id": "f7a3",
+        "name": "WCAG2ICT Scope"
+      },
+      {
+        "id": "965d",
+        "name": "Year end wrap and timeline for 2025"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/10-ag-minutes"
+  },
   "2024-12-03-ag": {
     "title": "AGWG Teleconference",
     "topics": [
