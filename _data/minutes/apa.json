@@ -1,4 +1,35 @@
 {
+  "2024-12-11-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "b81b",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "8bee",
+        "name": "New Charters Review"
+      },
+      {
+        "id": "e557",
+        "name": "New on TR"
+      },
+      {
+        "id": "28c7",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "efaa",
+        "name": "Comment review requests"
+      },
+      {
+        "id": "5489",
+        "name": "CSS Update (Paul)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/11-apa-minutes"
+  },
   "2024-12-04-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [

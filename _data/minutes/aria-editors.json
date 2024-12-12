@@ -1,4 +1,35 @@
 {
+  "2024-12-11-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "cdaa",
+        "name": "[new-ish] [daniel] aria#2374 Enabling suggestions to update pull request branches"
+      },
+      {
+        "id": "e024",
+        "name": "[new-ish] [james] aria#2226 remove spec specific css or inline it"
+      },
+      {
+        "id": "c6a6",
+        "name": "[new-ish] core-aam#238 Consider listing known downstream AT support in AAMs"
+      },
+      {
+        "id": "ab96",
+        "name": "[question: re-open?] aria#2048 deprecating aria-errormessage"
+      },
+      {
+        "id": "3a01",
+        "name": "[updated] [peter] aria#2338 - PR on wiki archiving"
+      },
+      {
+        "id": "3fae",
+        "name": "[daniel] PR #2288 : Fix commit log for specs with monorepo"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/11-aria-editors-minutes"
+  },
   "2024-11-27-aria-editors": {
     "title": "ARIA Editors",
     "topics": [],

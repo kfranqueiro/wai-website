@@ -1,4 +1,47 @@
 {
+  "2024-12-11-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "fb81",
+        "name": "Messaging update with Janina"
+      },
+      {
+        "id": "fbb3",
+        "name": "Determine if the proof points in the MM document and the assessment tool should be synced #228"
+      },
+      {
+        "id": "540c",
+        "name": "Use Cases update with Stacey and Jennifer"
+      },
+      {
+        "id": "7929",
+        "name": "Update on Github Issue #226 Resolution"
+      },
+      {
+        "id": "7ec8",
+        "name": "Github Issue #230 Proof Points Communication Tab (Excel) Duplication"
+      },
+      {
+        "id": "55c4",
+        "name": "Messaging update with Janina -- taken up"
+      },
+      {
+        "id": "ab84",
+        "name": "Github Issue #231 Excel Workbook - Duplicate Proofpoint"
+      },
+      {
+        "id": "c6eb",
+        "name": "Jeff wants to know about syncing"
+      },
+      {
+        "id": "07ae",
+        "name": "Github Issue #126 Update / NEWEST DLC Spreadsheet - Step 2"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/11-maturity-minutes"
+  },
   "2024-12-04-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [
