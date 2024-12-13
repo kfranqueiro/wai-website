@@ -1,4 +1,31 @@
 {
+  "2024-12-12-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "b4eb",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "22d9",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "b1fa",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "9ae0",
+        "name": "[accname] Explicitly state UAs must ignore aria-label for slots"
+      },
+      {
+        "id": "6c78",
+        "name": "[AriaNotify] Naming for the priority property"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/12-aria-minutes"
+  },
   "2024-12-05-aria": {
     "title": "ARIA WG",
     "topics": [

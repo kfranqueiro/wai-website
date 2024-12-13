@@ -1,4 +1,23 @@
 {
+  "2024-12-12-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "dccd",
+        "name": "Announcements"
+      },
+      {
+        "id": "47d3",
+        "name": "Explainer"
+      },
+      {
+        "id": "379f",
+        "name": "Priority of Level AAA"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/12-wcag2ict-minutes"
+  },
   "2024-12-05-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [
