@@ -1,4 +1,27 @@
 {
+  "2024-12-17-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "abb4",
+        "name": "Introduction, logistics, updates as needed"
+      },
+      {
+        "id": "7834",
+        "name": "Face to face meeting planning"
+      },
+      {
+        "id": "d99b",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "159a",
+        "name": "Symbols Progress"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/17-adapt-minutes"
+  },
   "2024-12-10-adapt": {
     "title": "WAI-Adapt Teleconference",
     "topics": [
