@@ -1,4 +1,27 @@
 {
+  "2024-12-18-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "0a40",
+        "name": "New Business"
+      },
+      {
+        "id": "95c8",
+        "name": "Github Issue #148 Add information fields for metadata for each dimension"
+      },
+      {
+        "id": "edc3",
+        "name": "Github Issue #172 Proof Point Discrepancies between Specification and Template"
+      },
+      {
+        "id": "f8c0",
+        "name": "Github Issue #193 Apendix Roles need updating (feature request)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/18-maturity-minutes"
+  },
   "2024-12-11-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [

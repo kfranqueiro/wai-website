@@ -1,4 +1,43 @@
 {
+  "2024-12-18-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "4582",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "8705",
+        "name": "New Charters Review"
+      },
+      {
+        "id": "6f55",
+        "name": "New on TR"
+      },
+      {
+        "id": "95dc",
+        "name": "New Charters Review"
+      },
+      {
+        "id": "e99d",
+        "name": "New on TR"
+      },
+      {
+        "id": "e1f8",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "72b2",
+        "name": "Comment review requests"
+      },
+      {
+        "id": "59cd",
+        "name": "Other business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/18-apa-minutes"
+  },
   "2024-12-11-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [
