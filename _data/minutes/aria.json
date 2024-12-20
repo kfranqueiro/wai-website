@@ -1,4 +1,39 @@
 {
+  "2024-12-19-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "1772",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "8322",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "85a2",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "a1c0",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "4a8e",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "146c",
+        "name": "[accname] Explicitly state UAs must ignore aria-label for slots"
+      },
+      {
+        "id": "9b1a",
+        "name": "Recently updated non html-aam PRs"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2024/12/19-aria-minutes"
+  },
   "2024-12-12-aria": {
     "title": "ARIA WG",
     "topics": [
