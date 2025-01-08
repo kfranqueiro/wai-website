@@ -1,4 +1,31 @@
 {
+  "2025-01-07-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Announcements & Introductions"
+      },
+      {
+        "id": "item02",
+        "name": "WCAG2 scoping discussion https://github.com/w3c/wcag/discussions/4188"
+      },
+      {
+        "id": "item03",
+        "name": "Current sub-group checkins (Voice Control, Text Appearance, Text to Speech, Views, Keyboard)"
+      },
+      {
+        "id": "item04",
+        "name": "Future Sub-group breakdown & prep"
+      },
+      {
+        "id": "item05",
+        "name": "Current sub-group work"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/07-ag-minutes"
+  },
   "2024-12-10-ag": {
     "title": "AGWG-2024-12-10",
     "topics": [
