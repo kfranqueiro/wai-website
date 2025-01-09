@@ -1,4 +1,30 @@
 {
+  "2025-01-08-rqtf": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "2f26",
+        "name": "Collaboration Tools Accessibility User Requirements."
+      },
+      {
+        "id": "cbed",
+        "name": "Accessibility of machine learning and generative AI."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "4b70",
+        "content": "RQTF requets APA publish CTAUR cu",
+        "topic": "Collaboration Tools Accessibility User Requirements."
+      },
+      {
+        "id": "2b8e",
+        "content": "RQTF requests APA publish CTAUR (https://w3c.github.io/ctaur/) as a Note.",
+        "topic": "Collaboration Tools Accessibility User Requirements."
+      }
+    ],
+    "href": "/2025/01/08-rqtf-minutes"
+  },
   "2024-12-04-rqtf": {
     "title": "(MEETING TITLE)",
     "topics": [

@@ -1,4 +1,31 @@
 {
+  "2025-01-08-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "dae3",
+        "name": "[updates?] [daniel] aria#2374 Enabling suggestions to update pull request branches"
+      },
+      {
+        "id": "33ba",
+        "name": "[new] aria #1862 Remove aria-expanded from listbox"
+      },
+      {
+        "id": "3e52",
+        "name": "[new] [peter] [aria#2230](w3c/aria#2230"
+      },
+      {
+        "id": "f340",
+        "name": "[urgent?] [james] aria#2226 remove spec specific css or inline it"
+      },
+      {
+        "id": "ce0b",
+        "name": "[wrap up?] [scott] aria #2228 : re-direct \"moved\" PRs after merge (html-aam left with 1 PRs)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/08-aria-editors-minutes"
+  },
   "2024-12-11-aria-editors": {
     "title": "ARIA Editors",
     "topics": [

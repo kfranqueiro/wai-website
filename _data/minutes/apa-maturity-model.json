@@ -1,4 +1,23 @@
 {
+  "2025-01-08-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "5241",
+        "name": "New Business"
+      },
+      {
+        "id": "14c7",
+        "name": "Publication Preparation"
+      },
+      {
+        "id": "7e22",
+        "name": "Github Issue #228 Determine if the proof points in the MM document and the assessment tool should be synced"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/08-maturity-minutes"
+  },
   "2024-12-18-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [
