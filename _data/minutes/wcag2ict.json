@@ -1,4 +1,29 @@
 {
+  "2025-01-09-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "1b49",
+        "name": "Announcements"
+      },
+      {
+        "id": "8ac0",
+        "name": "WCAG2ICT Phase 2 Work Statement"
+      },
+      {
+        "id": "2f70",
+        "name": "WCAG2ICT Explainer Outline"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "f90b",
+        "content": "Once all of the noted edits have been incorporated into the work statement, it is ready to send to the AG WG for review and approval.",
+        "topic": "WCAG2ICT Phase 2 Work Statement"
+      }
+    ],
+    "href": "/2025/01/09-wcag2ict-minutes"
+  },
   "2024-12-12-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [

@@ -1,4 +1,39 @@
 {
+  "2025-01-09-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "f584",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "38ce",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "057b",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "56e1",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "5464",
+        "name": "Discussion of deprecation"
+      },
+      {
+        "id": "b105",
+        "name": "The content-visibility CSS property across browsers"
+      },
+      {
+        "id": "c522",
+        "name": "[accname] Explicitly state UAs must ignore aria-label for slots"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/09-aria-minutes"
+  },
   "2024-12-19-aria": {
     "title": "ARIA WG",
     "topics": [

@@ -1,4 +1,19 @@
 {
+  "2025-01-09-coga": {
+    "title": "WCAG 3 coordination subgroup",
+    "topics": [
+      {
+        "id": "4376",
+        "name": "AG's new paths to finish drafting WCAG 3"
+      },
+      {
+        "id": "7e25",
+        "name": "AG path participation survey"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/09-coga-minutes"
+  },
   "2025-01-06-coga": {
     "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
     "topics": [],
