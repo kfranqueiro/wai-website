@@ -1,4 +1,23 @@
 {
+  "2025-01-10-apa": {
+    "title": "APA Special Music Tech Telecon",
+    "topics": [
+      {
+        "id": "bc20",
+        "name": "Welcome and scribe rotation"
+      },
+      {
+        "id": "9c12",
+        "name": "Concept and possibilities -- Janina"
+      },
+      {
+        "id": "e2e4",
+        "name": "Concepts and possibilities -- Around the table"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/10-apa-minutes"
+  },
   "2025-01-08-apa": {
     "title": "APA Weekly Telecon",
     "topics": [
