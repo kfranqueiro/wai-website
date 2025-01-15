@@ -1,4 +1,35 @@
 {
+  "2025-01-14-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "966e",
+        "name": "APA Rechartering"
+      },
+      {
+        "id": "6cb1",
+        "name": "Introductions. Updates."
+      },
+      {
+        "id": "ddeb",
+        "name": "UK Face to Face planning"
+      },
+      {
+        "id": "1a44",
+        "name": "Symbols"
+      },
+      {
+        "id": "7b57",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "dea8",
+        "name": "Wiki Update"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/14-adapt-minutes"
+  },
   "2024-12-17-adapt": {
     "title": "WAI-Adapt Weekly Teleconference",
     "topics": [

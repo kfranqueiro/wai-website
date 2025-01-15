@@ -1,4 +1,47 @@
 {
+  "2025-01-14-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "c684",
+        "name": "Canceling next week's meeting"
+      },
+      {
+        "id": "81a0",
+        "name": "Publication planning"
+      },
+      {
+        "id": "ccea",
+        "name": "PR 3194 - Grid and table properties practice editorial fix"
+      },
+      {
+        "id": "fb59",
+        "name": "PR 2991 - Practice Page for Supporting High Contrast"
+      },
+      {
+        "id": "ff92",
+        "name": "Issue 3174 - Multi-thumb slider hover ring"
+      },
+      {
+        "id": "65ef",
+        "name": "Issue 3211 - Labeling tablist"
+      },
+      {
+        "id": "6500",
+        "name": "2991 preview generation"
+      },
+      {
+        "id": "1cbb",
+        "name": "Skipto"
+      },
+      {
+        "id": "2b21",
+        "name": "Live regions guidance"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/14-aria-apg-minutes"
+  },
   "2024-12-10-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

@@ -1,4 +1,35 @@
 {
+  "2025-01-14-ag": {
+    "title": "AGWG-2025-01-14",
+    "topics": [
+      {
+        "id": "34be",
+        "name": "Introduce updated WCAG2ICT work statement"
+      },
+      {
+        "id": "9312",
+        "name": "Introduce updated WCAG2ICT work statement"
+      },
+      {
+        "id": "1502",
+        "name": "CSUN Planning update"
+      },
+      {
+        "id": "2b02",
+        "name": "Onboarding discussion"
+      },
+      {
+        "id": "411f",
+        "name": "Review Handbook updates with exercise"
+      },
+      {
+        "id": "17dd",
+        "name": "Subgroup working sessions"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/14-ag-minutes"
+  },
   "2025-01-07-ag": {
     "title": "AGWG Teleconference",
     "topics": [
