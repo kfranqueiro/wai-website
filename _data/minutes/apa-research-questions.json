@@ -1,4 +1,27 @@
 {
+  "2025-01-15-rqtf": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "7093",
+        "name": "Collaboration Tools Accessibility User Requirements."
+      },
+      {
+        "id": "2fa2",
+        "name": "Accessibility of machine learning and generative AI."
+      },
+      {
+        "id": "dd74",
+        "name": "Reappraising our approach to github issue management."
+      },
+      {
+        "id": "2eba",
+        "name": "Miscellaneous topics."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/15-rqtf-minutes"
+  },
   "2025-01-08-rqtf": {
     "title": "(MEETING TITLE)",
     "topics": [

@@ -1,4 +1,31 @@
 {
+  "2025-01-15-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "3d5c",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "db12",
+        "name": "New Charters Review"
+      },
+      {
+        "id": "ed5b",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "9bab",
+        "name": "New on TR"
+      },
+      {
+        "id": "d922",
+        "name": "Comment review requests"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/15-apa-minutes"
+  },
   "2025-01-10-apa": {
     "title": "APA Special Music Tech Telecon",
     "topics": [

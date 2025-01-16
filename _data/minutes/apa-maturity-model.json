@@ -1,4 +1,42 @@
 {
+  "2025-01-15-maturity": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "0235",
+        "name": "New Business"
+      },
+      {
+        "id": "d8f4",
+        "name": "Publication Preparation"
+      },
+      {
+        "id": "aeab",
+        "name": "Github Issue #228 Determine if the proof points in the MM document and the assessment tool should be synced"
+      },
+      {
+        "id": "6ceb",
+        "name": "Publication Preparation"
+      },
+      {
+        "id": "9578",
+        "name": "Github Issue #228 Determine if the proof points in the MM document and the assessment tool should be synced"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "df97",
+        "content": "The approaches identified in this note are intended to influence organizational programs and advance accessibility focus from making digital assets and services accessible to creating an environment in which organizational maturity, specific to digital accessibility, may be measured and evaluated over time. This evolution towards",
+        "topic": "Publication Preparation"
+      },
+      {
+        "id": "c2e7",
+        "content": "The approaches identified in this note are intended to influence organizational programs and advance accessibility focus from making digital assets and services accessible to creating an environment in which organizational maturity, specific to digital accessibility, may be measured and evaluated over time. This evolution towards",
+        "topic": "Publication Preparation"
+      }
+    ],
+    "href": "/2025/01/15-maturity-minutes"
+  },
   "2025-01-08-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [
