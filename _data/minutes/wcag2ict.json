@@ -1,4 +1,31 @@
 {
+  "2025-01-16-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "f34d",
+        "name": "Announcements"
+      },
+      {
+        "id": "7af1",
+        "name": "Phase 2 of WCAG2ICT update  work statement"
+      },
+      {
+        "id": "d714",
+        "name": "WCAG2ICT Explainer Outline"
+      },
+      {
+        "id": "6fa0",
+        "name": "WCAG2ICT Issues/PRs status update"
+      },
+      {
+        "id": "aa87",
+        "name": "Alignment of subject matter experts (SMEs) with tech stack specific content."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/16-wcag2ict-minutes"
+  },
   "2025-01-09-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [

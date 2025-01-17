@@ -1,4 +1,23 @@
 {
+  "2025-01-16-coga": {
+    "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "372c",
+        "name": "mental health"
+      },
+      {
+        "id": "9db8",
+        "name": "github editing"
+      },
+      {
+        "id": "46a6",
+        "name": "user needs in issue paper"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/16-coga-minutes"
+  },
   "2025-01-13-coga": {
     "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
     "topics": [],

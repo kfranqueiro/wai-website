@@ -1,4 +1,59 @@
 {
+  "2025-01-16-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "ebe3",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "8ba4",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "a38d",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "91da",
+        "name": "Deep Dive planning - Content Visibility next Thursday, January 23rd"
+      },
+      {
+        "id": "8ae3",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "e287",
+        "name": "Deep Dive planning - Content Visibility next Thursday, January 23rd"
+      },
+      {
+        "id": "0d7a",
+        "name": "Rejoin working group if you haven't already"
+      },
+      {
+        "id": "f8cf",
+        "name": "Descendants of buttons with \"Children Presentational: True\"?"
+      },
+      {
+        "id": "5b63",
+        "name": "Clarify use case for aria-selected for 'grid' role descendants"
+      },
+      {
+        "id": "58d7",
+        "name": "Should the 'row' role really be necessary for parents of 'gridcell' and other cell role elements? agendabot]"
+      },
+      {
+        "id": "f356",
+        "name": "[accname] Explicitly state UAs must ignore aria-label for slots"
+      },
+      {
+        "id": "727c",
+        "name": "Write tests for input elements supplying name by aria-labelledby"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/16-aria-minutes"
+  },
   "2025-01-09-aria": {
     "title": "ARIA WG",
     "topics": [

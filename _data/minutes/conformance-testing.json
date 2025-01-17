@@ -1,4 +1,29 @@
 {
+  "2025-01-16-wcag-act": {
+    "title": "Accessibility Conformance Testing Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "F2F meeting February 6 & 7"
+      },
+      {
+        "id": "item02",
+        "name": "Rules format editorials"
+      },
+      {
+        "id": "item03",
+        "name": "Annual Rule Reviews"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Accept PR 582 as amended",
+        "topic": "Rules format editorials"
+      }
+    ],
+    "href": "/2025/01/16-wcag-act-minutes"
+  },
   "2024-12-05-wcag-act": {
     "title": "Accessibility Conformance Testing Teleconference",
     "topics": [
