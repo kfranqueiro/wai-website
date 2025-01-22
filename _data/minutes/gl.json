@@ -1,4 +1,23 @@
 {
+  "2025-01-21-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "b135",
+        "name": "Intros or Topics"
+      },
+      {
+        "id": "554b",
+        "name": "WCAG 2.x issue batch https://lists.w3.org/Archives/Public/public-wcag2-issues/2024Dec/0005.html"
+      },
+      {
+        "id": "cdb1",
+        "name": "WCAG 2 scoping discussion update https://github.com/w3c/wcag/discussions/4188#discussioncomment-11830612"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/21-ag-minutes"
+  },
   "2025-01-14-ag": {
     "title": "AGWG-2025-01-14",
     "topics": [
