@@ -1,4 +1,23 @@
 {
+  "2025-01-22-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "0b34",
+        "name": "[new] aria#2411 aria.js: always add \"Accessible Name Required\" to characteristics tables"
+      },
+      {
+        "id": "10d9",
+        "name": "[new] aria#2407 aria.js: drop \"deprecated on this role\""
+      },
+      {
+        "id": "1b79",
+        "name": "[new PR] [peter] aria#2226 remove spec specific css or inline it"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/22-aria-editors-minutes"
+  },
   "2025-01-08-aria-editors": {
     "title": "ARIA Editors",
     "topics": [
