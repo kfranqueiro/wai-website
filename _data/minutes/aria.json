@@ -1,4 +1,43 @@
 {
+  "2025-01-23-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "c0a4",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "5225",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "065e",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "1717",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "bbb4",
+        "name": "[\\[AriaNotify\\] Naming for the priority property](w3c/aria#2333)"
+      },
+      {
+        "id": "bbdd",
+        "name": "Consider ariaNotify being named a more general accessibility notification in HTML/DOM rather than an ARIA-specific mixin in the ARIA spec"
+      },
+      {
+        "id": "9de1",
+        "name": "Tentative: update point E. Host Language Label of the Acc Name algorithm"
+      },
+      {
+        "id": "78a0",
+        "name": "[\\[accname\\] Explicitly state UAs must ignore aria-label for slots](w3c/aria#2385)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/23-aria-minutes"
+  },
   "2025-01-16-aria": {
     "title": "ARIA WG",
     "topics": [

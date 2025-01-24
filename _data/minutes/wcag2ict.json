@@ -1,4 +1,31 @@
 {
+  "2025-01-23-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "010d",
+        "name": "Announcements"
+      },
+      {
+        "id": "40a6",
+        "name": "WCAG2ICT Issues/PRs status update"
+      },
+      {
+        "id": "6866",
+        "name": "Analysis of potential tech-specific Notes"
+      },
+      {
+        "id": "f9e0",
+        "name": "Analysis of potential normative language changes"
+      },
+      {
+        "id": "004c",
+        "name": "Develop WCAG2ICT \"Explainer\" Content"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/23-wcag2ict-minutes"
+  },
   "2025-01-16-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [
