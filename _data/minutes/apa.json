@@ -1,4 +1,31 @@
 {
+  "2025-01-24-apa": {
+    "title": "Special APA teleconference on Music Technology",
+    "topics": [
+      {
+        "id": "dd44",
+        "name": "Welcome, Scribe, Etc"
+      },
+      {
+        "id": "3a89",
+        "name": "Overivew of related work -- Janina"
+      },
+      {
+        "id": "f4d8",
+        "name": "Around the table for next steps"
+      },
+      {
+        "id": "5ba2",
+        "name": "Be done"
+      },
+      {
+        "id": "b4d3",
+        "name": "Next steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/24-apa-minutes"
+  },
   "2025-01-22-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [
