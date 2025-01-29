@@ -1,4 +1,35 @@
 {
+  "2025-01-28-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "5c9f",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "65e6",
+        "name": "Publication planning"
+      },
+      {
+        "id": "0fd3",
+        "name": "PR 3194 - Grid and table properties practice editorial fix"
+      },
+      {
+        "id": "8bf5",
+        "name": "PR 2991 - Practice Page for Supporting High Contrast"
+      },
+      {
+        "id": "f1fb",
+        "name": "PR 3214 - Multi-thumb slider fix"
+      },
+      {
+        "id": "ab2f",
+        "name": "Issue 3215 - Expandable region example"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/28-aria-apg-minutes"
+  },
   "2025-01-14-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

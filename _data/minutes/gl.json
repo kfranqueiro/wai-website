@@ -1,4 +1,25 @@
 {
+  "2025-01-28-ag": {
+    "title": "AGWG-2025-01-28",
+    "topics": [
+      {
+        "id": "4e16",
+        "name": "Assertions and Best Practices https://github.com/w3c/wcag3/discussions/120#discussioncomment-11854616"
+      },
+      {
+        "id": "5542",
+        "name": "Follow Up on Paths"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "4919",
+        "content": "We agree to allow for \"best practices\", sub-groups will collect things that fit the approach, and we will review those and the terminology in a future meeting",
+        "topic": "Assertions and Best Practices https://github.com/w3c/wcag3/discussions/120#discussioncomment-11854616"
+      }
+    ],
+    "href": "/2025/01/28-ag-minutes"
+  },
   "2025-01-21-ag": {
     "title": "AGWG Teleconference",
     "topics": [
