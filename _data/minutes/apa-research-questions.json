@@ -1,4 +1,23 @@
 {
+  "2025-01-29-rqtf": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "5b4c",
+        "name": "Accessibility of machine learning and generative AI."
+      },
+      {
+        "id": "0fa9",
+        "name": "Immersive Captions."
+      },
+      {
+        "id": "768e",
+        "name": "Miscellaneous topics."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/29-rqtf-minutes"
+  },
   "2025-01-22-rqtf": {
     "title": "(MEETING TITLE)",
     "topics": [
