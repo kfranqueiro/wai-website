@@ -1,4 +1,27 @@
 {
+  "2025-01-30-coga": {
+    "title": "COGA WCAG 3 Coordination Subgroup",
+    "topics": [
+      {
+        "id": "1db3",
+        "name": "github call"
+      },
+      {
+        "id": "b3ba",
+        "name": "Using the W3C calendar"
+      },
+      {
+        "id": "b58f",
+        "name": "Review current COGA representation on new WCAG 3 pathways"
+      },
+      {
+        "id": "1b4c",
+        "name": "Align on spreadsheet or other system that COGA's WCAG 3 coordination subgroup can use to add updates or raise concerns about how the different pathways are progressing"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/30-coga-minutes"
+  },
   "2025-01-27-coga": {
     "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
     "topics": [],

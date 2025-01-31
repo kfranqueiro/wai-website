@@ -1,4 +1,45 @@
 {
+  "2025-01-31-aria": {
+    "title": "(MEETING TITLE)",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2025/01/31-aria-minutes"
+  },
+  "2025-01-30-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "e452",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "761f",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "e310",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "e42f",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "10000",
+        "name": "Add Accessible Name Required row to each role's characteristics table where it is missing"
+      },
+      {
+        "id": "7f1b",
+        "name": "[aria] Drop deprecated on this role attributes from per-role tables"
+      },
+      {
+        "id": "4a5b",
+        "name": "Should the 'row' role really be necessary for parents of 'gridcell' and other cell role elements? agendabot]"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/30-aria-minutes"
+  },
   "2025-01-23-aria": {
     "title": "ARIA WG",
     "topics": [

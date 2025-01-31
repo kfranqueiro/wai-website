@@ -1,4 +1,23 @@
 {
+  "2025-01-30-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "b5cd",
+        "name": "Announcements"
+      },
+      {
+        "id": "7c29",
+        "name": "Phase 2 of WCAG2ICT update  work statement"
+      },
+      {
+        "id": "c2aa",
+        "name": "Work on Explainer Document https://docs.google.com/document/d/1hyei09Viby1bCoZnDLYwY9VWpzRvteK9pqt4v9sWCJE/edit?tab=t.0#heading=h.wlcptmhola14 ChrisLoiselle]"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/01/30-wcag2ict-minutes"
+  },
   "2025-01-23-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [
