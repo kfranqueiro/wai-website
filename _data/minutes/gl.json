@@ -1,4 +1,37 @@
 {
+  "2025-02-04-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "New members or topics"
+      },
+      {
+        "id": "item02",
+        "name": "announcements"
+      },
+      {
+        "id": "item03",
+        "name": "Silver Issues Ready To Close https://github.com/w3c/silver/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22survey%20%3A%20ready%20for%22"
+      },
+      {
+        "id": "item04",
+        "name": "WCAG 2.2 issues review https://lists.w3.org/Archives/Public/w3c-wai-gl/2025JanMar/0033.html"
+      },
+      {
+        "id": "item05",
+        "name": "Path update https://github.com/w3c/wcag3/wiki"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "resolution01",
+        "content": "Close Silver issues at https://github.com/w3c/silver/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22survey%20%3A%20ready%20for%22 as proposed",
+        "topic": "Silver Issues Ready To Close https://github.com/w3c/silver/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22survey%20%3A%20ready%20for%22"
+      }
+    ],
+    "href": "/2025/02/04-ag-minutes"
+  },
   "2025-01-28-ag": {
     "title": "AGWG-2025-01-28",
     "topics": [

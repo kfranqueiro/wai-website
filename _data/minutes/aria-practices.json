@@ -1,4 +1,27 @@
 {
+  "2025-02-04-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "305e",
+        "name": "Publication Status"
+      },
+      {
+        "id": "1056",
+        "name": "Publication Status"
+      },
+      {
+        "id": "f426",
+        "name": "Practice Page for Supporting color settings"
+      },
+      {
+        "id": "e68c",
+        "name": "Expandable region"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/04-aria-apg-minutes"
+  },
   "2025-01-28-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

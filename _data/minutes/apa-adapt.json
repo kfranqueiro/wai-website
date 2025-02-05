@@ -1,4 +1,23 @@
 {
+  "2025-02-04-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "aead",
+        "name": "APA Rechartering"
+      },
+      {
+        "id": "6569",
+        "name": "Well Known Destination Extension Demonstration"
+      },
+      {
+        "id": "fa9f",
+        "name": "Symbols"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/04-adapt-minutes"
+  },
   "2025-01-28-adapt": {
     "title": "WAI-Adapt Weekly Teleconference",
     "topics": [
