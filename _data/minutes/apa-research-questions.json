@@ -1,4 +1,23 @@
 {
+  "2025-02-05-rqtf": {
+    "title": "RQTF meeting",
+    "topics": [
+      {
+        "id": "4d33",
+        "name": "Accessibility of machine learning and generative AI."
+      },
+      {
+        "id": "fec0",
+        "name": "Characterization of Research Questions Task Force in APA Working Group Charter and revised W3C/wAI Web site."
+      },
+      {
+        "id": "8499",
+        "name": "Miscellaneous topics."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/05-rqtf-minutes"
+  },
   "2025-01-29-rqtf": {
     "title": "(MEETING TITLE)",
     "topics": [

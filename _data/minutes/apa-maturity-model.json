@@ -1,4 +1,23 @@
 {
+  "2025-02-05-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "0066",
+        "name": "New Business"
+      },
+      {
+        "id": "2671",
+        "name": "Publication Messaging Update"
+      },
+      {
+        "id": "2b43",
+        "name": "Recharter Discussion"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/05-maturity-minutes"
+  },
   "2025-01-29-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [

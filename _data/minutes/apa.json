@@ -1,4 +1,35 @@
 {
+  "2025-02-05-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "0002",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "0acf",
+        "name": "APA Re-chartering"
+      },
+      {
+        "id": "8059",
+        "name": "New on /TR"
+      },
+      {
+        "id": "dec7",
+        "name": "Other business"
+      },
+      {
+        "id": "7d43",
+        "name": "New on /TR"
+      },
+      {
+        "id": "c2d9",
+        "name": "Be done"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/05-apa-minutes"
+  },
   "2025-01-29-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [
