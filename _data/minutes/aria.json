@@ -1,4 +1,47 @@
 {
+  "2025-02-06-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "f3d7",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "608e",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "300f",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "af83",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "8030",
+        "name": "RFC to move DPUB-ARIA and DPUB-AAM to proposed recommendation"
+      },
+      {
+        "id": "c7eb",
+        "name": "Update text node definition"
+      },
+      {
+        "id": "3ad8",
+        "name": "Add normative text on calculating aria-level, aria-posinset, and aria-setsize"
+      },
+      {
+        "id": "85db",
+        "name": "Ambiguous but normative requirement about hidden nodes is hidden by default in AccName"
+      },
+      {
+        "id": "450f",
+        "name": "[AriaNotify] Scope proposal for V1 of API"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/06-aria-minutes"
+  },
   "2025-01-31-aria": {
     "title": "(MEETING TITLE)",
     "topics": [],

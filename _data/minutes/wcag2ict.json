@@ -1,4 +1,27 @@
 {
+  "2025-02-06-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "4b1f",
+        "name": "Announcements"
+      },
+      {
+        "id": "21f2",
+        "name": "Explainer"
+      },
+      {
+        "id": "2b58",
+        "name": "SC analysis kickoff"
+      },
+      {
+        "id": "0e5a",
+        "name": "Explainer"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/06-wcag2ict-minutes"
+  },
   "2025-01-30-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [
