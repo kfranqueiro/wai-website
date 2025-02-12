@@ -1,4 +1,23 @@
 {
+  "2025-02-11-ag": {
+    "title": "AGWG-2025-02-11",
+    "topics": [
+      {
+        "id": "0f3d",
+        "name": "WCAG 2 scoping discussion discussion update"
+      },
+      {
+        "id": "b50c",
+        "name": "Define a default Accessibility Support Set"
+      },
+      {
+        "id": "34ff",
+        "name": "Sub-group stand-up"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/11-ag-minutes"
+  },
   "2025-02-04-ag": {
     "title": "AGWG Teleconference",
     "topics": [

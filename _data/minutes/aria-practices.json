@@ -1,4 +1,39 @@
 {
+  "2025-02-11-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "a09e",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "c1cf",
+        "name": "Publication planning"
+      },
+      {
+        "id": "d821",
+        "name": "PR 2991 - Practice Page for Supporting color settings"
+      },
+      {
+        "id": "f245",
+        "name": "PR 3214 - Multi-thumb slider fix"
+      },
+      {
+        "id": "92f5",
+        "name": "Issue 3232 - rowgroup for table body"
+      },
+      {
+        "id": "80f1",
+        "name": "PR 3216 - Landmark pattern changes"
+      },
+      {
+        "id": "3c84",
+        "name": "Issue 3217 - Proposal for accessing context menu in trees"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/11-aria-apg-minutes"
+  },
   "2025-02-04-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

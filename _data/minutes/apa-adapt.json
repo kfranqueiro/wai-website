@@ -1,4 +1,29 @@
 {
+  "2025-02-11-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "0263",
+        "name": "Introductions, logistics"
+      },
+      {
+        "id": "46d7",
+        "name": "Calendar"
+      },
+      {
+        "id": "7ae9",
+        "name": "Symbols"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "cb13",
+        "content": "Submit a Well Known Destinations breakout meeting proposal (12 March deadline)",
+        "topic": "Calendar"
+      }
+    ],
+    "href": "/2025/02/11-adapt-minutes"
+  },
   "2025-02-04-adapt": {
     "title": "WAI-Adapt Weekly Teleconference",
     "topics": [
