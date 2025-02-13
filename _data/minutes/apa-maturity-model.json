@@ -1,4 +1,23 @@
 {
+  "2025-02-12-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "e156",
+        "name": "New Business"
+      },
+      {
+        "id": "4b54",
+        "name": "Github Issue ##226 Add an explanatory section on dimension goals and metrics"
+      },
+      {
+        "id": "138a",
+        "name": "Github Issue #228 Syncing proof points in the MM document and the assessment tool"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/12-maturity-minutes"
+  },
   "2025-02-05-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [

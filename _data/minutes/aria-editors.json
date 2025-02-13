@@ -1,4 +1,43 @@
 {
+  "2025-02-12-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "66e6",
+        "name": "[new] aria#2430 revisit PRs touching on posinset, setsize, level"
+      },
+      {
+        "id": "35f1",
+        "name": "more generally: old PRs"
+      },
+      {
+        "id": "9d42",
+        "name": "[new] html-aam#576 Clarify attribute mapping tables"
+      },
+      {
+        "id": "d6fb",
+        "name": "[hasUpdate] aria#2411 aria.js: always add \"Accessible Name Required\" to characteristics tables"
+      },
+      {
+        "id": "e1a6",
+        "name": "[revisit] html-aam#122"
+      },
+      {
+        "id": "552e",
+        "name": "[revisit] aria #2242 : Netlify to replace pr-review"
+      },
+      {
+        "id": "c296",
+        "name": "[revisit] aria#2407 aria.js: drop \"deprecated on this role\""
+      },
+      {
+        "id": "ff7b",
+        "name": "[hasUpdate] [peter] aria#2226 remove spec specific css or inline it"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/12-aria-editors-minutes"
+  },
   "2025-01-22-aria-editors": {
     "title": "ARIA Editors",
     "topics": [

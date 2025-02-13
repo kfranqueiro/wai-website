@@ -1,4 +1,31 @@
 {
+  "2025-02-12-apa": {
+    "title": "APA Weekly Telecon",
+    "topics": [
+      {
+        "id": "625b",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "4722",
+        "name": "FAST demo"
+      },
+      {
+        "id": "617e",
+        "name": "FAST plans"
+      },
+      {
+        "id": "06b3",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "4e9e",
+        "name": "Next time..."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/12-apa-minutes"
+  },
   "2025-02-05-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [
