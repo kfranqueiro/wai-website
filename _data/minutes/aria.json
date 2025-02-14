@@ -1,4 +1,43 @@
 {
+  "2025-02-13-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "f5a0",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "2e8e",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "6b79",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "dde2",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "1371",
+        "name": "Breakouts day"
+      },
+      {
+        "id": "6a80",
+        "name": "Remove group as allowed child of tree"
+      },
+      {
+        "id": "465f",
+        "name": "svg element in HTML-AAM, SVG-AAM and WAI-ARIA Graphics Module specs"
+      },
+      {
+        "id": "18e7",
+        "name": "[AriaNotify] Scope proposal for V1 of API"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/13-aria-minutes"
+  },
   "2025-02-06-aria": {
     "title": "ARIA WG",
     "topics": [
@@ -41,12 +80,6 @@
     ],
     "resolutions": [],
     "href": "/2025/02/06-aria-minutes"
-  },
-  "2025-01-31-aria": {
-    "title": "(MEETING TITLE)",
-    "topics": [],
-    "resolutions": [],
-    "href": "/2025/01/31-aria-minutes"
   },
   "2025-01-30-aria": {
     "title": "ARIA WG",
@@ -15606,5 +15639,11 @@
     "topics": [],
     "resolutions": [],
     "href": "/2007/06/20-aria-minutes"
+  },
+  "2025-01-31-aria": {
+    "title": "(MEETING TITLE)",
+    "topics": [],
+    "resolutions": [],
+    "href": "/2025/01/31-aria-minutes"
   }
 }

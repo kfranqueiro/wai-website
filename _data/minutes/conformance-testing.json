@@ -1,4 +1,19 @@
 {
+  "2025-02-13-wcag-act": {
+    "title": "Accessibility Conformance Testing Teleconference",
+    "topics": [
+      {
+        "id": "2ea2",
+        "name": "Visible label in Name; related Verbose examples"
+      },
+      {
+        "id": "130a",
+        "name": "update from f2f meeting"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/13-wcag-act-minutes"
+  },
   "2025-01-16-wcag-act": {
     "title": "Accessibility Conformance Testing Teleconference",
     "topics": [

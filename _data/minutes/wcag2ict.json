@@ -1,4 +1,19 @@
 {
+  "2025-02-13-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "ba7b",
+        "name": "Announcements"
+      },
+      {
+        "id": "3451",
+        "name": "Develop WCAG2ICT \"Explainer\" Content https://docs.google.com/document/d/1hyei09Viby1bCoZnDLYwY9VWpzRvteK9pqt4v9sWCJE/edit?tab=t.0#heading=h.wlcptmhola14"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/13-wcag2ict-minutes"
+  },
   "2025-02-06-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [
