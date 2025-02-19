@@ -1,4 +1,31 @@
 {
+  "2025-02-18-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "e089",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "cd4f",
+        "name": "Publication planning"
+      },
+      {
+        "id": "49aa",
+        "name": "PR 2991 - Practice Page for Supporting color settings"
+      },
+      {
+        "id": "625b",
+        "name": "Issue 3232 - rowgroup for table body"
+      },
+      {
+        "id": "2efd",
+        "name": "Issue 3238 - Hover moving focus in menus"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/18-aria-apg-minutes"
+  },
   "2025-02-11-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [

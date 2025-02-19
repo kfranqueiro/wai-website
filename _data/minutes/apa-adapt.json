@@ -1,4 +1,23 @@
 {
+  "2025-02-18-adapt": {
+    "title": "(MEETING TITLE)",
+    "topics": [
+      {
+        "id": "eade",
+        "name": "Introductions, Administratrivia"
+      },
+      {
+        "id": "0ac0",
+        "name": "Proposal for session on Well Known Destinations"
+      },
+      {
+        "id": "379d",
+        "name": "Symbols"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/18-adapt-minutes"
+  },
   "2025-02-11-adapt": {
     "title": "WAI-Adapt Weekly Teleconference",
     "topics": [
