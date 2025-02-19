@@ -4,30 +4,141 @@ IMPORTANT: When including within .md files, surround with {::nomarkdown}...{:/}
 Inputs:
 - group - group ID (i.e. a top-level key in _data/minutes/groups.json)
 {% endcomment %}
+<style>
+  .hide-minutes, .minutes-topics, .minutes-resolutions {
+    display: none;
+  }
+  .show-minutes {
+    display: block;
+  }
 
-<p>
-  <a href="./" aria-current="page">Minutes</a> |
-  <a href="topics/">Topics</a> |
-  <a href="resolutions/">Resolutions</a>
-</p>
+  .minutes-topics, .minutes-resolutions {
+    padding-block-end: 0.7em;
+  }
 
-{% include minutes/meta.liquid group=include.group %}
+  :is(.minutes-topics, .minutes-resolutions) p {
+    font-weight: bolder;
+  }
+
+  .minutes div:last-of-type {
+    padding-block-end: 2em;
+  }
+</style>
+
+<form id="minutes-config"">
+  <label for="show-year">Show minutes for year: </label>
+  <select id="show-year" name="show-year">
+    {%- assign current_year = 0 -%}
+    {% for minutes in site.data.minutes[include.group] %}
+      {%- capture year %}{{ minutes[0] | truncate: 4, ""}}{% endcapture -%}
+      {% if year != current_year %}
+        {%- assign current_year = year -%}
+        <option value="minutes-{{ year }}">{{ year }}</option>
+      {% endif %}
+    {% endfor %}
+    <option value="all">Show all years</option>
+  </select><br/>
+
+  <label><input type="checkbox" id="show-topics" name="show-topics" /> Show topics</label><br/>
+  <label><input type="checkbox" id="show-resolutions" name="show-resolutions" /> Show resolutions</label><br/>
+  <button>Update</button>
+</form>
 
 {%- assign current_year = 0 -%}
+{%- assign show_minutes = 'show-minutes' -%}
 {% for minutes in site.data.minutes[include.group] %}
   {%- capture date %}{{ minutes[0] | truncate: 10, "" }}{% endcapture -%}
   {%- capture year %}{{ date | truncate: 4, "" }}{% endcapture -%}
   {%- capture channel %}{{ minutes[0] | replace_first: date, "" | replace_first: "-", "" }}{% endcapture -%}
   {% if year != current_year %}
     {%- if current_year != 0 %}</ul></section>{% endif %}
-    {%- assign current_year = year -%}
-    <section id="minutes-{{ current_year }}">
-      <h2>{{ current_year }}</h2>
-      <ul>
-  {% endif %}
-        <li><a href="{{ minutes[1].href }}">{{ date | date: "%e %B" }}: {{ minutes[1].title }}</a></li>
+      {%- assign current_year = year -%}
+      <section id="minutes-{{ current_year }}" class="{{ show_minutes }}">
+        <h2>{{ current_year }}</h2>
+        <ul class="minutes">
+      {%- assign show_minutes = 'hide-minutes' -%}
+    {% endif %}
+          <li><a href="{{ minutes[1].href }}">{{ date | date: "%e %B" }}: {{ minutes[1].title }}</a>
+          {%- if minutes[1].topics.size > 0 -%}
+            <div class="minutes-topics">
+              <p>Topics</p>
+              <ul>
+              {%- for topic in minutes[1].topics %}
+                <li><a href="{{ topic.href }}">{{ topic.title }}</a></li>
+              {%- endfor -%}
+              </ul>
+            </div>
+          {%- endif %}
+          {%- if minutes[1].resolutions.size > 0 %}
+            <div class="minutes-resolutions">
+              <p>Resolutons</p>
+              <ul>
+              {% for resolution in minutes[1].resolutions %}
+                <li>
+                  {{ date | date: "%e %B" }}:
+                  {% if resolution.topic %}{{ resolution.topic }} - {% endif -%}
+                  <a href="{{ minutes[1].href }}#{{ resolution.id }}">
+                    {{- resolution.content | escape -}}
+                  </a>
+                </li>
+              {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+          </li>
 {% endfor %}
-{% if current_year != 0 %}
-      </ul>
-    </section>
-{% endif %}
+
+
+<script>
+  const config = document.querySelector("#minutes-config");
+  
+  function updateMinutes() {
+    const formData = new FormData(config);
+
+    var selectYear = formData.get("show-year");
+    if(selectYear == "all") {
+      var hiddenYears = document.querySelectorAll("section.hide-minutes");
+      hiddenYears.forEach((year) => {
+        year.classList.replace("hide-minutes", "show-minutes");
+      });
+    } else {
+      var showYear = document.querySelector("#" + selectYear);
+      var visibleYears = document.querySelectorAll("section.show-minutes");
+      visibleYears.forEach((year) => {
+        year.classList.replace("show-minutes", "hide-minutes");
+      });
+      showYear.classList.replace("hide-minutes", "show-minutes");
+    }
+
+    var showTopics = formData.get("show-topics");
+    if(showTopics) {
+      var topicsToShow = document.querySelectorAll("section.show-minutes .minutes-topics");
+      topicsToShow.forEach((topics) => {
+        topics.style.display = "block";
+      });
+    } else {
+      var allTopics = document.querySelectorAll(".minutes-topics");
+      allTopics.forEach((topics) => {
+        topics.style.display = "none";
+      });
+    }
+
+    var showResolutions = formData.get("show-resolutions");
+    if(showResolutions) {
+      var resolutionsToShow = document.querySelectorAll("section.show-minutes .minutes-resolutions");
+      resolutionsToShow.forEach((resolutions) => {
+        resolutions.style.display = "block";
+      });
+    } else {
+      var allResolutions = document.querySelectorAll(".minutes-resolutions");
+      allResolutions.forEach((resolutions) => {
+        resolutions.style.display = "none";
+      });
+    }
+  }
+
+  config.addEventListener("submit", (event) => {
+    event.preventDefault();
+    updateMinutes();
+  })
+</script>
