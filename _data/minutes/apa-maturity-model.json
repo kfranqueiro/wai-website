@@ -1,4 +1,29 @@
 {
+  "2025-02-19-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "e251",
+        "name": "New Business"
+      },
+      {
+        "id": "b6e3",
+        "name": "Github Issue ##226 Add an explanatory section on dimension goals and metrics"
+      },
+      {
+        "id": "9426",
+        "name": "Github Issue #228 Syncing proof points in the MM document and the assessment tool"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "610e",
+        "content": "The decision has been made to add an explanatory section on dimension goals and metrics at the beginning of Appendix, right before 4.1, according to Jeff's suggestion. Section 4.1 then becomes 4.2.",
+        "topic": "Github Issue ##226 Add an explanatory section on dimension goals and metrics"
+      }
+    ],
+    "href": "/2025/02/19-maturity-minutes"
+  },
   "2025-02-12-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [
