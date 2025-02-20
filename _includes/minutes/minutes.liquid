@@ -23,9 +23,13 @@ Inputs:
   .minutes div:last-of-type {
     padding-block-end: 2em;
   }
+
+  #minutes-config button {
+    margin-block-start: 1em;
+  }
 </style>
 
-<form id="minutes-config"">
+<form id="minutes-config">
   <label for="show-year">Show minutes for year: </label>
   <select id="show-year" name="show-year">
     {%- assign current_year = 0 -%}
@@ -45,7 +49,7 @@ Inputs:
 </form>
 
 {%- assign current_year = 0 -%}
-{%- assign show_minutes = 'show-minutes' -%}
+{%- assign minutes_class = 'show-minutes' -%}
 {% for minutes in site.data.minutes[include.group] %}
   {%- capture date %}{{ minutes[0] | truncate: 10, "" }}{% endcapture -%}
   {%- capture year %}{{ date | truncate: 4, "" }}{% endcapture -%}
@@ -53,10 +57,10 @@ Inputs:
   {% if year != current_year %}
     {%- if current_year != 0 %}</ul></section>{% endif %}
       {%- assign current_year = year -%}
-      <section id="minutes-{{ current_year }}" class="{{ show_minutes }}">
+      <section id="minutes-{{ current_year }}" class="{{ minutes_class }}">
         <h2>{{ current_year }}</h2>
         <ul class="minutes">
-      {%- assign show_minutes = 'hide-minutes' -%}
+      {%- assign minutes_class = 'hide-minutes' -%}
     {% endif %}
           <li><a href="{{ minutes[1].href }}">{{ date | date: "%e %B" }}: {{ minutes[1].title }}</a>
           {%- if minutes[1].topics.size > 0 -%}
@@ -71,7 +75,7 @@ Inputs:
           {%- endif %}
           {%- if minutes[1].resolutions.size > 0 %}
             <div class="minutes-resolutions hide-resolutions">
-              <p>Resolutons</p>
+              <p>Resolutions</p>
               <ul>
               {% for resolution in minutes[1].resolutions %}
                 <li>
@@ -90,55 +94,44 @@ Inputs:
 
 
 <script>
-  const config = document.querySelector("#minutes-config");
+  const config = document.getElementById("minutes-config");
   
   function updateMinutes() {
     const formData = new FormData(config);
 
-    var selectYear = formData.get("show-year");
-    if(selectYear == "all") {
+    const selectYear = formData.get("show-year");
+    if (selectYear == "all") {
       var hiddenYears = document.querySelectorAll("section.hide-minutes");
       hiddenYears.forEach((year) => {
         year.classList.replace("hide-minutes", "show-minutes");
       });
     } else {
-      var showYear = document.querySelector("#" + selectYear);
-      var visibleYears = document.querySelectorAll("section.show-minutes");
+      const showYear = document.getElementById(selectYear);
+      const visibleYears = document.querySelectorAll("section.show-minutes");
       visibleYears.forEach((year) => {
         year.classList.replace("show-minutes", "hide-minutes");
       });
       showYear.classList.replace("hide-minutes", "show-minutes");
     }
 
-    var showTopics = formData.get("show-topics");
-    if(showTopics) {
-      var topicsToShow = document.querySelectorAll("section.show-minutes .minutes-topics");
-      topicsToShow.forEach((topics) => {
-        topics.classList.replace("hide-topics", "show-topics");
-      });
-    } else {
-      var allTopics = document.querySelectorAll(".minutes-topics");
-      allTopics.forEach((topics) => {
-        topics.classList.replace("show-topics", "hide-topics");
-      });
-    }
-
-    var showResolutions = formData.get("show-resolutions");
-    if(showResolutions) {
-      var resolutionsToShow = document.querySelectorAll("section.show-minutes .minutes-resolutions");
-      resolutionsToShow.forEach((resolutions) => {
-        resolutions.classList.replace("hide-resolutions", "show-resolutions");
-      });
-    } else {
-      var allResolutions = document.querySelectorAll(".minutes-resolutions");
-      allResolutions.forEach((resolutions) => {
-        resolutions.classList.replace("show-resolutions", "hide-resolutions");
-      });
+    for (const type of ["topics", "resolutions"]) {
+      const shouldShow = formData.get(`show-${type}`);
+      if (shouldShow) {
+        const elementsToShow = document.querySelectorAll(`section.show-minutes .minutes-${type}`);
+        elementsToShow.forEach((elements) => {
+          elements.classList.replace(`hide-${type}`, `show-${type}`);
+        });
+      } else {
+        const allElements = document.querySelectorAll(`.minutes-${type}`);
+        allElements.forEach((element) => {
+          element.classList.replace(`show-${type}`, `hide-${type}`);
+        });
+      }
     }
   }
 
   config.addEventListener("submit", (event) => {
     event.preventDefault();
     updateMinutes();
-  })
+  });
 </script>
