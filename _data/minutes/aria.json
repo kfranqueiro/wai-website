@@ -1,4 +1,47 @@
 {
+  "2025-02-20-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "a402",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "2339",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "a38d",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "2fe9",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "eafc",
+        "name": "Remove name required from alertdialog, dialog, form, grid, radiogroup, table"
+      },
+      {
+        "id": "3fdc",
+        "name": "A generic element (with aria-live) intervening with the parent/descendant relationship."
+      },
+      {
+        "id": "470b",
+        "name": "Should the ARIA WG standardize heuristic-based ignoring of ARIA and related features? And if so, how? agendabot]"
+      },
+      {
+        "id": "56b0",
+        "name": "Group as allowed acc child of role menu if acc child of menuitem"
+      },
+      {
+        "id": "f632",
+        "name": "Should html aam provide mappings for other user agents?"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/20-aria-minutes"
+  },
   "2025-02-13-aria": {
     "title": "ARIA WG",
     "topics": [
