@@ -1,4 +1,23 @@
 {
+  "2025-02-18-ag": {
+    "title": "AG Weekly Teleconference",
+    "topics": [
+      {
+        "id": "d45d",
+        "name": "Handling Research"
+      },
+      {
+        "id": "ee25",
+        "name": "Views definition - update from the sub-group https://docs.google.com/presentation/d/1cBLfSLZLq_mjICN9IKWD4-4PIOxQQzwvdRBWzFBnsyA/edit#slide=id.p alastairc]"
+      },
+      {
+        "id": "5602",
+        "name": "Sub-group stand-up"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/18-ag-minutes"
+  },
   "2025-02-11-ag": {
     "title": "AGWG-2025-02-11",
     "topics": [
