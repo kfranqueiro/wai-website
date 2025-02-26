@@ -1,4 +1,31 @@
 {
+  "2025-02-25-adapt": {
+    "title": "WAI-Adapt Weekly Teleconference",
+    "topics": [
+      {
+        "id": "30c7",
+        "name": "Welcome, Announcements, and Administrivia"
+      },
+      {
+        "id": "2b57",
+        "name": "Chartered Deliverables Discussion -- https://https://raw.githack.com/w3c/apa/charter-2025/charter.html#deliverables"
+      },
+      {
+        "id": "3e30",
+        "name": "Welcome, Announcements, and Administrivia"
+      },
+      {
+        "id": "9678",
+        "name": "Chartered Deliverables Discussion -- https://https://raw.githack.com/w3c/apa/charter-2025/charter.html#deliverables"
+      },
+      {
+        "id": "bd7d",
+        "name": "Welcome, Announcements, and Administrivia"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/25-adapt-minutes"
+  },
   "2025-02-18-adapt": {
     "title": "(MEETING TITLE)",
     "topics": [

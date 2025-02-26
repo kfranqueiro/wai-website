@@ -1,4 +1,39 @@
 {
+  "2025-02-25-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "274d",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "46dc",
+        "name": "Publication planning"
+      },
+      {
+        "id": "b0ff",
+        "name": "PR 3194 - Missing symbol in grid and table properties practice"
+      },
+      {
+        "id": "7ecf",
+        "name": "Issue 3232 - rowgroup for table body"
+      },
+      {
+        "id": "da2e",
+        "name": "Issue 3237 - Potential bug: incorrect menu structure in navigation menubar example"
+      },
+      {
+        "id": "016e",
+        "name": "Issue 3244 - Change naming guidance for radio group, grid, table, dialog"
+      },
+      {
+        "id": "0ad7",
+        "name": "Issue 3175 - aria-selected requirements in listbox"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/25-aria-apg-minutes"
+  },
   "2025-02-18-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [
