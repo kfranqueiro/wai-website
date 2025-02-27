@@ -1,4 +1,31 @@
 {
+  "2025-02-26-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "84c9",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "ee8e",
+        "name": "New on TR"
+      },
+      {
+        "id": "89e4",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "5077",
+        "name": "Comment review requests"
+      },
+      {
+        "id": "1d53",
+        "name": "Other business"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/26-apa-minutes"
+  },
   "2025-02-19-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [

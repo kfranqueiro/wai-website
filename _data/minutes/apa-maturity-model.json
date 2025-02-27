@@ -1,4 +1,29 @@
 {
+  "2025-02-26-maturity": {
+    "title": "Maturity Model Task Force",
+    "topics": [
+      {
+        "id": "7157",
+        "name": "New Business"
+      },
+      {
+        "id": "0cb0",
+        "name": "Task Force Recharter Review"
+      },
+      {
+        "id": "5a61",
+        "name": "Github Issue #228 Syncing proof points in the MM document and the assessment tool"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "b45f",
+        "content": "Recharter task force description to be option 2",
+        "topic": "Task Force Recharter Review"
+      }
+    ],
+    "href": "/2025/02/26-maturity-minutes"
+  },
   "2025-02-19-maturity": {
     "title": "Maturity Model Task Force",
     "topics": [

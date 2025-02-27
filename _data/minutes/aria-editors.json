@@ -1,4 +1,31 @@
 {
+  "2025-02-26-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "bce6",
+        "name": "new GitHub board https://github.com/orgs/w3c/projects/188/views/1:"
+      },
+      {
+        "id": "8237",
+        "name": "[PR ready for review] revise custom stylesheets w3c/aria#2410"
+      },
+      {
+        "id": "e722",
+        "name": "'Use WAI-ARIA mapping' is not descriptive w3c/html-aam#122"
+      },
+      {
+        "id": "ffff",
+        "name": "svg element in HTML-AAM, SVG-AAM and WAI-ARIA Graphics Module specs w3c/aria#2427"
+      },
+      {
+        "id": "4a17",
+        "name": "Provide the ARIA Characteristics data as JSON or in some other machine-readable form w3c/aria#2445"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/26-aria-editors-minutes"
+  },
   "2025-02-12-aria-editors": {
     "title": "ARIA Editors",
     "topics": [
