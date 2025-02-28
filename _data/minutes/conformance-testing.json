@@ -1,4 +1,37 @@
 {
+  "2025-02-27-wcag-act": {
+    "title": "Accessibility Conformance Testing Teleconference",
+    "topics": [
+      {
+        "id": "9990",
+        "name": "Addressing I18N Horizontal Review Group feedback"
+      },
+      {
+        "id": "be15",
+        "name": "Determine if a rule identifier is unique"
+      },
+      {
+        "id": "768f",
+        "name": "Suggestions for rules to be sent for AGWG approval -- taken up"
+      },
+      {
+        "id": "cb57",
+        "name": "Reinforce that ACT Rules are localizable"
+      },
+      {
+        "id": "6628",
+        "name": "Add assumption that text has metadata specifying its language and writing direction"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "e6d2",
+        "content": "The group agrees to propose these three changes to the i18n working group",
+        "topic": "Add assumption that text has metadata specifying its language and writing direction"
+      }
+    ],
+    "href": "/2025/02/27-wcag-act-minutes"
+  },
   "2025-02-13-wcag-act": {
     "title": "Accessibility Conformance Testing Teleconference",
     "topics": [

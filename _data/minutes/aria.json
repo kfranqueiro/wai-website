@@ -1,4 +1,35 @@
 {
+  "2025-02-27-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "d871",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "e1fb",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "cd1c",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "81f2",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "7c47",
+        "name": "(re)Consider name from encapsulation for specific roles"
+      },
+      {
+        "id": "6e5d",
+        "name": "Should the ARIA WG standardize heuristic-based ignoring of ARIA and related features? And if so, how? agendabot]"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/02/27-aria-minutes"
+  },
   "2025-02-20-aria": {
     "title": "ARIA WG",
     "topics": [
