@@ -1,4 +1,27 @@
 {
+  "2025-03-04-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "Announcements"
+      },
+      {
+        "id": "item02",
+        "name": "CSUN Preparation"
+      },
+      {
+        "id": "item03",
+        "name": "Sub-group stand-up"
+      },
+      {
+        "id": "item04",
+        "name": "Template structure / decision tree review (optional)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/04-ag-minutes"
+  },
   "2025-02-25-ag": {
     "title": "AGWG-2025-02-25",
     "topics": [
