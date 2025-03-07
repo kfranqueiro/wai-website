@@ -1,4 +1,23 @@
 {
+  "2025-03-06-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "ff7b",
+        "name": "Announcements"
+      },
+      {
+        "id": "ac03",
+        "name": "Develop WCAG2ICT \"Explainer\" Content"
+      },
+      {
+        "id": "9ac4",
+        "name": "Analysis for SC language changes"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/06-wcag2ict-minutes"
+  },
   "2025-02-27-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [

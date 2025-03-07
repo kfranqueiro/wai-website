@@ -1,4 +1,19 @@
 {
+  "2025-03-06-coga": {
+    "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
+    "topics": [
+      {
+        "id": "04b6",
+        "name": "V2 structure"
+      },
+      {
+        "id": "a4af",
+        "name": "WCAG 3 coordination"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/06-coga-minutes"
+  },
   "2025-03-03-coga": {
     "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
     "topics": [

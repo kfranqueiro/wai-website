@@ -1,4 +1,70 @@
 {
+  "2025-03-06-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "fdb9",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "2364",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "5a74",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "2e66",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "10000",
+        "name": "Daylight Savings starts 9 March in the U.S. For Europeans, that means meetings will be an hour earlier until the 30th."
+      },
+      {
+        "id": "b36d",
+        "name": "Resolution to move DPUB to PR now that w3c/aria#2459 has been merged?"
+      },
+      {
+        "id": "c765",
+        "name": "Cancel next weeks meeting due to CSUN?"
+      },
+      {
+        "id": "f28e",
+        "name": "ARIA IDL updates: convert eligible attributes to enumerated, new ARIA IDL guidance and examples"
+      },
+      {
+        "id": "8b9e",
+        "name": "Aligning HTML spec with ARIA's style of DOMString? reflection"
+      },
+      {
+        "id": "cd2e",
+        "name": "ARIA IDL updates: convert eligible attributes to enumerated, new ARIA IDL guidance and examples"
+      },
+      {
+        "id": "e74b",
+        "name": "Aligning HTML spec with ARIA's style of DOMString? reflection"
+      },
+      {
+        "id": "9ee4",
+        "name": "Does aria-atomic have real-world use cases?"
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "1c5a",
+        "content": "Move DPUB to PR as the group considers adding the superclass role as an editorial change",
+        "topic": "Resolution to move DPUB to PR now that w3c/aria#2459 has been merged?"
+      },
+      {
+        "id": "a5fb",
+        "content": "deprecate `aria-atomic` in the spec",
+        "topic": "Does aria-atomic have real-world use cases?"
+      }
+    ],
+    "href": "/2025/03/06-aria-minutes"
+  },
   "2025-02-27-aria": {
     "title": "ARIA WG",
     "topics": [
