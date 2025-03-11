@@ -1,4 +1,23 @@
 {
+  "2025-03-10-ag": {
+    "title": "AGWG-2025-03-10",
+    "topics": [
+      {
+        "id": "6306",
+        "name": "Retrospective"
+      },
+      {
+        "id": "ff56",
+        "name": "View Definition"
+      },
+      {
+        "id": "544e",
+        "name": "How to incorporate Tasks/Processes in conformance"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/10-ag-minutes"
+  },
   "2025-03-04-ag": {
     "title": "AGWG Teleconference",
     "topics": [
