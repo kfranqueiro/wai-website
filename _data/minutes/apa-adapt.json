@@ -1,4 +1,23 @@
 {
+  "2025-03-11-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "72c0",
+        "name": "Administratrivia"
+      },
+      {
+        "id": "cab2",
+        "name": "Zero Project Report"
+      },
+      {
+        "id": "170c",
+        "name": "Next steps"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/11-adapt-minutes"
+  },
   "2025-02-25-adapt": {
     "title": "WAI-Adapt Weekly Teleconference",
     "topics": [
