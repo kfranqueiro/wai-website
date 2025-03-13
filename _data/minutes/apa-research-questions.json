@@ -1,4 +1,30 @@
 {
+  "2025-03-12-rqtf": {
+    "title": "RQTF meeting",
+    "topics": [
+      {
+        "id": "e2ca",
+        "name": "Accessibility of Machine Learning and Generative AI."
+      },
+      {
+        "id": "4e5d",
+        "name": "Miscellaneous topics."
+      }
+    ],
+    "resolutions": [
+      {
+        "id": "f609",
+        "content": "RQTF requests APA conduct a Call for Consensus to publish a FPWD of the Accessibility of machine learning and generative AI Note track document based on its current Editor's Draft at https://w3c.github.io/ai-accessibility/",
+        "topic": "Accessibility of Machine Learning and Generative AI."
+      },
+      {
+        "id": "e753",
+        "content": "RQTF requests APA conduct a Call for Consensus to publish a FPWD of the Accessibility of machine learning and generative AI Note track document based on its current Editor's Draft at https://w3c.github.io/ai-accessibility/",
+        "topic": "Accessibility of Machine Learning and Generative AI."
+      }
+    ],
+    "href": "/2025/03/12-rqtf-minutes"
+  },
   "2025-03-05-rqtf": {
     "title": "RQTF meeting",
     "topics": [

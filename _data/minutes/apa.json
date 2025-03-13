@@ -1,4 +1,39 @@
 {
+  "2025-03-12-apa": {
+    "title": "APA Weekly Teleconference",
+    "topics": [
+      {
+        "id": "629f",
+        "name": "Agenda Review & Announcements"
+      },
+      {
+        "id": "8bbc",
+        "name": "APA re-chartering"
+      },
+      {
+        "id": "96ad",
+        "name": "New Draft Charters"
+      },
+      {
+        "id": "5307",
+        "name": "CSS inert review"
+      },
+      {
+        "id": "69a0",
+        "name": "Spec review requests"
+      },
+      {
+        "id": "aa2f",
+        "name": "Comment review requests"
+      },
+      {
+        "id": "323c",
+        "name": "CSS Update (Paul)"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/12-apa-minutes"
+  },
   "2025-02-26-apa": {
     "title": "APA Weekly Teleconference",
     "topics": [
