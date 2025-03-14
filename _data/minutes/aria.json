@@ -1,4 +1,43 @@
 {
+  "2025-03-13-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "46cf",
+        "name": "New Issue Triage e-aam+repo%3Aw3c%2Fhtml-aam+repo%3Aw3c%2Fdpub-aam+repo%3Aw3c%2Fsvg-aam+repo%3Aw3c%2Fdpub-aria+repo%3Aw3c%2Fgraphics-"
+      },
+      {
+        "id": "d6b7",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "3d3a",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "0108",
+        "name": "WPT"
+      },
+      {
+        "id": "e008",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "29fb",
+        "name": "Adding code documentation for AAMs"
+      },
+      {
+        "id": "a372",
+        "name": "Consider supporting multiline comboboxes"
+      },
+      {
+        "id": "e815",
+        "name": "Group as allowed acc child of role menu if acc child of menuitem"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/13-aria-minutes"
+  },
   "2025-03-06-aria": {
     "title": "ARIA WG",
     "topics": [
