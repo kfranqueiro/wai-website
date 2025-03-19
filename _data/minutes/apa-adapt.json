@@ -1,4 +1,23 @@
 {
+  "2025-03-18-adapt": {
+    "title": "WAI-Adapt Teleconference",
+    "topics": [
+      {
+        "id": "7edc",
+        "name": "Introductions, administratrivia, logistics"
+      },
+      {
+        "id": "71a7",
+        "name": "Well Known Destinations"
+      },
+      {
+        "id": "d241",
+        "name": "Symbols"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/18-adapt-minutes"
+  },
   "2025-03-11-adapt": {
     "title": "WAI-Adapt Teleconference",
     "topics": [

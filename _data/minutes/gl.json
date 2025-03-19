@@ -1,4 +1,27 @@
 {
+  "2025-03-18-ag": {
+    "title": "AGWG Teleconference",
+    "topics": [
+      {
+        "id": "item01",
+        "name": "announcements"
+      },
+      {
+        "id": "item02",
+        "name": "UI-context (ex-views) definition"
+      },
+      {
+        "id": "item03",
+        "name": "Task Flows / Processes https://github.com/w3c/wcag3/discussions/294"
+      },
+      {
+        "id": "item04",
+        "name": "Sub-group work"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/18-ag-minutes"
+  },
   "2025-03-10-ag": {
     "title": "AGWG-2025-03-10",
     "topics": [

@@ -1,4 +1,31 @@
 {
+  "2025-03-18-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "fab6",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "b463",
+        "name": "Publication planning"
+      },
+      {
+        "id": "d0e2",
+        "name": "PR 2991 - Next steps on color settings practice"
+      },
+      {
+        "id": "3a09",
+        "name": "PR 3249 - Add HTML search to landmark practice"
+      },
+      {
+        "id": "f244",
+        "name": "Issue 3244 next step - relaxing some naming requirements"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/18-aria-apg-minutes"
+  },
   "2025-02-25-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [
