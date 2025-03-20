@@ -1,4 +1,19 @@
 {
+  "2025-03-19-rqtf": {
+    "title": "RQTF meeting",
+    "topics": [
+      {
+        "id": "c0b6",
+        "name": "Accessibility of Machine Learning and Generative AI."
+      },
+      {
+        "id": "d4fa",
+        "name": "Miscellaneous topics."
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/19-rqtf-minutes"
+  },
   "2025-03-12-rqtf": {
     "title": "RQTF meeting",
     "topics": [
