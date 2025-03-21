@@ -1,4 +1,23 @@
 {
+  "2025-03-20-coga": {
+    "title": "Editing Content Usable using the V2 template",
+    "topics": [
+      {
+        "id": "6d41",
+        "name": "Review the structure feedback from the Internationalization Accessibility Community Group (global-inclusion): https://docs.google.com/document/d/1TeGEsD1JVf7L9bFW3_e7YTnqtmUnpTldJhD6N16ElAU/edit?tab=t.0#heading=h.p3pa6f9fr2s0"
+      },
+      {
+        "id": "f8b0",
+        "name": "Review Persona feedback from the Internationalization Community Group (Andy's feedback: https://docs.google.com/document/d/1YL1eK0z5pQbUkmdvJWa0pTV4JhkkWZ4dqwT7yIh7CpY/edit?tab=t.0#heading=h.iwv30wqbni6) - (Content Usable Personas - https://www.w3.org/TR/coga-usable/#persona)"
+      },
+      {
+        "id": "6161",
+        "name": "Summary sentence structure"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/20-coga-minutes"
+  },
   "2025-03-17-coga": {
     "title": "Cognitive and Learning Disabilities Accessibility Task Force Teleconference",
     "topics": [],

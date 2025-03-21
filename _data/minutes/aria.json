@@ -1,4 +1,39 @@
 {
+  "2025-03-20-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "9433",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "5a7d",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "5f0f",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "8a6a",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "4eab",
+        "name": "Group as allowed acc child of role menu if acc child of menuitem"
+      },
+      {
+        "id": "f158",
+        "name": "Should the 'row' role really be necessary for parents of 'gridcell' and other cell role elements? agendabot]"
+      },
+      {
+        "id": "c48f",
+        "name": "Document interop of misspelled aria-labeledby and its conflict resolution"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/20-aria-minutes"
+  },
   "2025-03-13-aria": {
     "title": "ARIA WG",
     "topics": [
