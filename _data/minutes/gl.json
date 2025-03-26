@@ -1,4 +1,27 @@
 {
+  "2025-03-25-ag": {
+    "title": "AGWG-2025-03-25",
+    "topics": [
+      {
+        "id": "2d53",
+        "name": "Subgroup check-in"
+      },
+      {
+        "id": "09fa",
+        "name": "WCAG 2.2 issues https://lists.w3.org/Archives/Public/w3c-wai-gl/2025JanMar/0092.html"
+      },
+      {
+        "id": "5e11",
+        "name": "UI-context (ex-views) definition"
+      },
+      {
+        "id": "47f3",
+        "name": "Task Flows / Processes https://github.com/w3c/wcag3/discussions/294"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/25-ag-minutes"
+  },
   "2025-03-18-ag": {
     "title": "AGWG Teleconference",
     "topics": [

@@ -1,4 +1,27 @@
 {
+  "2025-03-25-adapt": {
+    "title": "WAI-Adapt Task Force Teleconference",
+    "topics": [
+      {
+        "id": "4e59",
+        "name": "Introductions, Administratrivia"
+      },
+      {
+        "id": "4e21",
+        "name": "Symbols"
+      },
+      {
+        "id": "debf",
+        "name": "Agenda"
+      },
+      {
+        "id": "119f",
+        "name": "Well Known Destinations"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/25-adapt-minutes"
+  },
   "2025-03-18-adapt": {
     "title": "WAI-Adapt Teleconference",
     "topics": [

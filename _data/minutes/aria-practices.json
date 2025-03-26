@@ -1,4 +1,31 @@
 {
+  "2025-03-25-aria-apg": {
+    "title": "ARIA Authoring Practices Task Force",
+    "topics": [
+      {
+        "id": "eb6b",
+        "name": "Setup and Review Agenda"
+      },
+      {
+        "id": "1f83",
+        "name": "Publication planning"
+      },
+      {
+        "id": "a39f",
+        "name": "PR 3252 - Editorial change on combobox"
+      },
+      {
+        "id": "6400",
+        "name": "PR 2991 - Next steps on color settings practice"
+      },
+      {
+        "id": "d9fc",
+        "name": "PR 3249 - Add HTML search to landmark practice"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/25-aria-apg-minutes"
+  },
   "2025-03-18-aria-apg": {
     "title": "ARIA Authoring Practices Task Force",
     "topics": [
