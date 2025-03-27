@@ -1,4 +1,31 @@
 {
+  "2025-03-26-aria-editors": {
+    "title": "ARIA Editors",
+    "topics": [
+      {
+        "id": "0d9a",
+        "name": "follow ups to removing common.css"
+      },
+      {
+        "id": "475b",
+        "name": "revisit prettier automation"
+      },
+      {
+        "id": "d89f",
+        "name": "Provide the ARIA Characteristics data as JSON"
+      },
+      {
+        "id": "e12a",
+        "name": "status of graphics2.html"
+      },
+      {
+        "id": "ac1e",
+        "name": "SVG-AAM Section 8.1 Name and Description needs rewrite"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/26-aria-editors-minutes"
+  },
   "2025-02-26-aria-editors": {
     "title": "ARIA Editors",
     "topics": [
