@@ -1,4 +1,35 @@
 {
+  "2025-03-27-wcag-act": {
+    "title": "Accessibility Conformance Testing Teleconference",
+    "topics": [
+      {
+        "id": "2fb4",
+        "name": "CSUN recap"
+      },
+      {
+        "id": "77f7",
+        "name": "Suggestions for rules to be sent for AGWG approval"
+      },
+      {
+        "id": "4887",
+        "name": "rules format 1.1 backward compat"
+      },
+      {
+        "id": "1285",
+        "name": "satisfying tests"
+      },
+      {
+        "id": "98cc",
+        "name": "Satisfying test"
+      },
+      {
+        "id": "243a",
+        "name": "Simplified navigation"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/27-wcag-act-minutes"
+  },
   "2025-02-27-wcag-act": {
     "title": "Accessibility Conformance Testing Teleconference",
     "topics": [

@@ -1,4 +1,43 @@
 {
+  "2025-03-27-aria": {
+    "title": "ARIA WG",
+    "topics": [
+      {
+        "id": "d86b",
+        "name": "New Issue Triage"
+      },
+      {
+        "id": "b30c",
+        "name": "New PR Triage"
+      },
+      {
+        "id": "6b35",
+        "name": "WPT Open PRs"
+      },
+      {
+        "id": "0592",
+        "name": "Deep Dive planning"
+      },
+      {
+        "id": "d046",
+        "name": "Investigate changing ID-based WAI-ARIA value types due to referenceTarget"
+      },
+      {
+        "id": "ffff",
+        "name": "Document interop of misspelled aria-labeledby and its conflict resolution"
+      },
+      {
+        "id": "37e3",
+        "name": "Stale PR Processing"
+      },
+      {
+        "id": "85a8",
+        "name": "w3c/aria#2496"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/27-aria-minutes"
+  },
   "2025-03-26-aria": {
     "title": "ARIA-Notify Breakout Session 2025",
     "topics": [],

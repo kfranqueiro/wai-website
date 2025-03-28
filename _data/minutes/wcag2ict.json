@@ -1,4 +1,19 @@
 {
+  "2025-03-27-wcag2ict": {
+    "title": "WCAG2ICT Task Force Teleconference",
+    "topics": [
+      {
+        "id": "37c8",
+        "name": "Announcements"
+      },
+      {
+        "id": "e3e7",
+        "name": "Develop WCAG2ICT \"Explainer\" Content"
+      }
+    ],
+    "resolutions": [],
+    "href": "/2025/03/27-wcag2ict-minutes"
+  },
   "2025-03-20-wcag2ict": {
     "title": "WCAG2ICT Task Force Teleconference",
     "topics": [],
